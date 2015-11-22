@@ -17,12 +17,12 @@
  *	Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *	or see http://www.gnu.org/licenses/agpl.txt.
  */
- 
+
 /**
  * Title: map.js
  * Description: init()-funktion to create a map div
  *
- * @author Pascal Neis, pascal@neis-one.org 
+ * @author Pascal Neis, pascal@neis-one.org
  * @version 0.1 2011-10-29
  */
 
@@ -54,16 +54,12 @@ function init(){
             projection: projmerc,
             displayProjection: proj4326
     } );
-    
+
     //Add LayerSwitcher
     var layerswitcher = new OpenLayers.Control.LayerSwitcher({roundedCorner: true, roundedCornerColor: "#575757"});
 	map.addControl(layerswitcher);
 	layerswitcher.maximizeControl();
-	
-	//Add ILikeOSM
-	iLikeOSM = new OpenLayers.ILikeOSM({defaultlanguage: 'de'});
-	map.addControl(iLikeOSM);
-		
+
 	//Add Panzoombar
 	var panZoomBar = new OpenLayers.Control.PanZoom({id:'panzoombar',displayClass:'olControlPanZoomBar'})
 	map.addControl(panZoomBar);
@@ -79,12 +75,12 @@ function init(){
                "http://d.tile.openstreetmap.de/tiles/osmde/${z}/${x}/${y}.png"],
 		{numZoomLevels: 19, attribution: '<a href="./germanstyle.html">About style</a>'}),
         new OpenLayers.Layer.OSM.CycleMap("Radfahrkarte (CycleMap)", {attribution:"", keyname: 'cycle'}),
-        new OpenLayers.Layer.XYZ("&Ouml;PNV-Karte", 
-			"http://tile.memomaps.de/tilegen/${z}/${x}/${y}.png", 
+        new OpenLayers.Layer.XYZ("&Ouml;PNV-Karte",
+			"http://tile.memomaps.de/tilegen/${z}/${x}/${y}.png",
 			{numZoomLevels: 19, attribution:"", keyname: 'oepnvde'}),
         new OpenLayers.Layer.OSM.Mapnik("OSM Standard (Mapnik)", {attribution:"", keyname: 'mapnik'}),
     ]);
-    
+
     //Add a marker layer
     markersLayer = new OpenLayers.Layer.Vector(
               "Markers",{displayInLayerSwitcher:false,
@@ -109,15 +105,15 @@ function init(){
 	if (!map.getCenter()){
 	    map.setCenter(new OpenLayers.LonLat(10.3,51.3).transform(proj4326,projmerc), 6);
 	}
-         
+
     //Add Local Community Overlay
     createMarkers(map);
-       
+
     //Register Events for MapEdit and ReportBug Links
     map.events.register('move', null, mapMoved);
     mapMoved();
     map.events.register('zoomend', null, function() { updateMapKey(false); } );
-    
+
    	//To fix language issues
     //document.getElementsByClassName('baseLbl')[0].innerHTML = "Grundkarte";
     //document.getElementsByClassName('dataLbl')[0].innerHTML = "&Uuml;berlagerungen";
