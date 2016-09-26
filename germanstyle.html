@@ -48,25 +48,122 @@
 	<div class="page-header">
     	<h1>Deutscher Kartenstil</h1>
   	</div>
+  		<h2>Geschichte</h2>
+  		<p> Die Geschichte des deutschen Kartenstils reicht zurück
+  		bis zur ersten Auflage des <a
+  		href="http://openstreetmap.info/">Opensteetmap-Buchs</a> von
+  		Frederik Ramm und Jochen Topf, das im Jahr 2008 erschien. 
+  		</p>
+  		
   		<p>
-			Der &bdquo;deutsche&ldquo; Kartenstil, den man auf dieser Seite abrufen kann, ist Anfang 2011 im Rahmen einer 
-			von der Geofabrik unterstützten Bachelorarbeit an der <a target="_blank" href="http://geoweb.hft-stuttgart.de/">HFT Stuttgart</a> von Beate Braun entwickelt worden.  
-			Er basiert auf dem englischen Mapnik-Stil, wurde aber in vielen Details angepasst. Der Stil ist frei <a target="_blank" href="http://svn.openstreetmap.org/applications/rendering/mapnik-german/">
-			im OSM-Subversion-Repository</a> verfügbar.
-		</p>
+  		Die Grundidee des Stils war von Anfang an die
+  		Verwendung in Deutschland üblicher Straßenfarben und
+  		Kartensymbole wie sie unter anderem aus dem weit
+  		verbreiteten
+  		<a href="http://www.landkartenarchiv.de/blog/wp-content/uploads/2015/12/shell1_autobahnkarte.jpg">Shell-Atlas</a>
+  		bekannt sind.
+  		<p>
+  		
+  		<p> Anfang 2011 ging dann erste Version
+  		online, die im Rahmen einer von der Geofabrik unterstützten
+  		Bachelorarbeit an der <a target="_blank"
+  		href="http://geoweb.hft-stuttgart.de/">HFT Stuttgart</a> von
+  		Beate Braun entwickelt wurde.  Hierbei handelte es sich um
+  		einen &quot;fork&quot; des damaligen Kartenstils von osm.org.
+  		</p>
+  		
+  		<p>
+  		Ein Jahr später erfolgte die Umstellung auf Mapnik 2 durch
+  		Matthias Merz und Sven Geggus, der seitdem die Betreuung
+  		übernommen hat.
+  		</p>
+  		
+  		<p>
+  		Im Laufe des Jahres 2012 entwickelte Sven Geggus die ersten
+  		Versionen der Kartenlokalisierung.  Diese ist unabhängig vom
+  		Renderer und wurde daher inzwischen in ein eigenes
+  		Repository umgezogen.  Sie kann für jede Sprache eingesetzt
+  		werden, die lateinische Schrift verwendet.  Quellcode steht
+  		unter <a
+  		href="https://github.com/giggls/mapnik-german-l10n">https://github.com/giggls/mapnik-german-l10n</a>
+  		zur Verfügung.
+  		</p>
+  		
+  		<p>
+  		Seit Mitte 2013 der OpenStreetMap Kartenstil auf CartoCSS
+  		umgestellt wurde konnten Änderungen nicht mehr direkt in den
+  		deutschen Stil übernommen werden. Im Zuge der Umstellung
+  		entstand zudem eine große Dynamik bei der Weiterentwicklung des
+  		Standard OSM Kartenstils.
+  		</p>
+  		
+  		<p>
+  		Eine politische Diskussion um deutsche Namen in
+  		Osteuropa auf der deutschen Mailingliste führte zur
+  		Anpassung der Kartenlokalisierung durch Max
+  		Berger. Fortan erschienen lokale Ortsnamen immer in
+  		Klammern. Max hat außerdem die aus dem
+  		<a href="https://github.com/cquest/osmfr-cartocss">französischen
+  		Stil</a> übernommene Dartellung von Sportplätzen überarbeitet.
+  		</p>
+  		
+  		<p>
+  		Ende 2015 konnte Sven Geggus die Kartenlokalisierung
+  		insbesondere im Hinblick auf die Transliteration im Rahmen
+  		eines Forschungsprojektes am Fraunhofer IOSB entscheidend
+  		verbessern.
+  		</p>
+  		
+  		<p>
+  		Anfang 2016 entstand der seit September 2016 auf <a
+  		href="http://openstreetmap.de/karte.html">http://openstreetmap.de</a>
+  		verwendete Kartenstil als neuer Fork von OSM CartoCSS,
+  		nachdem ein erster Versuch im Rahmen einer weiteren
+  		Bachelorarbeit an der Geofabrik leider erfolglos war. 
+  		Dieser Fork ist näher am internationalen Stil als das bisher
+  		der Fall war. Auf diese Weise ist es nun hoffentlich möglich Änderungen
+  		leichter zu übernehmen.  Auch die Betreuer von
+  		OSM CartoCSS bemühen sich inzwischen sehr Forks wie diesen möglich
+  		zu machen.  </p>
+  		
+  		<p>
+  		Wird fortgesetzt...
+  		</p>
+  		<h2>Hauptunterschiede zum Standard OSM CartoCSS Stil</h2>
+  		<ul>
+  		<li>Internationalisierung (deutsche Namen und lateinische Schrift)
+  		<li>Abkürzung von Straßennamen (z.B. Straße -> Str.)
+  		<li>Farbgebung, Beschriftung, etc. der &quot;Major roads&quot; (Motorway, primary, secondary, ...)
+  		<li>Stil von Fußwegen, Radwegen und Pfaden
+  		<li>Stil von Feldwegen mit tracktype=grade1 bzw. surface=paved
+  		<li>Stil von &quot;living_street&quot;
+  		<li>Farbgebung von Grenzen
+  		<li>Darstellung von geplanten und in Bau befindlichen Straßen (higway=proposed,	higway=construction)
+  		<li>Symboldarstellung für Laub- und Nadelwald wie in dt. topografischen	Karten üblich
+  		<li>Liniendarstellung auf Sportplätzen (leisure=pitch)
+  		<li>Darstellung einzelner POI-Typen (Burgen/Schlösser, Apotheken, ...)
+  		
+  		</ul>
+  		
+  		<h2>Quellcode</h2>
+  		<ul>
+  		<li>Kartenstil: <a href="https://github.com/giggls/openstreetmap-carto-de">https://github.com/giggls/openstreetmap-carto-de</a>
+  		<li>Lokalisierung: <a href="https://github.com/giggls/mapnik-german-l10n">https://github.com/giggls/mapnik-german-l10n</a>
+  		</ul>
+  		<hr />
+  		<h2>Nutzungsbedingungen</h2>
 		<p>
-			Der Stil wurde inzwischen in Mapnik2 Syntax konvertiert und wird von Mitgliedern der deutschen OSM-Community gepflegt, so dass 
-			sich Neuerungen im englischen Stil auch hier wiederfinden. Wer bei der Pflege mithelfen möchte sollte die Mailingliste
-			<a target="_blank" href="https://lists.openstreetmap.de/mailman/listinfo/mapnik-de">mapnik-de</a> abbonieren.
-		</p>
-		<p>
-			Das Massen-Herunterladen von Kacheln für 
-			andere Zwecke als die Web-Darstellung (insbesondere durch irgendwelche Apps für die Offline-Nutzung) ist 
-			<b>nicht erwünscht</b> (unsere Bandbreite ist begrenzt). Wer daran Bedarf hat, kann sich den Kartenstil 
-			aus dem SVN holen und selbst Kartenkacheln herstellen. Der Server stellt pro IP-Nummer nur eine bestimmte Menge
-			Kacheln mit maximaler Geschwindigkeit zur Verfügung und schaltet danach auf langsam.
-			Das Einbinden der Kacheln in eigene Webseites können wir aufgrund der begrenzten Bandbreite leider nur für nichtkommerzielle
-			Zwecke erlauben.
+		Das Massen-Herunterladen von Kacheln für 
+		andere Zwecke als die Web-Darstellung (insbesondere durch irgendwelche Apps für die Offline-Nutzung) ist 
+		<b>nicht erwünscht</b> (unsere Bandbreite ist begrenzt). Wer daran Bedarf hat, kann sich den Kartenstil 
+		bei <a href="https://github.com/giggls/openstreetmap-carto-de">GitHub</a>
+		herunterladen und selbst Kartenkacheln herstellen. Der Server stellt pro IP-Nummer nur eine bestimmte Menge
+		Kacheln mit maximaler Geschwindigkeit zur Verfügung und schaltet danach auf langsam.
+		Das Einbinden der Kacheln in eigene Webseites können wir aufgrund der begrenzten Bandbreite leider nur
+		für nichtkommerzielle Zwecke erlauben. Kleinere
+  		Webanwendungen,	wie z.B. der Anfahrtsplan auf der
+  		Firmenwebseite dürfen die Kacheln selbstverständlich verwenden. Bitte beachten sie auch die <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">
+  		Tile usage policy</a>.
 		</p>
 </div>
 
