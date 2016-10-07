@@ -5,8 +5,38 @@ html,body {
 	width: 100%;
 }
 
+/* donation drive banner autumn 2016 */
+#donation-drive {
+	font-size: 18px;
+	background-color: #cde099;
+	color: black;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	line-height: 1.5;
+	height: 48px;
+}
+
+#donation-explanation {
+	font-size: 14px;
+}
+
+#everything-else {
+	position: absolute;
+	width: 100%;
+	top: 68px;
+	height: calc(100% - 68px);
+}
+
 /* layout for iPhone-sized screens */
 @media (max-width: 520px) {
+	/* hide donation drive related stuff, revert changes related to it which affect other objects*/
+	#donation-drive {
+		display:  none;
+	}
+	#everything-else {
+		height: 100%;
+		top: 0px;
+	}
 	
 	/*Logo und Buttons ausblenden*/
 	#osm_logo {
