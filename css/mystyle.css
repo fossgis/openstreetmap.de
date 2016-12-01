@@ -1,20 +1,5 @@
 /* css for general use*/
 
-/* donation drive banner autumn 2016 */
-#donation-drive {
-	display: block;
-	font-size: 18px;
-	background-color: #cde099;
-	color: black;
-	padding: 15px 15px 15px 15px;
-	text-align: center;
-	line-height: 1.5;
-}
-
-#donation-explanation {
-	font-size: 14px;
-}
-
 #logo {
 	float: left;
 	margin-top: -45px;
