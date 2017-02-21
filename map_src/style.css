@@ -5,9 +5,53 @@ html,body {
 	width: 100%;
 }
 
+/* banner for FOSSGIS 2017 conference*/
+#fossgis-conference {
+	font-size: 18px;
+	background-color: #f0ddc6;
+	color: black;
+	padding: 5px 10px 5px 10px;
+	text-align: center;
+	/*line-height: 1.5;*/
+	line-height: 48px;
+	height: 48px;
+	text-align: center;
+}
+
+#fossgis-conference-logo {
+	padding-right: 15px;
+}
+
+.fossgis-text-inner {
+	display: inline-block;
+	line-height: normal;
+	vertical-align: middle;
+}
+
+#fossgis-explanation {
+	font-size: 14px;
+}
+
+#everything-else {
+	position: absolute;
+	width: 100%;
+	top: 68px;
+	height: calc(100% - 68px);
+}
+
+@media (max-width: 900px) {
+	/* hide banner stuff, revert changes related to it which affect other objects*/
+	#fossgis-conference {
+		display:  none;
+	}
+	#everything-else {
+		height: 100%;
+		top: 0px;
+	}
+}
+	
 /* layout for iPhone-sized screens */
 @media (max-width: 520px) {
-	
 	/*Logo und Buttons ausblenden*/
 	#osm_logo {
 		display: none;
