@@ -1,31 +1,5 @@
 /* css for general use*/
 
-/* advertising banner FOSSGIS 2017 conference */
-#fossgis-conference {
-	display: block;
-	font-size: 18px;
-	background-color: #f0ddc6;
-	color: black;
-	padding: 7px 15px 8px 15px;
-	text-align: center;
-	height: 66px;
-	line-height: 66px;
-}
-
-#fossgis-conference-logo {
-	padding-right: 15px;
-}
-
-.fossgis-text-inner {
-	display: inline-block;
-	line-height: normal;
-	vertical-align: middle;
-}
-
-#fossgis-explanation {
-	font-size: 14px;
-}
-
 #logo {
 	float: left;
 	margin-top: -45px;
