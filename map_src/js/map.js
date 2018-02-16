@@ -76,7 +76,7 @@ function init(){
 		{numZoomLevels: 19, attribution: '<a href="./germanstyle.html">About style</a>'}),
         new OpenLayers.Layer.OSM.CycleMap("Radfahrkarte (CycleMap)", {attribution:"", keyname: 'cycle'}),
         new OpenLayers.Layer.XYZ("&Ouml;PNV-Karte",
-			"http://tile.memomaps.de/tilegen/${z}/${x}/${y}.png",
+			"https://tile.memomaps.de/tilegen/${z}/${x}/${y}.png",
 			{numZoomLevels: 19, attribution:"", keyname: 'oepnvde'}),
         new OpenLayers.Layer.OSM.Mapnik("OSM Standard (Mapnik)", {attribution:"", keyname: 'mapnik'}),
     ]);
