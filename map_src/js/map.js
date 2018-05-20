@@ -48,7 +48,7 @@ function init(){
             	new OpenLayers.Control.Attribution()
             ],
 			maxExtent:new OpenLayers.Bounds(-20037508.34,-20037508.34, 20037508.34, 20037508.34),
-			numZoomLevels: 18,
+			numZoomLevels: 20,
             maxResolution: 156543,
             units: 'm',
             projection: projmerc,
@@ -73,7 +73,7 @@ function init(){
                "https://b.tile.openstreetmap.de/tiles/osmde/${z}/${x}/${y}.png",
                "https://c.tile.openstreetmap.de/tiles/osmde/${z}/${x}/${y}.png",
                "https://d.tile.openstreetmap.de/tiles/osmde/${z}/${x}/${y}.png"],
-		{numZoomLevels: 19, attribution: '<a href="./germanstyle.html">About style</a>'}),
+		{numZoomLevels: 20, attribution: '<a href="./germanstyle.html">About style</a>'}),
         new OpenLayers.Layer.OSM.CycleMap("Radfahrkarte (CycleMap)", {attribution:"", keyname: 'cycle'}),
         new OpenLayers.Layer.XYZ("&Ouml;PNV-Karte",
 			"https://tile.memomaps.de/tilegen/${z}/${x}/${y}.png",
