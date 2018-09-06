@@ -368,3 +368,8 @@ ul.carousel_tabs li a:focus {
 		padding: 10px 2px 9px;
 	}
 }
+
+/** class span-one-half, similar to span-one-third. Necessary due to removal of Strato */
+div.span-one-half {
+	width: 450px;
+}
