@@ -35,11 +35,6 @@ var iLikeOSM;
 OpenLayers.ImgPath = "./map_src/themes/dark/";
 OpenLayers.Lang.setCode('de');
 
-// open page /uf/
-function openUploadFilterLink() {
-    window.open("uf/", "_self");
-}
-
 //======================
 // FUNCTIONS
 /*
@@ -59,7 +54,6 @@ function init(){
             projection: projmerc,
             displayProjection: proj4326
     } );
-    map.events.on({"click": openUploadFilterLink});
 
     //Add LayerSwitcher
     var layerswitcher = new OpenLayers.Control.LayerSwitcher({roundedCorner: true, roundedCornerColor: "#575757"});
