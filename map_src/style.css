@@ -5,11 +5,24 @@ html,body {
 	width: 100%;
 }
 
+/* banner for FOSSGIS 2018 conference*/
+#uploadfilter-banner {
+       font-size: 18px;
+       background-color: #555;
+       color: white;
+       padding: 5px 10px 5px 10px;
+       text-align: center;
+}
+
+#uploadfilter-banner a {
+	color: inherit;
+}
+
 #everything-else {
 	position: absolute;
 	width: 100%;
-	top: 10px;
-	height: calc(100% - 10px);
+	top: 25px;
+	height: calc(100% - 25px);
 }
 
 @media (max-width: 900px) {
