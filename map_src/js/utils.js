@@ -92,38 +92,6 @@
 	    marker = new OpenLayers.Marker(lonlat.transform(proj4326, projmerc), icon);
 	    layer_marker.addMarker(marker);
 	}
-	
-	function updateMapKey(force) {
-		var html = document.getElementById('information').innerHTML;
-		var layer = map.baseLayer.keyname;
-
-		if (force || html.indexOf("Legende") === 0) {
-			var zoom = map.getZoom();
-			if(layer == 'cycle'){
-				document.getElementById('information').innerHTML = 'Legende:<br><div id="mapkey_area"><iframe src="legende/opencyclemap.html"/></div>';
-			}
-			else if(layer == 'oepnvde'){
-				document.getElementById('information').innerHTML = 'Legende:<br><div id="mapkey_area"><iframe src="http://www.oepnv.memomaps.de/map_key/_z' + zoom + '.html"/></div>';
-			}
-			else if(layer != undefined){
-				//html += '<div id="mapkey_area"><iframe src="http://www.openstreetmap.org/key?layer=' + layer + '&zoom=' + zoom + '"/></div>';
-				document.getElementById('information').innerHTML = 'Legende:<br><div id="mapkey_area"></div>';
-	   			var iframe = document.createElement("iframe");
-				$("#mapkey_area").append(iframe);
-		   		var form = document.createElement("form");
-		   		$(form).attr({"action":"http://www.openstreetmap.org/key","method":"GET"});
-		   		$(form).append($(document.createElement('input')).attr({"type":"hidden","name":"layer","value":"mapnik"}));
-		   		$(form).append($(document.createElement('input')).attr({"type":"hidden","name":"zoom","value":"18"}));
-				$(iframe).contents().find('body').append(form);
-		   		$(form).submit();
-			}
-			else{
-				document.getElementById('information').innerHTML = 'Legende:<br><br>Leider keine Legende für diesen Kartenstil verfügbar …';
-			}
-			
-			openSlide('slider');
-		}
-	}
 
 	function mapMoved() {
 	    var lonlat = map.getCenter().clone();

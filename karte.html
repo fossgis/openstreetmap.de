@@ -13,7 +13,7 @@
     <meta name="distribution" content="global" />
 
     <!-- required for media queries to work for responsive layout -->
-    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
 
     <link rel="icon" href="img/favicon.png" type="image/png">
@@ -30,7 +30,6 @@
     <script type="text/javascript" src="map_src/js/utils.js"></script>
     <script type="text/javascript" src="map_src/js/markers.js"></script>
     <script type="text/javascript" src="map_src/js/geocode.js"></script>
-    <script type="text/javascript" src="map_src/js/slider.js"></script>
 
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="all" />
     <link rel="stylesheet" href="map_src/style.css" type="text/css" media="all" />
@@ -41,56 +40,47 @@
 </head>
 
 <body onload="init()">
-<div id="uploadfilter-banner">
-    <a href="uf/index.html">Die neue EU-Urheberrechtsrichtlinie gefährdet das OpenStreetMap-Projekt.</a>
-</div>
-
-<div id="everything-else">
     <div id="karte_nav">
-        <div class="mtop">
-            <div class="mnav lnav">
-                <ul>
-                       <li><a href="index.html">Startseite</a></li>
-                    <li><a href="faq.html">FAQ</a></li>
-                    <li><a href="karte.html">Karte</a></li>
-                    <li><a href="community.html">Community</a></li>
-                    <li><a target="_blank" href="http://blog.openstreetmap.de">Blog/News</a></li>
-                    <li><a href="spenden.html">Spenden</a></li>
-                    <li><a href="impressum.html">Kontakt/Impressum</a></li>
-                    <li><a href="https://www.fossgis.de/datenschutzerklaerung">Datenschutz</a></li>
-                </ul>
+        <ul class="lnav">
+            <li><a href="index.html">Startseite</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="karte.html">Karte</a></li>
+            <li><a href="community.html">Community</a></li>
+            <li><a target="_blank" href="http://blog.openstreetmap.de">Blog/News</a></li>
+            <li><a href="spenden.html">Spenden</a></li>
+            <li><a href="impressum.html">Kontakt/Impressum</a></li>
+            <li><a href="https://www.fossgis.de/datenschutzerklaerung">Datenschutz</a></li>
+        </ul>
+    </div>
+    <div id="uploadfilter-banner">
+        <a href="uf/index.html">Die neue EU-Urheberrechtsrichtlinie gefährdet das OpenStreetMap-Projekt.</a>
+    </div>
+
+
+    <div id="controls-row">
+        <a href="index.html" id="osm_logo_link"><img id="osm_logo" src="img/osm_logo.png" alt="OSM-Logo"/></a>
+
+        <div id="search">
+            <input name="tfSearch" type="text" id="tfSearch" class="tfSearch" value="Behrenstraße, Berlin" title="Such nach deiner Adresse ..." onfocus="if(this.value=='Behrenstraße, Berlin') {this.value=''; this.style.color='#000000';}" onblur="if(this.value=='') {this.value='Behrenstraße, Berlin'; this.style.color='#999999';}" onKeyPress="checkReturn('geocode',event);">
+            <a href="#" class="btn" id="searchButton" onClick="geocodeAddress(this);">Suchen</a>
+            <div id="resultBox">
+                <div id="information"></div>
+                <img id="closeResultBox" src="map_src/img/close.gif">
             </div>
         </div>
+
+        <!-- Buttons -->
+        <div id="Route"></div>
+        <div id="editMap"></div>
+        <div id="errorMap"></div>
     </div>
 
-    <div id="logo">
-        <a href="index.html"><img id="osm_logo" src="img/osm_logo.png" alt="logo"/></a>
+    <div id="map">
     </div>
-
-    <div id="search">
-        <input name="tfSearch" type="text" id="tfSearch" class="tfSearch" value="Behrenstraße, Berlin" title="Such nach deiner Adresse ..." onfocus="if(this.value=='Behrenstraße, Berlin') {this.value=''; this.style.color='#000000';}" onblur="if(this.value=='') {this.value='Behrenstraße, Berlin'; this.style.color='#999999';}" onKeyPress="checkReturn('geocode',event);">
-        <a href="#" class="btn" id="searchButton" onClick="geocodeAddress(this);">Suchen</a>
-    </div>
-
-    <!-- Buttons -->
-    <div id="Route"></div>
-    <div id="editMap"></div>
-    <div id="errorMap"></div>
-
-    <div id="wrapper">
-        <div id="slider" style="width:320px;overflow:hidden;display:none;">
-            <div id="slideButton"><a href="javascript:;" onmousedown="document.getElementById('information').innerHTML = ''; toggleSlide('slider');"><img src="map_src/img/close.gif"></a></div>
-            <div id="information"></div>
-        </div>
-        <div id="map"></div>
-    </div>
-
-    <div id="legend"><a href="#" onClick="updateMapKey(true);">Legende</a></div>
 
     <div id="copyright"><a target="_blank" href="http://www.openstreetmap.org/">Karte hergestellt aus OpenStreetMap-Daten</a> |
     Lizenz: <a rel="license" target="_blank" href="http://opendatacommons.org/licenses/odbl/">Open Database License (ODbL)</a>
     </div>
-</div>
     <script type="text/javascript">
           $('baseLbl').html('Grundkarte');
           // remove iPhone address bar on load
@@ -102,7 +92,9 @@
               window.scrollTo(0, 1);
             }, 0);
           });
-     </script>
+        // close list of geocoding results
+        document.getElementById('closeResultBox').addEventListener('click', closeResultBox);
+    </script>
     <script type="text/javascript" src="map_src/js/searchtypes.js"></script>
 
 </body>

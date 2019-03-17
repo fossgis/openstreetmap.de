@@ -112,7 +112,6 @@ function init(){
     //Register Events for MapEdit and ReportBug Links
     map.events.register('move', null, mapMoved);
     mapMoved();
-    map.events.register('zoomend', null, function() { updateMapKey(false); } );
 
    	//To fix language issues
     //document.getElementsByClassName('baseLbl')[0].innerHTML = "Grundkarte";
