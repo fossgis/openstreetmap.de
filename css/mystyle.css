@@ -1,4 +1,51 @@
+/* tweaking Bootstrap */
+h2 {
+	margin-top: 20px;
+	line-height: 32px;
+	margin-bottom: 4px;
+}
+
 /* css for general use*/
+
+/* banner EU upload filter */
+#uploadfilter-banner {
+       display: block;
+       font-size: 18px;
+       background-color: #555;
+       color: white;
+       padding: 15px 15px 15px 15px;
+       text-align: center;
+}
+
+#uploadfilter-banner a {
+       color: white;
+}
+
+/* extra styling for upload filter page */
+div.black-warning {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 20px 10px 10px 15px;
+    margin-bottom: 15px;
+}
+
+div.black-warning > * {
+    font-size: 18px;
+}
+
+div.black-warning * {
+    color: white;
+    line-height: 21px;
+}
+
+div.black-warning a {
+    text-decoration: underline;
+}
+
+div.black-warning li {
+    margin-top: 4px;
+}
 
 #logo {
 	float: left;

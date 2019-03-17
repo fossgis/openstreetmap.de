@@ -33,6 +33,11 @@
 var GEOCODE_POST =  'https://nominatim.openstreetmap.org/search.php?format=json&json_callback=showResultsGeocode';
 var searchType = 'search';
 
+/* close result box */
+function closeResultBox(e) {
+    document.getElementById('resultBox').style.display = 'none';
+}
+
 //======================
 // FUNCTIONS
 /*
@@ -63,7 +68,7 @@ function geocodeAddress(){
 			setMarkerAndZoom(new OpenLayers.LonLat(longtitude,latitude));
 	}
 	else {
-			document.getElementById('information').style.visibility = 'visible';
+			document.getElementById('information').style.display = 'block';
 			document.getElementById('information').innerHTML =  '<p class="infoHL">Einen Moment bitte ...</p>';
 
 			var newURL = GEOCODE_POST + "&q="+freeform;
@@ -78,52 +83,40 @@ function geocodeAddress(){
  * showResultsGeocode()-Function to show the geocode result in a div
  */
 function showResultsGeocode(response) {
-	openSlide('slider');
-	
     var html = '';    
     var lonlat = '';
 	
 	if(response){
-		html += '<table width="190px">'
-		html += ' <tr class="infoHL"><td colspan="2">Ergebnis der Adresssuche:</td></tr>';
+		html += '<p>Ergebnisse der Adresssuche:<p>';
+		html += '<ul class="result-list">'
 		
 		for(var i=0; i < response.length; i++){
-			var result = response[i]; var resultNum = i+1;			
-        	//odd or even ?
-        	var rowstyle='geocodeResultOdd';
-        	if(i%2==0){ rowstyle='geocodeResultEven'; }
-        	
-			html += '<tr class="'+rowstyle+'">';
-			html += '<td align="right" valign="top"><span class="routeSummarybold">'+resultNum+'.</span></td>';
-			html += '<td class="'+rowstyle+'">';
+			var result = response[i];
+			html += '<li>';
 			if (result.class && result.type && result.class in geocoder_searchtypes &&
 			       geocoder_searchtypes[result.class][result.type] != undefined) {
 				html += geocoder_searchtypes[result.class][result.type] + ' ';
 			}
 			if(result.display_name){
 				var new_display_name = result.display_name;//.replace(/,/g, ",<br />")
-				html += '<a href="#" onclick="javascript:setMarkerAndZoom(new OpenLayers.LonLat('+result.lon+','+result.lat+'));">'+new_display_name.trim()+'</a>';
+				html += '<a href="#" onclick="javascript:setMarkerAndZoom(new OpenLayers.LonLat('+result.lon+','+result.lat+'), true)">'+new_display_name.trim()+'</a>';
 			}
-			html += '</td><td>';
-			if(result.icon){
-				html += '<img src="' + result.icon + '">';
-			}
-			html += "</td></tr>";
+			html += "</li>";
 			
 			if(lonlat == ''){
 				lonlat = new OpenLayers.LonLat(result.lon,result.lat);
 			}
 		}		
-		html += '</table>';
+		html += '</ul>';
 
 		if(lonlat != ''){ setMarkerAndZoom(lonlat); }
-		else{ html = '<br><br>Sorry, keine entsprechende Adresse gefunden!'; }
+		else{ html = '<p>Sorry, keine entsprechende Adresse gefunden!</p>'; }
 	}
 	
     
     switch (searchType) {
 		case "search":
-			document.getElementById('information').style.display = "";
+			document.getElementById('resultBox').style.display = "flex";
 			document.getElementById('information').innerHTML = html;
 			break;
 	}
@@ -132,13 +125,16 @@ function showResultsGeocode(response) {
 /*
  * setMarkerAndZoom()-Function to set a marker on the map and zoom
  */
-function setMarkerAndZoom(lonlat){
+function setMarkerAndZoom(lonlat, closeResultList){
 	setMarker(lonlat);
 	
 	//Hack - FIXME !
 	lonlat.lon -= 450;
 	//Set Center with Zoom
 	map.setCenter(lonlat, 15);
+        if (closeResultList) {
+            closeResultBox();
+        }
 }
 
 /*
