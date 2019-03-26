@@ -3,6 +3,7 @@ html,body {
 	padding: 0;
 	height: 100%;
 	width: 100%;
+	overflow-y: initial;
 }
 
 body {
@@ -357,11 +358,15 @@ a.menu::after, .dropdown-toggle::after {
 	margin-left: 10px;
 	margin-top: 3px;
 	font-size: 14px;
-	position: relative
+	position: relative;
+}
+
+#Route button {
+	width: 85px;
 }
 
 #editMap {
-	margin-left: 30px;
+	margin-left: 10px;
 	margin-top: 3px;
 	font-size: 14px;
 }
@@ -437,8 +442,14 @@ a.menu::after, .dropdown-toggle::after {
 	cursor: pointer;
 }
 
+@media (max-width: 850px) {
+	#tfSearch {
+		width: 225px;
+	}
+}
+
 /* layout for smartphones */
-@media (max-width: 520px) {
+@media (max-width: 640px) {
 	#uploadfilter-banner {
 		font-size: 12px;
 		font-weight: bold;
