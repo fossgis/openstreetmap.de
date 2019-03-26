@@ -5,22 +5,6 @@ h2 {
 	margin-bottom: 4px;
 }
 
-/* css for general use*/
-
-/* banner EU upload filter */
-#uploadfilter-banner {
-       display: block;
-       font-size: 18px;
-       background-color: #555;
-       color: white;
-       padding: 15px 15px 15px 15px;
-       text-align: center;
-}
-
-#uploadfilter-banner a {
-       color: white;
-}
-
 /* extra styling for upload filter page */
 div.black-warning {
     background-color: black;
@@ -46,6 +30,8 @@ div.black-warning a {
 div.black-warning li {
     margin-top: 4px;
 }
+
+/* css for general use*/
 
 #logo {
 	float: left;
