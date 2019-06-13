@@ -69,10 +69,10 @@ function init(){
 	//Add Layers
     map.addLayers([
        new OpenLayers.Layer.XYZ("OSM deutscher Stil", [
-               "https://a.tile.openstreetmap.de/tiles/osmde/${z}/${x}/${y}.png",
-               "https://b.tile.openstreetmap.de/tiles/osmde/${z}/${x}/${y}.png",
-               "https://c.tile.openstreetmap.de/tiles/osmde/${z}/${x}/${y}.png",
-               "https://d.tile.openstreetmap.de/tiles/osmde/${z}/${x}/${y}.png"],
+               "https://a.tile.openstreetmap.de/${z}/${x}/${y}.png",
+               "https://b.tile.openstreetmap.de/${z}/${x}/${y}.png",
+               "https://c.tile.openstreetmap.de/${z}/${x}/${y}.png",
+               "https://d.tile.openstreetmap.de/${z}/${x}/${y}.png"],
 		{numZoomLevels: 20, attribution: '<a href="./germanstyle.html">About style</a>'}),
         new OpenLayers.Layer.OSM.CycleMap("Radfahrkarte (CycleMap)", {attribution:"", keyname: 'cycle'}),
         new OpenLayers.Layer.XYZ("&Ouml;PNV-Karte",
