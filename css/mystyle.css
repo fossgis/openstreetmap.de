@@ -32,6 +32,17 @@ div.black-warning li {
 }
 
 /* css for general use*/
+/* banner FOSSGIS 2018 conference */
+#geburtstags-banner {
+       display: block;
+       font-size: 18px;
+       background-color: #d3eeb4;
+       color: black;
+       padding: 7px 15px 8px 15px;
+       text-align: center;
+       height: 66px;
+       line-height: 66px;
+}
 
 #logo {
 	float: left;
