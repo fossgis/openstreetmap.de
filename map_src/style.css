@@ -12,20 +12,6 @@ body {
 	align-content: stretch;
 }
 
-/* banner for FOSSGIS 2018 conference*/
-#geburtstags-banner {
-       font-size: 18px;
-       background-color: #d3eeb4ff;
-       color: black;
-       padding: 5px 10px 5px 10px;
-       text-align: center;
-}
-
-#uploadfilter-banner a {
-       color: inherit;
-}
-
-
 div.olControlLayerSwitcher {
 	width: 240px;	
 	font-size: 13px;
