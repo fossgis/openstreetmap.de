@@ -45,7 +45,8 @@ function init(){
 			controls: [
 				new OpenLayers.Control.Navigation(),
             	new OpenLayers.Control.Permalink(),
-            	new OpenLayers.Control.Attribution()
+            	new OpenLayers.Control.Attribution(),
+            	new OpenLayers.Control.ScaleLine()
             ],
 			maxExtent:new OpenLayers.Bounds(-20037508.34,-20037508.34, 20037508.34, 20037508.34),
 			numZoomLevels: 20,
