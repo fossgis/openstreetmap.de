@@ -12,6 +12,15 @@ body {
 	align-content: stretch;
 }
 
+/* banner bleibtoffen.de */
+#bleibtoffen-banner {
+       font-size: 18px;
+       background-color: #d3eeb4ff;
+       color: black;
+       padding: 5px 10px 5px 10px;
+       text-align: center;
+}
+
 div.olControlLayerSwitcher {
 	width: 240px;	
 	font-size: 13px;
