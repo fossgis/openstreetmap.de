@@ -26,6 +26,8 @@
 	<script type="text/javascript" src="js/carousel-min.js"></script>
 	
 	<script type="text/javascript" src="jcarousel/js/jquery.jcarousel.js"></script>
+
+	<script type="text/javascript" src="js/osmcal.js"></script>
 	
 <script type="text/javascript">
 
@@ -67,7 +69,6 @@ jQuery(document).ready(function() {
         // buttonPrevHTML: null
     });
 });
-
 </script>
 
 
@@ -339,6 +340,13 @@ jQuery(document).ready(function() {
 		</p>
 		<span class="read_more"><a href="community.html">Zur Community...</a></span>
 		</div>
+		<div id="demo" class="span16">
+			<h4>Veranstaltungen</h4>
+			<p>
+				Die Community organisiert eine Vielzahl von Veranstaltungen. Die nächsten sind:
+				<div id="osmcal" data-in="de" data-locales="de"></div>
+			</p>
+		</div>
 	</div>
 	
 	<div class="row">
@@ -376,5 +384,9 @@ jQuery(document).ready(function() {
 
     </div> <!-- /container -->
 
+    <script>
+    	var widget = new OSMCal.WidgetList(document.getElementById("osmcal"));
+		widget.display();
+    </script>
 </body>
 </html>
