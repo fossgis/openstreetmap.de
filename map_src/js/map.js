@@ -75,7 +75,6 @@ function init(){
                "https://c.tile.openstreetmap.de/${z}/${x}/${y}.png",
                "https://d.tile.openstreetmap.de/${z}/${x}/${y}.png"],
 		{numZoomLevels: 20, attribution: '<a href="./germanstyle.html">About style</a>'}),
-        new OpenLayers.Layer.OSM.CycleMap("Radfahrkarte (CycleMap)", {attribution:"", keyname: 'cycle'}),
         new OpenLayers.Layer.XYZ("&Ouml;PNV-Karte",
 			"https://tile.memomaps.de/tilegen/${z}/${x}/${y}.png",
 			{numZoomLevels: 19, attribution:"", keyname: 'oepnvde'}),
