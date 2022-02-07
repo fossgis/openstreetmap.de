@@ -1,0 +1,144 @@
+baseURL = "http://openstreetmap.de/"
+languageCode = "de-de"
+title = "OpenStreetMap Deutschland"
+theme = "openstreetmap"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "20"
+# google analytics
+#googleAnalytics = "" # example : UA-123-45
+# disqus short name
+#disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+
+############################# Modules ##############################
+[module.hugoVersion]
+extended = true
+min = "0.68.3"
+
+############################# Image Processing ##############################
+[imaging]
+quality = "95"
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML"]
+
+[markup.goldmark.renderer]
+unsafe= true
+
+
+############################## Plugins ##############################
+# CSS Plugins
+#[[params.plugins.css]]
+#link = "plugins/bootstrap/bootstrap.min.css"
+#link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/fork-awesome/css/fork-awesome.min.css"
+[[params.plugins.css]]
+link = "https://unpkg.com/swiper@7/swiper-bundle.min.css"
+
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/swiperjs/swiper-bundle.min.js"
+
+
+# site variables
+[params.variables]
+font_primary = "Mulish"
+h1 = "64px"
+h1_lg = "52px"
+h1_md = "42px"
+h2 = "38px"
+h2_md = "30px"
+h3 = "30px"
+h3_md = "24px"
+h4 = "24px"
+h5 = "18px"
+h6 = "16px"
+white = "#ffffff"
+black = "#000000"
+dark = "#152035"
+gray = "#f8f8f8"
+light = "#FAFAFA"
+border_color = "#ccc"
+color_primary = "#9ed284"
+
+#################### default parameters ################################
+[params]
+logo = "img/osm_logo.png"
+logo_width = "120px"
+favicon = "img/favicon.ico"
+# Meta data
+description = "OpenStreetMap Deutschland"
+author = "FOSSGIS e.V."
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# search
+search = false
+# main section
+# mainSections = ["posts"]
+# copyright
+copyright = "FOSSGIS e.V"
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+
+############################# Main Menu ########################
+[[menu.main]]
+name = "Startseite"
+url = "/"
+pre = '<i class="fa fa-home" aria-hidden="true"></i>'
+weight = 1
+  
+[[menu.main]]
+name = "FAQ"
+url = "faq/"
+pre = '<i class="fa fa-question-circle" aria-hidden="true"></i>'
+weight = 2
+
+[[menu.main]]
+name = "Karte"
+url = "karte/"
+pre = '<i class="fa fa-map-marker" aria-hidden="true"></i>'
+weight = 3
+
+
+[[menu.main]]
+name = "Community"
+url = "community/"
+pre = '<i class="fa fa-users" aria-hidden="true"></i>'
+weight = 4
+  
+[[menu.main]]
+name = "News"
+url = "https://weeklyosm.eu/de/"
+pre = '<i class="fa fa-newspaper-o" aria-hidden="true"></i>'
+weight = 5
+
+[[menu.main]]
+name = "Spenden"
+url = "spenden/"
+pre = '<i class="fa fa-money" aria-hidden="true"></i>'
+weight = 6
+  
+
+############################# Footer Menu ########################
+[[menu.footer]]
+name = "Kontakt/Impressumg"
+url = "impressum/"
+weight = 1
+
+[[menu.footer]]
+name = "Datenschutz"
+url = "https://www.fossgis.de/datenschutzerklärung/"
+weight = 2

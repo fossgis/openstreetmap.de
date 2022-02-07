@@ -1,0 +1,93 @@
+<html>
+<head>
+    <title>{{ .Site.Title }} - {{ .Title }}</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="language" content="de" />
+    <meta name="robots" content="index" />
+    <meta name="author" content="" />
+    <meta name="revisit-After" content="7 days" />
+    <meta name="distribution" content="global" />
+    <link rel="icon" href="/img/favicon.png" type="image/png">
+    <link rel="Shortcut Icon" href="/img/favicon.png" type="image/png">
+
+    {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
+    <link type="text/css" rel="stylesheet" href="{{ $style.RelPermalink }}" media="all">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
+
+    <script type="text/javascript" src="./ol/OpenLayers.js"></script>
+    <script type="text/javascript" src="./ol/OpenStreetMap.js"></script>
+
+    <script type="text/javascript" src="./js/map.js"></script>
+    <script type="text/javascript" src="./js/utils.js"></script>
+    <script type="text/javascript" src="./js/markers.js"></script>
+    <script type="text/javascript" src="./js/geocode.js"></script>
+
+    <!-- Bootstrap 2 for the dropdown button for routing services -->
+    <script type="text/javascript" src="./bootstrap/js/jquery-1.7.1.min.js"></script>
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="./style.css" type="text/css" media="all" />
+
+    <script src="./bootstrap/js/bootstrap-2.min.js"></script>
+</head>
+
+<body onload="init()">
+    <div class="topnav" id="myTopnav">
+        {{ $current := . }}
+        {{ range site.Menus.main }}
+        {{ $active := or ($current.IsMenuCurrent "main" .) }}
+        {{ $active = or $active (eq .Name $current.Params.menu_title) }}
+        <a class="nav-link {{ if $active }}active{{ end }}" href="{{.URL | absURL}}">{{.Pre}} {{.Name}}</a>
+        {{end}}
+        <a href="javascript:void(0);" class="icon" onclick="toggleMenu()"><i class="fa fa-bars"></i></a>
+
+    </div>
+
+    <div id="controls-row">
+    {{ $src := resources.Get "img/osm_logo.png"}}
+    <a href="/" id="osm_logo_link"><img id="osm_logo_karte" src="{{ $src.RelPermalink }}" alt="OSM-Logo"/></a>
+        <div id="search">
+            <input name="tfSearch" type="text" id="tfSearch" class="tfSearch" value="Behrenstraße, Berlin" title="Such nach deiner Adresse ..." onfocus="if(this.value=='Behrenstraße, Berlin') {this.value=''; this.style.color='#000000';}" onblur="if(this.value=='') {this.value='Behrenstraße, Berlin'; this.style.color='#999999';}" onKeyPress="checkReturn('geocode',event);">
+            <a href="#" class="btn" id="searchButton" onClick="geocodeAddress(this);">Suchen</a>
+            <div id="resultBox">
+                <div id="information"></div>
+                <img id="closeResultBox" src="./img/close.gif">
+            </div>
+        </div>
+
+        <!-- Buttons -->
+        <div id="Route"></div>
+        <div id="editMap"></div>
+        <div id="errorMap"></div>
+    </div>
+
+    <div id="map">
+    </div>
+
+    <div id="copyright"><a target="_blank" href="https://www.openstreetmap.org/">Karte hergestellt aus OpenStreetMap-Daten</a> |
+    Lizenz: <a rel="license" target="_blank" href="https://opendatacommons.org/licenses/odbl/">Open Database License (ODbL)</a>
+    </div>
+    <script type="text/javascript">
+          $('baseLbl').html('Grundkarte');
+          // remove iPhone address bar on load
+          // When ready...
+          window.addEventListener("load",function() {
+            // Set a timeout...
+            setTimeout(function(){
+              // Hide the address bar!
+              window.scrollTo(0, 1);
+            }, 0);
+          });
+        // close list of geocoding results
+        document.getElementById('closeResultBox').addEventListener('click', closeResultBox);
+    </script>
+    <script type="text/javascript" src="./js/searchtypes.js"></script>
+
+    {{ $script := resources.Get "js/script.js" }}
+    <script src="{{ $script.RelPermalink }}"></script>
+
+</body>
+</html>
