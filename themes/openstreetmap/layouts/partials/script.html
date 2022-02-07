@@ -1,0 +1,12 @@
+
+<!-- JS Plugins + Main script -->
+{{ $scripts := slice }}
+{{ range site.Params.plugins.js}}
+{{ if findRE "^http" .link }}
+<script src="{{ .link | absURL }}"></script>
+{{ else }}
+  {{ $scripts = $scripts | append (resources.Get .link) }}
+{{ end }}
+{{ end }}
+{{ $scripts := $scripts | append (resources.Get "js/script.js") }}
+<script crossorigin="anonymous" defer="defer" integrity="{{ $scripts.Data.Integrity }}" type="application/javascript">{{$scripts.Content | safeJS}}</script>

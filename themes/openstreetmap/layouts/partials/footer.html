@@ -1,0 +1,33 @@
+<footer>
+
+    <div class="footer-banners">
+		<div class="span-one-half">
+            {{ $src := resources.Get "img/fossgis-logo.png"}}
+			<a target="_blank" href="https://www.fossgis.de"><img src="{{ $src.RelPermalink }}" height="34px" alt=""/></a>
+			<p>
+				Der FOSSGIS e.V. betreibt diese Webseiten mit und für die Community.
+			</p>
+			<span class="read_more"><a href="community.html#fossgis">Mehr erfahren...</a></span>
+		</div>
+		<div class="span-one-half">
+            {{ $src := resources.Get "img/osmblog_logo.png"}}
+			<a target="_blank" href="https://blog.openstreetmap.de"><img src="{{ $src.RelPermalink }}" height="34px" alt=""/></a>
+			<p>
+				Jede Woche gibt es die Wochennotiz, sie fasst in kompakter Form alle Neuigkeiten zusammen.
+			</p>
+			<span class="read_more"><a target="_blank" href="https://blog.openstreetmap.de">Zum OSMBlog...</a></span>
+		</div>
+	</div>
+
+    <div class="footer-green-section">
+        <div class="footer-linklist">
+            <a href="/impressum/">Impressum</a> | <a href="https://www.fossgis.de/datenschutzerklärung/">Datenschutzerklärung</a>
+        </div>
+        <div class="footer-licence">
+            Alle Kartenbilder auf dieser Seite sind auf OpenStreetMap-Daten basierend und stehen unter der Lizenz<br>
+            <a target="_blank" href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons Attribution Share
+                Alike-Lizenz 2.0</a>.
+            <a href="faq#lizenz">Mehr zur Lizenz...</a>
+        </div>
+    </div>
+</footer>

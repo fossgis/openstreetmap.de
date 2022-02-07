@@ -1,0 +1,15 @@
+<article class="card post-card">
+  {{if .Params.image}}
+  <a href="{{.Permalink}}">
+    {{ partial "image.html" (dict "Src" .Params.image "Class" "w-100 h-auto rounded" "Alt" .Title) }}
+  </a>
+  {{end}}
+  <div class="card-body">
+    <h3 class="mb-3">
+      <a class="post-title" href="{{.Permalink}}">{{.Title}}</a>
+    </h3>
+    <p>{{ .Plain | truncate 150 }}</p>
+
+    <!-- <a href="{{.Permalink}}" aria-label="More on {{.Title}}">Read More <i class="las la-angle-right"></i></a> -->
+  </div>
+</article>

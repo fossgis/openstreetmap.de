@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "header.html" . -}}
+        <div class="content-container">
+        {{- block "main" . }}{{- end }}
+        </div>
+        {{ partialCached "footer.html" . }}
+        <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+        {{ $script := resources.Get "js/script.js" }}
+        <script src="{{ $script.RelPermalink }}"></script>
+        
+    </body>
+</html>

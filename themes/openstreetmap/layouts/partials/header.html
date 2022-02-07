@@ -1,0 +1,30 @@
+<div class="heading">
+    <div class="container">
+
+        <div id="header">
+            <div id="header-left-section">
+                <div id="header-logo-image">
+                    {{ $src := resources.Get "img/osm_logo.png"}}
+                    <img src="{{ $src.RelPermalink }}" alt="OpenStreetMap - Deutschland">
+                </div>
+
+                <div id="header-text">
+                    <h1 id="site-title">
+                        <a href="/" title="OpenStreetMap - Deutschland" rel="home">OpenStreetMap - Deutschland</a>
+                    </h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="topnav" id="myTopnav">
+            {{ $current := . }}
+            {{ range site.Menus.main }}
+            {{ $active := or ($current.IsMenuCurrent "main" .) }}
+            {{ $active = or $active (eq .Name $current.Params.menu_title) }}
+            <a class="nav-link {{ if $active }}active{{ end }}" href="{{.URL | absURL}}">{{.Pre}} {{.Name}}</a>
+            {{end}}
+            <a href="javascript:void(0);" class="icon" onclick="toggleMenu()"><i class="fa fa-bars"></i></a>
+
+        </div>
+    </div>
+</div>
