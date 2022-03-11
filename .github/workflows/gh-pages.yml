@@ -22,7 +22,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify --baseURL https://fossgis.github.io/openstreetmap.de/
+        run: hugo --minify --baseURL https://www-preview.openstreetmap.de/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -30,3 +30,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          cname: www-preview.openstreetmap.de
