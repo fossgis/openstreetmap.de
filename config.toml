@@ -1,4 +1,4 @@
-baseURL = "http://openstreetmap.de/"
+baseURL = "https://openstreetmap.de/"
 languageCode = "de-de"
 title = "OpenStreetMap Deutschland"
 theme = "openstreetmap"
