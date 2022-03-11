@@ -11,6 +11,7 @@ summaryLength = "20"
 # disqus short name
 #disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 
+
 ############################# Modules ##############################
 [module.hugoVersion]
 extended = true
@@ -112,7 +113,6 @@ url = "karte/"
 pre = '<i class="fa fa-map-marker" aria-hidden="true"></i>'
 weight = 3
 
-
 [[menu.main]]
 name = "Community"
 url = "community/"
@@ -134,8 +134,16 @@ weight = 6
 
 ############################# Footer Menu ########################
 [[menu.footer]]
-name = "Kontakt/Impressumg"
+name = "Kontakt/Impressum"
 url = "impressum/"
+weight = 1
+
+[[menu.footer]]
+url = "community#fossgis"
+weight = 1
+
+[[menu.footer]]
+url = "faq#lizenz"
 weight = 1
 
 [[menu.footer]]
