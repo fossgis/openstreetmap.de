@@ -4,7 +4,7 @@ draft: false
 ---
 
 
-#### Presse-Ansprechpartner
+## Presse-Ansprechpartner
 
 Bei OpenStreetMap gibt es keine offiziellen Ansprechpartner. Die folgenden Personen haben sich aber bereit erklärt, Presseanfragen zu beantworten. Wählen Sie bitte einen Ansprechpartner aus.
 
@@ -32,13 +32,13 @@ mail@roland-ramthun.de
 0651-20 65 06 9
 ```
 
-#### Behörden und andere öffentliche Stellen
+## Behörden und andere öffentliche Stellen
 
 Behörden und andere öffentliche Stellen wenden sich bitte an:
 
 info@fossgis.de
 
-#### Flyer
+## Flyer
 
 Der OpenStreetMap-Flyer im DIN A7-Format eignet sich zum Verteilen bei Veranstaltungen. Man kann sich auch ein paar in die Tasche stecken, wenn man zum Mappen unterwegs ist - so ist die Frage, was man denn da tut, schnell beantwortet! Auf [diesem Bild](/png/flyer-big.jpg) kannst Du sehen, wie der Flyer aussieht.
 
@@ -46,12 +46,12 @@ Die [Geofabrik GmbH](https://www.geofabrik.de/) sponsort den Druck der Flyer (bi
 
 Ein [Beispiel](https://wiki.openstreetmap.org/wiki/OSM-Werbetafel_Bikepark), wie der Flyer eingesetzt wurde.
 
-#### Webseiten
+## Webseiten
 
 Wenn Du Fragen oder Anregungen zu diesen Webseiten hast, kannst Du den Webmaster unter webmaster@openstreetmap.de erreichen.
 
 
-#### Impressum
+## Impressum
 
 Eigentümer der Domain openstreetmap.de ist:
 
