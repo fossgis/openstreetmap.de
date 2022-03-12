@@ -28,7 +28,7 @@ Außerdem stellt Google zwar Karten zur Verfügung, aber nicht die zugrundeliege
 
 ## Wie kann ich Fehler melden?
 
-Am besten Du meldest Dich bei OpenStreetMap an und kannst dann direkt die Daten bearbeiten. Ein Einstieg findet sich hier.
+Am besten Du meldest Dich bei OpenStreetMap an und kannst dann direkt die Daten bearbeiten. Ein Einstieg findet sich [hier](/123/).
 
 Wenn Dir das zu umständlich ist, dann kannst Du kleinere Fehler auch direkt auf https://www.openstreetmap.org melden. Klicke einfach auf oder auf das gleiche Symbol ![map note](/img/map-note.png "map note") in der Kartenanzeige. Dies fügt eine Markierung der Karte hinzu, die du durch Ziehen verschieben kannst. Schreibe deine Nachricht, klicke auf „Speichern“ und andere Mapper werden den Fehler untersuchen.
 
@@ -68,7 +68,9 @@ Wer eigene Berechnungen mit den Daten anstellen möchte oder Karten in einem sel
 
 ## Wie ist das mit der Lizenz?
 
-Die OpenStreetMap-Datenbank wird seit dem 12. September 2012 unter der Lizenz „Open Database Licence (ODbL) 1.0" verteilt, die einzelnen Objekte in der Datenbank stehen unter "Database Contents License (DbCL) 1.0". Die Lizenz besagt, dass jegliche Art der Nutzung von OSM-Daten, auch gewerblich, zulässig ist, solange die Lizenzbedingungen eingehalten werden. Die ODbL unterscheidet hierbei zwischen der Nutzung der Daten als Datenbank und der Herstellung eines Werkes ("Produced Work") aus den Daten, z.B einer auf Papier gedruckten Karte. Abgeleitete Datenbanken dürfen hierbei nur unter der ODbL weiter verteilt werden, bei "Produced Works" wird nur vorgeschrieben, dass ein entsprechender Quellenhinweis angebracht wird und gegebenenfalls eine zur Herstellung verwendete abgeleitete Datenbank in einer geeigneten Form zur Verfügung gestellt wird.
+Die OpenStreetMap-Datenbank wird seit dem 12. September 2012 unter der Lizenz [„Open Database Licence (ODbL) 1.0"](https://opendatacommons.org/licenses/odbl/) verteilt, die einzelnen Objekte in der Datenbank stehen unter "Database Contents License (DbCL) 1.0". Die Lizenz besagt, dass jegliche Art der Nutzung von OSM-Daten, auch gewerblich, zulässig ist, solange die Lizenzbedingungen eingehalten werden. Die ODbL unterscheidet hierbei zwischen der Nutzung der Daten als Datenbank und der Herstellung eines Werkes ("Produced Work") aus den Daten, z.B einer auf Papier gedruckten Karte. Abgeleitete Datenbanken dürfen hierbei nur unter der ODbL weiter verteilt werden, bei "Produced Works" wird nur vorgeschrieben, dass ein entsprechender Quellenhinweis angebracht wird und gegebenenfalls eine zur Herstellung verwendete abgeleitete Datenbank in einer geeigneten Form zur Verfügung gestellt wird.
+
+---
 
 Daten von OpenStreetMap - Veröffentlicht unter ODbL
 
@@ -76,8 +78,9 @@ Code:
 
 ```Daten von <a href="https://www.openstreetmap.org/">OpenStreetMap</a> - Veröffentlicht unter <a href="https://opendatacommons.org/licenses/odbl/">ODbL</a>```
 
+---
 
-Eine inoffizielle Übersetzung der ODbl 1.0 befindet sich hier, weitere Informationen zum Quellenhinweis gibt es hier.
+Eine inoffizielle Übersetzung der ODbl 1.0 befindet sich [hier](https://wiki.openstreetmap.org/wiki/DE:Open_Database_Licence_-_Licence_Text), weitere Informationen zum Quellenhinweis gibt es [hier](https://www.openstreetmap.org/copyright).
 
 ## Wie vollständig sind die Daten?
 
@@ -85,7 +88,7 @@ Da müssen wir gegenfragen: Was ist „vollständig“? Alle Autobahnen und Bund
 
 ## Wie viele Leute machen bei OpenStreetMap mit?
 
-Es gibt (Stand Oktober 2015) etwa 2,3 Millionen OpenStreetMap-Accounts. Die Zahl der Accounts wächst rasant.
+Es gibt (Stand Januar 2022) etwa 8 Millionen OpenStreetMap-Accounts. Die Zahl der Accounts wächst rasant.
 
 Siehe auch die [Statistik](https://wiki.openstreetmap.org/wiki/Stats) im Wiki.
 
