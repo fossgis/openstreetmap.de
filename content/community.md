@@ -26,21 +26,21 @@ FOSSGIS steht für Freie und Open Source Software für Geoinformationssysteme. D
 Jedes Jahr reist die Konferenz zu einem anderen Standort. Dabei unterstützt das Lokal Team der jeweils veranstaltenden Hochschule die Umsetzung. Wir bringen damit die Themen FOSSGIS und OpenStreetMap im gesamten deutschsprachigen Raum auf die Agenda und setzen am Veranstaltungsort besondere Akzente.
 Weitere Informationen: https://fossgis-konferenz.de/
 
-## Mailinglisten
-
-Das OpenStreetMap-Projekt betreibt verschiedene Mailinglisten. Sie sind das wichtigste Mittel für die Kommunikation innerhalb des Projektes.
-
-Die deutschsprachige Mailingliste talk-de ist ein guter erster Anlaufpunkt. Für verschiedene Städte und Regionen in Deutschland gibt es eigene Mailinglisten. Daneben gibt es noch viele andere (allerdings meist englischsprachige) Mailinglisten, zum Beispiel speziell für Entwickler oder für Rechtsfragen. Eine Übersicht gibt es im Wiki.
-
 ## Foren
 
 OpenStreetMap bietet unter [forum.openstreetmap.org](https://forum.openstreetmap.org/) mehrere Webforen an, darunter auch ein [deutschsprachiges Forum](https://forum.openstreetmap.org/viewforum.php?id=14).
 
 Für GeoCacher bietet sich das OSM-Forum auf [geoclub.de](https://geoclub.de/forum/viewforum.php?f=70) an. Und für Freunde der mobilen Navigation das Forum auf [pocketnavigation.de](https://forum.pocketnavigation.de/bid1000212-sid.htm).
 
-## IRC
 
-Auf dem IRC-Kanal #osm-de (Server: irc.oftc.net) findest Du einige Mitglieder der OSM-Community. (Es gibt auch einen englischsprachigen Kanal unter #osm). Die Links funktionieren allerdings nur, wenn Du einen IRC-Client installiert hast. Ansonsten kannst Du auch das Webinterface benutzen.
+## Chat
+
+Das OpenStreetMap-Projekt betreibt einen Matrix-Kanal auf Deutsch:
+
+https://matrix.to/#/#osm-de:matrix.org
+
+Weiter gibt es einen aktiven Telegram-Kanal: [https://t.me/OSM_de](https://t.me/OSM_de)
+
 
 ## Lokale Gruppen
 
