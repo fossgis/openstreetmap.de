@@ -16,7 +16,7 @@
 
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
     <link type="text/css" rel="stylesheet" href="{{ $style.RelPermalink }}" media="all">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="/plugins/fork-awesome/fork-awesome.min.css" />
 
     <script type="text/javascript" src="./ol/OpenLayers.js"></script>
     <script type="text/javascript" src="./ol/OpenStreetMap.js"></script>

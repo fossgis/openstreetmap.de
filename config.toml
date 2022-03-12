@@ -31,14 +31,10 @@ unsafe= true
 
 ############################## Plugins ##############################
 # CSS Plugins
-#[[params.plugins.css]]
-#link = "plugins/bootstrap/bootstrap.min.css"
-#link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/fork-awesome/css/fork-awesome.min.css"
 [[params.plugins.css]]
-link = "https://unpkg.com/swiper@7/swiper-bundle.min.css"
-
+link = "plugins/swiperjs/swiper-bundle.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
