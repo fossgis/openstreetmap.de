@@ -26,10 +26,8 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: #fff;
     text-align: center;
     padding: 14px 16px;
-    border: var(--boarder-color) 1px solid;
     width: 100%;
 }
 

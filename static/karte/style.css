@@ -12,6 +12,10 @@ body {
 	align-content: stretch;
 }
 
+#myTopnav {
+    background-color: var(--grey);
+}
+
 div.olControlLayerSwitcher {
 	width: 240px;	
 	font-size: 13px;
