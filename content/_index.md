@@ -1,8 +1,7 @@
 ---
 title: "Die freie Wiki-Weltkarte"
 menu_title: "Startseite"
-date: 2022-01-25T22:10:24+01:00
-draft: false
+aliases: [/index.html]
 ---
 
 ## Was ist OpenStreetMap?

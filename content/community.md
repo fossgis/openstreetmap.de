@@ -1,7 +1,7 @@
 ---
 title: "Community"
 menu_title: "Community"
-draft: false
+aliases: [/community.html]
 ---
 
 # Community

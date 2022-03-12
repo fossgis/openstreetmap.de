@@ -1,7 +1,7 @@
 ---
 title: "Spenden"
 menu_title: "Spenden"
-draft: false
+aliases: [/spenden.html]
 ---
 
 ## Spenden für OpenStreetMap.de

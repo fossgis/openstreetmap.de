@@ -1,6 +1,6 @@
 ---
 title: "Kontakt / Impressum"
-draft: false
+aliases: [/impressum.html]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "FAQs: Fragen und Antworten"
 menu_title: "FAQ"
-draft: false
+aliases: [/faq.html]
 ---
 
 # FAQs: Fragen und Antworten
