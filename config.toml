@@ -35,6 +35,8 @@ unsafe= true
 link = "plugins/fork-awesome/css/fork-awesome.min.css"
 [[params.plugins.css]]
 link = "plugins/swiperjs/swiper-bundle.min.css"
+[[params.plugins.css]]
+link = "plugins/flexboxgrid/flexboxgrid.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
