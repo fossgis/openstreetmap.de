@@ -15,12 +15,6 @@ osm@dietmar-seifert.de
 0821-99 29 59
 ```
 ```
-Matthias Blazejak
-Region: Ruhrgebiet
-osm@blazejak.de
-02325-97 56 34 5
-```
-```
 Pascal Neis
 Region: Hessen (Wiesbaden/Frankfurt)
 pascal@neis-one.org
