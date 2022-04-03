@@ -15,11 +15,6 @@ osm@dietmar-seifert.de
 0821-99 29 59
 ```
 ```
-Pascal Neis
-Region: Hessen (Wiesbaden/Frankfurt)
-pascal@neis-one.org
-```
-```
 Roland Ramthun
 Region: Saarland/Trier
 mail@roland-ramthun.de

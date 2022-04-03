@@ -33,17 +33,15 @@ function openTab(evt, tabName) {
     evt.currentTarget.className += " active";
 }
 
-// Homepage elements
+// Opens "Karten" in the "Schaufenster" per default
 if (document.getElementById("defaultOpen")) {
-
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
+    document.getElementById("defaultOpen").click();
+}
 
 // Gets the data of the osmcal Rest-API and lists them at "Veranstaltungen".
 fetch("https://osmcal.org/api/v2/events/?in=de").then(function (response) {
     return response.json();
 }).then(function (data) {
-    // console.log(data);
     var eventListUl = document.getElementById("osmcal_ul");
 
     data.forEach(event => {
@@ -52,10 +50,7 @@ fetch("https://osmcal.org/api/v2/events/?in=de").then(function (response) {
         a.href = event.url;
         a.target = "_blank";
         var p = document.createElement("p");
-        // p.innerHTML = event.name + "<br>" + event.date.human + " " + event.location.short;
         a.innerHTML = event.name + "<br>" + event.date.human + " " + event.location.short + "<br><br>";
-
-        // a.append(p);
 
         var li = document.createElement("li");
         li.append(a);
@@ -92,5 +87,3 @@ var swiper = new Swiper(".mySwiper", {
         }
     },
 });
-
-}
