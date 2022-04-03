@@ -21,13 +21,25 @@ jobs:
           hugo-version: '0.68.3'
           # extended: true
 
-      - name: Build
-        run: hugo --minify --baseURL https://www-preview.openstreetmap.de/
+      # - name: Build Preview
+      #   run: hugo --minify --baseURL https://www-preview.openstreetmap.de/
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      # - name: Deploy Preview
+      #   uses: peaceiris/actions-gh-pages@v3
+      #   if: github.ref == 'refs/heads/main'
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     publish_dir: ./public
+      #     cname: www-preview.openstreetmap.de
+
+      - name: Build
+        run: hugo --minify
+          
+      - name: Deploy site
         if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          cname: www-preview.openstreetmap.de
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+        run: |
+          eval $(ssh-agent -s)
+          ssh-add - <<< "${SSH_KEY}"
+          rsync --exclude=/w --delete -r -e "ssh -o StrictHostKeyChecking=no -p 22" public/ web@web2.fossgis.de:/
