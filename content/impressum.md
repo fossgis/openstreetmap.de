@@ -51,12 +51,11 @@ D-10717 Berlin
 ```
 
 Vertreten durch:
-```
-Jörg Thomsen
-Pirmin Kalberer
-Jochen Topf
-Falk Zscheile
-```
+
+* Jörg Thomsen
+* Pirmin Kalberer
+* David Arndt
+* Falk Zscheile
 
 Der Verein wurde unter der Registernummer 90 VR 3594 am 18. Januar 2001 beim Registergericht der Stadt Mainz eingetragen.
 
