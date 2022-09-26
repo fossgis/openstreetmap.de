@@ -6,14 +6,8 @@ aliases: [/impressum.html]
 
 ## Presse-Ansprechpartner
 
-Bei OpenStreetMap gibt es keine offiziellen Ansprechpartner. Die folgenden Personen haben sich aber bereit erklärt, Presseanfragen zu beantworten. Wählen Sie bitte einen Ansprechpartner aus.
+Bei OpenStreetMap gibt es keine offiziellen Ansprechpartner. Die folgenden Personen haben sich aber bereit erklärt, Presseanfragen zu beantworten. 
 
-```
-Dietmar Seifert
-Region: Augsburg
-osm@dietmar-seifert.de
-0821-99 29 59
-```
 ```
 Roland Ramthun
 Region: Saarland/Trier
