@@ -28,7 +28,7 @@ Weitere Informationen: https://fossgis-konferenz.de/
 
 ## Foren
 
-OpenStreetMap bietet unter [forum.openstreetmap.org](https://forum.openstreetmap.org/) mehrere Webforen an, darunter auch ein [deutschsprachiges Forum](https://forum.openstreetmap.org/viewforum.php?id=14).
+OpenStreetMap bietet unter [community.openstreetmap.org](https://community.openstreetmap.org) mehrere Webforen an, darunter auch ein [deutschsprachiges Forum](https://community.openstreetmap.org/c/communities/de/56).
 
 Für GeoCacher bietet sich das OSM-Forum auf [geoclub.de](https://geoclub.de/forum/viewforum.php?f=70) an. Und für Freunde der mobilen Navigation das Forum auf [pocketnavigation.de](https://forum.pocketnavigation.de/bid1000212-sid.htm).
 
