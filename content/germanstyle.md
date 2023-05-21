@@ -100,3 +100,5 @@ nichtkommerzielle Zwecke erlauben. Kleinere Webanwendungen, wie z.B. der
 Anfahrtsplan auf der Firmenwebseite dürfen die Kacheln
 selbstverständlich verwenden. Bitte beachten sie auch die [Tile usage
 policy](https://wiki.openstreetmap.org/wiki/Tile_usage_policy).
+[Ausführlichere Informationen zu den Nutzungsbedingungen finden Sie 
+hier.](https://fossgis.de/arbeitsgruppen/osm-server/nutzungsbedingungen/)
