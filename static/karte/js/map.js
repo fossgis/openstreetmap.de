@@ -66,10 +66,14 @@ function init(){
 	map.addControl(panZoomBar);
 	document.getElementById('panzoombar').style.left="20px";
 	document.getElementById('panzoombar').style.top="20px";
-
+    
 	//Add Layers
     map.addLayers([
-       new OpenLayers.Layer.XYZ("OSM deutscher Stil", ["https://ptolemy.openstreetmap.de/${z}/${x}/${y}.png"],
+        new OpenLayers.Layer.XYZ("OSM deutscher Stil", [
+            "https://a.tile.openstreetmap.de/${z}/${x}/${y}.png",
+            "https://b.tile.openstreetmap.de/${z}/${x}/${y}.png",
+            "https://c.tile.openstreetmap.de/${z}/${x}/${y}.png",
+            "https://d.tile.openstreetmap.de/${z}/${x}/${y}.png"],
 		{numZoomLevels: 20, attribution: '<a href="/germanstyle.html">About style</a>'}),
         new OpenLayers.Layer.XYZ("&Ouml;PNV-Karte",
 			"https://tile.memomaps.de/tilegen/${z}/${x}/${y}.png",
