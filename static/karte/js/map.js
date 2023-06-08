@@ -67,7 +67,7 @@ function init(){
 	document.getElementById('panzoombar').style.left="20px";
 	document.getElementById('panzoombar').style.top="20px";
 
-    //Add Layers
+	//Add Layers
     map.addLayers([
         new OpenLayers.Layer.XYZ("OSM deutscher Stil", [
             "https://a.tile.openstreetmap.de/${z}/${x}/${y}.png",
