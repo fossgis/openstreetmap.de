@@ -59,6 +59,17 @@ das bisher der Fall war. Auf diese Weise ist es nun hoffentlich möglich
 Änderungen leichter zu übernehmen. Auch die Betreuer von OSM CartoCSS
 bemühen sich inzwischen sehr Forks wie diesen möglich zu machen.
 
+Im Jahre 2019 wurde deutlich, dass der Ansatz die Kartenlokalisierung auf
+Basis von PostgreSQL stored procedures zu implementieren an seine Grenzen
+gelangt ist.  Durch die Arbeiten von Jochen Topf an osm2pgsql (flex output)
+und der Reinmplemetierung der Lokalisierungsfunktionen in LUA durch Sven
+Geggus wurde es 2022 möglich die Lokalisierung stattdessen direkt beim
+Import der Daten durchzuführen.  Dadurch kann nun auch die kantonesische
+Sprache transkribiert werden.
+
+Die neuen, seit 2023 vom [FOSSGIS](https://fossgis.de) betriebenen
+[Tileserver](https://tile.openstreetmap.de) verwenden diesen neuen Ansatz.
+
 Wird fortgesetzt...
 
 ## Hauptunterschiede zum Standard OSM CartoCSS Stil
@@ -81,7 +92,7 @@ Wird fortgesetzt...
 ## Quellcode
 
   - Kartenstil: <https://github.com/giggls/openstreetmap-carto-de>
-  - Lokalisierung: <https://github.com/giggls/mapnik-german-l10n>
+  - Lokalisierung: <https://github.com/giggls/osml10n>
 
 -----
 
