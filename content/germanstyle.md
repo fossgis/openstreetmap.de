@@ -15,14 +15,14 @@ Frederik Ramm und Jochen Topf, das im Jahr 2008 erschien.
 Die Grundidee des Stils war von Anfang an die Verwendung in Deutschland
 üblicher Straßenfarben und Kartensymbole wie sie unter anderem aus dem
 weit verbreiteten
-[Shell-Atlas](https://www.landkartenarchiv.de/blog/wp-content/uploads/2015/12/shell1_autobahnkarte.jpg)
+[Shell-Atlas](https://www.landkartenarchiv.de/deutschlandkarten.php?q=shelldeutschland_1958)
 bekannt sind.
 
 Anfang 2011 ging dann erste Version online, die im Rahmen einer von der
-Geofabrik unterstützten Bachelorarbeit an der [HFT
-Stuttgart](http://geoweb.hft-stuttgart.de/) von Beate Braun entwickelt
-wurde. Hierbei handelte es sich um einen "fork" des damaligen
-Kartenstils von osm.org.
+Geofabrik unterstützten Bachelorarbeit an der
+[HFT Stuttgart](https://www.hft-stuttgart.de/vermessung/news/geo-challenge-des-studiengangs-vermessung-und-geoinformatik)
+von Beate Braun entwickelt wurde.  Hierbei handelte es sich um einen "fork"
+des damaligen Kartenstils von osm.org.
 
 Ein Jahr später erfolgte die Umstellung auf Mapnik 2 durch Matthias Merz
 und Sven Geggus, der seitdem die Betreuung übernommen hat.
@@ -31,7 +31,7 @@ Im Laufe des Jahres 2012 entwickelte Sven Geggus die ersten Versionen
 der Kartenlokalisierung. Diese ist unabhängig vom Renderer und wurde
 daher inzwischen in ein eigenes Repository umgezogen. Sie kann für jede
 Sprache eingesetzt werden, die lateinische Schrift verwendet. Quellcode
-steht unter <https://github.com/giggls/mapnik-german-l10n> zur
+steht unter <https://github.com/giggls/osml10n> zur
 Verfügung.
 
 Seit Mitte 2013 der OpenStreetMap Kartenstil auf CartoCSS umgestellt
@@ -55,9 +55,9 @@ Anfang 2016 entstand der seit September 2016 auf
 verwendete Kartenstil als neuer Fork von OSM CartoCSS, nachdem ein
 erster Versuch im Rahmen einer weiteren Bachelorarbeit an der Geofabrik
 leider erfolglos war. Dieser Fork ist näher am internationalen Stil als
-das bisher der Fall war. Auf diese Weise ist es nun hoffentlich möglich
+das bisher der Fall war. Auf diese Weise wurde es nun möglich
 Änderungen leichter zu übernehmen. Auch die Betreuer von OSM CartoCSS
-bemühen sich inzwischen sehr Forks wie diesen möglich zu machen.
+bemühen sich inzwischen Forks wie diesen möglich zu machen.
 
 Im Jahre 2019 wurde deutlich, dass der Ansatz die Kartenlokalisierung auf
 Basis von PostgreSQL stored procedures zu implementieren an seine Grenzen
