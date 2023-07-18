@@ -18,7 +18,7 @@ weit verbreiteten
 [Shell-Atlas](https://www.landkartenarchiv.de/deutschlandkarten.php?q=shelldeutschland_1958)
 bekannt sind.
 
-Anfang 2011 ging dann erste Version online, die im Rahmen einer von der
+Anfang 2011 ging dann eine erste Version online, die im Rahmen einer von der
 Geofabrik unterstützten Bachelorarbeit an der
 [HFT Stuttgart](https://www.hft-stuttgart.de/vermessung/news/geo-challenge-des-studiengangs-vermessung-und-geoinformatik)
 von Beate Braun entwickelt wurde.  Hierbei handelte es sich um einen "fork"
