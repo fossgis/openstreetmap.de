@@ -449,6 +449,38 @@ a.menu::after, .dropdown-toggle::after {
 	cursor: pointer;
 }
 
+/* donation drive banner 2023 */
+#donation-drive {
+	font-size: 18px;
+	background-color: #b5de98;
+	color: white;
+	padding: 12px 12px 12px 12px;
+	text-align: center;
+	line-height: 1.5;
+	height: 69px;
+}
+
+#donation-explanation {
+	font-size: 14px;
+}
+
+a {
+    color: var(--primary-darker);
+}
+
+
+#everything-else {
+	position: absolute;
+	width: 100%;
+	top: 68px;
+	height: calc(100% - 68px);
+}
+
+/* layout for iPhone-sized screens */
+@media (max-width: 520px) {
+	/* hide donation drive related stuff, revert changes related to it which affect other objects*/
+
+
 @media (max-width: 850px) {
 	#tfSearch {
 		width: 225px;
@@ -461,6 +493,14 @@ a.menu::after, .dropdown-toggle::after {
 		font-size: 12px;
 		font-weight: bold;
 		margin-bottom: 3px;
+	}
+
+	#donation-drive {
+		display:  none;
+	}
+	#everything-else {
+		height: 100%;
+		top: 0px;
 	}
 
 	/*Logo und Buttons ausblenden*/

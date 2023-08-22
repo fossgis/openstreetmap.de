@@ -115,6 +115,20 @@ body {
     background-color: var(--grey);
 }
 
+#donation-drive {
+	display: block;
+	font-size: 18px;
+	background-color: #b5de98;
+	color: white;
+	padding: 12px 12px 12px 12px;
+	text-align: center;
+	line-height: 1.5;
+}
+
+#donation-explanation {
+	font-size: 14px;
+}
+
 #header {
     padding-top: 24px;
     padding-bottom: 24px;
