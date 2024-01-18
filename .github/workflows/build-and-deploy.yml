@@ -1,16 +1,16 @@
-name: github pages
+name: Build and deploy web site
 
 on:
   push:
     branches:
-      - main 
+      - main
   pull_request:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
@@ -21,20 +21,9 @@ jobs:
           hugo-version: '0.68.3'
           # extended: true
 
-      # - name: Build Preview
-      #   run: hugo --minify --baseURL https://www-preview.openstreetmap.de/
-
-      # - name: Deploy Preview
-      #   uses: peaceiris/actions-gh-pages@v3
-      #   if: github.ref == 'refs/heads/main'
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     publish_dir: ./public
-      #     cname: www-preview.openstreetmap.de
-
       - name: Build
         run: hugo --minify
-          
+
       - name: Deploy site
         if: github.ref == 'refs/heads/main'
         env:
