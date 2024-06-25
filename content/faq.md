@@ -36,7 +36,7 @@ Wenn Dir das zu umständlich ist, dann kannst Du kleinere Fehler auch direkt auf
 
 Die meisten Mitglieder der OSM-Community beteiligen sich durch Mapping, also dadurch, dass sie mit einem GPS-Gerät Kartendaten sammeln und bei OpenStreetMap eingeben. Viele zeichnen auch dafür zugelassene Luftbilder ab und vervollständigen die Daten vor Ort. Auch Hilfe im „kleinen Stil“ ist für das Projekt sehr wertvoll: Sind die Gegenden, in denen Du Dich auskennst, korrekt erfasst, oder findest Du Fehler, die Du verbessern könntest? Arbeitest Du vielleicht sogar bei der Post und kennst jede Menge Hausnummern auswendig?
 
-Auch Programmierer sind bei OpenStreetMap immer gefragt, es gibt jede Menge zu tun – an der zentralen Datenbank, an den Editoren, an der Software, die die Karten zeichet, und an allen möglichen Hilfsprogrammen.
+Auch Programmierer sind bei OpenStreetMap immer gefragt, es gibt jede Menge zu tun – an der zentralen Datenbank, an den Editoren, an der Software, die die Karten zeichnet, und an allen möglichen Hilfsprogrammen.
 
 Hast Du vielleicht Zugriff auf Daten, die OpenStreetMap verwenden könnte? Luftbilder, alte Stadtpläne, deren Copyright abgelaufen ist, oder die GPS-Tracks Deiner Flotte von Kurierfahrzeugen? Immer her damit, das können wir sicher auch irgendwo gebrauchen.
 
@@ -55,7 +55,7 @@ Die Datensammlung mit GPS ist eine der Arten, wie OpenStreetMap die Datenbank be
 
 Damit man nicht nur alleine in der Gegend herumfährt und Kartendaten sammelt und sie dann am Rechner alleine eingibt, treffen sich Gruppen gelegentlich zu einer gemeinsamen Aktion. Typischerweise geht so was ein Wochenende lang. Man nimmt sich ein Gebiet vor, das in einzelne Bereiche aufgeteilt wird, die dann von den Teilnehmern systematisch abgefahren werden. Irgendwo gibt es eine „Basisstation“, zum Beispiel in einem Cafe mit Internet-Zugang oder in den Räumen einer Firma, wo man dann gemeinsam die Daten eingeben kann. Abends trifft man sich in einem Restaurant oder einer Kneipe zum gemütlichen Teil.
 
-Mapping Parties sind ideal, um andere Mapper in der Community kennenzulernen. Für Anfänger bieten sie die Möglichkeit, die ersten Hürden gemeinsam mit erfahrenen Mappern zu überwinden. Und Spass macht das ganze auch noch.
+Mapping Parties sind ideal, um andere Mapper in der Community kennenzulernen. Für Anfänger bieten sie die Möglichkeit, die ersten Hürden gemeinsam mit erfahrenen Mappern zu überwinden. Und Spaß macht das ganze auch noch.
 
 Wie für alles im OSM-Projekt gibt es keine zentrale Organisation dieser Mapping-Parties. Wenn Du eine starten willst, dann tue es einfach. Die Koordination kann über das Wiki und die Mailingliste erfolgen. Welchen geographischen oder thematischen Bereich die Mapping Party umfassen soll, bleibt auch ganz Dir überlassen.
 
@@ -85,11 +85,11 @@ Eine inoffizielle Übersetzung der ODbl 1.0 befindet sich [hier](https://wiki.op
 
 ## Wie vollständig sind die Daten?
 
-Da müssen wir gegenfragen: Was ist „vollständig“? Alle Autobahnen und Bundesstraßen? Oder alle Radwege und Briefkästen? Jede einzelne Hausnummer und jede Parkbank? – Der Detaillierungsgrad der OSM-Daten ist regional sehr unterschiedlich. In vielen Städten sind wir schon besser als die meisten proprietären Karten – aber anderswo ist bei uns ein weisser Fleck oder nur eine Durchgangsstrasse, wo eigentlich ein ganzer Ort hingehört. Jeder, der unsere Daten einsetzen will, muss sich selbst ein Bild davon machen, ob sie für den anvisierten Zweck „vollständig genug“ sind. Wenn nicht: Einfach einen Monat später nochmal hingucken!
+Da müssen wir gegenfragen: Was ist „vollständig“? Alle Autobahnen und Bundesstraßen? Oder alle Radwege und Briefkästen? Jede einzelne Hausnummer und jede Parkbank? – Der Detaillierungsgrad der OSM-Daten ist regional sehr unterschiedlich. In vielen Städten sind wir schon besser als die meisten proprietären Karten – aber anderswo ist bei uns ein weißer Fleck oder nur eine Durchgangsstraße, wo eigentlich ein ganzer Ort hingehört. Jeder, der unsere Daten einsetzen will, muss sich selbst ein Bild davon machen, ob sie für den anvisierten Zweck „vollständig genug“ sind. Wenn nicht: Einfach einen Monat später nochmal hingucken!
 
 ## Wie viele Leute machen bei OpenStreetMap mit?
 
-Es gibt (Stand Januar 2022) etwa 8 Millionen OpenStreetMap-Accounts. Die Zahl der Accounts wächst rasant.
+Es gibt (Stand März 2024) etwa 10 Millionen OpenStreetMap-Accounts. Die Zahl der Accounts wächst rasant.
 
 Siehe auch die [Statistik](https://wiki.openstreetmap.org/wiki/Stats) im Wiki.
 

@@ -6,12 +6,11 @@ aliases: [/impressum.html]
 
 ## Presse-Ansprechpartner
 
-Bei OpenStreetMap gibt es keine offiziellen Ansprechpartner. Die folgenden Personen haben sich aber bereit erklärt, Presseanfragen zu beantworten. 
+Bei OpenStreetMap gibt es keine offiziellen Ansprechpartner. Die folgenden Freiwilligen haben sich aber bereit erklärt, Presseanfragen zu beantworten. 
 
 ```
 Roland Ramthun
-Region: Saarland/Trier
-mail@roland-ramthun.de
+osm@roland-ramthun.de
 0651-20 65 06 9
 ```
 
