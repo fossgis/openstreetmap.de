@@ -46,9 +46,3 @@ OpenStreetMap nicht denkbar. Natürlich kann jeder auch „einfach so"
 Geodaten sammeln und beitragen, aber zusammen macht es viel mehr Spaß.
 [Zur Community...](community)
 
-## Veranstaltungen
-
-Die Community organisiert eine Vielzahl von Veranstaltungen. Die
-nächsten sind:
-
-{{< osmcal-events >}}

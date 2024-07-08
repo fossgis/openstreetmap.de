@@ -1,1 +1,25 @@
 <ul id="osmcal_ul"></ul>
+<script>
+// Gets the data of the osmcal Rest-API and lists them
+fetch("https://osmcal.org/api/v2/events/?in=de").then(function (response) {
+    return response.json();
+}).then(function (data) {
+    var eventListUl = document.getElementById("osmcal_ul");
+
+    data.forEach(event => {
+
+        var a = document.createElement("a");
+        a.href = event.url;
+        a.target = "_blank";
+        var p = document.createElement("p");
+        a.innerHTML = event.name + "<br>" + event.date.human + " " + event.location.short + "<br><br>";
+
+        var li = document.createElement("li");
+        li.append(a);
+
+        eventListUl.append(li);
+    });
+}).catch((error) => {
+    console.error(error);
+});
+</script>
