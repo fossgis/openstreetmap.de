@@ -444,3 +444,25 @@ div.span-one-half {
     }
 
 }
+
+.cal-events {
+    border-spacing: 10px;
+}
+
+.cal-events td {
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    text-align: center;
+    vertical-align: bottom;
+    width: 160px;
+    height: 140px;
+}
+
+.cal-events img {
+    width: 100px;
+}
+
+.cal-events div {
+    margin-top: 10px;
+}
+

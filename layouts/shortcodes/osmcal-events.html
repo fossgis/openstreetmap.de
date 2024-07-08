@@ -1,23 +1,26 @@
 <ul id="osmcal_ul"></ul>
 <script>
 // Gets the data of the osmcal Rest-API and lists them
-fetch("https://osmcal.org/api/v2/events/?in=de").then(function (response) {
-    return response.json();
-}).then(function (data) {
-    var eventListUl = document.getElementById("osmcal_ul");
+fetch("https://osmcal.org/api/v2/events/?in=de").then( (response) => response.json() ).then(function (data) {
+    const eventListUl = document.getElementById('osmcal_ul');
+    const now = new Date();
 
     data.forEach(event => {
+        const days = (new Date(event.date.start) - now) / 1000 / 60 / 60 / 24; // this many days in the future
 
-        var a = document.createElement("a");
-        a.href = event.url;
-        a.target = "_blank";
-        var p = document.createElement("p");
-        a.innerHTML = event.name + "<br>" + event.date.human + " " + event.location.short + "<br><br>";
+        if (days < 92) {
+            const a = document.createElement('a');
+            a.href = event.url;
+            a.target = "_blank";
 
-        var li = document.createElement("li");
-        li.append(a);
+            const p = document.createElement('p');
+            a.innerHTML = event.name + '<br>' + event.date.human + ' ' + event.location.short + '<br><br>';
 
-        eventListUl.append(li);
+            const li = document.createElement('li');
+            li.append(a);
+
+            eventListUl.append(li);
+        }
     });
 }).catch((error) => {
     console.error(error);
