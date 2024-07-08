@@ -16,7 +16,6 @@
 
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
     <link type="text/css" rel="stylesheet" href="{{ $style.RelPermalink }}" media="all">
-    <link type="text/css" rel="stylesheet" href="/plugins/fork-awesome/fork-awesome.min.css" />
 
     <script type="text/javascript" src="./ol/OpenLayers.js"></script>
     <script type="text/javascript" src="./ol/OpenStreetMap.js"></script>
@@ -46,7 +45,7 @@
         {{ $active = or $active (eq .Name $current.Params.menu_title) }}
         <a class="nav-link {{ if $active }}active{{ end }}" href="{{.URL | absURL}}">{{.Pre}} {{.Name}}</a>
         {{end}}
-        <a href="javascript:void(0);" class="icon" onclick="toggleMenu()"><i class="fa fa-bars"></i></a>
+        <a href="javascript:void(0);" class="icon" onclick="toggleMenu()"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 512 512"><path d="M64,384H448V341.33H64Zm0-106.67H448V234.67H64ZM64,128v42.67H448V128Z"/></svg></a>
 
     </div>
 
