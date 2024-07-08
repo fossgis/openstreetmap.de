@@ -1,6 +1,5 @@
 ---
 title: "FAQs: Fragen und Antworten"
-menu_title: "FAQ"
 aliases: [/faq.html]
 ---
 

@@ -1,17 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="de" dir="ltr">
     {{- partial "head.html" . -}}
     <body>
-        <header>
-            <a id="title" href="/" title="OpenStreetMap - Deutschland" rel="home"><img src="/img/osm_logo.svg" alt="" aria-hidden="true"/> <span>OpenStreetMap - Deutschland</span></a>
-            {{- partial "menu.html" . -}}
-        </header>
+        {{ partial "header.html" . -}}
         <main>
         {{- block "main" . }}{{- end }}
         </main>
-        {{ partialCached "footer.html" . }}
-        <script src="/js/swiper-bundle.min.js"></script>
-        {{ $script := resources.Get "js/script.js" }}
+        {{ partial "footer.html" . -}}
+        {{- $script := resources.Get "js/script.js" }}
         <script src="{{ $script.RelPermalink }}"></script>
     </body>
 </html>
