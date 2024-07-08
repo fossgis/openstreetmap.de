@@ -1,0 +1,10 @@
+<header>
+    <div class="top">
+        <a id="title" href="/" title="OpenStreetMap - Deutschland" rel="home"><img src="/img/logos/osmde.svg" alt="OpenStreetMap Deutschland"/></a>
+        <a id="button-karte" href="/karte/">Zur Karte</a>
+        <form action="/search" method="GET">
+            <input type="search" name="q" id="search-query" placeholder="Suche..."/>
+        </form>
+    </div>
+    {{ partial "menu.html" . -}}
+</header>

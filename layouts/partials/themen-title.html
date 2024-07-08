@@ -1,0 +1,10 @@
+    <div class="themen-top">
+        <div class="themen-title" style="background-image: url(title.jpg)">
+            <h1><span>Thema:</span><br/>{{ .Params.title }}</h1>
+        </div>
+        {{- if .Params.image_link -}}
+        <div class="themen-attribution"><a target="_blank" href="{{ .Params.image_link }}">{{ .Params.image_license }}</a></div>
+        {{- else -}}
+        <div class="themen-attribution">{{ .Params.image_license }}</div>
+        {{- end -}}
+    </div>

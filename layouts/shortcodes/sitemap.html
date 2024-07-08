@@ -1,0 +1,5 @@
+<table class="sitemap"><tbody>
+{{ range sort .Site.AllPages ".File.Path" }}
+    <tr><td class="sitemap-source">{{ with .File }}<a href="https://github.com/fossgis/openstreetmap.de/blob/main/content/{{ .File.Path }}">{{ .File.Path }}</a>{{ end }}</tt></td><td><a href="{{ .Permalink }}">{{ .Title }}</a></td></tr>
+{{ end }}
+</tbody></table>

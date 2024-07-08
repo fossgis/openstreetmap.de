@@ -1,6 +1,5 @@
 ---
 title: "Deutscher Kartenstil"
-menu_title: "Karte"
 aliases: [/germanstyle.html]
 ---
 

@@ -1,10 +1,12 @@
 <footer>
     <div class="footer-linklist">
-        <a href="/impressum/">Impressum</a> &middot; <a href="https://www.fossgis.de/datenschutzerklärung/">Datenschutzerklärung</a>
+        <a href="/impressum/">Impressum</a> &middot; <a href="/impressum/datenschutz/">Datenschutzerklärung</a>
+        {{ with .File }}
+        &middot; <a href="https://github.com/fossgis/openstreetmap.de/blob/main/content/{{ .File.Path }}">Quelle dieser Seite auf Github</a>
+        {{ end }}
     </div>
     <div class="footer-licence">
-        Alle Kartenbilder auf dieser Seite basieren auf OpenStreetMap-Daten und stehen unter der Lizenz<br>
-        <a target="_blank" href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons Attribution Share Alike-Lizenz 2.0</a>.
-        <a href="/faq/#wie-ist-das-mit-der-lizenz">Mehr zur Lizenz...</a>
+        Diese Webseiten: © <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> &middot;
+        Karten auf diesen Seiten: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap Beitragende (ODbL)</a>
     </div>
 </footer>
