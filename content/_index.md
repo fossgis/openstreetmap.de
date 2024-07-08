@@ -1,5 +1,5 @@
 ---
-title: "Die freie Wiki-Weltkarte"
+title: "Die freie Weltkarte"
 menu_title: "Startseite"
 aliases: [/index.html]
 ---
