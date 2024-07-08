@@ -5,9 +5,36 @@
     --border-color: #ccc;
 }
 
+@font-face {
+    font-family: 'Sarabun';
+    src: url('/fonts/Sarabun-Regular.woff2') format('woff2'),
+         url('/fonts/Sarabun-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url('/fonts/Sarabun-Bold.woff2') format('woff2'),
+         url('/fonts/Sarabun-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url('/fonts/Sarabun-Italic.woff2') format('woff2'),
+         url('/fonts/Sarabun-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
 body {
     margin: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Sarabun,Arial,sans-serif;
 }
 
 main {
@@ -131,6 +158,13 @@ header {
     font-size: 2rem;
 }
 
+.infobox {
+    border: 1px solid #e0e040;
+    border-radius: 8px;
+    padding: 10px 20px;
+    background-color: #fffff0;
+}
+
 h1 {
     font-size: 3rem;
 }
@@ -139,8 +173,13 @@ h2 {
     font-size: 2rem;
 }
 
+.infobox h2 {
+    margin-top: 0;
+    text-align: center;
+}
+
 h3 {
-    display: none;
+    margin-bottom: 0;
 }
 
 p {
@@ -430,5 +469,26 @@ div.boxes > div > p {
 
 .cal-events > div > div {
     margin-top: 10px;
+}
+
+.themen-title {
+    height: 150px;
+    background-position-x: right;
+    background-size: cover;
+}
+
+.themen-title h1 {
+    margin: 0;
+    padding: 100px 10px 0 10px;
+    text-shadow: 0 0 10px black;
+    color: white;
+}
+
+.themen-attribution {
+    text-align: right;
+}
+
+.themen-attribution a {
+    text-decoration: none;
 }
 

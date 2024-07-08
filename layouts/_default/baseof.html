@@ -7,6 +7,12 @@
             {{- partial "menu.html" . -}}
         </header>
         <main>
+        <ul style="border: 1px solid #ff8080;">
+            DEBUG DEBUG DEBUG DEBUG
+            {{- range .CurrentSection.Pages -}}
+            <li><a href="{{ .RelPermalink }}">{{ .Params.title }}</a></li>
+            {{- end -}}
+        </ul>
         {{- block "main" . }}{{- end }}
         </main>
         {{ partialCached "footer.html" . }}

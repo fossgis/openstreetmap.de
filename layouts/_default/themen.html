@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        <header>
+            <a id="title" href="/" title="OpenStreetMap - Deutschland" rel="home"><img src="/img/osm_logo.svg" alt="" aria-hidden="true"/> <span>OpenStreetMap - Deutschland</span></a>
+            {{- partial "menu.html" . -}}
+        </header>
+        <main>
+        THEMEN
+        <ul style="border: 1px solid #ff8080;">
+            DEBUG DEBUG DEBUG DEBUG
+            {{- range .CurrentSection.Pages -}}
+            <li><a href="{{ .RelPermalink }}">{{ .Params.title }}</a></li>
+            {{- end -}}
+        </ul>
+        <div class="themen-title" style="background-image: url(/themen/{{ .Params.title }}.jpg)">
+            <h1>{{ .Params.title }}</h1>
+            <div class="themen-attribution"><a target="_blank" href="{{ .Params.image_link }}">{{ .Params.image_license }}</a></div>
+        </div>
+        {{- .Content }}
+        </main>
+        {{ partialCached "footer.html" . }}
+        <script src="/js/swiper-bundle.min.js"></script>
+        {{ $script := resources.Get "js/script.js" }}
+        <script src="{{ $script.RelPermalink }}"></script>
+    </body>
+</html>
