@@ -93,11 +93,6 @@ hr.seperator {
 	border: 0;
 }
 
-span.read_more {
-    text-align: right;
-    float: right;
-}
-
 
 /* css for index.html */
 
@@ -372,7 +367,3 @@ ul.carousel_tabs li a:focus {
 	}
 }
 
-/** class span-one-half, similar to span-one-third. Necessary due to removal of Strato */
-div.span-one-half {
-	width: 450px;
-}

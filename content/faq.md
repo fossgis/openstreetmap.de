@@ -1,6 +1,5 @@
 ---
 title: "FAQs: Fragen und Antworten"
-menu_title: "FAQ"
 aliases: [/faq.html]
 ---
 
@@ -44,8 +43,8 @@ Siehe auch die [Mitmachseite](https://wiki.openstreetmap.org/wiki/DE:Getting_Inv
 
 ## Wie kann ich meinen Account wieder löschen?
 
-Im Menü [Einstellungen](https://www.openstreetmap.org/account/edit) auf openstreetmap.org gibt es einen Button 'Konto löschen', wo man seinen Account selbstständig löschen kann.
-Dabei werden die Stammdaten aus der OpenStreetMap-Datenbank gelöscht. Ihre E-Mail-Adresse wird normalerweise aufgehoben, damit ein OSM-Administrator Sie kontaktieren kann, sollte das in der Zukunft nötig sein.
+Im Menü [Einstellungen](https://www.openstreetmap.org/account/edit) auf openstreetmap.org gibt es einen Button 'Konto löschen', über den man seinen Account selbstständig löschen kann.
+Dabei werden die Stammdaten aus der OpenStreetMap-Datenbank gelöscht. Ihre E-Mail-Adresse wird normalerweise aufgehoben, damit ein OSM-Administrator Dich kontaktieren kann, sollte das in der Zukunft nötig sein.
 
 ## Brauche ich ein GPS?
 
@@ -96,12 +95,6 @@ Siehe auch die [Statistik](https://wiki.openstreetmap.org/wiki/Stats) im Wiki.
 ## Wie finanziert sich das?
 
 Alle Arbeit im Projekt wird von Freiwilligen getan, die dafür kein Geld bekommen. Die Server, auf denen die Datenbank und andere zentrale Dienste laufen, sind zum Teil gesponsert, zum Teil von einzelnen Projektmitgliedern aus eigener Tasche bezahlt. Den Betrieb der zentralen Server (Strom, Datenverkehr, usw.) bezahlt eine englische Universität. In Großbritannien gibt es einen OpenStreetMap-Verein, die [Open Street Map Foundation](https://wiki.openstreetmap.org/wiki/Foundation), der ein geringes Maß an Spendengeldern einnimmt. In Deutschland gibt es den [FOSSGIS e.V.](https://www.fossgis.de/), über den Spenden abgewickelt werden können. [Zur Spenden-Seite…]( {{< relref "/spenden" >}})
-
-## Gibt es auch Fan-Artikel?
-
-Die Firma kernel concepts läßt seit Jahren für Linux und andere Open-Source-Projekte, Plüsch-Pinguine, Pins, T-Shirts und dergleichen herstellen und verkauft sie über ihren Online-Shop. Viele werden sie auch vom LinuxTag oder anderen Messen kennen. Ab sofort gibt es dort auch OpenStreetMap-Fan-Artikel.
-
-Hier geht es zu den [Fan-Artikeln](/fan-artikel/).
 
 ## Server
 
