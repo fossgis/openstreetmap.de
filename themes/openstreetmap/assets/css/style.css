@@ -2,7 +2,7 @@
     --primary: #9ed284;
     --primary-darker: #619645;
     --grey: #f8f8f8;
-    --boarder-color: #ccc;
+    --border-color: #ccc;
 }
 
 body {
@@ -64,7 +64,7 @@ body {
 /* Style the tab */
 .tab {
     overflow: hidden;
-    border: 1px solid var(--boarder-color);
+    border: 1px solid var(--border-color);
     background-color: var(--grey);
     text-align: center;
 }
@@ -99,7 +99,7 @@ body {
 .tabcontent {
     display: none;
     padding: 6px 12px;
-    border: 1px solid var(--boarder-color);
+    border: 1px solid var(--border-color);
     border-top: none;
 }
 
@@ -122,17 +122,17 @@ body {
 }
 
 #donation-drive {
-	display: block;
-	font-size: 18px;
-	background-color: #b5de98;
-	color: white;
-	padding: 12px 12px 12px 12px;
-	text-align: center;
-	line-height: 1.5;
+    display: block;
+    font-size: 18px;
+    background-color: #b5de98;
+    color: white;
+    padding: 12px 12px 12px 12px;
+    text-align: center;
+    line-height: 1.5;
 }
 
 #donation-explanation {
-	font-size: 14px;
+    font-size: 14px;
 }
 
 #header {
@@ -223,7 +223,7 @@ div.span-one-half {
     background-color: var(--grey);
     padding: 8px;
 
-    border: 1px solid var(--boarder-color);
+    border: 1px solid var(--border-color);
 }
 
 .swiper-slide {
@@ -282,7 +282,7 @@ footer {
 }
 
 div.span-one-half {
-	width: 50%;
+    width: 50%;
     float: left;
     background-color: #F2F2F2;
     padding-top: 16px;
@@ -424,8 +424,8 @@ div.span-one-half {
     }
 
     .footer-banners {
-        background-color: #F2F2F2;   
-        padding-bottom: 32px;    
+        background-color: #F2F2F2;
+        padding-bottom: 32px;
     }
 
     .footer-green-section {
@@ -444,6 +444,8 @@ div.span-one-half {
     }
 
 }
+
+/* Kalender */
 
 .cal-events {
     border-spacing: 10px;
