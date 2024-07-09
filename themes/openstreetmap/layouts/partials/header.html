@@ -1,29 +1,12 @@
-<div class="heading">
-    <div class="container">
-
-        <div id="header">
-            <div id="header-left-section">
-                <div id="header-logo-image">
-                    {{ $src := resources.Get "img/osm_logo.svg"}}
-                    <img src="{{ $src.RelPermalink }}" alt="" aria-hidden="true"/>
-                </div>
-
-                <div id="header-text">
-                    <h1 id="site-title">
-                        <a href="/" title="OpenStreetMap - Deutschland" rel="home">OpenStreetMap - Deutschland</a>
-                    </h1>
-                </div>
-            </div>
-        </div>
-
-        <nav>
-            {{ $current := . }}
-            {{ range site.Menus.main }}
-            {{ $active := or ($current.IsMenuCurrent "main" .) }}
-            {{ $active = or $active (eq .Name $current.Params.menu_title) }}
-            <a class="nav-link {{ if $active }}active{{ end }}" href="{{.URL | absURL}}">{{.Pre}} {{.Name}}</a>
-            {{end}}
-            <a href="javascript:void(0);" class="icon" onclick="toggleMenu()"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 512 512"><path d="M64,384H448V341.33H64Zm0-106.67H448V234.67H64ZM64,128v42.67H448V128Z"/></svg></a>
-        </nav>
-    </div>
-</div>
+<header>
+    <a id="title" href="/" title="OpenStreetMap - Deutschland" rel="home"><img src="/img/osm_logo.svg" alt="" aria-hidden="true"/> <span>OpenStreetMap - Deutschland</span></a>
+    <nav>
+        {{ $current := . }}
+        {{ range site.Menus.main }}
+        {{ $active := or ($current.IsMenuCurrent "main" .) }}
+        {{ $active = or $active (eq .Name $current.Params.menu_title) }}
+        <a class="nav-link {{ if $active }}active{{ end }}" href="{{.URL | absURL}}">{{.Pre}} {{.Name}}</a>
+        {{end}}
+        <a href="javascript:void(0);" class="icon" onclick="toggleMenu()"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 512 512"><path d="M64,384H448V341.33H64Zm0-106.67H448V234.67H64ZM64,128v42.67H448V128Z"/></svg></a>
+    </nav>
+</header>

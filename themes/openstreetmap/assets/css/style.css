@@ -11,12 +11,6 @@ body {
     font-weight: normal;
 }
 
-.container {
-    width: 76rem;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 main {
     width: 70%;
     margin-left: auto;
@@ -112,50 +106,25 @@ nav svg {
     width: 50px;
 }
 
-.heading {
+header {
     background-color: var(--grey);
 }
 
-#header {
-    padding-top: 24px;
-    padding-bottom: 24px;
-}
-
-#header-left-section {
-    float: left;
-    margin-right: 25px
-}
-
-#header-logo-image {
-    float: left;
-    padding: 0 20px 0 0;
-    max-width: 100%
-}
-
-#header-logo-image img {
-    width: 76px;
-    height: 79px;
-}
-
-#header-text {
-    float: left;
-    padding: 10px 20px 0 0
-}
-
-#site-title a {
-    color: #555;
-    font-size: 36px;
+#title {
+    display: block;
+    padding-top: 10px;
+    text-align: center;
     text-decoration: none;
 }
 
-h1#site-title, h3#site-title {
-    padding-bottom: 5px;
-    line-height: 36px;
-    font-size: 30px
+#title img {
+    width: 64px;
 }
 
-#site-title a:hover {
-    color: var(--primary);
+#title span {
+    position: relative;
+    top: -26px;
+    font-size: 200%;
 }
 
 h1 {
@@ -311,16 +280,6 @@ div.span-one-half {
     #header-logo-image {
         float: none;
         padding-top: 20px;
-    }
-
-    h1#site-title, h3#site-title {
-        padding-bottom: 0;
-        line-height: 32px;
-        font-size: 30px
-    }
-
-    .container {
-        width: 100%;
     }
 
     main {
