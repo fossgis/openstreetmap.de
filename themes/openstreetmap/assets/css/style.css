@@ -8,7 +8,6 @@
 body {
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: normal;
 }
 
 main {
@@ -19,19 +18,15 @@ main {
 
 
 nav {
-    overflow: hidden;
     text-align: center;
     padding: 14px 16px;
-    width: 100%;
 }
 
 nav a {
-    display: inline;
     color: #000;
-    text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
-    font-size: 120%;
+    text-decoration: none !important;
+    font-size: 1.2rem;
 }
 
 nav a:hover {
@@ -97,11 +92,6 @@ nav svg {
     border-top: none;
 }
 
-#osm_logo {
-    position: absolute;
-    width: 70px;
-}
-
 #osm_logo_karte {
     width: 50px;
 }
@@ -124,15 +114,15 @@ header {
 #title span {
     position: relative;
     top: -26px;
-    font-size: 200%;
+    font-size: 2rem;
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 3rem;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 2rem;
 }
 
 h3 {
@@ -140,8 +130,8 @@ h3 {
 }
 
 p {
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 1.4rem;
+    line-height: 1.8rem;
 }
 
 span.read_more {
@@ -178,7 +168,7 @@ div.span-one-half {
 
 .swiper-slide {
     text-align: center;
-    font-size: 18px;
+    font-size: 1.2rem;
     background: #fff;
 
     /* Center slide text vertically */
@@ -402,11 +392,15 @@ div.boxes > div > h2 {
     margin: 0;
     background-color: #e0e0e0;
     padding: 4px 10px;
-    font-size: 140%;
+    font-size: 1.4rem;
 }
 
 div.boxes > div > table {
     padding: 10px;
+}
+
+div.boxes > div > table td {
+    vertical-align: top;
 }
 
 div.boxes > div > p {
