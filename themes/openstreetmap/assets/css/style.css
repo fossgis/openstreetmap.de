@@ -17,21 +17,21 @@ body {
     margin-right: auto;
 }
 
-.content-container {
+main {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
 }
 
 
-.topnav {
+nav {
     overflow: hidden;
     text-align: center;
     padding: 14px 16px;
     width: 100%;
 }
 
-.topnav a {
+nav a {
     display: inline;
     color: #000;
     text-align: center;
@@ -40,21 +40,21 @@ body {
     font-size: 120%;
 }
 
-.topnav a:hover {
+nav a:hover {
     background-color: #ddd;
     color: black;
 }
 
-.topnav a.active {
+nav a.active {
     background-color: var(--primary);
     color: white;
 }
 
-.topnav .icon {
+nav .icon {
     display: none;
 }
 
-.topnav svg {
+nav svg {
     position: relative;
     top: 4px;
     width: 20px;
@@ -323,38 +323,38 @@ div.span-one-half {
         width: 100%;
     }
 
-    .content-container {
+    main {
         width: 90%;
     }
 
-    .topnav {
+    nav {
         padding: 0;
     }
 
-    .topnav a {
+    nav a {
         display: none;
     }
 
-    .topnav a:not(:first-child) {
+    nav a:not(:first-child) {
         display: none;
     }
 
-    .topnav a.icon {
+    nav a.icon {
         float: right;
         display: block;
     }
 
-    .topnav.responsive {
+    nav.responsive {
         position: relative;
         padding: 0;
     }
 
-    .topnav.responsive a {
+    nav.responsive a {
         display: block;
         text-align: left;
     }
 
-    .topnav.responsive .icon {
+    nav.responsive .icon {
         position: absolute;
         right: 0;
         top: 0;

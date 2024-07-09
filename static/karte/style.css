@@ -12,7 +12,7 @@ body {
 	align-content: stretch;
 }
 
-#myTopnav {
+nav {
     background-color: var(--grey);
 }
 
