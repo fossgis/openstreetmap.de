@@ -112,11 +112,6 @@ body {
     width: 50px;
 }
 
-.osm_heading {
-    font-size: 36px;
-    text-align: left;
-}
-
 .heading {
     background-color: var(--grey);
 }

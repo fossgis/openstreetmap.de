@@ -78,14 +78,6 @@ div.mnav ul li {
 	padding-left: 55px;
 }
 
-h1.osm_heading {
-	margin-bottom: 35px;
-	margin-top: 5px;
-	font-size: 36px;
-	margin-left: 80px;
-	text-align: left;
-}
-
 hr.seperator {
 	background: rgb(255,255,255); /* Old browsers */
 	background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(212,212,212,1) 50%, rgba(255,255,255,1) 100%); /* FF3.6+ */
@@ -344,14 +336,6 @@ ul.carousel_tabs li a:focus {
 	#osm_logo {
 		width: 50px;
 		padding-top: 35px;
-	}
-	
-	h1.osm_heading {
-		font-size: 20px;
-		margin-bottom: 5px;
-		margin-top: -12px;
-		margin-left: 55px;
-		line-height: 24px;
 	}
 	
 	/* Text Formatierung */
