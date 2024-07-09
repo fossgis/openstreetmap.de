@@ -437,11 +437,6 @@ a {
     height: calc(100% - 68px);
 }
 
-/* layout for iPhone-sized screens */
-@media (max-width: 520px) {
-    /* hide donation drive related stuff, revert changes related to it which affect other objects*/
-
-
 @media (max-width: 850px) {
     #tfSearch {
         width: 225px;
