@@ -64,8 +64,6 @@ color_primary = "#9ed284"
 
 #################### default parameters ################################
 [params]
-logo = "img/osm_logo.png"
-logo_width = "120px"
 favicon = "img/favicon.ico"
 # Meta data
 description = "OpenStreetMap Deutschland"
