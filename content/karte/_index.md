@@ -1,6 +1,6 @@
 ---
 title: "Karte"
 menu_title: "Karte"
-layout: "single"
+layout: "karte"
 aliases: [/karte.html]
 ---

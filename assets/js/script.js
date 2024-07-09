@@ -1,7 +1,8 @@
 // Toggles the Menu in the navigation bar for mobile devices.
-function toggleMenu() {
+document.getElementById('menu-toggle').addEventListener('click', (event) => {
+    event.preventDefault();
     document.getElementsByTagName('nav')[0].classList.toggle('responsive');
-}
+});
 
 // Toggles the dropdrown for the "shop window" for mobile devices.
 function toggleDropdown() {

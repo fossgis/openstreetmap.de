@@ -2,7 +2,10 @@
 <html>
     {{- partial "head.html" . -}}
     <body>
-        {{- partial "header.html" . -}}
+        <header>
+            <a id="title" href="/" title="OpenStreetMap - Deutschland" rel="home"><img src="/img/osm_logo.svg" alt="" aria-hidden="true"/> <span>OpenStreetMap - Deutschland</span></a>
+            {{- partial "menu.html" . -}}
+        </header>
         <main>
         {{- block "main" . }}{{- end }}
         </main>
