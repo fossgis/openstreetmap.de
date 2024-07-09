@@ -449,21 +449,6 @@ a.menu::after, .dropdown-toggle::after {
 	cursor: pointer;
 }
 
-/* donation drive banner 2023 */
-#donation-drive {
-	font-size: 18px;
-	background-color: #b5de98;
-	color: white;
-	padding: 12px 12px 12px 12px;
-	text-align: center;
-	line-height: 1.5;
-	height: 69px;
-}
-
-#donation-explanation {
-	font-size: 14px;
-}
-
 a {
     color: var(--primary-darker);
 }
