@@ -445,6 +445,34 @@ div.span-one-half {
 
 }
 
+/* boxes */
+
+div.boxes {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
+
+div.boxes > div {
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+}
+
+div.boxes > div > h2 {
+    margin: 0;
+    background-color: #e0e0e0;
+    padding: 4px 10px;
+    font-size: 140%;
+}
+
+div.boxes > div > table {
+    padding: 10px;
+}
+
+div.boxes > div > p {
+    padding: 0 10px;
+}
+
 /* Kalender */
 
 .cal-events {
