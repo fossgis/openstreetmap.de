@@ -7,7 +7,7 @@
         {{- block "main" . }}{{- end }}
         </main>
         {{ partialCached "footer.html" . }}
-        <script src="/plugins/swiperjs/swiper-bundle.min.js"></script>
+        <script src="/js/swiper-bundle.min.js"></script>
         {{ $script := resources.Get "js/script.js" }}
         <script src="{{ $script.RelPermalink }}"></script>
     </body>

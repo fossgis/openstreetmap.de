@@ -1,7 +1,6 @@
 baseURL = "https://openstreetmap.de/"
 languageCode = "de-de"
 title = "OpenStreetMap Deutschland"
-theme = "openstreetmap"
 # post pagination
 paginate = "5"
 # post excerpt
@@ -32,7 +31,7 @@ unsafe= true
 ############################## Plugins ##############################
 # CSS Plugins
 [[params.plugins.css]]
-link = "plugins/swiperjs/swiper-bundle.min.css"
+link = "/css/swiper-bundle.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
