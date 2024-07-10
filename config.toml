@@ -1,15 +1,6 @@
 baseURL = "https://openstreetmap.de/"
 languageCode = "de-de"
 title = "OpenStreetMap Deutschland"
-# post pagination
-paginate = "5"
-# post excerpt
-summaryLength = "20"
-# google analytics
-#googleAnalytics = "" # example : UA-123-45
-# disqus short name
-#disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
-
 
 ############################# Modules ##############################
 [module.hugoVersion]
@@ -27,7 +18,6 @@ home = ["HTML"]
 [markup.goldmark.renderer]
 unsafe= true
 
-
 ############################## Plugins ##############################
 # CSS Plugins
 [[params.plugins.css]]
@@ -37,41 +27,14 @@ link = "/css/swiper-bundle.min.css"
 [[params.plugins.js]]
 link = "plugins/swiperjs/swiper-bundle.min.js"
 
-
-# site variables
-[params.variables]
-font_primary = "Mulish"
-h1 = "64px"
-h1_lg = "52px"
-h1_md = "42px"
-h2 = "38px"
-h2_md = "30px"
-h3 = "30px"
-h3_md = "24px"
-h4 = "24px"
-h5 = "18px"
-h6 = "16px"
-white = "#ffffff"
-black = "#000000"
-dark = "#152035"
-gray = "#f8f8f8"
-light = "#FAFAFA"
-border_color = "#ccc"
-color_primary = "#9ed284"
-
 #################### default parameters ################################
 [params]
 favicon = "img/favicon.ico"
 # Meta data
 description = "OpenStreetMap Deutschland"
 author = "FOSSGIS e.V."
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
 # search
 search = false
-# main section
-# mainSections = ["posts"]
-# copyright
 copyright = "FOSSGIS e.V"
 
 # Preloader
@@ -83,7 +46,6 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.cookies]
 enable = false
 expire_days = 2
-
 
 ############################# Main Menu ########################
 [[menu.main]]
@@ -122,22 +84,3 @@ url = "kalender/"
 pre = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M32,456a24,24,0,0,0,24,24H456a24,24,0,0,0,24-24V176H32ZM352,212a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H356a4,4,0,0,1-4-4Zm0,80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H356a4,4,0,0,1-4-4Zm-80-80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H276a4,4,0,0,1-4-4Zm0,80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H276a4,4,0,0,1-4-4Zm0,80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H276a4,4,0,0,1-4-4Zm-80-80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H196a4,4,0,0,1-4-4Zm0,80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H196a4,4,0,0,1-4-4Zm-80-80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H116a4,4,0,0,1-4-4Zm0,80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H116a4,4,0,0,1-4-4Z"/><path d="M456,64H400.08V32h-48V64H159.92V32h-48V64H56A23.8,23.8,0,0,0,32,87.77V144H480V87.77A23.8,23.8,0,0,0,456,64Z"/></svg>'
 weight = 6
 
-
-############################# Footer Menu ########################
-[[menu.footer]]
-name = "Kontakt/Impressum"
-url = "impressum/"
-weight = 1
-
-[[menu.footer]]
-url = "community#fossgis"
-weight = 1
-
-[[menu.footer]]
-url = "faq#lizenz"
-weight = 1
-
-[[menu.footer]]
-name = "Datenschutz"
-url = "https://www.fossgis.de/datenschutzerklärung/"
-weight = 2
