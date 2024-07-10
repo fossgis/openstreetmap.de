@@ -35,7 +35,11 @@ Wenn Du Fragen oder Anregungen zu diesen Webseiten hast, kannst Du den Webmaster
 
 ## Impressum
 
-Eigentümer der Domain openstreetmap.de ist:
+<img src="/img/fossgis-logo.png" width="100" style="float: left; padding-right: 10px;"/>
+
+Der {{< extlink href="https://www.fossgis.de/" text="FOSSGIS e.V." >}} betreibt
+diese Webseiten für die OSM-Community. Er ist Eigentümer der Domain
+openstreetmap.de.
 
 ```
 FOSSGIS e.V.
@@ -43,13 +47,14 @@ Bundesallee 23
 D-10717 Berlin
 ```
 
-Vertreten durch:
+Vertreten durch den Vorstand:
 
 * Jörg Thomsen
 * Pirmin Kalberer
 * David Arndt
 * Falk Zscheile
 
-Der Verein wurde unter der Registernummer 90 VR 3594 am 18. Januar 2001 beim Registergericht der Stadt Mainz eingetragen.
+Der Verein wurde unter der Registernummer 90 VR 3594 am 18. Januar 2001 beim
+Registergericht der Stadt Mainz eingetragen.
 
 www.fossgis.de / info@fossgis.de
