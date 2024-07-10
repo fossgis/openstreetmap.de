@@ -4,16 +4,6 @@ document.getElementById('menu-toggle').addEventListener('click', (event) => {
     document.getElementsByTagName('nav')[0].classList.toggle('responsive');
 });
 
-// Toggles the dropdrown for the "shop window" for mobile devices.
-function toggleDropdown() {
-    var x = document.getElementById("myDropdown");
-    if (x.className === "tab") {
-        x.className += " responsive";
-    } else {
-        x.className = "tab";
-    }
-}
-
 // Opens the specific tab in the "shop window".
 function openTab(evt, tabName) {
     var i, tabcontent, tablinks;
