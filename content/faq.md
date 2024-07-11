@@ -30,7 +30,7 @@ Außerdem stellt Google zwar Karten zur Verfügung, aber nicht die zugrundeliege
 
 Am besten Du meldest Dich bei OpenStreetMap an und kannst dann direkt die Daten bearbeiten. Ein Einstieg findet sich [hier](/123/).
 
-Wenn Dir das zu umständlich ist, dann kannst Du kleinere Fehler auch direkt auf https://www.openstreetmap.org melden. Klicke einfach auf oder auf das gleiche Symbol ![map note](/img/map-note.png "map note") in der Kartenanzeige. Dies fügt eine Markierung der Karte hinzu, die du durch Ziehen verschieben kannst. Schreibe deine Nachricht, klicke auf „Speichern“ und andere Mapper werden den Fehler untersuchen.
+Wenn Dir das zu umständlich ist, dann kannst Du kleinere Fehler auch direkt auf https://www.openstreetmap.org/ melden. Klicke einfach auf oder auf das gleiche Symbol ![map note](/img/map-note.png "map note") in der Kartenanzeige. Dies fügt eine Markierung der Karte hinzu, die du durch Ziehen verschieben kannst. Schreibe deine Nachricht, klicke auf „Speichern“ und andere Mapper werden den Fehler untersuchen.
 
 ## Wie kann ich mitmachen?
 
@@ -65,7 +65,7 @@ OpenStreetMap selbst bietet die gesammelten Daten entweder in Rohform oder in Fo
 
 Zum Anschauen oder um schnell und unkompliziert eine Karte auf die eigene Webseite zu bringen, eignen sich die vorberechneten Kartenbilder am besten (auch die [Karte](/karte/) auf [OpenStreetMap.de](/karte/) arbeitet damit).
 
-Wer eigene Berechnungen mit den Daten anstellen möchte oder Karten in einem selbst definierten Stil produzieren will, der benutzt statt fertiger Kartenbilder die Rohdaten. Die Rohdaten können als regelmäßig aktualisierte Datei heruntergeladen werden (das sog. [„planet file“](https://planet.openstreetmap.org/) mit den Daten der ganzen Welt). Weiterhin bieten verschiedene Firmen und Organisationen kostenlose Auszüge daraus: [Geofabrik](https://download.geofabrik.de/osm/), [BBBike](https://extract.bbbike.org/) und [weitere](https://wiki.openstreetmap.org/wiki/Planet.osm).
+Wer eigene Berechnungen mit den Daten anstellen möchte oder Karten in einem selbst definierten Stil produzieren will, der benutzt statt fertiger Kartenbilder die Rohdaten. Die Rohdaten können als regelmäßig aktualisierte Datei heruntergeladen werden (das sog. [„planet file“](https://planet.openstreetmap.org/) mit den Daten der ganzen Welt). Weiterhin bieten verschiedene Firmen und Organisationen kostenlose Auszüge daraus: [Geofabrik](https://download.geofabrik.de/), [BBBike](https://extract.bbbike.org/) und [weitere](https://wiki.openstreetmap.org/wiki/Planet.osm).
 
 ## Wie ist das mit der Lizenz?
 

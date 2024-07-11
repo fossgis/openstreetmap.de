@@ -61,6 +61,6 @@ müssen. Bitte geben Sie in der E-Mail den Betrag und das Datum an, wann Sie die
 ## Spenden an die OSM Foundation
 
 International nimmt auch die [OpenStreetMap
-Foundation](https://www.osmfoundation.org/) Spenden entgegen. Gehen Sie dazu
-auf die Seite [donate.openstreetmap.org](https://donate.openstreetmap.org/).
+Foundation](https://osmfoundation.org/) Spenden entgegen. Gehen Sie dazu
+auf die Seite [supporting.openstreetmap.org](https://supporting.openstreetmap.org/).
 

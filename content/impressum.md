@@ -57,4 +57,3 @@ Vertreten durch den Vorstand:
 Der Verein wurde unter der Registernummer 90 VR 3594 am 18. Januar 2001 beim
 Registergericht der Stadt Mainz eingetragen.
 
-www.fossgis.de / info@fossgis.de
