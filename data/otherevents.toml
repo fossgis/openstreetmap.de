@@ -1,0 +1,18 @@
+[[event]]
+href = "https://maker-faire.de/hannover/"
+title = "Maker Faire 2024"
+image = "makerfaire.png"
+dateFrom = "2024-08-17"
+dateTo = "2024-08-18"
+dateText = "17. bis 18. August 2024"
+location = "Hannover"
+
+[[event]]
+href = "https://datenspuren.de/2024/"
+title = "Datenspuren 2024"
+image = "datenspuren.jpg"
+dateFrom = "2024-09-21"
+dateTo = "2024-08-21"
+dateText = "21. September 2024"
+location = "Dresden"
+

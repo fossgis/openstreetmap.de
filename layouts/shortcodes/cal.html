@@ -1,0 +1,17 @@
+<table class="cal-events"><tbody><tr>
+    {{ $c := index $.Site.Data (.Get "calendar") }}
+    {{ range sort $c.event "dateFrom" -}}
+    {{ if (time .dateTo).After now }}
+    <td>
+        <a href="{{ .href }}">
+        {{- if isset . "image" -}}
+        <img alt="{{ .title }}" src="/img/cal/{{ .image }}"/>
+        {{- else -}}
+        {{ .title }}
+        {{- end -}}
+        </a>
+        <div>{{ .location }}<br/>{{ .dateText }}</div>
+    </td>
+    {{ end -}}
+    {{ end -}}
+</tr></tbody></table>

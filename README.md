@@ -31,6 +31,24 @@ Lokal kann die Webseite mithilfe von hugo generiert werden: [Hugo Installationsa
 
 Im Zweifelsfall Inhalte anlegen und Pull Request öffnen, wir finden eine Lösung :)
 
+## Kalender
+
+Auf der [Kalenderseite](https://openstreetmap.de/kalender/) werden drei
+Event-Listen angezeigt:
+
+1. Eine kuratierte Sammlung von wichtigen OSM-Events.
+   Events werden unter `data/osmevents.toml` eingetragen.
+2. Kuratierte Sammlung externer Events auf denen wir mit einem Stand vertreten
+   sind. Events werden unter `data/otherevents.toml` eingetragen.
+3. Per Javascript automatisch von osmcal.org erzeugte Liste von Events in
+   Deutschland.
+
+Für die ersten beiden Listen gilt: Events werden automatisch nach
+Anfangsdatum sortiert. Vergangene Events werden nicht angezeigt, wenn die Seite
+neu generiert wird. Trotzdem sollte man alte Events gelegentlich entfernen.
+Für Events kann ein Bild hinterlegt werden, das muss im Verzeichnis
+`static/img/cal/` abgelegt werden.
+
 ## Generierung der Webseite
 
 Jedes mal, wenn dieses Repository auf Github geändert wird (entweder weil man
