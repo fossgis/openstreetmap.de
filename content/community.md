@@ -32,7 +32,7 @@ Weitere Informationen: https://fossgis-konferenz.de/
 
 OpenStreetMap bietet unter [community.openstreetmap.org](https://community.openstreetmap.org/) mehrere Webforen an, darunter auch ein [deutschsprachiges Forum](https://community.openstreetmap.org/c/communities/de/56).
 
-Für GeoCacher bietet sich das OSM-Forum auf [geoclub.de](https://www.geoclub.de/forum/viewforum.php?f=70) an. Und für Freunde der mobilen Navigation das Forum auf [pocketnavigation.de](https://forum.pocketnavigation.de/).
+Für GeoCacher bietet sich das OSM-Forum auf [geoclub.de](https://www.geoclub.de/forum/f/openstreetmap.70/) an. Und für Freunde der mobilen Navigation das Forum auf [pocketnavigation.de](https://forum.pocketnavigation.de/).
 
 
 ## Chat
