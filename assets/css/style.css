@@ -100,6 +100,20 @@ header {
     background-color: var(--grey);
 }
 
+#weekly-osm {
+    display: block;
+    float: right;
+    background-color: var(--grey);
+    margin-left: 10px;
+    border: 1px solid maroon;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-align: center;
+    color: maroon;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
 #title {
     display: block;
     padding-top: 10px;

@@ -6,6 +6,8 @@ aliases: [/index.html]
 
 ## Was ist OpenStreetMap?
 
+{{< weekly-osm >}}
+
 [OpenStreetMap.org](https://www.openstreetmap.org) ist ein im Jahre 2004 gegründetes internationales Projekt mit dem Ziel, eine freie Weltkarte zu erschaffen. Dafür sammeln wir weltweit Daten über Straßen, Eisenbahnen, Flüsse, Wälder, Häuser und vieles mehr.
 [Mehr erfahren\...](faq#was-ist-openstreetmap)
 

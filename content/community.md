@@ -6,15 +6,9 @@ aliases: [/community.html]
 
 # Community
 
+{{< weekly-osm >}}
+
 OpenStreetMap (OSM) wird ganz wesentlich durch seine Community geprägt. Ohne die vielen Freiwilligen, die die Arbeit erledigen, wäre OpenStreetMap nicht denkbar. Natürlich kann jeder auch „einfach so“ Geodaten sammeln und beitragen, aber zusammen macht es viel mehr Spaß.
-
-## Neuigkeiten
-
-{{< rawhtml >}}
-<a target="_blank" href="https://weeklyosm.eu/de/"><img src="/img/weeklyosm-logo.png" style="height: 34px; float: left; padding-right: 10px;" alt="Wochennotiz" aria-ignore="true"/></a>
-{{< /rawhtml >}}
-
-Jede Woche gibt es die {{< extlink href="https://weeklyosm.eu/de/" text="Wochennotiz" >}}, sie fasst in kompakter Form viele Neuigkeiten aus dem OSM-Projekt zusammen.
 
 ## Wiki
 
