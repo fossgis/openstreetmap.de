@@ -406,23 +406,29 @@ div.boxes > div > p {
 /* Kalender */
 
 .cal-events {
-    border-spacing: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
-.cal-events td {
+.cal-events > div {
+    display: grid;
+    grid-template-rows: 1fr repeat(2, max-content);
+    align-items: center;
     border: 1px solid #e0e0e0;
+    border-radius: 3px;
     padding: 10px;
     text-align: center;
     vertical-align: bottom;
     width: 160px;
-    height: 140px;
+    height: 160px;
 }
 
 .cal-events img {
     width: 100px;
 }
 
-.cal-events div {
+.cal-events > div > div {
     margin-top: 10px;
 }
 
