@@ -23,7 +23,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo
 
       - name: Deploy site
         if: github.ref == 'refs/heads/main'
