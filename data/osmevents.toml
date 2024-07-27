@@ -1,13 +1,4 @@
 [[event]]
-href = "https://stateofthemap.eu/"
-title = "State of the Map Erope 2024"
-image = "sotm-eu-lodz.svg"
-dateFrom = "2024-07-18"
-dateTo = "2024-07-21"
-dateText = "18. bis 21. Juli 2024"
-location = "Łódź, Polen"
-
-[[event]]
 href = "https://2024.stateofthemap.org/"
 title = "State of the Map 2024"
 image = "sotm-nairobi.svg"
@@ -36,8 +27,8 @@ location = "Karlsruhe"
 href = "https://fossgis-konferenz.de/2025/"
 title = "FOSSGIS-Konferenz 2025"
 image = "fossgis-2025.png"
-dateFrom = "2024-10-03"
-dateTo = "2024-10-06"
+dateFrom = "2025-03-26"
+dateTo = "2025-03-29"
 dateText = "26. bis 29. März 2025"
 location = "Münster"
 
