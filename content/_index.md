@@ -37,7 +37,7 @@ Mehr über das [Projekt](/projekt/) erfahren
 
 ## OpenStreetMap nutzen
 
-Es gibt ganz viele verschiedene Möglichkeiten die Karten, Dienste und Daten
+Es gibt ganz verschiedene Möglichkeiten die Karten, Dienste und Daten
 des OpenStreetMap-Projekts zu nutzen. Viele Webseiten und Apps benutzen unsere
 Daten. Aber alle Daten stehen auch zum Herunterladen frei zur Verfügung und
 können damit vielfältig verwendet werden.
@@ -51,10 +51,10 @@ OpenStreetMap [nutzen](/nutzen/)
 
 ## Zu OSM beitragen
 
-Bei OpenStreetMap tragen Tausende Menschen jeden Tag dazu bei, das Gebiet in
+Bei OpenStreetMap tragen tausende Menschen jeden Tag dazu bei, das Gebiet in
 dem sie leben, arbeiten oder Urlaub machen, noch besser zu erfassen und aktuell
 zu halten. Jede und jeder trägt bei, was sie können und was sie interessiert.
-Jede Hilfe ist uns willkommen!
+Auch Ihre Beiträge sind willkommen!
 
 Zum OpenStreetMap-Projekt [beitragen](/beitragen/)
 {.link-intern}
@@ -66,9 +66,8 @@ Zum OpenStreetMap-Projekt [beitragen](/beitragen/)
 ## Die OSM-Community
 
 OpenStreetMap ist mehr als eine Karte. Es ist eine Community. Manche machen das
-aus Spaß an der Sache, andere im Auftrag ihres Arbeitgebers. Aber alle arbeiten
-sie auf vielfältige Art und Weise zusammen, um eine gemeinsame Karte zu
-erschaffen.
+aus Spaß an der Sache, andere im Auftrag ihres Arbeitgebers. Aber sie alle arbeiten
+auf vielfältige Art und Weise zusammen, um eine gemeinsame Karte zu erschaffen.
 
 Die [OpenStreetMap-Community](/community/)
 {.link-intern}
