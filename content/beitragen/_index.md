@@ -10,7 +10,7 @@ verschiedenen besonderen Interessen und Sichten auf die Welt führen dazu, dass
 wir gemeinsam die beste Karte der Welt erschaffen.
 
 {{% infobox %}}
-Du willst eigentlich garnichts beitragen, sondern nur einen **Fehler melden**?
+Du willst eigentlich nicht groß beitragen, sondern nur einen **Fehler melden**?
 Das ist auch ein wertvoller Beitrag. [**Hier erklären wir, wie das
 geht**](/beitragen/fehler-melden/).
 {{% /infobox %}}

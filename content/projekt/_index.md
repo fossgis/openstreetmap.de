@@ -63,8 +63,8 @@ anlegen](/beitragen/osm-zugang/) und die Bedingungen bestätigen und schon kann
 es losgehen.
 
 Es gibt ganz verschiedene Möglichkeiten beizutragen. Man kann mit einfach zu
-nutzenden Apps anfangen, kleine Beiträge zu leisten. Dann lernt man ein bischen
-wie das geht und mit der Zeit kann man dann langsam mehr machen. Für die Profis
+nutzenden Apps anfangen, kleine Beiträge zu leisten. So lernt man allmählich
+wie das geht und mit der Zeit kann man immer mehr machen. Für die Profis
 gibt es dann einen speziellen Editor, mit dem auch die kompliziertesten
 Beiträge möglich sind.
 
@@ -104,13 +104,13 @@ mitarbeiten, es gibt keine Daten _nur von Dir_ oder _nur für Dich_.
 ## Die Community
 
 OpenStreetMap funktioniert nur, weil wir eine große aktive Community von
-Beitragenden haben. Für uns ist eigentlich jeder Mensch, der oder die OSM nutzt
+Beitragenden haben. Für uns ist eigentlich jeder Mensch, der OSM nutzt
 oder dazu beiträgt Teil dieser Community. Egal ob man das aus Spaß an der
-Freude macht oder professionell für eine Firma.
+Freude macht oder beruflich für eine Firma.
 
-Der Austausch mit den Mapper-Kollegen, insbesondere der lokalen Community ist
-dabei enorm wichtig. Nur so können wir voneinander lernen und gemeinsam die
-Datenbasis verbessern.
+Der Austausch mit den Mapper-Kolleginnen und -Kollegen, insbesondere der 
+lokalen Community, ist dabei enorm wichtig. Nur so können wir voneinander
+lernen und gemeinsam die Datenbasis verbessern.
 
 [Wie „funktioniert“ die OSM-Community?](/community/)
 {.link-intern}
