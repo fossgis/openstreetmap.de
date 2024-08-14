@@ -20,7 +20,7 @@ die Karten herunterladen, sodass man unterwegs auch ohne Netz navigieren kann.
 
 ### Organic Maps
 
-Eine einfach zu benutzende Open Source App für OSM. Sie steht für Android und
+Eine einfach zu benutzende Open-Source-App für OSM. Sie steht für Android und
 Apple Smartphones zur Verfügung. Für Einsteiger genau das richtige. Die App
 gibts in den App Stores der Hersteller und auch im F-Droid Store. OSM-Daten
 können kostenlos heruntergeladen werden und brauchen nur wenig Platz auf Deinem
@@ -29,7 +29,7 @@ Telefon.
 Zur [Organic Maps](https://organicmaps.app/) Homepage
 {.link-extern}
 
-[Source on Github](https://github.com/organicmaps/organicmaps)
+[Quellcode auf Github](https://github.com/organicmaps/organicmaps)
 {.link-extern}
 
 [![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/app/organic-maps/id1567437057)
@@ -50,7 +50,7 @@ Eine Open Source App für Fortgeschrittene. Die Bedienung ist nicht ganz so
 einfach, dafür gibt es eine Menge Funktionen. Man kann sogar OSM editieren. Die
 App gibt es für Android und Apple in den App Stores und auch über F-Droid.
 
-There is also a paid version called OsmAnd Plus.
+Es gibt auch eine kostenpflichtige Version namens "OsmAnd+".
 
 Zur [OSMAnd](https://osmand.net/) Homepage
 {.link-extern}

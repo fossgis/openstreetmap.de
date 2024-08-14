@@ -22,7 +22,7 @@ Jahre zeigt allerdings, dass sie sehr zuverlässig laufen.
 Alle Dienste sind ohne eine Registrierung benutzbar. Aber bitte halten Sie sich
 an die [Nutzungsbedingungen](TODO).
 
-Alle diese Dienste basieren auf Open Source Software, die Sie auch selbst
+Alle diese Dienste basieren auf Open-Source-Software, die Sie auch selbst
 installieren können. Es gibt auch Dienstleister, die Ihnen dabei helfen oder
 sie für Sie betreiben können. Wenn das für Sie interessant sein könnte, dann
 schauen Sie sich doch auf unserer
@@ -102,8 +102,8 @@ zur Nutzung der Overpass API
 <img class="float-right" src="/img/logos/osrm.svg" alt="" width="160"/>
 {{< /rawhtml >}}
 
-Open Source Routing Machine (OSRM) ist ein Open Source Routing-Server.
-OpenStreetMap Deutschland betreibt mehrere Test/Demo-Server. Dort kann man
+Open Source Routing Machine (OSRM) ist ein Open-Source-Routing-Server.
+OpenStreetMap Deutschland betreibt mehrere Test-/Demo-Server. Dort kann man
 sich Routen für Autos, Radfahrer und Fußgänger errechnen lassen.
 
 Der Dienst kann über die API auch in eigene Seiten eingebunden werden.
@@ -128,7 +128,7 @@ Github](https://github.com/Project-OSRM)
 <img class="float-right" src="/img/logos/valhalla.png" alt="" width="100" height="100"/>
 {{< /rawhtml >}}
 
-Valhalla ist ein Open Source Routing-Server. OpenStreetMap Deutschland betreibt
+Valhalla ist ein Open-Source-Routing-Server. OpenStreetMap Deutschland betreibt
 mehrere Test/Demo-Server. Dort kann man die Navigation für sechs verschiedene
 Verkehrsmittel berechnen lassen, mit vielen Zusatzoptionen. Außerdem ist es
 möglich, Isochronen berechnen zu lassen. Das sind die Bereiche, die in einer
@@ -164,7 +164,7 @@ Zum [Download-Server](https://osmdata.openstreetmap.de/)
 
 {{% infobox %}}
 
-Alle von uns betriebene Software ist freie und Open Source Software. Du kannst
+Alle von uns betriebene Software ist freie und Open-Source-Software. Du kannst
 sie selbst bei Dir installieren und bei der Weiterentwicklung helfen. Unser
 [Sysadmin-Team](https://www.fossgis.de/arbeitsgruppen/osm-server/) kümmert
 sich um dem Betrieb. Wenn Du etwas Sysadmin-Erfahrung hast und noch mehr lernen

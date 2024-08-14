@@ -13,7 +13,7 @@ fühlen, für einen geographischen oder thematischen Bereich. Aber das heißt
 nicht, dass man andere ausschließen kann oder mehr zu sagen hat als andere.
 Jede und jeder kann und darf gleichberechtigt mitarbeiten.
 
-## Änderungen sind Live!
+## Änderungen sind live!
 
 Alle Änderungen, die Ihr bei OSM macht, sind sofort für alle anderen Mapper und
 für die ganze Welt sichtbar! Wir haben absichtlich keine Kontrolle
@@ -34,7 +34,7 @@ später wird jemand anderes das machen. (Ihr könnt aber eine [Notiz
 anlegen](/beitragen/fehler-melden/) als Hinweis.)
 
 Gleichzeitig solltet ihr Euch aber auch nicht zu sehr bremsen lassen. Die Welt
-geht nicht gleich unter, wenn mal etwas kleines falsch auf der Karte ist.
+geht nicht gleich unter, wenn mal etwas Kleines falsch auf der Karte ist.
 Entweder ihr seht es selbst oder früher oder später auch jemand anderes und es
 wird repariert. Es muss ja auch Spaß machen an der Karte zu arbeiten. Benutzt
 Euren gesunden Menschenverstand. Bei wichtigen Dingen, die viele Kartennutzer

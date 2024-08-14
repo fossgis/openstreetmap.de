@@ -33,10 +33,10 @@ benutzen OSM-Daten.
 ## Die OpenRailwayMap
 
 Die OpenRailwayMap wird von einigen Enthusiasten aus der OSM-Community
-betrieben. Sie zeigt die bei OSM erfaßten Daten zur Eisenbahn-Infrastruktur auf
-vielfältige Weise. Man kann sich die Strecken nach verschiedenen Kriterien wie
-der Spurweite oder die Art der Elektrifizierung einfärben lassen. Oder auch die
-einzelnen Signal entlang der Gleise sehen.
+betrieben. Sie zeigt die bei OSM erfassten Daten zur Eisenbahn-Infrastruktur
+auf vielfältige Weise. Man kann sich die Strecken nach verschiedenen Kriterien
+wie der Spurweite oder die Art der Elektrifizierung einfärben lassen. Oder auch
+die einzelnen Signal entlang der Gleise sehen.
 
 [OpenRailwayMap](https://openrailwaymap.org/)
 {.link-extern}
@@ -47,7 +47,7 @@ Es ist auch möglich auf den Gleisen automatisiert zu navigieren. Natürlich
 reicht das nicht aus, um festzustellen, ob eine Verbindung wirklich möglich
 ist, aber um zum Beispiel für den Güterverkehr eine erste Abschätzung zu
 treffen, ob ein Transport per Bahn vielleicht möglich oder wie groß der
-CO&#x2082;-Austausch wäre, dafür reicht es allemal.
+CO&#x2082;-Ausstoß wäre, dafür reicht es allemal.
 
 ## Weitere Links
 

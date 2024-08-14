@@ -25,7 +25,7 @@ XXX weitere Infos?
 ## Wegebeschränkungen
 
 In vielen Naturschutzgebieten darf man nur auf entsprechend geeigneten Wegen
-laufen, radfahren oder reiten. Manchmal gibt es Einschränkungen bei den
+laufen, Rad fahren oder reiten. Manchmal gibt es Einschränkungen bei den
 Verkehrsmitteln, teilweise auch zeitliche Einschränkungen, um der Landschaft
 oder den Tieren Zeit zur Erholung zu geben. Solche Einschränkungen können in
 OSM eingetragen werden. Die Einschränkungen sind allerdings nicht auf allen

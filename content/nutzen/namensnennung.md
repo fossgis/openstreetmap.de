@@ -33,8 +33,8 @@ Wenn Sie OpenStreetMap-Daten bzw. -Karten nutzen, dann müssen Sie OpenStreetMap
 immer als Quelle angeben. Die Art und Weise, wie das zu geschehen hat, hängt
 vom Anwendungsfall ab. Es spielt dabei keine Rolle, ob sie eine Karte von OSM
 nutzen oder OSM-Daten nutzen und daraus selbst eine Karte erstellt haben.
-Maßgebend ist hier, dass OSM-Daten drinstecken. Das ergibt sich aus der Open
-Database License (ODbL) unter der die Daten lizensiert sind.
+Maßgebend ist hier, dass OSM-Daten verwendet werden. Das ergibt sich aus der
+Open Database License (ODbL) unter der die Daten lizensiert sind.
 
 Im Folgenden stellen wir ein paar typische Anwendungen dar und geben
 Empfehlungen, wie die Namensnennung umzusetzen ist.
@@ -53,7 +53,7 @@ dass man Copyright-Informationen rechts unten auf der Karte anzeigt. Das muss
 aber nicht so sein, solange die Informationen irgendwoanders auf der Seite
 einfach zu finden sind.
 
-Der akzeptierte übliche Text für OSM ist hierbei „© OpenStreetMap Beitragende“
+Der akzeptierte übliche Text für OSM ist hierbei „© OpenStreetMap-Beitragende“
 (oder die englische Version „© OpenStreetMap Contributors“), der mit einem Link
 auf die Seite
 [https://www.openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
@@ -64,7 +64,7 @@ Smartphones gedacht sind, dann kann man auch einen kleinen Button irgendwo
 anbringen, der zu einer anderen Seite führt oder ein Popup öffnet, in dem die
 Information dann zu finden ist.
 
-Wenn eine Karte verschiedene Datenquellen hat und OSM dabei ist, dann muss OSM
+Wenn eine Karte neben OSM weitere Datenquellen verwendet, dann muss OSM
 mindestens genauso prominent wie anderen Datenquellen genannt werden.
 
 Wird OSM nur für einige geographische Bereiche verwendet, so kann man die
@@ -97,7 +97,7 @@ Urheberrecht haben können. Das ändert aber nichts daran, dass Sie OSM-Daten
 als Grundlage verwenden und damit unter die Lizenzregelungen der ODbL fallen.
 
 Sie können ihre Karte als sogenanntes „produced work“ unter eine Lizenz
-stellen, die für sie paßt. Aber das heißt nicht, dass sie OSM nicht erwähnen
+stellen, die für sie passt. Aber das heißt nicht, dass sie OSM nicht erwähnen
 müssen.
 
 Das Urheberrecht ist nämlich das eine, aber es gibt auch noch die
@@ -108,11 +108,11 @@ Copyright an dem Werk haben.
 
 ## Was passiert, wenn ich die Namensnennung nicht korrekt durchführe?
 
-Streng genommen verlieren Sie das Recht OSM zu benutzen, wenn Sie sich nicht an
-die Lizenz halten. So steht das in der ODbL (Artikel 9.1). Praktisch haben wir
-besseres zu tun als den ganzen Tag nach Lizenzverletzern Ausschau zu halten.
-Es gibt aber immer wieder Mitglieder der OSM-Community, die nach sowas schauen
-und auf die Verletzung aufmerksam machen.
+Streng genommen verlieren Sie das Recht, OSM zu benutzen, wenn Sie sich nicht
+an die Lizenz halten. So steht das in der ODbL (Artikel 9.1). Praktisch haben
+wir besseres zu tun als den ganzen Tag nach Lizenzverletzern Ausschau zu
+halten. Es gibt aber immer wieder Mitglieder der OSM-Community, die nach sowas
+schauen und auf die Verletzung aufmerksam machen.
 
 Wir behalten uns aber natürlich vor, entsprechend auf Lizenzverletzungen zu
 reagieren. Es ist auch schon vorgekommen, dass wir da einen Anwalt

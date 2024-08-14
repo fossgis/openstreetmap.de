@@ -27,7 +27,7 @@ Hindernisse (wie Poller, Gitter, Schranken).
 <a class="float-right" href="höhenprofil-brouter-web.png"><img class="with-border" src="höhenprofil-brouter-web.png" alt="Beispiel Höhenprofil in BRouter Web" title="Beispiel Höhenprofil in BRouter Web" width="200"/></a>
 {{< /rawhtml >}}
 
-Nicht erfaßt werden bei OSM Höheninformation. Aber es gibt anderen Quellen
+Nicht erfasst werden bei OSM Höheninformation. Aber es gibt anderen Quellen
 dafür, die man gut zusammen mit OSM verwenden kann. Viele Bundesländer in
 Deutschland und viele Länder außerhalb Deutschlands stellen Höheninformationen
 in guter Auflösung für ihr Gebiet als Open Data zur Verfügung.
@@ -39,12 +39,12 @@ mit einbeziehen. Sie zeigen dann auch ein Profil der Strecke mit an.
 {{% /infobox %}}
 
 Spezielle Routing-Software kennt manchmal ein Dutzend Profile und mehr vom
-Rennrad, über Treckingrad, Gravel, MTB, Liegerad, ... in vielen Variationen, um
+Rennrad, über Trekkingrad, Gravel, MTB, Liegerad, ... in vielen Variationen, um
 für jede und jeden die richtigen Routen zu finden.
 
 ## Ausgeschilderte Radwanderwege
 
-Ausgeschilderte Radfernwege und dergleichen werden bei OSM erfaßt. Von der
+Ausgeschilderte Radfernwege und dergleichen werden bei OSM erfasst. Von der
 kleinen lokalen Runde bis zu den EuroVelo-Routen ist alles dabei. Mehr und
 mehr erkennen auch Tourismus-Organisationen den Wert dieser Informationen in
 OSM und machen beim Mappen mit.

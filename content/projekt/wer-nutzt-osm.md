@@ -38,7 +38,7 @@ zu dem bekannte Marken wie Baedeker und Falk gehören, nutzt OSM für manche
 seiner Produkte.
 
 Der Navikartenabieter [TomTom](https://www.tomtom.com/) hat 2022 erklärt, dass
-er verstärkt auf OSM setzt. Und die Ridesharing Firmen Uber, Grab und Lyft
+er verstärkt auf OSM setzt. Und die Ridesharing-Firmen Uber, Grab und Lyft
 benutzen alle OSM, um ihre Fahrer effektiv zum Kunden und die Kunden an ihr
 Ziel zu bringen.
 
@@ -56,7 +56,7 @@ erzeugt. Die Wikipedia benutzt OSM für ihre Karten genauso wie viele kleine
 und große Projekte und Firmen.
 
 Häufig sieht man die Logos oder Namen von Anbietern wie
-[maptiler](https://maptiler.com/), [mapbox](https://mapbox.com/) und [Stadia
+[Maptiler](https://maptiler.com/), [Mapbox](https://mapbox.com/) und [Stadia
 Maps](https://stadiamaps.com/) an diesen Karten, sie alle setzen zum großen
 Teil auf OSM-Daten. Schaut man sich Kundenlisten dieser Anbieter an, findet man
 somit viele weitere OSM-Nutzer.
@@ -73,7 +73,7 @@ auch zu Mißbrauch geführt hat...
 
 Gerade im Bereich des Outdoor Sports, Wandern, Radfahren, Mountain Biking ist
 OSM sehr beliebt, weil viele andere Karten diesen Bereich nicht gut abdecken.
-Firmen wie komoot, outdooractive und strava benutzen OSM.
+Firmen wie Komoot, Outdooractive und Strava benutzen OSM.
 
 ## Öffentlicher Verkehr
 

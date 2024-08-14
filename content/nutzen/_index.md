@@ -26,7 +26,7 @@ Es gibt viele Apps für alle populären Smartphone-Betriebssysteme. Viele richte
 sich an spezielle Zielgruppen, wie Wanderer oder Radfahrer. Meistens kann man
 die Karten herunterladen, sodass man unterwegs auch ohne Netz navigieren kann.
 
-Für Outdoor-Profis gibt es auch OSM-Karten für GSP-Geräte wie die von Garmin.
+Für Outdoor-Profis gibt es auch OSM-Karten für GPS-Geräte wie die von Garmin.
 
 [OSM mobil nutzen](/nutzen/mobil/)
 {.link-intern}

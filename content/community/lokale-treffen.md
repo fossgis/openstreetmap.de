@@ -9,7 +9,7 @@ oder weniger regelmäßig treffen. Die Gruppen sind informell, die Treffen sind
 öffentlich, jeder kann vorbei kommen. Eine ideale Möglichkeit, erfahrene Mapper
 zu treffen und vielleicht auch gemeinsame Mapping-Aktionen zu starten.
 
-![Forum](/img/karte-dach.png)
+![](/img/karte-dach.png)
 
 Die lokalen Gruppen sind im Wiki [zu
 finden](https://wiki.openstreetmap.org/wiki/Category:Lokale_Gruppe). (Deine
