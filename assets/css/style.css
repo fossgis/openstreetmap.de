@@ -36,9 +36,11 @@ body {
 }
 
 @media screen {
-    min-height: 100vh;
-    display: grid;
-    grid-template-rows: calc(77px + 45px) 1fr 50px;
+    body {
+        min-height: 100vh;
+        display: grid;
+        grid-template-rows: calc(77px + 45px) 1fr 50px;
+    }
 }
 
 div.top {
