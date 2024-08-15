@@ -31,11 +31,14 @@
 }
 
 body {
+    margin: 0;
+    font-family: 'Sarabun', sans-serif;
+}
+
+@media screen {
     min-height: 100vh;
     display: grid;
     grid-template-rows: calc(77px + 45px) 1fr 50px;
-    margin: 0;
-    font-family: 'Sarabun', sans-serif;
 }
 
 div.top {
@@ -571,6 +574,10 @@ footer a {
         width: 90%;
     }
 
+    nav {
+        margin-top: 2px;
+    }
+
     nav a {
         display: none;
     }
@@ -936,29 +943,49 @@ table.sitemap td.sitemap-source {
 /******************************************/
 
 @media print {
+    .top {
+        padding-left: 20px;
+    }
+
     nav, #button-karte, .top form {
         display: none;
     }
+
     main {
         width: 100%;
     }
+
     p {
         text-align: justify;
     }
+
     footer {
         border-top: 1px solid black;
     }
+
     .infobox {
         border: 1px solid black;
         border-radius: 3px;
         text-shadow: none;
     }
+
     figure, img, .infobox {
         break-inside: avoid;
     }
+
     figcaption {
         border-bottom-left-radius: 8px;
         border-bottom-right-radius: 8px;
+    }
+
+    div.top, .link-intern, .link-extern, .themen-grid a {
+        -webkit-print-color-adjust: exact;
+        color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    p a[href^="https:"] {
+        padding: 0;
     }
 }
 
