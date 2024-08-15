@@ -1,9 +1,9 @@
 ---
-title: Goodies
-aliases: [/fan-artikel.html]
+title: Shop
+aliases: [/fan-artikel, /fan-artikel.html]
 ---
 
-# Goodies
+# OpenStreetMap Shop
 
 Du willst Deine Begeisterung für OSM zeigen? Wir haben eine Auswahl an Goodies
 zusammengestellt.
@@ -25,8 +25,7 @@ zusammengestellt.
 
 ## Bestellen
 
-Wir arbeiten seit Jahren mit dem FLOSS Shop zusammen. Für jede Bestellung geht
-auch eine kleine Spende an OpenStreetMap Deutschland.
+Wir arbeiten seit Jahren mit dem FLOSS-Shop zusammen.
 
 Bestellen beim [FLOSS Shop](https://www.floss-shop.de/de/floss-merchandise/openstreetmap/)
 {.link-extern}
