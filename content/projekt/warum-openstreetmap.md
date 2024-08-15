@@ -4,8 +4,8 @@ title: Warum OpenStreetMap?
 
 # Warum OpenStreetMap?
 
-Sie überlegen OSM einzusetzen, sind sich aber noch nicht sicher? Hier sind
-ein paar Argumente für und wider OSM.
+Du überlegst OSM einzusetzen, bist Dir aber noch nicht sicher? Hier sind ein
+paar Argumente für und wider OSM.
 
 ## Was für OSM spricht
 

@@ -38,7 +38,7 @@ ist nicht alles.
 
 Die Daten eignen sich auch zur **Navigation** von A nach B. Auch hier gibt es
 viele Varianten, je nach Verkehrsmitteln. Und es muss auch nicht immer nur die
-Navigation auf der Straße sein. Vielleicht wollen Sie sich ja über Bahngleise
+Navigation auf der Straße sein. Vielleicht willst Du Dich ja über Bahngleise
 navigieren lassen? Oder über Skipisten und Skilifte?
 
 Beim sogenannten **Geocoding** geht es darum von einem Ortsnamen oder eine

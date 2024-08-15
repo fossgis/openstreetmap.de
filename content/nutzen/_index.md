@@ -4,13 +4,13 @@ title: OpenStreetMap nutzen
 
 # OpenStreetMap nutzen
 
-Es gibt ganz verschiedene Wege, wie Sie OpenStreetMap nutzen können
+Es gibt ganz verschiedene Wege, wie OpenStreetMap genutzt werden kann.
 
 
 ## Webdienste
 
-Es gibt viele Webdienste, über die Sie OSM-basierte Karten anzeigen können, in
-OSM-Daten suchen, Routen berechnen lassen können und viele andere Anwendungen.
+Es gibt viele Webdienste mit OSM-basierten Karten, zur Suche in OSM oder
+zur Berechnung von Routen und viele andere Anwendungen.
 
 Die OSM-Community betreibt viele solche Webdienste selbst, aber es gibt auch
 viele andere Privatpersonen, Firmen und Organisationen, die solche Dienste
@@ -38,14 +38,14 @@ Für Outdoor-Profis gibt es auch OSM-Karten für GPS-Geräte wie die von Garmin.
 ## Selber machen
 
 Alle Daten, die im OSM-Projekt gesammelt wurden, stehen frei zum Download zur
-Verfügung. Zusätzlich können Sie auch alle Änderungen an den Daten, die in
-bestimmtem Zeiträumen erfolgt sind, runterladen und damit ihre Datenbank oder
-Karte immer auf dem aktuellen Stand halten.
+Verfügung. Alle Änderungen der Daten in einem Zeitraum (Minute, Stunde, Tag)
+gibt es ebenfalls zum Download. So ist es möglich eine lokale, selbst
+betriebene Datenbank mit OSM-Daten auf dem aktuellen Stand zu halten.
 
 ## Jemand anders machen lassen
 
-Sie brauchen einen OSM-basierten Dienst, aber es gibt keinen passenden? Sie
-brauchen eine spezielle Software? Rund um OSM gibt es ein ganzes Ökosystem an
-Firmen, die so etwas für Sie bauen können. Eine erste Orientierung kann Ihnen
+Du brauchst einen OSM-basierten Dienst, aber es gibt keinen passenden? Du
+brauchst eine spezielle Software? Rund um OSM gibt es ein ganzes Ökosystem an
+Firmen, die so etwas für Dich bauen können. Eine erste Orientierung kann Dir
 unsere [Dienstleisterliste](https://dienstleister.fossgis.de/) bieten.
 

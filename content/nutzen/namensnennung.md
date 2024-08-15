@@ -7,7 +7,7 @@ title: Namensnennung
 Die OpenStreetMap-Daten sind von einer großen Community gesammelt worden. Wir
 freuen uns, wenn die Daten und Karten benutzt werden. Daher kostet es auch
 nichts, wenn man die Daten benutzen will. Wir wollen das so einfach und
-kostengünstig wie möglich machen. Aber wir haben eine Bedingung: **Sie müssen
+kostengünstig wie möglich machen. Aber wir haben eine Bedingung: **Du musst
 sagen, dass die Daten von OpenStreetMap kommen.** Wir finden, dass das sehr
 fair ist. Dadurch, dass OpenStreetMap genannt wird, werden mehr Leute auf OSM
 aufmerksam und mehr Leute helfen mit, OSM noch besser zu machen. Das ist auch
@@ -20,7 +20,7 @@ Open Database License (ODbL), die ausdrücklich die Namensnennung
 
 {{% infobox %}}
 
-Achtung: Wenn Sie nicht nur die Daten von uns verwendet sondern unsere
+Achtung: Wenn Du nicht nur die *Daten* von uns verwendest sondern unsere
 Karten- oder andere Dienste, dann gibt es noch andere Bedingungen, die
 sicherstellen sollen, dass die Server nicht überlastet werden. Mehr dazu
 in den [Nutzungsbedingungen](TODO).
@@ -29,12 +29,12 @@ in den [Nutzungsbedingungen](TODO).
 
 ## Namensnennung
 
-Wenn Sie OpenStreetMap-Daten bzw. -Karten nutzen, dann müssen Sie OpenStreetMap
+Wenn Du OpenStreetMap-Daten bzw. -Karten nutzt, dann musst Du OpenStreetMap
 immer als Quelle angeben. Die Art und Weise, wie das zu geschehen hat, hängt
-vom Anwendungsfall ab. Es spielt dabei keine Rolle, ob sie eine Karte von OSM
-nutzen oder OSM-Daten nutzen und daraus selbst eine Karte erstellt haben.
-Maßgebend ist hier, dass OSM-Daten verwendet werden. Das ergibt sich aus der
-Open Database License (ODbL) unter der die Daten lizensiert sind.
+vom Anwendungsfall ab. Es spielt dabei keine Rolle, ob Du eine Karte von OSM
+nutzt oder aus den OSM-Daten selbst eine Karte erstellt hast. Maßgebend ist
+hier, dass OSM-Daten verwendet werden. Das ergibt sich aus der Open Database
+License (ODbL) unter der die Daten lizensiert sind.
 
 Im Folgenden stellen wir ein paar typische Anwendungen dar und geben
 Empfehlungen, wie die Namensnennung umzusetzen ist.
@@ -92,24 +92,24 @@ Ich habe selbst eine Karte erstellt, die zwar aus OpenStreetMap-Daten enthält,
 aber einen ganz eigenen Stil hat. Dann habe ich doch das Copyright an diesem
 Stil und nicht OSM?
 
-Richtig ist, dass Sie an dem Stil ihrer Karte unter gewissen Bedingungen ein
-Urheberrecht haben können. Das ändert aber nichts daran, dass Sie OSM-Daten
-als Grundlage verwenden und damit unter die Lizenzregelungen der ODbL fallen.
+Richtig ist, dass Du an dem Stil Deiner Karte unter gewissen Bedingungen ein
+Urheberrecht haben könntest. Das ändert aber nichts daran, dass Du OSM-Daten
+als Grundlage verwenden und damit fällt das unter die Lizenzregelungen der
+ODbL.
 
-Sie können ihre Karte als sogenanntes „produced work“ unter eine Lizenz
-stellen, die für sie passt. Aber das heißt nicht, dass sie OSM nicht erwähnen
-müssen.
+Du kannst Deine Karte als sogenanntes „produced work“ unter eine Lizenz
+stellen, die für Dich passt. Aber das heißt nicht, dass Du OSM nicht erwähnen
+musst.
 
 Das Urheberrecht ist nämlich das eine, aber es gibt auch noch die
 Datenbankrichtlinie, die in einer Datenbank gesammelte Fakten schützt. Die
-OSM-Daten unterliegen diesem Datenbank-Schutz. Sie müssen also OpenStreetMap
-als Quelle nennen, auch wenn Sie die Karte selbst erstellt haben und ggf. ein
-Copyright an dem Werk haben.
+OSM-Daten unterliegen diesem Datenbank-Schutz. Du musst also OpenStreetMap
+immer als Quelle nennen, auch wenn Du die Karte selbst erstellt hast.
 
 ## Was passiert, wenn ich die Namensnennung nicht korrekt durchführe?
 
-Streng genommen verlieren Sie das Recht, OSM zu benutzen, wenn Sie sich nicht
-an die Lizenz halten. So steht das in der ODbL (Artikel 9.1). Praktisch haben
+Streng genommen verlierst Du das Recht, OSM zu benutzen, wenn Du Dich nicht
+an die Lizenz hälst. So steht das in der ODbL (Artikel 9.1). Praktisch haben
 wir besseres zu tun als den ganzen Tag nach Lizenzverletzern Ausschau zu
 halten. Es gibt aber immer wieder Mitglieder der OSM-Community, die nach sowas
 schauen und auf die Verletzung aufmerksam machen.
@@ -148,9 +148,9 @@ beantwortet wurden. In so einem Fall wende Dich an
 
 ## Ich habe Nutzung X mit OSM-Daten vor. Wer sagt mir, ob das okay ist?
 
-Fragen Sie einen Rechtsanwalt, der sich mit Urheberrecht und Datenbankrecht
-auskennt. Weder die OSM Foundation noch der FOSSGIS e.V. als Vertreter der
-OSM Foundation in Deutschland können dazu in Einzelfällen Auskunft erteilen.
+Frag einen Rechtsanwalt, der sich mit Urheberrecht und Datenbankrecht auskennt.
+Weder die OSM Foundation noch der FOSSGIS e.V. als Vertreter der OSM Foundation
+in Deutschland können dazu in Einzelfällen Auskunft erteilen.
 
 ## Weitere Informationen
 

@@ -43,8 +43,8 @@ Siehe auch die [Mitmachseite](https://wiki.openstreetmap.org/wiki/DE:Getting_Inv
 
 ## Wie kann ich meinen Account wieder löschen?
 
-Im Menü [Einstellungen](https://www.openstreetmap.org/account/edit) auf openstreetmap.org gibt es einen Button 'Konto löschen', wo man seinen Account selbstständig löschen kann.
-Dabei werden die Stammdaten aus der OpenStreetMap-Datenbank gelöscht. Ihre E-Mail-Adresse wird normalerweise aufgehoben, damit ein OSM-Administrator Sie kontaktieren kann, sollte das in der Zukunft nötig sein.
+Im Menü [Einstellungen](https://www.openstreetmap.org/account/edit) auf openstreetmap.org gibt es einen Button 'Konto löschen', über den man seinen Account selbstständig löschen kann.
+Dabei werden die Stammdaten aus der OpenStreetMap-Datenbank gelöscht. Ihre E-Mail-Adresse wird normalerweise aufgehoben, damit ein OSM-Administrator Dich kontaktieren kann, sollte das in der Zukunft nötig sein.
 
 ## Brauche ich ein GPS?
 

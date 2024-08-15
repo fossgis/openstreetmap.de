@@ -3,8 +3,8 @@ title: Dienste von OSM Deutschland
 ---
 
 {{< spendenbutton >}}
-Der Betrieb dieser Dienste kostet uns viel Geld und viel Arbeit. Wenn
-Sie diese Dienste regelmäßig nutzen, freuen wir uns über eine Spende.
+Der Betrieb dieser Dienste kostet uns viel Geld und viel Arbeit. Wir freuen
+uns über eine Spende!
 {{< /spendenbutton >}}
 
 # OSM-basierte Dienste von OSM Deutschland
@@ -19,13 +19,13 @@ Wir können nicht garantieren, dass die Dienste jederzeit zur Verfügung stehen,
 korrekt funktionieren oder morgen noch da sind. Die Erfahrung der letzten
 Jahre zeigt allerdings, dass sie sehr zuverlässig laufen.
 
-Alle Dienste sind ohne eine Registrierung benutzbar. Aber bitte halten Sie sich
-an die [Nutzungsbedingungen](TODO).
+Alle Dienste sind ohne eine Registrierung benutzbar. Aber bitte haltet Euch
+an die [Nutzungsbedingungen](TODO)!
 
-Alle diese Dienste basieren auf Open-Source-Software, die Sie auch selbst
-installieren können. Es gibt auch Dienstleister, die Ihnen dabei helfen oder
-sie für Sie betreiben können. Wenn das für Sie interessant sein könnte, dann
-schauen Sie sich doch auf unserer
+Alle diese Dienste basieren auf Open-Source-Software, die Du auch selbst
+installieren kannst. Es gibt auch Dienstleister, die Dir bei der Installation
+(und ggf. Anpassung) helfen oder die die Dienste im Auftrag betreiben. Wenn das
+für Dich interessant sein könnte, dann schau dich auf unserer
 [Dienstleisterliste](https://dienstleister.fossgis.de/) um.
 
 {{% rawhtml %}}

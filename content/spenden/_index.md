@@ -7,7 +7,7 @@ aliases: [/spenden.html]
 
 OpenStreetMap ist ein freies Projekt und niemand muss für die Nutzung der
 Daten, Karten und Dienste zahlen. Aber so ein Projekt am Laufen zu halten
-kostet auch eine Menge Geld. Unterstützen Sie uns durch Ihre Spende!
+kostet auch eine Menge Geld. Unterstütze uns durch Deine Spende!
 
 Der [FOSSGIS e.V.](https://www.fossgis.de/) ist die offizielle Vertretung des
 OpenStreetMap-Projektes in Deutschland. Er ist als gemeinnützig anerkannt,
@@ -40,24 +40,24 @@ Mittels elektronischem Transfer über PayPal:
 
 ## Spendenbescheinigung
 
-Bei Spenden bis zu 300 EUR im Jahr benötigen Sie keine gesonderte
-Zuwendungsbestätigung („Spendenbescheinigung“) von uns. Zur Anerkennung Ihrer
-Zahlung als steuerlich abzugsfähige Zuwendung genügt es, wenn Sie in Ihrer
+Bei Spenden bis zu 300 EUR im Jahr benötigst Du keine gesonderte
+Zuwendungsbestätigung („Spendenbescheinigung“) von uns. Zur Anerkennung der
+Zahlung als steuerlich abzugsfähige Zuwendung genügt es, wenn Du in der
 Steuererklärung diesen [Vereinfachten
 Zuwendungsnachweis](https://www.fossgis.de/verein/spenden/Vereinfachter-Zuwendungsnachweis-FOSSGIS.pdf)
 nach § 50 Abs. 4 EStDV und den Zahlungsbeleg (Buchungsbestätigung Ihres
-Kreditinstituts, etwa in Form eines Kontoauszugs) Ihrem Finanzamt vorlegen. Der
+Kreditinstituts, etwa in Form eines Kontoauszugs) Deinem Finanzamt vorlegen. Der
 Verwendungszweck muss dazu mindestens die Angabe „Spende“ enthalten.
 
-Wenn Sie eine Spendenbescheinigung wünschen, können Sie Ihren Namen und Adresse
+Wenn Du eine Spendenbescheinigung wünschst, kannst Du Deinen Namen und Adresse
 im Verwendungszweck angeben oder eine E-Mail an finanzen@fossgis.de schreiben.
-Wir brauchen dafür Ihren Namen und die Postadresse, die auf die Bescheinigung
-müssen. Bitte geben Sie in der E-Mail den Betrag und das Datum an, wann Sie die
-Überweisung vorgenommen haben, damit wir die Zahlung schnell zuordnen können.
+Wir brauchen den Namen und die Postadresse, weil die auf die Bescheinigung
+müssen. Bitte gib in der E-Mail den Betrag und das Datum an, wann Du die
+Überweisung vorgenommen hast, damit wir die Zahlung schnell zuordnen können.
 
 ## Spenden an die OSM Foundation
 
 International nimmt auch die [OpenStreetMap
-Foundation](https://osmfoundation.org/) Spenden entgegen. Gehen Sie dazu
-auf die Seite [supporting.openstreetmap.org](https://supporting.openstreetmap.org/).
+Foundation](https://osmfoundation.org/) Spenden entgegen. Mehr dazu auf der
+Seite [supporting.openstreetmap.org](https://supporting.openstreetmap.org/).
 
