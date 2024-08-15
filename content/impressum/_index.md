@@ -31,3 +31,21 @@ Vertreten durch den Vorstand:
 Der Verein wurde unter der Registernummer 90 VR 3594 am 18. Januar 2001 beim
 Registergericht der Stadt Mainz eingetragen.
 
+## Bildrechte
+
+Die im Menu und an einigen anderen Stellen verwendeten Icons stammen aus der
+[Ionicons](https://github.com/ionic-team/ionicons)-Sammlung. Sie werden unter
+der [MIT-Lizenz](https://opensource.org/licenses/MIT) zur Verfügung gestellt.
+
+Wenn nicht anders vermerkt, basieren die Karten auf diesen Seiten auf
+OpenStreetMap-Daten und sind [©
+OpenStreetMap-Mitwirkende](https://www.openstreetmap.org/copyright).
+
+Die gemalten Menu- bzw. Aufmacher-Bilder im Themenportal wurden extra für uns
+von Irina Hoffmann gemalt. Alle Rechte liegen bei ihr.
+
+Sonstiges Bilder sind mit einem Herkunfts- bzw. Copyright-Vermerk an den
+Bildern versehen. Bei einigen Bildern befindet der sich der Vermerk im HTML
+<tt>title</tt> Attribut und kann durch Überfahren des Bildes mit der Maus
+dargestellt werden.
+
