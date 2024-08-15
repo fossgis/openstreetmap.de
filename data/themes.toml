@@ -14,9 +14,9 @@ title = "Naturschutz"
 short = "Natur-schutz"
 
 [[theme]]
-name = "öffentlicher_personenverkehr"
-title = "Öffentlicher Personenverkehr"
-short = "ÖPV"
+name = "öpnv"
+title = "ÖPNV"
+short = "ÖPNV"
 
 [[theme]]
 name = "radfahren"

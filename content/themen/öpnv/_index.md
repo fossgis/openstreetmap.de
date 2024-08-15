@@ -1,5 +1,5 @@
 ---
-title: Öffentlicher Personenverkehr
+title: Öffentlicher Verkehr
 layout: themen
 ---
 
