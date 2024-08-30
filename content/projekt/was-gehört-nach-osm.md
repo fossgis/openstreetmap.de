@@ -4,9 +4,9 @@ title: Welche Daten gehören nach OSM und welche nicht?
 
 # Welche Daten gehören nach OSM und welche nicht?
 
-Immer wieder wird die Frage gestellt, ob bestimmte Daten nach OSM gehören
-oder nicht. Die Antwort darauf ist nicht immer so klar, und sie ändert sich
-auch über die Zeit. OSM entwickelt sich immer weiter.
+Immer wieder wird die Frage gestellt, ob bestimmte Daten nach OpenStreetMap
+gehören oder nicht. Die Antwort darauf ist nicht immer so klar, und sie ändert
+sich auch über die Zeit. OSM entwickelt sich immer weiter.
 
 ## Fakten
 
@@ -15,13 +15,13 @@ aussieht. Wir mappen nicht, wie die Welt zu Zeit der Römer aussah oder wie sie
 vielleicht mal aussehen könnte, wenn die Umgehungsstraße gebaut wird. Und wir
 tragen auch nicht ein, welches Restaurant die besten Pommes hat.
 
-## Die „on the ground rule“
+## Die „On the Ground Rule“
 
-Mit der Zeit hat sich bei OSM die „on the ground rule“ als Kurzformel dafür
+Mit der Zeit hat sich bei OSM die „On the Ground Rule“ als Kurzformel dafür
 etabliert.
 
 „On the ground“ heißt wörtlich „auf dem Boden“, eine bessere Übersetzung ist
-hier: „vor Ort sichtbar“. Mir tragen alles so ein, wie man es sieht, wenn man
+hier: „vor Ort sichtbar“. Wir tragen alles so ein, wie man es sieht, wenn man
 vor Ort ist. Das muss man nicht immer wörtlich nehmen, oft mappen wir ja von
 Luftbildern aus. Aber auch da gilt, wir tragen in der Regel nur ein, was man
 vor Ort sehen kann oder was die Leute vor Ort einem sagen würden, wenn man
@@ -51,12 +51,12 @@ Es gibt viele Informationen, die nicht „geheim“ sind im rechtlichen Sinne, d
 aber doch nicht unbedingt allgemein bekannt sind. Zum Beispiel der Eingang zu
 einem eingefallenen gefährlichen Stollen oder der Standort eines Frauenhauses
 in dem mißhandelte Frauen Schutz suchen. Sowas tragen wir dann nicht ein. Da
-geht es auch um die Verantwortung jedes einzelnen, dass man sich überlegt, ob
+geht es auch um die Verantwortung jedes Mappers, man muss sich überlegen, ob
 die Eintragung vielleicht mehr Schaden verursachen kann als sie nützt.
 
 Das darf man aber auch nicht zu weit auslegen. Öffentliche Infrastruktur, wie
-Hochpannungsleitungen und Umspannwerke können vielleicht das Ziel von
-Terroristen sein, aber sie deswegen nicht einzutragen ist nicht sehr sinnvoll,
+Hochspannungsleitungen und Umspannwerke können vielleicht das Ziel von
+Terroristen sein. Aber sie deswegen nicht einzutragen ist nicht sehr sinnvoll,
 wenn man sie vor Ort sehen kann und sie auch in vielen amtlichen Karten und
 Datenbanken eingetragen sind.
 
@@ -87,9 +87,9 @@ auf.
 
 In manchen Ländern ist es verboten, militärische Einrichtungen oder dergleichen
 auf eine Karte einzuzeichnen. In Deutschland gilt das so allgemein nicht. Es
-ist auch fraglich wie viel es an Sicherheit bringen würde, wenn Einrichtungen,
-die klar auf Luftbildern zu erkennen sind (oder wenn man davor steht), nicht
-eingetragen werden.
+ist auch fraglich wie viel es an Sicherheit bringen würde, wenn Einrichtungen
+nicht eingetragen werden, die klar auf Luftbildern zu erkennen sind (oder wenn
+man davor steht).
 
 ### Naturschutz
 
@@ -107,7 +107,7 @@ bestimmten Zeiträumen.
 
 OpenStreetMap ist auch deshalb groß geworden, weil es sehr wenige Regeln
 festgelegt hat. Raum zum Experimentieren gehört bei OSM dazu. Durch
-ausprobieren, was in der Praxis funktioniert und was nicht haben wir zu einem
+ausprobieren, was in der Praxis funktioniert und was nicht, haben wir zu einem
 Datenschema gefunden, was mit keinem anderen Schema auf der Welt kompatibel
 ist, aber vielleicht gerade deshalb so gut funktioniert.
 

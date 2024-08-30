@@ -76,6 +76,13 @@ Erfahrungen, Interessen und Perspektiven einbringen.
 
 ## Was wir alles eintragen
 
+{{< rawhtml >}}
+<figure class="float-right">
+<a href="https://www.openstreetmap.org/#map=17/52.507755/13.337359"><img src="berlin-zoo.png" width="400"/></a>
+<figcaption>Der Berliner Zoo bei OpenStreetMap</figcaption>
+</figure>
+{{< /rawhtml >}}
+
 Du kannst selbst entscheiden, welche Dinge Du bei OSM beitragen willst.
 Natürlich gibt es ein paar Regeln zu beachten, aber wir sind recht offen für
 Neues. Über die Zeit sind mehr und mehr Dinge dazu gekommen, die Karte füllt
@@ -83,17 +90,18 @@ sich mit mehr Details und mit mehr Spezialinformationen.
 
 Eingetragen wird alles was man so von einer Karte erwartet: Straßen und Wege,
 Wälder und Gewässer, Gebäude, Briefkästen, Spielplätze und vieles mehr. Auch
-viele Dinge, die man auf üblichen Karten nicht sieht mit vielen Details, alles
-von Buslinien über Staudämme bis zu Denkmälern.
+viele Dinge, die man auf üblichen Karten nicht sieht, und mit vielen Details:
+Buslinien, Staudämme, Denkmäler, Ticket-Automaten, ...
 
 Zu all diesen Dingen können eine Vielzahl von Attributen angegeben werden:
 Namen von Orten, Oberflächenbeschaffenheit von Wegen, Höchstgeschwindigkeiten
 auf Straßen, Öffnungszeiten von Geschäften und so weiter.
 
 Ein wichtiger Grundsatz ist, dass wir nur Fakten bei OSM eintragen: _Hier ist
-eine Straße, die hat diesen Namen und ist eine Einbahnstraße_. Solche Dinge.
-Was wir nicht eintragen sind Meinungen. Welche Aussicht besonders schön ist
-oder welches Hotel besonders gemütlich, das hat bei uns keinen Platz.
+eine Straße, die heißt Goethestraße und die erlaubte Höchstgeschwindigkeit ist
+30 km/h_. Solche Dinge. Was wir nicht eintragen sind Meinungen. Welche Aussicht
+besonders schön ist oder welches Hotel besonders gemütlich, das hat bei uns
+keinen Platz.
 
 Und es soll immer eine gemeinsame Karte daraus werden. Alle dürfen an allem
 mitarbeiten, es gibt keine Daten _nur von Dir_ oder _nur für Dich_.
