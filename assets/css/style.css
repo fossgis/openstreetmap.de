@@ -175,6 +175,8 @@ main {
 }
 
 #weekly-osm {
+    position: relative;
+    top: 30px;
     display: block;
     float: right;
     margin: 0 0 12px 12px;
@@ -876,6 +878,10 @@ div.boxes > div > p {
 }
 
 .grid-box .description {
+    font-size: 1.2rem;
+}
+
+.grid-box .description h2 {
     font-size: 1.2rem;
 }
 
