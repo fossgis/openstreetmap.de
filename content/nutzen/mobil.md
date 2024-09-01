@@ -26,7 +26,7 @@ gibts in den App Stores der Hersteller und auch im F-Droid Store. OSM-Daten
 können kostenlos heruntergeladen werden und brauchen nur wenig Platz auf Deinem
 Telefon.
 
-Zur [Organic Maps](https://organicmaps.app/) Homepage
+Zur Homepage von [Organic Maps](https://organicmaps.app/)
 {.link-extern}
 
 [Quellcode auf Github](https://github.com/organicmaps/organicmaps)
@@ -50,12 +50,12 @@ Eine Open Source App für Fortgeschrittene. Die Bedienung ist nicht ganz so
 einfach, dafür gibt es eine Menge Funktionen. Man kann sogar OSM editieren. Die
 App gibt es für Android und Apple in den App Stores und auch über F-Droid.
 
-Es gibt auch eine kostenpflichtige Version namens "OsmAnd+".
+Es gibt auch eine kostenpflichtige Version namens „OsmAnd+“.
 
-Zur [OSMAnd](https://osmand.net/) Homepage
+Zur Homepage von [OSMAnd](https://osmand.net/)
 {.link-extern}
 
-[Source on Github](https://github.com/osmandapp/Osmand)
+[Quellcode auf Github](https://github.com/osmandapp/Osmand)
 {.link-extern}
 
 [![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/us/app/osmand-maps-travel-navigate/id934850257)
@@ -68,8 +68,8 @@ Zur [OSMAnd](https://osmand.net/) Homepage
 
 {{% /rawhtml %}}
 
-Es gibt außerdem noch viele andere Apps, die OSM benutzen, schau Dich im
-App Store um.
+Es gibt außerdem noch viele andere Apps, die OSM benutzen, schau Dich in den
+App Stores um.
 
 ## OSM auf GPS-Geräten
 

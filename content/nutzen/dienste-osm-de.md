@@ -19,13 +19,16 @@ Wir können nicht garantieren, dass die Dienste jederzeit zur Verfügung stehen,
 korrekt funktionieren oder morgen noch da sind. Die Erfahrung der letzten
 Jahre zeigt allerdings, dass sie sehr zuverlässig laufen.
 
-Alle Dienste sind ohne eine Registrierung benutzbar. Aber bitte haltet Euch
-an die [Nutzungsbedingungen](TODO)!
+{{% infobox %}}
+Alle Dienste sind ohne eine Registrierung benutzbar. Aber bitte haltet Euch an
+die
+[Nutzungsbedingungen](https://www.fossgis.de/arbeitsgruppen/osm-server/nutzungsbedingungen/)!
+{{% /infobox %}}
 
 Alle diese Dienste basieren auf Open-Source-Software, die Du auch selbst
 installieren kannst. Es gibt auch Dienstleister, die Dir bei der Installation
-(und ggf. Anpassung) helfen oder die die Dienste im Auftrag betreiben. Wenn das
-für Dich interessant sein könnte, dann schau dich auf unserer
+(und eventuellen Anpassung) helfen oder die die Dienste im Auftrag betreiben.
+Wenn das für Dich interessant sein könnte, dann schau dich auf unserer
 [Dienstleisterliste](https://dienstleister.fossgis.de/) um.
 
 {{% rawhtml %}}
@@ -40,10 +43,16 @@ für Dich interessant sein könnte, dann schau dich auf unserer
 <img class="float-right" src="vector_tiles_pyramid_structure.png" title="Pyramidenstruktur von Tiles. Quelle: QGIS-Dokumentation" width="160"/>
 {{< /rawhtml >}}
 
-Unter https://tile.openstreetmap.de/ stellen wir einen Karten-Server zur
-Verfügung, der auch für kleinere eigene Projekte genutzt werden kann.
+Wir betreiben einen Karten-Server, der Karten-Kacheln für die ganze Welt zur
+Verfügung stellt. Der Stil basiert auf dem Standard-OSM-Stil, mit kleinen
+Änderungen. Namen auf der Karte werden zusätzlich zur lokalen Sprache auch auf
+Deutsch angezeigt.
 
-Achtung: Eine gewerbliche Nutzung dieses Servers ist nicht erlaubt.
+Der Server kann auch in eigene Webseiten eingebunden werden. Aber eine
+gewerbliche Nutzung ist nur mit Einschränkungen erlaubt!
+
+Infos zum Kartenstil: [Projekt](https://github.com/giggls/openstreetmap-carto-de), [Wiki-Seite](https://wiki.openstreetmap.org/wiki/German_Style)
+{.link-extern}
 
 </div>
 <div class="grid-box">

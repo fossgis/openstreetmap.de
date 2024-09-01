@@ -9,10 +9,10 @@ paar Argumente für und wider OSM.
 
 ## Was für OSM spricht
 
-**Globale Abdeckung:** Viele Geodatensätze hören an der Gemeindegrenze oder der
-Landesgrenze auf. OSM-Daten gibt es für die ganze Welt. Nicht überall gleich
-gut oder gleich vollständig und auch nicht überall ganz einheitlich, aber für
-viele Anwendungen ist die Abdeckung mehr als ausreichend.
+**Globale Abdeckung:** Viele andere Geodatensätze hören an der Gemeindegrenze
+oder der Landesgrenze auf. OSM-Daten gibt es für die ganze Welt. Nicht überall
+gleich gut oder gleich vollständig und auch nicht überall ganz einheitlich,
+aber für viele Anwendungen ist die Abdeckung mehr als ausreichend.
 
 **Datenschutz:** Viele Webdienste und Apps verfolgen einen auf Schritt und
 Tritt. Der Anbieter weiß immer, wo man ist oder was man auf der Karte
@@ -21,8 +21,13 @@ eigene Dienste bauen, die den Kunden nicht nachspionieren.
 
 **Offline-Nutzung:** Nicht überall hat man mit dem Handy Internet. Bei OSM-Apps
 ist es üblich, die Daten vorher herunterzuladen und dann komplett offline
-nutzen zu können. Für komplexere Analysen kann man die Daten herunterladen und
-ist nicht auf die Nutzung durch eine API beschränkt.
+nutzen zu können.
+
+**Daten zum Herunterladen:** Für die Generierung von Themen-Karten, speziellere
+Routinganwendungen oder komplexere Analysen braucht man Zugriff auf alle Daten,
+um sie so organisieren und filtern zu können, wie man es braucht. Bei OSM kann
+man alle Daten herunterladen und ist nicht auf die Nutzung durch eine API
+beschränkt.
 
 **Zusammenhängende Daten:** OSM hat viele Daten aus ganz verschiedenen
 Bereichen, die in der Regel gut zusammenpassen. Man spart sich so Daten aus
@@ -38,10 +43,10 @@ korrigierten Daten. Bei anderen Datensammlungen ist die Korrektur der Daten
 häufig aufwändig und manchmal garnicht möglich. Und die Update-Zyklen messen
 sich häufig eher in Monaten.
 
-**Software:** Die OSM-Community hat eine riesige Menge an Open Source Software
+**Software:** Die OSM-Community hat eine riesige Menge an Open-Source-Software
 speziell für OSM entwickelt. Und auch andere Software, gleich ob Open Source
 oder proprietär, kann mit OSM-Daten arbeiten. Für so ziemlich jedes Problem
-läßt sich eine Lösung finden.
+hat schonmal jemand eine Software gebaut, auf die sich aufsetzen läßt.
 
 **Community:** OSM hat eine lebendige Community, die mitdenkt und mithilft. Für
 viele geht es um den Spaß an der Sache und darum, die beste Lösung zu finden,
@@ -62,6 +67,10 @@ Arbeit. Oder man beauftragt einen Dienstleister, dann zahlt man an den.
 Kostenlos ist die Nutzung also auch nicht. Aber häufig deutlich billiger als
 bei der Konkurrenz. Letztlich hängt das aber stark von der Art der Nutzung ab.
 
+**Breite Nutzung:** OSM wird heute an so vielen Stellen genutzt, dass auch
+immer mehr zu OSM beitragen, damit ihre Daten bei OSM erscheinen. Und das macht
+natürlich auch wieder die Nutzung interessanter.
+
 ## Was gegen OSM spricht
 
 Natürlich ist nicht alles perfekt bei OSM, es gibt durchaus auch Nachteile und
@@ -75,11 +84,13 @@ amtlichen Kataster schauen, nicht in OSM.
 wird. Es kommt auf die Anwendung darauf an, welche Fehler man tolerieren kann
 und welche nicht.
 
-**Keine Garantieen:** OSM gibt keine Garantien, wie genau die Daten sind oder
-wie aktuell oder wie vollständig. Viele andere Datenquellen versprechen mehr.
-Das sollte an aber durchaus auch hinterfragen.
+**Keine Garantien:** OSM gibt keine Garantien, wie genau die Daten sind oder
+wie aktuell oder wie vollständig. Manche andere Datenquellen versprechen mehr.
+Ob sie diese Versprechen auch halten, sollte man aber durchaus auch mal
+hinterfragen.
 
 **Lizenz:** Die bei OSM verwendete Open Database License ist zwar sehr offen,
 aber sie erfordert immernoch eine Namensnennung und hat gewisse Regeln beim
-Mischen mit Daten aus anderen Quellen. Das passt nicht jedem.
+Mischen mit Daten aus anderen Quellen. Das passt nicht für jeden
+Anwendungszweck.
 

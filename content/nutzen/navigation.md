@@ -5,11 +5,10 @@ title: Navigation (Routing)
 # Navigation (Routing)
 
 Es gibt eine erstaunliche Fülle an Software für die Navigation of OSM-Daten.
-Die bekanntesten Open-Source-Programme stellen wir hier vor.
-
-Üblicherweise unterstützen sie mehrere „Profile“, das sind passende
-Einstellungen für Autofahrer, Radfahrer oder Fußgänger. Die kann man dann
-häufig noch mehr oder weniger detailliert konfigurieren.
+Die bekanntesten Open-Source-Programme stellen wir hier vor. Üblicherweise
+unterstützen sie mehrere „Profile“, das sind passende Einstellungen für
+Autofahrer, Radfahrer oder Fußgänger. Die kann man dann häufig noch mehr oder
+weniger detailliert konfigurieren.
 
 Neben der Routenfindung von A nach B (häufig auch mit optionalen
 Zwischenpunkten) erzeugen die Programme auch Navigationshinweise („jetzt rechts
@@ -26,7 +25,7 @@ erreicht werden können. Und es gibt häufig noch eine Menge anderer Features.
 
 <img class="float-right" src="/img/logos/openrouteservice.png" alt="" width="160"/>
 
-Die Java-Anwendung OpenRouteService (ORS) wird federführend Heidelberg
+Die Java-Anwendung OpenRouteService (ORS) wird federführend vom Heidelberg
 Institute for Geoinformation Technology [HeiGIT](https://heigit.org/)
 entwickelt.
 
@@ -34,19 +33,6 @@ entwickelt.
 {.link-extern}
 
 [Projekt-Homepage](https://openrouteservice.org/)
-{.link-extern}
-
-</div>
-<div class="grid-box">
-
-## Valhalla
-
-<img class="float-right" src="/img/logos/valhalla.png" alt="" width="100"/>
-
-[Anwendung](https://valhalla.openstreetmap.de/)
-{.link-extern}
-
-[Projekt-Homepage](https://valhalla.github.io/valhalla/)
 {.link-extern}
 
 </div>
@@ -70,9 +56,26 @@ so kostenfrei benutzt werden.
 </div>
 <div class="grid-box">
 
+## Valhalla
+
+<img class="float-right" src="/img/logos/valhalla.png" alt="" width="100"/>
+
+[Anwendung](https://valhalla.openstreetmap.de/)
+{.link-extern}
+
+[Projekt-Homepage](https://valhalla.github.io/valhalla/)
+{.link-extern}
+
+</div>
+<div class="grid-box">
+
 ## OSRM
 
 <img class="float-right" src="/img/logos/osrm.svg" alt="" width="140"/>
+
+Ursprünglich aus Forschungsarbeiten am Karlsruher Institut für Technologie
+([KIT](https://www.kit.edu/)) hervorgegangen wurde OSRM dann im Firmenauftrag
+und durch die Community weiterentwickelt.
 
 [Demo-Anwendung](https://map.project-osrm.org/)
 {.link-extern}

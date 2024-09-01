@@ -4,8 +4,11 @@ title: OpenStreetMap nutzen
 
 # OpenStreetMap nutzen
 
-Es gibt ganz verschiedene Wege, wie OpenStreetMap genutzt werden kann.
-
+Es gibt ganz verschiedene Wege, wie OpenStreetMap genutzt werden kann. Das
+OSM-Projekt bietet selbst einige Dienste an und es gibt auch viele andere
+Organisationen und Firmen, die OSM-basierte Dienste und Anwendungen anbieten,
+teilweise kostenlos, teilweise gegen Geld. Und schließlich kann man die
+OSM-Daten auch herunterladen und selbst etwas damit bauen.
 
 ## Webdienste
 

@@ -21,9 +21,9 @@ Open Database License (ODbL), die ausdrücklich die Namensnennung
 {{% infobox %}}
 
 Achtung: Wenn Du nicht nur die *Daten* von uns verwendest sondern unsere
-Karten- oder andere Dienste, dann gibt es noch andere Bedingungen, die
-sicherstellen sollen, dass die Server nicht überlastet werden. Mehr dazu
-in den [Nutzungsbedingungen](TODO).
+Karten- oder andere Dienste, dann gibt es noch andere Bedingungen, die zum
+Beispiel sicherstellen sollen, dass die Server nicht überlastet werden. Bitte
+beachte dazu die Nutzungsbedingungen der jeweiligen Dienste.
 
 {{% /infobox %}}
 
