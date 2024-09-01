@@ -17,9 +17,9 @@ Jede und jeder kann und darf gleichberechtigt mitarbeiten.
 
 Alle Änderungen, die Ihr bei OSM macht, sind sofort für alle anderen Mapper und
 für die ganze Welt sichtbar! Wir haben absichtlich keine Kontrolle
-dazwischengeschaltet. Etwas in dem OSM-Daten einzutragen, zu korrigieren oder
-zu ergänzen und das dann wenige Minuten später auf der Karte zu sehen, ist ein
-tolles Gefühl. Wir vertrauen Euch, dass ihr das Richtige tut.
+dazwischengeschaltet. Es ist ein tolles Gefühl, etwas in dem OSM-Daten
+einzutragen, zu korrigieren oder zu ergänzen und das dann wenige Minuten später
+auf der Karte zu sehen. Wir vertrauen Euch, dass ihr das Richtige tut.
 
 Auf den ersten Blick scheint das riskant zu sein, und, ja, ab und zu geht
 das auch mal schief. Aber in 20 Jahren OSM haben wir die Erfahrung gemacht,
@@ -36,17 +36,18 @@ anlegen](/beitragen/fehler-melden/) als Hinweis.)
 Gleichzeitig solltet ihr Euch aber auch nicht zu sehr bremsen lassen. Die Welt
 geht nicht gleich unter, wenn mal etwas Kleines falsch auf der Karte ist.
 Entweder ihr seht es selbst oder früher oder später auch jemand anderes und es
-wird repariert. Es muss ja auch Spaß machen an der Karte zu arbeiten. Benutzt
+wird repariert. Es soll ja auch Spaß machen, an der Karte zu arbeiten. Benutzt
 Euren gesunden Menschenverstand. Bei wichtigen Dingen, die viele Kartennutzer
-betreffen werden, ist man halt etwas sorgfältiger.
+betreffen werden, ist man halt etwas sorgfältiger oder diskutiert die Änderung
+zuerst mit den „Kollegen“.
 
 ## Organized Editing Guidelines
 
 OSM ist also Hobbyprojekt enstanden, aber inzwischen wird ein nicht
 unerheblicher Teil der Daten von Firmen und anderen Organisationen beigetragen.
-Und das ist gut so. Nicht überall gibt es Hobbymapper und manche Daten aktuell
-zu halten kostet einfach auch so viel Zeit, dass das besser von angestellten
-Mappern gemacht wird.
+Und das ist gut so. Nicht überall gibt es Hobbymapper und wenn so viele Firmen
+unsere Daten benutzen, dann ist es auch richtig, dass sie selbst dazu
+beitragen.
 
 Beim sogenannten „Organisierten Editieren“ („organized editing“) sind
 allerdings einige Grundregeln zu beachten. Als „organisiert“ gilt das Mappen
@@ -55,11 +56,11 @@ sondern im Auftrag eines Anderen. Das kann als Mitarbeiter einer Firma sein,
 es kann aber auch im Rahmen von Schulungen oder im Studium passieren. Dann
 ist es der Lehrer oder die Professorin, die vorgeben, was zu tun ist.
 
-Insbesondere müssen Accounts von Firmen und Organisationen als solche
-gekennzeichnet werden.
+[Organised Editing
+Guidelines](https://osmfoundation.org/wiki/Organised_Editing_Guidelines)
+{.link-extern}
 
-TODO Details/Links zur OEG.
-
+{{% infobox %}}
 
 ### Warum ist das wichtig?
 
@@ -74,6 +75,6 @@ vermeiden, in dem immer klar gemacht wird, in wessen Auftrag jemand handelt.
 Außerdem entsteht im Rahmen von organisierten Edits immer mal wieder die
 Situation, dass „Neulinge“ mit OSM interagieren, die noch nicht so richtig
 wissen, wie alles funktioniert. Dann ist es wichtig, dass man einen erfahrenen
-Ansprechpartner findet, den Lehrer oder die Chefin des Mappers zum Beispiel,
-die man ansprechen kann.
+Ansprechpartner findet, den Lehrer oder die Chefin des Mappers zum Beispiel.
 
+{{% /infobox %}}

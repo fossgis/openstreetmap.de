@@ -15,6 +15,7 @@ unserer Nachbarländer:
 * [Tschechien](https://openstreetmap.cz/)
 * [Österreich](https://www.openstreetmap.at/)
 
-Bei der OSM Foundation gibt es eine [Liste aller Lokalvertretungen (*local
-chapters*)](https://osmfoundation.org/wiki/Local_Chapters).
+[Liste aller Lokalvertretungen (*local
+chapters*)](https://osmfoundation.org/wiki/Local_Chapters) bei der OSMF
+{.link-extern}
 

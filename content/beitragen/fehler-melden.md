@@ -32,13 +32,13 @@ Bevor Du eine Notiz anlegst, solltest Du schauen, ob das Problem auch auf [der
 Karte auf unserer internationalen
 Projekthomepage](https://www.openstreetmap.org/) zu sehen ist.
 
-# Wie lege ich eine Notiz an?
+## Wie lege ich eine Notiz an?
 
 Hier siehst Du, wie Du eine Notiz anlegen kann:
 
 TODO: Screencast oder Screenshots zum Anlegen einer Notiz
 
-# Was passiert nach Anlegen der Notiz?
+## Was passiert nach Anlegen der Notiz?
 
 Nach dem Anlegen einer Notiz schau bitte regelmäßig nach, ob die Notiz
 bearbeitet werden konnte oder ob es vielleicht noch Rückfragen der Freiwilligen
