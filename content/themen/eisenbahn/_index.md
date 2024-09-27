@@ -5,24 +5,26 @@ layout: themen
 
 Eisenbahnen werden in OpenStreetMap oftmals mit viel Liebe zum Detail erfaßt.
 Das gleiche gilt auch für Straßenbahnen, S- und U-Bahnen, Seilbahnen,
-Schmalspurbahnen und Miniatureisenbahnen in Parks und dergleichen.
+Schmalspurbahnen, Miniatureisenbahnen und generell alles, was auf Schienen
+fährt.
 
 In der Regel ist jedes Gleis einzeln eingetragen. Dazu gibt es viele
 Zusatzinformationen über die Spurweite, die Elektrifizierung der Strecke, die
-Nutzungsart (Hauptgleise, Rangiergleise, ...) und vieles mehr. Manchmal werden
-auch weitere Details wie Weichen und Signale erfaßt.
+Nutzungsart (Hauptgleise, Rangiergleise, Industriegleise ...) und vieles mehr.
+Manchmal werden auch weitere Details wie Weichen und Signale erfaßt.
 
 Bahnhöfe und Haltepunkte mit ihren Namen und vielfach mit genauer Lage der
 Bahnsteige, Treppen, Aufzüge werden auch mit eingetragen. Das ermöglicht eine
-Navigation von Reisende von einem Bahnsteig zum anderen, wie ihn viele
-Verkehrsunternehmen auf ihren Webseiten und Apps anbieten.
+Navigation für Reisende von einem Bahnsteig zum anderen, wie ihn viele
+Verkehrsunternehmen auf ihren Webseiten und Apps basierend auf OSM-Daten
+anbieten.
 
 Die Deutsche Bahn und viele andere Verkehrsunternehmen benutzen OSM auf
 vielfache Art und Weise. Mehr dazu auch unter dem Thema [öffentlicher
-Personenverkehr](/themen/öffentlicher_personenverkehr/). Die in DB-Zügen angezeigten
-Karten mit der aktuellen Position des Zuges basieren auf OSM-Daten. Und auch
-die an sehr vielen Bahnhöfen und Haltpunkten aushängenden Umgebungskarten
-benutzen OSM-Daten.
+Personenverkehr](/themen/öpnv/). Die in DB-Zügen angezeigten Karten mit der
+aktuellen Position des Zuges basieren auf OSM-Daten. Und auch die an sehr
+vielen Bahnhöfen und Haltpunkten aushängenden Umgebungskarten benutzen
+OSM-Daten.
 
 {{% infobox %}}
 
@@ -49,13 +51,13 @@ ist, aber um zum Beispiel für den Güterverkehr eine erste Abschätzung zu
 treffen, ob ein Transport per Bahn vielleicht möglich oder wie groß der
 CO&#x2082;-Ausstoß wäre, dafür reicht es allemal.
 
-## Weitere Links
+## Weiterführende Informationen
 
 [OSM Train Analysis](https://osmtrainroutes.bplaced.net/)
 {.link-extern}
 
 Details zu Eisenbahnen im OSM-Wiki: [Railways](https://wiki.openstreetmap.org/wiki/Railways),
 [Map Features: Railway](https://wiki.openstreetmap.org/wiki/Map_features#Railway),
-[Key:railway](https://wiki.openstreetmap.org/wiki/Key:railway).
+[Key:railway](https://wiki.openstreetmap.org/wiki/DE:Key:railway).
 {.link-extern}
 

@@ -16,10 +16,10 @@ Anforderungen als die Mountainbikerin und die wiederrum andere als der Vater
 mit dem Kind im Anhänger. OSM hat für alle etwas zu bieten. Wir mappen, wo ein
 Radweg vorhanden ist (längs der Straße oder getrennt geführt) oder ob eine
 Einbahnstraße vielleicht für Radfahrer auch andersherum befahren werden darf.
-Auch der Straßentyp gibt ja schon einen Hinweis, ob mal dort radeln will oder
+Auch der Straßentyp gibt ja schon einen Hinweis, ob man dort radeln will oder
 nicht (Wohnstraßen vs. Hauptverkehrsadern). Und wir erfassen auch die
 Beschaffenheit der Wege (Asphalt, Schotterweg, Kopfsteinpflaster, ...) und
-Hindernisse (wie Poller, Gitter, Schranken).
+Hindernisse (wie Poller, Gitter und Schranken).
 
 {{% infobox %}}
 
@@ -42,23 +42,20 @@ Spezielle Routing-Software kennt manchmal ein Dutzend Profile und mehr vom
 Rennrad, über Trekkingrad, Gravel, MTB, Liegerad, ... in vielen Variationen, um
 für jede und jeden die richtigen Routen zu finden.
 
-## Ausgeschilderte Radwanderwege
+## Radrouten
 
-Ausgeschilderte Radfernwege und dergleichen werden bei OSM erfasst. Von der
-kleinen lokalen Runde bis zu den EuroVelo-Routen ist alles dabei. Mehr und
-mehr erkennen auch Tourismus-Organisationen den Wert dieser Informationen in
-OSM und machen beim Mappen mit.
+Ausgeschilderte Radfernwege und andere Radrouten werden bei OSM erfasst. Von
+der kleinen lokalen Runde bis zu den EuroVelo-Routen, die durch ganz Europa
+führen, ist alles dabei. Mehr und mehr erkennen auch Tourismus-Organisationen
+den Wert dieser Informationen in OSM und machen beim Mappen mit.
 
 ## Weitere Infrastruktur
 
 Für Radler sind natürlich nicht nur die Radwege selbst interessant, sondern
-auch viel drumrum. Die Beschaffenheit der Wege (Asphalt, Schotterweg, ...)
-wird ebenso erfa
-
-Für Radler interessant ist natürlich die allgemeine touristische Infrastruktur,
-wie Gaststätten und Picknickplätze. Aber auch speziellere Informationen zum
-Beispiel über Verkaufsautomaten für Ersatzteile wie Fahrradschläuche gibt es
-bei OSM.
+auch viel drumrum. Dazu gehört natürlich die allgemeine touristische
+Infrastruktur, wie Gaststätten und Picknickplätze. Aber auch speziellere
+Informationen, zum Beispiel über Verkaufsautomaten für Ersatzteile wie
+Fahrradschläuche, gibt es bei OSM.
 
 ## Weiterführende Informationen
 
@@ -68,9 +65,19 @@ bei OSM.
 [Brouter web](https://bikerouter.de/?lng=de)
 {.link-extern}
 
-[OpenCycleMap]()
+[OpenCycleMap](https://www.opencyclemap.org/)
 {.link-extern}
 
 [cycle.travel](https://cycle.travel/)
+{.link-extern}
+
+[Radrouten](https://cycling.waymarkedtrails.org/#?map=6.0/51.1075/10.9965)
+und [MTB-Routen](https://mtb.waymarkedtrails.org/#?map=8.0/46.5641/8.2389)
+auf WayMarkedTrails
+{.link-extern}
+
+[Radwege](https://wiki.openstreetmap.org/wiki/DE:Tag:highway=cycleway)
+und [Radrouten](https://wiki.openstreetmap.org/wiki/DE:Tag:route=bicycle)
+im OSM-Wiki
 {.link-extern}
 

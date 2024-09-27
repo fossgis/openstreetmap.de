@@ -1,5 +1,0 @@
----
-title: Wandern
-layout: themen
----
-

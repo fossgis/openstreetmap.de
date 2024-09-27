@@ -1,9 +1,4 @@
 [[theme]]
-name = "3d"
-title = "3D"
-short = "3D"
-
-[[theme]]
 name = "eisenbahn"
 title = "Eisenbahn"
 short = "Eisen-bahn"
@@ -22,26 +17,6 @@ short = "ÖPNV"
 name = "radfahren"
 title = "Radfahren"
 short = "Rad-fahren"
-
-[[theme]]
-name = "seefahrt"
-title = "Seefahrt"
-short = "Seefahrt"
-
-[[theme]]
-name = "spiele"
-title = "Spiele"
-short = "Spiele"
-
-[[theme]]
-name = "tourismus"
-title = "Tourismus"
-short = "Tourismus"
-
-[[theme]]
-name = "wandern"
-title = "Wandern"
-short = "Wan-dern"
 
 [[theme]]
 name = "wintersport"
