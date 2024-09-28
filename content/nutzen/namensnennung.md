@@ -43,7 +43,7 @@ Empfehlungen, wie die Namensnennung umzusetzen ist.
 
 {{< rawhtml >}}
 <figure class="float-right">
-<a href="HVV-Karte-Buxtehude.png"><img src="HVV-Karte-Buxtehude-Namensnennung.png" width="300"/></a>
+<a href="HVV-Karte-Buxtehude.jpg"><img src="HVV-Karte-Buxtehude-Namensnennung.jpg" width="300"/></a>
 <figcaption>Namensnennung auf einer PDF-Karte des Hamburger Verkehrsverbundes</figcaption>
 </figure>
 {{< /rawhtml >}}

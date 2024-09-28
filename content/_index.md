@@ -46,7 +46,7 @@ OpenStreetMap [nutzen](/nutzen/)
 {.link-intern}
 
 </div>
-<img class="overview" src="/img/josm.png" title="OSM-Daten im Editor JOSM"/>
+<img class="overview" src="/img/josm.jpg" title="OSM-Daten im Editor JOSM"/>
 <div class="overview" id="ov-beitragen">
 
 ## Zu OSM beitragen

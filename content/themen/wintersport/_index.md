@@ -21,7 +21,7 @@ Eisstockschießen, Bobbahnen, Rodelbahnen und vieles mehr einzutragen.
 
 {{< rawhtml >}}
 <figure class="float-right">
-<a href="skigebiet.png"><img src="skigebiet.png" width="250"/></a>
+<a href="skigebiet.jpg"><img src="skigebiet-small.jpg" width="250"/></a>
 <figcaption>Skigebiet in den Alpen auf der OpenSnowMap</figcaption>
 </figure>
 {{< /rawhtml >}}

@@ -78,7 +78,7 @@ Erfahrungen, Interessen und Perspektiven einbringen.
 
 {{< rawhtml >}}
 <figure class="float-right">
-<a href="https://www.openstreetmap.org/#map=17/52.507755/13.337359"><img src="berlin-zoo.png" width="400"/></a>
+<a href="https://www.openstreetmap.org/#map=17/52.507755/13.337359"><img src="berlin-zoo.jpg" width="400"/></a>
 <figcaption>Der Berliner Zoo bei OpenStreetMap</figcaption>
 </figure>
 {{< /rawhtml >}}

@@ -13,7 +13,7 @@ die Karten herunterladen, sodass man unterwegs auch ohne Netz navigieren kann.
 {{% rawhtml %}}
 <div class="grid-container grid-container-500">
 <div class="grid-box">
-<img class="grid-box-app-left" src="organicmaps.png" width="200"/>
+<img class="grid-box-app-left" src="organicmaps.jpg" width="200"/>
 <div class="grid-box-app-right">
 
 <img class="logo" src="/img/logos/organic-maps.png" alt=""/>
@@ -39,7 +39,7 @@ Zur Homepage von [Organic Maps](https://organicmaps.app/)
 </div>
 </div>
 <div class="grid-box">
-<img class="grid-box-app-left" src="osmand.png" width="200"/>
+<img class="grid-box-app-left" src="osmand.jpg" width="200"/>
 <div class="grid-box-app-right">
 
 <img class="logo" src="/img/logos/osmand.png" alt=""/>

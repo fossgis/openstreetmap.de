@@ -16,7 +16,7 @@ Branchen, wie man OSM verwenden kann.
 
 {{< rawhtml >}}
 <figure class="float-right">
-<a href="osm-karte-hvv.jpg"><img src="osm-karte-hvv.jpg" width="400"/></a>
+<a href="osm-karte-hvv.jpg"><img src="osm-karte-hvv-small.jpg" width="400"/></a>
 <figcaption>OSM-Karte in einem Bus des Hamburger Verkehrsverbundes</figcaption>
 </figure>
 {{< /rawhtml >}}
@@ -39,7 +39,7 @@ Beispiele für [OSM-basierte Karten](/projekt/karten/)
 
 {{< rawhtml >}}
 <figure class="float-left">
-<a href="isochrone.png"><img src="isochrone.png" width="300"/></a>
+<a href="isochrone.png"><img src="isochrone-small.jpg" width="300"/></a>
 <figcaption>Isochronenkarten zeigen Gebiete mit gleichen Reisezeiten an. (Hier mit Valhalla berechnet.)</figcaption>
 </figure>
 {{< /rawhtml >}}

@@ -13,7 +13,7 @@ unter anderem gehört, die OSM-Daten in ihrem Gebiet aktuell zu halten.
 
 {{< rawhtml >}}
 <figure class="float-right">
-<a href="sächsische-schweiz.png"><img src="sächsische-schweiz.png" width="400"/></a>
+<a href="sächsische-schweiz.jpg"><img src="sächsische-schweiz-small.jpg" width="400"/></a>
 <figcaption>OSM-Karte mit Grenze des Naturschutzgebietes Sächsische Schweiz</figcaption>
 </figure>
 {{< /rawhtml >}}
