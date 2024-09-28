@@ -1,13 +1,4 @@
 [[event]]
-href = "https://2024.stateofthemap.org/"
-title = "State of the Map 2024"
-image = "sotm-nairobi.svg"
-dateFrom = "2024-09-06"
-dateTo = "2024-09-08"
-dateText = "6. bis 8. September 2024"
-location = "Nairobi, Kenia"
-
-[[event]]
 href = "https://www.fossgis.de/wiki/FOSSGIS_OSM_Communitytreffen_2024_Nummer_22"
 title = "FOSSGIS OSM Communitytreffen 2024 Nummer 22"
 dateFrom = "2024-10-03"
