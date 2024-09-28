@@ -48,8 +48,11 @@ personenbezogene Daten können Sie sich jederzeit unter der im
 
 ## Externe Karten
 
-Auf der Seite https://openstreetmap.de/karte/ binden wir Kacheln verschiedener
-externer Kartendienste ein.
+Auf der Seite https://openstreetmap.de/karte/ binden wir Kartenkacheln
+verschiedener externer Kartendienste ein und benutzen für die Suche externe
+Dienste. Es gelten die Datenschutzbestimmungen dieser Dienste:
 
-TODO details
+* Kartenkacheln "OSM-Standard (Mapnik)": [OSMF Privacy Policy](https://osmfoundation.org/wiki/Privacy_Policy)
+* Kartenkacheln "ÖPNV-Karte": [ÖPNVKarte](http://öpnvkarte.de/)
+* Suche (Nominatim): [OSMF Privacy Policy](https://osmfoundation.org/wiki/Privacy_Policy)
 
