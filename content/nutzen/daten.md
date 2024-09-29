@@ -73,7 +73,7 @@ Alle OpenStreetMap-Daten für den ganzen Planeten gibt es zum Download bei der
 OSM Foundation. Einmal pro Woche wird ein kompletter Datenbank-Dump zur
 Verfügung gestellt.
 
-Die Verarbeitung von OSM-Daten für den ganzen Planet stellt durchaus einige
+Die Verarbeitung von OSM-Daten für den ganzen Planet stellt hohe
 Anforderungen an Hardware und Software. Bevor Du mit den Daten für die ganze
 Welt arbeitest, sammle erstmal etwas Erfahrung mit Ausschnitten der Daten.
 

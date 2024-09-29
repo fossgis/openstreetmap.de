@@ -61,7 +61,7 @@ um mit diesen Daten zu arbeiten.
 Software für [Navigation (Routing)](/nutzen/navigation/)
 {.link-intern}
 
-[Switch2OSM](https://switch2osm.org/) hat Anleitung zur Datennutzung
+[Switch2OSM](https://switch2osm.org/) hat Anleitungen zur Datennutzung
 {.link-extern}
 
 ## Jemand anders machen lassen

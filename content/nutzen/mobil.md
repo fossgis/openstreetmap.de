@@ -46,7 +46,7 @@ Zur Homepage von [Organic Maps](https://organicmaps.app/)
 
 ### OsmAnd
 
-Eine Open Source App für Fortgeschrittene. Die Bedienung ist nicht ganz so
+Eine Open-Source-App für Fortgeschrittene. Die Bedienung ist nicht ganz so
 einfach, dafür gibt es eine Menge Funktionen. Man kann sogar OSM editieren. Die
 App gibt es für Android und Apple in den App Stores und auch über F-Droid.
 

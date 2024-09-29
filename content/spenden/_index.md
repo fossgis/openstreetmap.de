@@ -20,11 +20,13 @@ Ihre Spende kann von der Steuer abgesetzt werden.
 
 ## Spenden per Überweisung
 
-<table><tbody>
+<table>
+<tbody>
     <tr><td><b>Kontoinhaber:</b></td><td>FOSSGIS e.V.</td></tr>
-    <tr><td><b>IBAN:</b></td><td>DE93 5519 0000 0415 9380 26</td></tr>
-    <tr><td><b>Verwendungszweck:</b></td><td>Spende OpenStreetMap (<i>ggf. Ihr Name/Adresse</i>)</td></tr>
-</tbody></table>
+    <tr><td style="text-align:left;vertical-align:top"><b>IBAN:</b></td><td>DE93 5519 0000 0415 9380 26</td></tr>
+    <tr><td style="text-align:left;vertical-align:top"><b>Verwendungszweck:</b></td><td>Spende OpenStreetMap (<i>ggf. Ihr Name/Adresse</i>)</td></tr>
+</tbody>
+</table>
 
 </div>
 <div class="grid-box">

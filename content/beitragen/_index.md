@@ -46,7 +46,7 @@ Dann solltest Du Dir ein paar OSM-Grundlagen anschauen:
 {.link-intern}
 
 </div>
-
+<!-- TODO
 <div class="grid-box">
 
 ## Editoren
@@ -63,7 +63,7 @@ Es gibt mehrere Editoren, über die man die OSM-Daten ändern kann.
 {.link-intern}
 
 </div>
-
+-->
 <div class="grid-box">
 
 ## Mit dem Smartphone
@@ -75,7 +75,7 @@ Auch mit dem Smartphone kann man unterwegs „mal eben schnell“ zu OSM beitrag
 * Vespucci
 
 </div>
-
+<!-- TODO
 <div class="grid-box">
 
 ## Tools für Mapper
@@ -88,7 +88,7 @@ helfen.
 {.link-intern}
 
 </div>
-
+-->
 <div class="grid-box">
 
 ## Informationsquellen

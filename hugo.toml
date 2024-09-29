@@ -61,7 +61,7 @@ pre = '<svg width="20" height="20" viewBox="0 0 512 512"><path d="M267,474l-.8-.
 weight = 1
 
 [[menu.main]]
-name = "OSM Nutzen"
+name = "OSM nutzen"
 url = "nutzen/"
 pre = '<svg width="20" height="20" viewBox="0 0 512 512"><path d="M327.71,130.93,184,39,32,144V480l152.29-98.93L328,473,480,368V32ZM312,421,200,349V91l112,72Z"/></svg>'
 weight = 2

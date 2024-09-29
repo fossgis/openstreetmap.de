@@ -29,9 +29,8 @@ Unser [Themenportal](/themen/) zeigt Nutzungsmöglichkeiten von OSM
 ## Nicht nur eine *Karte*
 
 Alle Daten, die das Projekt gesammelt hat, stehen allgemein und kostenlos zu
-Download zur Verfügung. Viele Hobbyisten und Organisationen weltweit und auch
-viele Firmen nutzen diese Daten, um daraus Karten zu erstellen oder andere
-Anwendungen zu bauen.
+Download zur Verfügung. Viele Hobbyisten, Organisationen und Firmen weltweit
+nutzen diese Daten, um daraus Karten zu erstellen oder andere Anwendungen zu bauen.
 
 Aus unseren Daten kann man automatisch **Karten** generieren lassen. Aber das
 ist nicht alles.
@@ -59,7 +58,7 @@ Wie weit ist es zum nächsten Krankenhaus?
 
 OpenStreetMap steht Allen zum Mitmachen offen. Wir freuen uns über jede
 Helferin und jeden Helfer. Du musst Dir einmal [einen Zugang
-anlegen](/beitragen/osm-zugang/) und die Bedingungen bestätigen und schon kann
+anlegen](/beitragen/osm-zugang/), die Teilnahmebedingungen bestätigen und schon kann
 es losgehen.
 
 Es gibt ganz verschiedene Möglichkeiten beizutragen. Man kann mit einfach zu

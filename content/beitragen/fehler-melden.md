@@ -33,25 +33,33 @@ Karte auf unserer internationalen
 Projekthomepage](https://www.openstreetmap.org/) zu sehen ist.
 
 ## Wie lege ich eine Notiz an?
+1. Gehe auf [die internationale Projekthomepage](https://www.openstreetmap.org)
+2. Zoome auf die Stelle mit dem Fehler
+3. Auf der rechten Bildschirmseite siehst Du eine Werkzeugleiste. Klicke den zweiten Punkt von unten "Einen Hinweis/Fehler zu den Kartendaten melden" an.
+4. Verschiebe den neu aufgetauchten, blauen Marker in der Bildschirmmite genau auf die Position des Fehlers
+5. Gib Deine Hinweise in der Textbox auf der linken Seite ein
+6. Drücke auf "Hinweis/Fehler melden" und Du bist fertig
 
+<!--
 Hier siehst Du, wie Du eine Notiz anlegen kann:
 
 TODO: Screencast oder Screenshots zum Anlegen einer Notiz
+-->
 
 ## Was passiert nach Anlegen der Notiz?
 
 Nach dem Anlegen einer Notiz schau bitte regelmäßig nach, ob die Notiz
 bearbeitet werden konnte oder ob es vielleicht noch Rückfragen der Freiwilligen
 gab.
-
+<!--
 TODO: Geht nur mit Account!
+-->
 
 ## Die Notiz wurde bearbeitet, aber die Karte zeigt immernoch den alten Stand an!
 
 Es dauert eine Weile, bis die Online-Karte aus veränderten Daten neu gezeichnet
 wird. Meist erscheinen die Änderungen innerhalb weniger Minuten, manchmal ein
-paar Stunden, gelegentlich auch länger. Bei Karten, die nicht direkt von
+paar Stunden, gelegentlich auch länger. Bei Karten oder Apps, die nicht direkt von
 OpenStreetMap betrieben werden, sondern von Firmen, Organisationen und
 Einzelpersonen, kann es bedeutend länger dauern. In diesem Fall musst Du Dich
 für nähere Informationen direkt an die entsprechenden Betreiber wenden.
-
