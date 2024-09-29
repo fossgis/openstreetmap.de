@@ -2,7 +2,7 @@
     <div class="footer-linklist">
         <a href="/impressum/">Impressum</a> &middot; <a href="/impressum/datenschutz/">Datenschutzerklärung</a>
         {{ with .File }}
-        &middot; <a href="{{ $.Site.Params.GithubLink }}/content/{{ .File.Path }}">Quelle dieser Seite auf Github</a>
+        &middot; <a href="{{ $.Site.Params.GithubLink }}/content/{{ .Path }}">Quelle dieser Seite auf Github</a>
         {{ end }}
     </div>
     <div class="footer-licence">

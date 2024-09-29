@@ -1,7 +1,7 @@
     <nav>
         {{- $path := "" -}}
         {{- with .File -}}
-        {{-   $path = printf "/%s" .File.Path }}
+        {{-   $path = printf "/%s" .Path }}
         {{- end -}}
         {{ $current := . }}
         {{ range site.Menus.main -}}
