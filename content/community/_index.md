@@ -19,7 +19,7 @@ nicht, was es ist.
 
 ## Community-Forum
 
-Der erste Anlaufpunkt für den Kontakt zu den Mapper-Kollegen ist unsere
+Der erste Anlaufpunkt für den Kontakt zu den Mapper-Kollegen ist unser
 Community-Forum unter
 [community.openstreetmap.org](https://community.openstreetmap.org/). Dort
 findet man Diskussionsforen zu allen möglichen Themen, kann Fragen stellen und
