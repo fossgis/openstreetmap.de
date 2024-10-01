@@ -41,7 +41,7 @@ author = "FOSSGIS e.V."
 # search
 search = false
 copyright = "FOSSGIS e.V"
-githubLink = "https://github.com/fossgis/openstreetmap.de/blob/staging"
+githubLink = "https://github.com/fossgis/openstreetmap.de/blob/main"
 
 # Preloader
 [params.preloader]
