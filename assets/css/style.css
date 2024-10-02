@@ -55,6 +55,7 @@ div.top {
 }
 
 nav {
+    z-index: 1;
     background-color: var(--grey);
 }
 
