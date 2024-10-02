@@ -9,7 +9,7 @@ werden.
 
 {{% infobox %}}
 
-Denk daran, dass diese Daten einer Lizenz unterliegen. Du bist bestimmte Dinge
+Denk daran, dass diese Daten einer Lizenz unterliegen. Du musst bestimmte Dinge
 bei der Nutzung beachten. Das wichtigste ist die Pflicht zur
 [Namensnennung](/nutzen/namensnennung/).
 
