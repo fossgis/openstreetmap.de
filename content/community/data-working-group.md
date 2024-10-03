@@ -33,9 +33,9 @@ Mehr über die Arbeit der DWG auf der Seite der OSM Foundation zur
 
 {{% infobox %}}
 
-Übrigens: Die Data Working Group kann immer Hilfe gebrauchen. Ein bischen
+Übrigens: Die Data Working Group kann immer Hilfe gebrauchen. Ein bisschen
 Erfahrung mit OSM gehört schon dazu, man sollte die Kultur bei OSM kennen
-und ein bischen Fingerspitzengefühl im Umgang mit einer Community von
+und ein bisschen Fingerspitzengefühl im Umgang mit einer Community von
 Freiwilligen haben.
 
 {{% /infobox %}}
