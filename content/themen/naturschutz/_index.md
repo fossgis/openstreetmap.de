@@ -37,13 +37,13 @@ Karten sichtbar und nicht alle Apps berücksichtigen auch alle Einschränkungen
 bei der Navigation.
 
 Zu beachten ist in diesem Zusammenhang, dass wir alle in der Wirklichkeit
-vorhandenen Wege in OSM eintragen, unabhängig davon, ob es sie geben sollte und
-wie sie entstanden sind. Auch wenn der Weg für die Öffentlichkeit gesperrt ist,
-ist er doch nunmal da. Er ist vor Ort zu sehen und auch auf dem Luftbild. Und
-selbst wenn man ihn nicht gehen darf, kann er der Orientierung dienen. Würden
-wir ihn löschen, trägt ihn der nächste wieder ein. Wege, die im Gelände als
-gesperrt markiert sind &mdash; durch Schilder oder offensichtliche Barrieren
-wie querliegende Bäume &mdash; tragen wir bei OSM als gesperrt ein.
+vorhandenen Wege in OSM eintragen, unabhängig davon wie sie entstanden sind.
+Auch wenn der Weg für die Öffentlichkeit gesperrt ist, ist er doch nunmal da.
+Er ist vor Ort zu sehen und auch auf dem Luftbild. Und selbst wenn man ihn
+nicht gehen darf, kann er der Orientierung dienen. Würden wir ihn löschen,
+trägt ihn der nächste wieder ein. Wege, die im Gelände als gesperrt markiert
+sind &mdash; durch Schilder oder offensichtliche Barrieren wie querliegende
+Bäume &mdash; tragen wir bei OSM als gesperrt ein.
 
 Und noch einen anderen Grund hat der Eintrag: OSM wird von vielen genutzt,
 nicht nur von der Öffentlichkeit. Auch der Ranger im Naturpark will wissen, wo
