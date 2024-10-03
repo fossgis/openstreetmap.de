@@ -41,15 +41,16 @@ und anderen Veranstaltungen. Wenn Ihr sowas organisieren wollt, meldet euch bei
 
 ## Flyer
 
-Der OpenStreetMap-Flyer im DIN A7-Format eignet sich zum Verteilen bei
+{{< rawhtml >}}
+<img src="img/flyer-stapel.png" width="320px" alt="Flyer-Stapel" title="Stapel von OSM-Flyern" style="float: right; margin-left: 20px;"/>
+{{< /rawhtml >}}
+
+Der OpenStreetMap-Flyer im DIN A6-Format eignet sich zum Verteilen bei
 Veranstaltungen. Man kann sich auch ein paar in die Tasche stecken, wenn man
 zum Mappen unterwegs ist - so ist die Frage, was man denn da tut, schnell
-beantwortet! Auf [diesem Bild](/img/flyer-big.jpg) kannst Du sehen, wie der
-Flyer aussieht.
+beantwortet! Hier ist [der Flyer als PDF.](https://wiki.openstreetmap.org/wiki/File:Faltprospekt-OpenStreetMap-Impression.pdf) 
 
-Die [Geofabrik GmbH](https://www.geofabrik.de/) sponsort den Druck der Flyer
-(bislang wurden ca. 40.000 hergestellt). Solange der Vorrat reicht, können die
-Flyer kostenlos in Mengen von ca. 10, ca. 100 und ca. 200 Stück (passt dann vom
-Gewicht genau in verschieden Briefgrößen) von der Geofabrik angefordert werden.
-Wende Dich an Frederik Ramm (frederik.ramm@geofabrik.de).
-
+Die [Geofabrik GmbH](https://www.geofabrik.de/) sponsort Druck und Versand der
+Flyer. Solange der Vorrat reicht, können die Flyer kostenlos von der 
+Geofabrik angefordert werden (ca. 15 Stück passen in einen 50g-Brief, ca. 150
+Stück in einen 500g-Brief). Wende Dich an Frederik Ramm (frederik.ramm@geofabrik.de).
