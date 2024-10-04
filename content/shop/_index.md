@@ -42,13 +42,13 @@ und anderen Veranstaltungen. Wenn Ihr sowas organisieren wollt, meldet euch bei
 ## Flyer
 
 {{< rawhtml >}}
-<img src="img/flyer-stapel.png" width="320px" alt="Flyer-Stapel" title="Stapel von OSM-Flyern" style="float: right; margin-left: 20px;"/>
+<img src="img/flyer-stapel.webp" width="320px" alt="Flyer-Stapel" title="Stapel von OSM-Flyern" style="float: right; margin-left: 20px;"/>
 {{< /rawhtml >}}
 
 Der OpenStreetMap-Flyer im DIN A6-Format eignet sich zum Verteilen bei
 Veranstaltungen. Man kann sich auch ein paar in die Tasche stecken, wenn man
 zum Mappen unterwegs ist - so ist die Frage, was man denn da tut, schnell
-beantwortet! Hier ist [der Flyer als PDF.](https://wiki.openstreetmap.org/wiki/File:Faltprospekt-OpenStreetMap-Impression.pdf) 
+beantwortet! Hier ist [der Flyer als PDF](https://wiki.openstreetmap.org/wiki/File:Faltprospekt-OpenStreetMap-Impression.pdf).
 
 Die [Geofabrik GmbH](https://www.geofabrik.de/) sponsort Druck und Versand der
 Flyer. Solange der Vorrat reicht, können die Flyer kostenlos von der 
