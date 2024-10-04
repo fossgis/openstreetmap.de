@@ -4,8 +4,8 @@ title: Umgang mit Vandalismus
 
 # Umgang mit Vandalismus
 
-Eine Karte, bei der jede und jeder mitmachen kann. Macht da nicht als jemand
-was absichtlich kaputt?
+Eine Karte, bei der jede und jeder mitmachen kann. Macht da nicht dauernd jemand
+absichtlich etwas kaputt?
 
 Meistens ist es keine Absicht, wenn jemand was kaputt macht. Aber es kommt
 schon vor, dass absichtlich Daten gelöscht oder verfälscht werden. Manchmal in
@@ -14,10 +14,10 @@ Vandalismus.
 
 Wir haben einige technische Maßnahmen dagegen getroffen. Zum Beispiel gibt es
 Einschränkungen, was neue Mapper dürfen. Aber die große Mehrheit macht ihre
-Arbeit gut, den wollen wir das Leben nicht schwer machen. Daher gibt es auch
+Arbeit gut, denen wollen wir das Leben nicht schwer machen. Daher gibt es auch
 keine Vorabkontrolle.
 
-Was es gibt sind viele Leute, die Probleme auf der Karte schnell erkennen und
+Was es gibt, sind viele Leute, die Probleme auf der Karte schnell erkennen und
 melden oder sogar korrigieren. Es gibt Mapper, die Änderungen an OSM in „ihrer
 Gegend“ verfolgen und drauf achten, dass da nichts kaputt geht. Und es gibt
 auch Tools, um „verdächtige“ Änderungen aufzuspüren und Leute, die sowas wieder
@@ -30,7 +30,7 @@ Bitte den Vandalismus nicht öffentlich melden, schon garnicht mit Screenshots!
 Wir wollen ja nicht noch „Reklame“ dafür machen.
 
 Es kann sein, dass der Vandalismus schon längst korrigiert wurde, aber die
-Karte noch nicht aktualisiert wurde. Geh auf die Standard-Karte auf
+Karte noch nicht aktualisiert wurde. Gehe auf die Standard-Karte auf
 [www.openstreetmap.org](https://www.openstreetmap.org/). Ist der Vandalismus
 dort nicht zu sehen, wurde er wahrscheinlich korrigiert. Ist er dort zu sehen,
 klicke mit der rechten Maustaste auf den Vandalismus, es erscheint ein Menu

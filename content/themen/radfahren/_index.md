@@ -8,11 +8,11 @@ layout: themen
 
 Radfahrende haben schon sehr früh den Weg zu OSM gefunden, weil klassische
 Navigationslösungen nur für Autos funktionierten. Heute gibt es eine riesige
-Zahl von Apps und spezielle Navi-Geräten für Radfahrende von denen viele auf
+Zahl von Apps und spezielle Navi-Geräten für Radfahrende, von denen viele auf
 OSM-Daten beruhen.
 
 "Radfahren" ist nicht gleich "Radfahren". Der Rennradfahrer hat anderen
-Anforderungen als die Mountainbikerin und die wiederrum andere als der Vater
+Anforderungen als die Mountainbikerin und die wiederum andere als der Vater
 mit dem Kind im Anhänger. OSM hat für alle etwas zu bieten. Wir mappen, wo ein
 Radweg vorhanden ist (längs der Straße oder getrennt geführt) oder ob eine
 Einbahnstraße vielleicht für Radfahrer auch andersherum befahren werden darf.

@@ -16,7 +16,7 @@ kann. Viele Bundesländer in Deutschland und viele Länder außerhalb Deutschlan
 stellen Höheninformationen in guter Auflösung für ihr Gebiet als Open Data zur
 Verfügung.
 
-Und es gibt natürlich auch die Möglichkeit Eissporthallen, Bahnen zum
+Und es gibt natürlich auch die Möglichkeit, Eissporthallen, Bahnen zum
 Eisstockschießen, Bobbahnen, Rodelbahnen und vieles mehr einzutragen.
 
 {{< rawhtml >}}

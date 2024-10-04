@@ -20,7 +20,7 @@ Open Database License (ODbL), die ausdrücklich die Namensnennung
 
 {{% infobox %}}
 
-Achtung: Wenn Du nicht nur die *Daten* von uns verwendest sondern unsere
+Achtung: Wenn Du nicht nur die *Daten* von uns verwendest, sondern unsere
 Karten- oder andere Dienste, dann gibt es noch andere Bedingungen, die zum
 Beispiel sicherstellen sollen, dass die Server nicht überlastet werden. Bitte
 beachte dazu die Nutzungsbedingungen der jeweiligen Dienste.
@@ -84,7 +84,7 @@ Karten-Ausschnitt, andere Quellen zu nennen.
 In jedem Fall sollte man eine Abwägung treffen, wie „prominent“, die
 verschiedenen Datenquellen zu sehen sind.
 
-Letztlich bleibt die Entscheidung (und das rechtliche Risiko) Ihnen überlassen.
+Letztlich bleibt die Entscheidung (und das rechtliche Risiko) Dir überlassen.
 
 ## Muss ich bei einer selbst erstellten Karte trotzdem OpenStreetMap nennen?
 

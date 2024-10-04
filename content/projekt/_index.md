@@ -15,7 +15,7 @@ Geodaten, die frei verfügbar ist und für ganz viele Zwecke genutzt werden kann
 
 ## Nicht nur *eine* Karte
 
-OpenStreetMap (OSM) ist nicht nur *eine* Karte. Wir sammeln Daten über die Welt
+OpenStreetMap (OSM) ist nicht nur *eine* Karte. Wir sammeln Daten über die Welt,
 aus denen *ganz verschiedene* Karten erzeugt werden können. Zum Beispiel
 spezielle Karten für Wanderer oder Radfahrer. Oder Karten mit ÖPNV-Linien oder
 Windkraftanlagen.
@@ -44,7 +44,7 @@ viele Varianten, je nach Verkehrsmitteln. Und es muss auch nicht immer nur die
 Navigation auf der Straße sein. Vielleicht willst Du Dich ja über Bahngleise
 navigieren lassen? Oder über Skipisten und Skilifte?
 
-Beim sogenannten **Geocoding** geht es darum von einem Ortsnamen oder eine
+Beim sogenannten **Geocoding** geht es darum, von einem Ortsnamen oder einer
 Adresse den passenden Punkt auf der Karte zu finden. Umgekehrt kann man mit den
 Daten für einen Punkt die nächste Adresse finden (*reverse Geocoding*).
 
@@ -60,12 +60,12 @@ Wie weit ist es zum nächsten Krankenhaus?
 
 ## Alle können mitmachen
 
-OpenStreetMap steht Allen zum Mitmachen offen. Wir freuen uns über jede
+OpenStreetMap steht allen zum Mitmachen offen. Wir freuen uns über jede
 Helferin und jeden Helfer. Du musst Dir einmal [einen Zugang
 anlegen](/beitragen/osm-zugang/), die Teilnahmebedingungen bestätigen und schon
 kann es losgehen.
 
-Es gibt ganz verschiedene Möglichkeiten beizutragen. Man kann mit einfach zu
+Es gibt ganz verschiedene Möglichkeiten, beizutragen. Man kann mit einfach zu
 nutzenden Apps anfangen, kleine Beiträge zu leisten. So lernt man allmählich
 wie das geht und mit der Zeit kann man immer mehr machen. Für die Profis
 gibt es dann einen speziellen Editor, mit dem auch die kompliziertesten
@@ -91,7 +91,7 @@ Natürlich gibt es ein paar Regeln zu beachten, aber wir sind recht offen für
 Neues. Über die Zeit sind mehr und mehr Dinge dazu gekommen, die Karte füllt
 sich mit mehr Details und mit mehr Spezialinformationen.
 
-Eingetragen wird alles was man so von einer Karte erwartet: Straßen und Wege,
+Eingetragen wird alles, was man so von einer Karte erwartet: Straßen und Wege,
 Wälder und Gewässer, Gebäude, Briefkästen, Spielplätze und vieles mehr. Auch
 viele Dinge, die man auf üblichen Karten nicht sieht, und mit vielen Details:
 Buslinien, Staudämme, Denkmäler, Ticket-Automaten, ...
@@ -116,7 +116,7 @@ mitarbeiten, es gibt keine Daten _nur von Dir_ oder _nur für Dich_.
 
 OpenStreetMap funktioniert nur, weil wir eine große aktive Community von
 Beitragenden haben. Für uns ist eigentlich jeder Mensch, der OSM nutzt
-oder dazu beiträgt Teil dieser Community. Egal ob man das aus Spaß an der
+oder dazu beiträgt, Teil dieser Community. Egal, ob man das aus Spaß an der
 Freude macht oder beruflich für eine Firma.
 
 Der Austausch mit den Mapper-Kolleginnen und -Kollegen, insbesondere der 

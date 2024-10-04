@@ -7,7 +7,7 @@ title: Fördermöglichkeiten für OSM-Projekte
 Aus der Community heraus entstehen immer wieder Ideen für Projekte, die
 manchmal auch etwas Geld brauchen.
 
-Es gibt viele verschiedene Möglichkeiten an finanzielle Förderungen für
+Es gibt viele verschiedene Möglichkeiten, an finanzielle Förderungen für
 OSM-Projekte zu kommen. Je nach der Organisation, die die Gelder vergibt, nach
 Förderschwerpunkten und der Höhe der Förderungen ist mit mehr oder weniger
 Aufwand bei der Beantragung von Geldern zu rechnen.
@@ -18,7 +18,7 @@ wenden. Wir können Euch ggf. auch mit Leuten zusammenbringen, die schon
 gefördert wurden und Euch vielleicht ein paar Fragen „aus der Praxis“
 beantworten können.
 
-Scheut Euch nicht bei uns oder den Förderorganisationen anzufragen, wenn ihr
+Scheut Euch nicht, bei uns oder den Förderorganisationen anzufragen, wenn ihr
 über eine Förderung nachdenkt. Förderbedingungen werden häufig weiter ausgelegt
 als man denkt. Die Organisationen *wollen* das Geld unter die Leute bringen,
 dafür sind sie da.
@@ -33,12 +33,12 @@ Fördermöglichkeiten.
 Der [FOSSGIS e.V.](https://www.fossgis.de/) ist die offizielle Vertretung des
 OpenStreetMap-Projektes in Deutschland. Wir fördern unbürokratisch kleinere
 Projekte mit drei- bis zu kleineren vierstelligen Beträgen. Gefördert werden
-zum Beispiel Community-Veranstaltungen oder Reisekosten für Mapper, die die OSM
+zum Beispiel Community-Veranstaltungen oder Reisekosten für Mapper, die OSM
 auf Veranstaltungen präsentieren. Wir zahlen auch Serverkosten für interessante
 Community-Projekte, teilweise auch über Jahre hinweg. Aber auch viele andere
 Förderungen sind denkbar.
 
-Anträge können jederzeit eingereicht werden, die Bearbeitung dauart in der
+Anträge können jederzeit eingereicht werden, die Bearbeitung dauert in der
 Regel ein paar Wochen bis zu zwei Monate. Von Antragstellern wird in der Regel
 erwartet, dass sie ihr Projekt der Community vorstellen und es mit den
 FOSSGIS-Mitgliedern diskutieren. Anträge können von jeder und jedem eingereicht
@@ -57,7 +57,7 @@ FOSSGIS](https://www.fossgis.de/wiki/F%C3%B6rderantr%C3%A4ge)
 
 Die [OpenStreetMap Foundation](https://osmfoundation.org/) ist die offizielle
 Vertretung des weltweiten OpenStreetMap-Projekts. Sie unterstützt das Projekt
-auf vielfältige Art- und Weise.
+auf vielfältige Art und Weise.
 
 Es gibt aber derzeit kein strukturiertes Förderprogramm, für das man sich
 bewerben kann.
@@ -77,7 +77,7 @@ konkretes Projekt klar beschreiben können.
 Die Förderung kommt letztlich vom Bundesministerium für Bildung und Forschung.
 Der Prototype Fund hilft bei der Bürokratie.
 
-Bereits geförderte Projekte sind unter Anderem [Generalisierung von
+Bereits geförderte Projekte sind unter anderem [Generalisierung von
 OpenStreetMap-Daten mit
 osm2pgsql](https://prototypefund.de/project/generalisierung-von-openstreetmap-daten-mit-osm2pgsql/),
 [Parkraumdaten aus OpenStreetMap - Prozessierung und
@@ -89,13 +89,13 @@ Visualisierung](https://prototypefund.de/project/parkraumdaten-aus-openstreetmap
 
 Die europäische Initiative [Next Generation Internet (NGI)
 Zero](https://www.ngi.eu/ngi-projects/ngi-zero/) fördert Open-Source-Projekte,
-die helfen die Zukunft des Internets als offene Platform zu sichern.
+die helfen, die Zukunft des Internets als offene Platform zu sichern.
 
 Es gibt mehrere Förderprogramme mit leicht unterschiedlichem Fokus. Anträge
 können zweimal pro Jahr eingereicht werden, Förderungen reichen von wenigen
 Monaten bis zu Jahren.
 
-Bereits geförderte Projekte sind unter Anderem
+Bereits geförderte Projekte sind unter anderem
 [Nominatim](https://nominatim.org/), [MapComplete](https://mapcomplete.org/),
 [Protomaps](https://protomaps.com/),
 [StreetComplete](https://streetcomplete.app/), und

@@ -4,7 +4,7 @@ title: Beitragen mit dem Smartphone
 
 # Beitragen mit dem Smartphone
 
-Es gibt viele Möglichkeiten bei OSM beizutragen. Auch direkt mit dem Smartphone
+Es gibt viele Möglichkeiten, bei OSM beizutragen. Auch direkt mit dem Smartphone
 von unterwegs. Die Apps mögen vielleicht nicht so viel können wie die [Editoren
 für den Desktop](/beitragen/editoren), aber dafür kann man viel schneller und
 einfacher die vielen Kleinigkeiten eintragen und aktualisieren, die OSM so
@@ -48,7 +48,7 @@ vereinfacht. Sie ist für das schnelle Mappen zwischendurch prima geeignet.
 {{< /rawhtml >}}
 
 Vespucci ist ein OSM-Editor für Android. Anders als andere hier vorgestellte
-Apps hat er das Ziel ein Editor für alle Anwendungen zu sein. Im Vergleich
+Apps hat er das Ziel, ein Editor für alle Anwendungen zu sein. Im Vergleich
 mit Desktop-Editoren gibt es aber natürlich schon einige Einschränkungen.
 
 [Vespucci-Webseite](https://vespucci.io/)

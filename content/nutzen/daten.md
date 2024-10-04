@@ -83,7 +83,7 @@ Download auf [planet.openstreetmap.org](https://planet.openstreetmap.org/)
 ## Änderungsdateien
 
 Damit man alle Änderungen an den OSM-Daten nachvollziehen kann, gibt es bei der
-OSM Foundation Änderungsdatensätze zum herunterladen. Jede Minute wird ein
+OSM Foundation Änderungsdatensätze zum Herunterladen. Jede Minute wird ein
 neuer Datensatz erzeugt. Diese werden dann zu stündlichen und täglichen
 Datensätzen zusammengefaßt. Manche OSM-Software kann diese Daten automatisch
 herunterladen und zum Beispiel eine Datenbank damit aktualisieren.

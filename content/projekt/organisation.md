@@ -22,7 +22,7 @@ Mehr über die [Community](/community/)
 ## Die OpenStreetMap Foundation
 
 Die in Großbritannien eingetragene OpenStreetMap Foundation unterstützt das
-Projekt aber sie kontrolliert es nicht. Sie kümmert sich um rechtliche Fragen
+Projekt, aber sie kontrolliert es nicht. Sie kümmert sich um rechtliche Fragen
 und sammelt Geld für den Betrieb der Server und dergleichen. Aber sie ist nur
 eine relativ kleine Organisation mit dreistelliger Mitgliederzahl und nur drei
 Angestellten.

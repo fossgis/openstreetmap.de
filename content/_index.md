@@ -37,7 +37,7 @@ Mehr über das [Projekt](/projekt/) erfahren
 
 ## OpenStreetMap nutzen
 
-Es gibt ganz verschiedene Möglichkeiten die Karten, Dienste und Daten
+Es gibt ganz verschiedene Möglichkeiten, die Karten, Dienste und Daten
 des OpenStreetMap-Projekts zu nutzen. Viele Webseiten und Apps benutzen unsere
 Daten. Aber alle Daten stehen auch zum Herunterladen frei zur Verfügung und
 können damit vielfältig verwendet werden.

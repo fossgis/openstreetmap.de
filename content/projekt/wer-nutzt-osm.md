@@ -70,10 +70,10 @@ generieren lassen, dass auf OpenStreetMap-Daten beruht. Und die Berliner Firma
 [kinderkiez](https://kinderkiez.net/) verkauft Spielteppiche für Kinder. Als
 Grundlage dienen OSM-Daten jeder gewünschten Gegend.
 
-Berühmt berüchtigt ist in OSM-Kreisen das Spiel [Pokémon
+Berühmt-berüchtigt ist in OSM-Kreisen das Spiel [Pokémon
 GO](https://de.wikipedia.org/wiki/Pok%C3%A9mon_Go). Die OSM-Daten beeinflussen,
 wo welche Pokémon-Figuren auf der Karte erscheinen, was einige Spieler bewogen
-hat bei OSM mitzuhelfen. Aber auch zu Mißbrauch geführt hat...
+hat, bei OSM mitzuhelfen. Aber auch zu Mißbrauch geführt hat...
 
 ## Outdoor Sports
 
@@ -97,7 +97,7 @@ lassen.
 ## Und viele mehr...
 
 Das war nur ein winziger Ausschnitt. Eigentlich ist heute die Frage eher: Wer
-benutzt OSM nicht. Wenn Ihr das nächste mal eine Karte seht, dann schaut mal
+benutzt OSM nicht. Wenn Ihr das nächste Mal eine Karte seht, dann schaut mal
 drauf, wer als Datenquelle genannt wurde.
 
 [Sammlung von OSM-Nutzern auf welcome.openstreetmap.org](https://welcome.openstreetmap.org/about-osm-community/consumers/)

@@ -77,7 +77,7 @@ rund um die Navigation.
 <img class="float-right" src="/img/logos/osrm.svg" alt="" width="140"/>
 
 Ursprünglich aus Forschungsarbeiten am Karlsruher Institut für Technologie
-([KIT](https://www.kit.edu/)) hervorgegangen wurde OSRM dann im Firmenauftrag
+([KIT](https://www.kit.edu/)) hervorgegangen, wurde OSRM dann im Firmenauftrag
 und durch die Community weiterentwickelt.
 
 [Demo-Anwendung](https://map.project-osrm.org/)
@@ -109,7 +109,7 @@ konfigurieren läßt.
 <img class="float-right" src="/img/logos/pgrouting.png" alt="" width="60"/>
 
 pgRouting ist anders als die anderen hier vorgestellten Produkte. Es ist ein
-Plugin mit dem man die SQL-Datenbank [PostgreSQL](https://www.postgresql.org/)
+Plugin, mit dem man die SQL-Datenbank [PostgreSQL](https://www.postgresql.org/)
 um Routing-Funktionen erweitert. Etwas für Bastler, die viel Flexibilität
 brauchen. Erkauft wir das mit schlechterer Performance als bei den anderen
 Lösungen.

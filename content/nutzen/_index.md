@@ -49,7 +49,7 @@ angepasste Karten kann man sich bei MyOSMatic erzeugen lassen.
 
 Alle Daten, die im OSM-Projekt gesammelt wurden, stehen frei zum Download zur
 Verfügung. Alle Änderungen der Daten in einem Zeitraum (Minute, Stunde, Tag)
-gibt es ebenfalls zum Download. So ist es möglich eine lokale, selbst
+gibt es ebenfalls zum Download. So ist es möglich, eine lokale, selbst
 betriebene Datenbank mit OSM-Daten auf dem aktuellen Stand zu halten.
 
 Es gibt jede Menge Open-Source-Software, die man selbst installieren kann,

@@ -17,7 +17,7 @@ Jede und jeder kann und darf gleichberechtigt mitarbeiten.
 
 Alle Änderungen, die Ihr bei OSM macht, sind sofort für alle anderen Mapper und
 für die ganze Welt sichtbar! Wir haben absichtlich keine Kontrolle
-dazwischengeschaltet. Es ist ein tolles Gefühl, etwas in dem OSM-Daten
+dazwischengeschaltet. Es ist ein tolles Gefühl, etwas in den OSM-Daten
 einzutragen, zu korrigieren oder zu ergänzen und das dann wenige Minuten später
 auf der Karte zu sehen. Wir vertrauen Euch, dass ihr das Richtige tut.
 
@@ -29,7 +29,7 @@ dass es funktioniert.
 
 Bitte seit sorgfältig bei der Arbeit. OSM wird weltweit von Millionen Menschen
 jeden Tag benutzt. Sie alle verlassen sich auf die Daten. Wenn Ihr Euch mal mit
-einer Änderung nicht sicher seit, dann lasst sie einfach weg. Früher oder
+einer Änderung nicht sicher seid, dann lasst sie einfach weg. Früher oder
 später wird jemand anderes das machen. (Ihr könnt aber eine [Notiz
 anlegen](/beitragen/fehler-melden/) als Hinweis.)
 
@@ -43,9 +43,9 @@ zuerst mit den „Kollegen“.
 
 ## Organized Editing Guidelines
 
-OSM ist also Hobbyprojekt enstanden, aber inzwischen wird ein nicht
+OSM ist als Hobbyprojekt enstanden, aber inzwischen wird ein nicht
 unerheblicher Teil der Daten von Firmen und anderen Organisationen beigetragen.
-Und das ist gut so. Nicht überall gibt es Hobbymapper und wenn so viele Firmen
+Und das ist gut so. Nicht überall gibt es Hobbymapper, und wenn so viele Firmen
 unsere Daten benutzen, dann ist es auch richtig, dass sie selbst dazu
 beitragen.
 
@@ -67,10 +67,10 @@ Guidelines](https://osmfoundation.org/wiki/Organised_Editing_Guidelines)
 OpenStreetMap hat ein sehr starkes demokratisches Element, weil letztlich jede
 Mapperin und jeder Mapper selbst entscheiden, was sie wie eintragen. Die
 Community als Ganzes entscheidet auf diese Weise, wie sich OSM entwickelt.
-Einzelne Personen oder Firmen können nicht vorgeben, wohin die Richtung geht.
+Einzelne Personen oder Firmen können nicht vorgeben, wohin die Reise geht.
 Werden jetzt zu viele Änderungen von einigen wenigen gemacht, die auch noch
 koordiniert vorgehen, kann das aus der Balance geraten. Das wollen wir
-vermeiden, in dem immer klar gemacht wird, in wessen Auftrag jemand handelt.
+vermeiden, indem immer klar gemacht wird, in wessen Auftrag jemand handelt.
 
 Außerdem entsteht im Rahmen von organisierten Edits immer mal wieder die
 Situation, dass „Neulinge“ mit OSM interagieren, die noch nicht so richtig
