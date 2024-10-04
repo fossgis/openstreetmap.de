@@ -30,7 +30,7 @@ man alle Daten herunterladen und ist nicht auf die Nutzung durch eine API
 beschränkt.
 
 **Zusammenhängende Daten:** OSM hat viele Daten aus ganz verschiedenen
-Bereichen, die in der Regel gut zusammenpassen. Man spart sich so Daten aus
+Bereichen, die in der Regel gut zusammenpassen. Man spart sich so, Daten aus
 verschiedenen Quellen zu finden, zu konvertieren und dann zu aggregieren und
 abzugleichen.
 

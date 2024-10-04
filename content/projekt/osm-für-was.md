@@ -54,7 +54,7 @@ Navigation muss nicht nur auf Straßen stattfinden. Mit OSM-Daten kann man sich
 zum Beispiel auch auf Skipisten leiten lassen, inklusive nötiger Liftstrecken.
 
 Moderne Navigationssoftware bietet eine Vielzahl von Features über das einfache
-Finden von Routen hinaus: Berechnen von Isochronen (siehe Bild), Ausschluß von
+Finden von Routen hinaus: Berechnen von Isochronen (siehe Bild), Ausschluss von
 Gebieten (die zum Beispiel nach einem Erdbeben nicht erreichbar sind),
 Routenoptimierung für Fahrzeugflotten und vieles mehr.
 
@@ -66,9 +66,9 @@ Routenoptimierung für Fahrzeugflotten und vieles mehr.
 
 ## Geocoding
 
-Beim sogenannten *Geocoding* geht es darum zu einem Ortsnamen oder einer
+Beim sogenannten *Geocoding* geht es darum, zu einem Ortsnamen oder einer
 Adresse den passenden Punkt auf der Karte zu finden. Beim umgekehrten Problem,
-zu einem Punkt auf der Welt die nächste Adresse zu finden spricht man von
+zu einem Punkt auf der Welt die nächste Adresse zu finden, spricht man von
 *reverse Geocoding*. Geocoding ist ein kompliziertes Problem, weil Anfragen
 häufig nicht eindeutig sind oder sich Schreibweisen leicht unterscheiden.
 
@@ -92,7 +92,7 @@ ist es zum nächsten Krankenhaus?
 
 Wenn man die OSM-Daten mit anderen Daten verbindet, kann man eine Menge
 interessanter Fragen beantworten. Will man zum Beispiel den Standort von
-Windkraftanlagen planen braucht man Statistiken zu Windstärken in einer Gegend
+Windkraftanlagen planen, braucht man Statistiken zu Windstärken in einer Gegend
 (nicht in OSM), die man mit Informationen über Gebäuden aus OSM verbinden
 kann, zu denen ein Abstand eingehalten werden muss.
 
@@ -114,14 +114,14 @@ es sogar in die [Sammlung des
 Smithsonian](https://www.si.edu/newsdesk/releases/watercolor-maptiles-website-enters-permanent-collection-cooper-hewitt)
 geschafft.
 
-Bei OSM gibt es eine Tradition zum jährlichen Geburtstag des Projekts im August
+Bei OSM gibt es eine Tradition, zum jährlichen Geburtstag des Projekts im August
 [Kuchen mit einer Karte darauf zu
 backen](https://wiki.openstreetmap.org/wiki/Cake).
 
 OSM eignet sich auch sehr gut als Spiele-Karte. Der Microsoft-Flight-Simulator
-zum Beispiel benutzt OSM. Berühmt berüchtigt ist in OSM-Kreisen das Spiel
+zum Beispiel benutzt OSM. Berühmt-berüchtigt ist in OSM-Kreisen das Spiel
 [Pokémon Go](https://wiki.openstreetmap.org/wiki/Pok%C3%A9mon_Go). Die
-OSM-Daten beeinflussen wo welche Pokémon-Figuren auf der Karte erscheinen, was
+OSM-Daten beeinflussen, wo welche Pokémon-Figuren auf der Karte erscheinen, was
 einige Spieler bewogen hat, bei OSM mitzuhelfen. Aber es hat auch zu Mißbrauch
 geführt.
 

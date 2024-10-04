@@ -34,7 +34,7 @@ wichtig. (Man kann aber den offiziellen Namen zusätzlich eintragen.)
 
 ## Grenzen
 
-Immer wieder gibt es Streitigkeiten darüber wo internationale Grenzen verlaufen
+Immer wieder gibt es Streitigkeiten darüber, wo internationale Grenzen verlaufen
 oder sogar darüber, ob ein Gebiet nun ein unabhängiges Land ist oder nicht.
 Ein internationales Projekt kann da nicht einfach die Sichtweise eines Landes
 oder einer Regierung übernehmen. Für OSM gilt: Wie ist die Situation vor Ort?
@@ -49,14 +49,14 @@ Internet zu finden sind.
 
 Es gibt viele Informationen, die nicht „geheim“ sind im rechtlichen Sinne, die
 aber doch nicht unbedingt allgemein bekannt sind. Zum Beispiel der Eingang zu
-einem eingefallenen gefährlichen Stollen oder der Standort eines Frauenhauses
+einem eingefallenen gefährlichen Stollen oder der Standort eines Frauenhauses,
 in dem mißhandelte Frauen Schutz suchen. Sowas tragen wir dann nicht ein. Da
 geht es auch um die Verantwortung jedes Mappers, man muss sich überlegen, ob
-die Eintragung vielleicht mehr Schaden verursachen kann als sie nützt.
+die Eintragung vielleicht mehr Schaden verursachen kann, als sie nützt.
 
-Das darf man aber auch nicht zu weit auslegen. Öffentliche Infrastruktur, wie
+Das darf man aber auch nicht zu weit auslegen. Öffentliche Infrastruktur wie
 Hochspannungsleitungen und Umspannwerke können vielleicht das Ziel von
-Terroristen sein. Aber sie deswegen nicht einzutragen ist nicht sehr sinnvoll,
+Terroristen sein. Aber sie deswegen nicht einzutragen, ist nicht sehr sinnvoll,
 wenn man sie vor Ort sehen kann und sie auch in vielen amtlichen Karten und
 Datenbanken eingetragen sind.
 
@@ -87,7 +87,7 @@ auf.
 
 In manchen Ländern ist es verboten, militärische Einrichtungen oder dergleichen
 auf eine Karte einzuzeichnen. In Deutschland gilt das so allgemein nicht. Es
-ist auch fraglich wie viel es an Sicherheit bringen würde, wenn Einrichtungen
+ist auch fraglich, wie viel es an Sicherheit bringen würde, wenn Einrichtungen
 nicht eingetragen werden, die klar auf Luftbildern zu erkennen sind (oder wenn
 man davor steht).
 
@@ -107,13 +107,13 @@ bestimmten Zeiträumen.
 
 OpenStreetMap ist auch deshalb groß geworden, weil es sehr wenige Regeln
 festgelegt hat. Raum zum Experimentieren gehört bei OSM dazu. Durch
-ausprobieren, was in der Praxis funktioniert und was nicht, haben wir zu einem
-Datenschema gefunden, was mit keinem anderen Schema auf der Welt kompatibel
+Ausprobieren, was in der Praxis funktioniert und was nicht, haben wir zu einem
+Datenschema gefunden, das mit keinem anderen Schema auf der Welt kompatibel
 ist, aber vielleicht gerade deshalb so gut funktioniert.
 
 Heute benutzen sehr viele Leute OSM. Sie verlassen sich darauf, dass alles
 morgen noch so funktioniert wie gestern. Darauf muss man Rücksicht nehmen und
-das schränkt unser Experimentiermöglichkeiten natürlich etwas ein. Aber es ist
+das schränkt unsere Experimentiermöglichkeiten natürlich etwas ein. Aber es ist
 trotzdem möglich, OSM weiterzuentwickeln. Dabei sollte man immer beachten, dass
 es meist kein Problem ist, zusätzliche Informationen zu erfassen, die
 bestehende Daten ergänzen. Das Ändern bestehender Datenschemata ist aber

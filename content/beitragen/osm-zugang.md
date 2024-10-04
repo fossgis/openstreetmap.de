@@ -8,23 +8,23 @@ title: OSM-Zugang einrichten
 <a class="float-right" href="https://www.openstreetmap.org/user/new"><img class="with-border" src="anmeldedialog.png" alt="OSM-Account anlegen" title="OSM-Account anlegen" width="360"/></a>
 {{< /rawhtml >}}
 
-Wenn Du bei OSM mitmachen willst oder im OSM-Forum eine Frage stellen willst,
+Wenn Du bei OSM mitmachen oder im OSM-Forum eine Frage stellen willst,
 dann brauchst Du einen OSM-Zugang. Das geht ganz einfach:
 
 Rufe die Webseite
 [`https://www.openstreetmap.org/user/new`](https://www.openstreetmap.org/user/new)
-auf und gebe Deine Mailadresse und einen frei gewählten Benutzernamen an. Der
-Benutzernamen ist öffentlich und alle Deine Bearbeitungen der OSM-Daten werden
+auf und gib Deine Mailadresse und einen frei gewählten Benutzernamen an. Der
+Benutzername ist öffentlich und alle Deine Bearbeitungen der OSM-Daten werden
 damit verbunden. Deine E-Mail-Adresse wird nicht weitergegeben, aber andere
 Benutzer können Dir später an den Benutzernamen Nachrichten senden, die per
 E-Mail an Dich weitergegeben werden.
 
-Du musst außerdem ein Password wählen, es muss mindestens 8 Zeichen lang sein.
+Du musst außerdem ein Passwort wählen, es muss mindestens 8 Zeichen lang sein.
 Bitte benutze ein anderes Passwort als für andere Dienste.
 
 Du musst außerdem der OpenStreetMap-Teil&shy;nehmer&shy;verein&shy;barung
 („Contributor Terms“) zustimmen. Dabei erklärst Du, dass Du auch die Rechte an
-allen Deinen Beiträge hast bzw. das Recht hast, diese bei OSM einzutragen.
+allen Deinen Beiträgen hast bzw. das Recht hast, diese bei OSM einzutragen.
 
 Wenn Du das Formular abgeschickt hast, bekommst Du eine Bestätigungsmail mit
 einem Link &mdash; rufe diesen Link auf. Dein Zugang ist nun eingerichtet.
@@ -59,7 +59,7 @@ Zugänge.
 Das ist aber kein Freibrief, sich viele Zugänge einzurichten, um andere zu
 täuschen oder Sperren zu umgehen.
 
-## Was ist wenn ich meinen Zugang wieder löschen will?
+## Was ist, wenn ich meinen Zugang wieder löschen will?
 
 Du kannst Dich einloggen und den Zugang selbst löschen. Bestimmte Daten
 bleiben dabei aber notwendigerweise erhalten, insbesondere bleiben Deine

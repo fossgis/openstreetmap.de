@@ -7,13 +7,13 @@ title: Kontakt
 OpenStreetMap wird überwiegend von Freiwilligen in ihrer Freizeit betreut, die
 über ganz Deutschland und die ganze Welt verstreut sind. Man kommt am besten
 über unser Community-Forum oder eine unserer Veranstaltungen mit uns in
-Kontakt. Stellt man dort Fragen, gibt es viele Leute, die sie lesen und die
+Kontakt. Stellt man dort Fragen, gibt es viele Leute, die sie lesen, und die
 Chance sind recht gut, dass man Antworten bekommt. Und der nächste mit der
-gleichen Frage, kann die Antwort dann schnell im öffentlichen Forum finden.
+gleichen Frage kann die Antwort dann schnell im öffentlichen Forum finden.
 
-Für uns sehr wichtig ist der Kontakt innerhalb und zur lokalen Community. An
+Für uns sehr wichtig ist der Kontakt innerhalb und zu der lokalen Community. An
 manchen Orten gibt es Stammtische oder lokale Mailinglisten. Will man OSM
-besser verstehen oder lokale Probleme oder Besonderheiten besprechen, hilft es
+besser verstehen oder lokale Probleme oder Besonderheiten besprechen, hilft es,
 hier den Kontakt zu suchen.
 
 Mehr dazu auf der [Community-Seite](/community/).
@@ -31,9 +31,9 @@ solltest Du erstmal auf [unserer Karte](/karte/) verifizieren, ob der Fehler
 dort auch zu sehen ist. Wenn nicht, dann wurde er vielleicht bei uns schon
 korrigiert, aber die Korrektur ist noch nicht bei allen Karten angekommen.
 Unsere Karte wird in der Regeln innerhalb von Minuten nach einer Änderung
-aktualisiert. Wenn der Server grad viel zu tun hat kann es aber auch mal ein
-paar Stunden oder mal einen Tag dauern. Bei anderen Karten geht das manchmal
-viel länger, da mußt Du den Betreiber der jeweiligen Karte fragen.
+aktualisiert. Wenn der Server gerade viel zu tun hat, kann es aber auch mal ein
+paar Stunden oder einen Tag dauern. Bei anderen Karten geht das manchmal
+viel länger, da musst Du den Betreiber der jeweiligen Karte fragen.
 
 Wenn die Daten wohl wirklich noch falsch sind, dann kannst Du
 

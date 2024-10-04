@@ -5,7 +5,7 @@ title: Wie die OSM-Daten aussehen
 # Wie die OSM-Daten aussehen (Datenmodell)
 
 Ganz unten bestehen die OSM-Daten aus „OSM-Objekten“. Jedes OSM-Objekt hat
-eine eindeutigen numerische ID und sogenannte „Tags“, die angeben, was das
+eine eindeutige numerische ID und sogenannte „Tags“, die angeben, was das
 für ein Objekt ist.
 
 Bei OSM gibt es drei Arten von Objekten:
@@ -23,7 +23,7 @@ Längen- und einen Breitengrad.
 
 Nodes werden benutzt, um sogenannte Points of Interest zu mappen. Zum Beispiel
 einen Briefkasten oder eine Ampel oder einen Baum. Alles, was so klein ist,
-dass man die Ausdehnung des Objektes nicht braucht, oder wie die nicht so
+dass man die Ausdehnung des Objektes nicht braucht, oder wo die nicht so
 wichtig ist.
 
 </div>
@@ -32,7 +32,7 @@ wichtig ist.
 
 ## <img src="/img/way.svg" alt="" width="24"/> Ways
 
-Ways (englisch für „Wege“) sind for linienförmige Objekte wie Straßen, Wege,
+Ways (englisch für „Wege“) sind für linienförmige Objekte wie Straßen, Wege,
 Bahnlinien, kleine Flüsse, und so weiter. Oder, wenn die Linie wieder zum
 Anfangspunkt zurückführt, auch für flächenhafte Objekte, wie Gebäude, Wälder
 oder Seen.
@@ -50,7 +50,7 @@ es einen, dann ist da eine Furt.
 ## <img src="/img/relation.svg" alt="" width="24"/> Relations
 
 Mit Relations (englisch für „Verbindung“ oder „Zusammenhang“) kann man
-komplexere Gebilde bauen. Relations werden zum beispiel benutzt, um Buslinien
+komplexere Gebilde bauen. Relations werden zum Beispiel benutzt, um Buslinien
 oder ausgeschilderte Wanderwege einzutragen. Die häufigste Anwendung sind
 sogenannte Multipolygon-Relationen (für Polygone mit mehreren Bestandteilen
 und/oder Löchern, zum Beispiel ein Gebäude mit Innenhof) und Grenzen von
@@ -63,7 +63,7 @@ Ländern, Gemeinden und dergleichen.
 {{% /rawhtml %}}
 
 Je nach benutztem Editor wird mehr oder weniger davon vor Dir versteckt sein,
-beziehungsweise anders dargestellt werden. Aber es hilft mit den Grundlagen und
+beziehungsweise anders dargestellt werden. Aber es hilft, mit den Grundlagen und
 Begriffen vertraut zu sein. Am Anfang solltest Du Dich eher an Nodes und Ways
 halten, Relations sind schon etwas für Fortgeschrittene.
 

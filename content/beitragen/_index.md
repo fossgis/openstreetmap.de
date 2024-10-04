@@ -79,7 +79,7 @@ Zum Beispiel mit den Apps *StreetComplete* und *EveryDoor*.
 ## Tools für Mapper
 
 Es gibt eine Reihe von Tools, die von der Community speziell für OSM entwickelt
-wurden und die beim Mappen, bei der Qualitätskontrolle und vielen anderen
+wurden und die beim Mappen, bei der Qualitätskontrolle und vielem anderen
 helfen.
 
 [Tools](tools/)

@@ -6,22 +6,22 @@ title: Für GIS-Profis
 
 Wenn Du mit den „üblichen“ GIS (Geographic Information System) vertraut bist,
 dann wird Dir bei OSM einiges bekannt vorkommen, aber vieles ist auch mehr
-oder wenig subtil anders. Das kann anfangs etwas verwirrend sein, aber dafür
+oder weniger subtil anders. Das kann anfangs etwas verwirrend sein, aber dafür
 gibt es diese Seite.
 
 ## Feature
 
 Was der GISler „Feature” nennt, nennen wir „OSM-Objekt“. OSM-Objekte haben
 immer eine eindeutige numerische ID. Für die verschiedenen Objektarten (Nodes,
-Ways, Relations) gibt es getrennte ID-Räume, das heisst es gibt sowohl einen
+Ways, Relations) gibt es getrennte ID-Räume, das heisst, es gibt sowohl einen
 Node mit der Nummer 17 als auch einen Way 17.
 
 ## Layer
 
-OSM kennt keine Layers. Oder, anders gesehen, es gibt nur einen. GIS
+OSM kennt keine Layer. Oder, anders gesehen, es gibt nur einen. GIS
 unterscheidet typischweise zwischen dem Typ eines Features und den Attributen.
-Der Typ wird durch den Layer bestimmt in dem das Feature ist.
-Bei OSM wird sowohl der Typ als auch die Attribute durch die Tags bestimmt.
+Der Typ wird durch den Layer bestimmt, in dem das Feature ist.
+Bei OSM werden sowohl der Typ als auch die Attribute durch die Tags bestimmt.
 
 ## Attribute/Tags
 
@@ -36,7 +36,7 @@ Vom GIS kennt man Geometrien mit verschiedenen Typen: Point, LineString,
 Polygon, und deren Multi-Varianten. Das gibt es bei OSM nicht.
 
 Nur Nodes haben eine Geometrie, eine Punkt-Geometrie. Ways haben keine eigene
-Geometrie sondern verweisen nur auf die Nodes. Damit kann man aber einen
+Geometrie, sondern verweisen nur auf die Nodes. Damit kann man aber einen
 LineString (und für geschlossene Wege auch ein Polygon) zusammenbauen.
 
 Relations sind noch komplexer und können, je nach Typ, zu allen möglichen
@@ -58,14 +58,14 @@ oder weniger Genauigkeit, je nachdem, was die Datenquelle (GPS, Luftbilder,
 ...) hergibt und wie wichtig die Genauigkeit ist.
 
 Generell ist die absolute Positionsgenauigkeit in OSM nicht so hoch. Sie ist
-aber für das, was wir damit machen, auch nicht so wichtig, wie die relative
+aber für das, was wir damit machen, auch nicht so wichtig wie die relative
 Genauigkeit. Es ist eben wichtiger, dass sich Gebäude und Straße nicht
 überlappen, als dass die Lage auf den Zentimeter genau stimmt.
 
 ## Konvertierung
 
-Es gibt verschiedene Programme, die OSM-Daten in GIS-Format transformieren
+Es gibt verschiedene Programme, die OSM-Daten in GIS-Formate transformieren
 können. Dabei gehen aber immer Informationen verloren! Außer in ganz einfachen
-Fällen, muss man diese Konvertierung entsprechend konfigurieren, damit man
+Fällen muss man diese Konvertierung entsprechend konfigurieren, damit man
 die Daten sinnvoll herausbekommt.
 

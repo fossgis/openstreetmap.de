@@ -43,7 +43,7 @@ hilft Dir, Dich im Forum zurechtzufinden.
 ## Die OSM-Plattform
 
 Auf der [OSM-Plattform](https://www.openstreetmap.org/) haben alle Beitragenden
-einen [Zugang](/beitragen/osm-zugang/). Hier gibt es verschiedene Möglichkeiten
+einen [Zugang](/beitragen/osm-zugang/). Hier gibt es verschiedene Möglichkeiten,
 mit anderen Beitragenden in Kontakt zu kommen.
 
 Jeder Beitragende hat unter ```https://www.openstreetmap.org/user/```*USERNAME*
@@ -122,7 +122,7 @@ speziellen
 [Wiki-Login](https://wiki.openstreetmap.org/w/index.php?title=Special:UserLogin&returnto=Hauptseite)
 zulegen. (Der normale OSM-Zugang funktioniert dort nicht.) Wenn Du Lust hast,
 etwas beizutragen, aber nicht weißt, wo Du anfangen sollst: Wir brauchen immer
-Leute, die helfen englischsprachige Wiki-Seiten ins Deutsche zu übersetzen bzw.
+Leute, die helfen, englischsprachige Wiki-Seiten ins Deutsche zu übersetzen bzw.
 die Übersetzungen zu aktualisieren.
 
 ## Lokale Treffen

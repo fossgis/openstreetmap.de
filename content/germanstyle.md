@@ -58,12 +58,12 @@ das bisher der Fall war. Auf diese Weise wurde es nun möglich
 Änderungen leichter zu übernehmen. Auch die Betreuer von OSM CartoCSS
 bemühen sich inzwischen Forks wie diesen möglich zu machen.
 
-Im Jahre 2019 wurde deutlich, dass der Ansatz die Kartenlokalisierung auf
-Basis von PostgreSQL stored procedures zu implementieren an seine Grenzen
-gelangt ist.  Durch die Arbeiten von Jochen Topf an osm2pgsql (flex output)
+Im Jahre 2019 wurde deutlich, dass der Ansatz, die Kartenlokalisierung auf
+Basis von PostgreSQL stored procedures zu implementieren, an seine Grenzen
+gelangt war.  Durch die Arbeiten von Jochen Topf an osm2pgsql (flex output)
 und der Reinmplemetierung der Lokalisierungsfunktionen in LUA durch Sven
-Geggus wurde es 2022 möglich die Lokalisierung stattdessen direkt beim
-Import der Daten durchzuführen.  Dadurch kann nun auch die kantonesische
+Geggus wurde es 2022 möglich, die Lokalisierung stattdessen direkt beim
+Import der Daten durchzuführen.  Dadurch konnte nun auch die kantonesische
 Sprache transkribiert werden.
 
 Die neuen, seit 2023 vom [FOSSGIS](https://fossgis.de) betriebenen

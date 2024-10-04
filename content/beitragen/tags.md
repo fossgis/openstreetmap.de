@@ -30,7 +30,7 @@ Hier sind ein paar typische Tags:
 
 Tags werden im OSM-Wiki dokumentiert. Wie bei allem im Wiki muss man immer
 etwas Vorsicht walten lassen. Nicht immer ist die Dokumentation korrekt und
-aktuell. Manchmal hängt auch die deutsche Übersetzung der Beschreibung etwas
+aktuell. Manchmal hinkt auch die deutsche Übersetzung der Beschreibung etwas
 hinterher.
 
 [Map Features](https://wiki.openstreetmap.org/wiki/Map_features) ist eine
@@ -43,11 +43,11 @@ Informationen über Tags abrufen, nach Tags suchen und vieles mehr
 
 ## Tags „erfinden“
 
-Grundsätzlich ist es jeder und jedem möglich einfach einen neuen Tag zu
+Grundsätzlich ist es jeder und jedem möglich, einfach einen neuen Tag zu
 „erfinden“. Technisch gibt es da keine Einschränkungen. Man sollte aber schon
 etwas Erfahrung haben, um so etwas zu machen. Meistens erfindet man aber nicht
 einfach so einen neuen Tag, sondern diskutiert das mit der Community und
-durchläuft einen Abstimmungsprozeß.
+durchläuft einen Abstimmungsprozess.
 
 [Community-Forum](https://community.openstreetmap.org/)
 {.link-extern}

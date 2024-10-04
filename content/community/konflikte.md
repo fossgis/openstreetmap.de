@@ -12,7 +12,7 @@ weg von der Tastatur. Und vielleicht mal alles bis zum nächsten Tag ruhen
 lassen. Dann die Nachricht nochmal lesen oder die Datenänderung nochmal
 anschauen. Und nochmal drüber nachdenken, was der andere wohl gemeint haben
 könnte oder erreichen wollte. Vielleicht hat er sich ja nur schlecht
-ausgedrückt oder die Daten ausversehen kaputt gemacht. Meist ist da kein
+ausgedrückt oder die Daten aus Versehen kaputt gemacht. Meist ist da kein
 böser Wille, sondern nur eine andere Sicht der Dinge.
 
 ## Persönliche Nachrichten
@@ -23,7 +23,7 @@ kleinen Fehler hinweisen will (oder einfach mal jemandem Danke für seine Arbeit
 sagen will).
 
 Die Erfahrung zeigt aber, dass es bei Konflikten besser ist, die Öffentlichkeit
-zu suchen. Persönliche Nachrichten gleiten gerne mal in Beschimpfungen ab und
+zu suchen. Persönliche Nachrichten gleiten gerne mal in Beschimpfungen ab, und
 niemand sonst bekommt etwas mit und kann helfend oder moderierend eingreifen.
 
 ## Kommentare an Änderungssätzen
@@ -47,7 +47,7 @@ Forum](https://community.openstreetmap.org/c/communities/de/56) machen, wenn
 das Thema vorallem Deutschland (oder andere deutschsprachige Gegenden)
 betrifft. Für Themen von weltweitem Interesse ist eines der englischsprachigen
 Foren vielleicht besser, aber nicht jeder spricht gut Englisch, dann ist es
-auch in Ordnung, das im deutschsprachigen Forum zu schreiben. Wenn nötig werden
+auch in Ordnung, das im deutschsprachigen Forum zu schreiben. Wenn nötig, werden
 andere das dann schon international weiter tragen.
 
 ## Die Data Working Group (DWG)

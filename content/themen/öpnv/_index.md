@@ -18,7 +18,7 @@ einem Bahnsteig zum anderen zu navigieren.
 
 Einige Verkehrsunternehmen und -verbünde haben sich schon früh aktiv bei OSM
 beteiligt und die Art und Weise mit entwickelt, wie ÖPNV-Routen und
--Haltestellen bei OSM erfaßt werden. Manche kümmern sich aktiv darum, die
+-Haltestellen bei OSM erfasst werden. Manche kümmern sich aktiv darum, die
 OSM-Daten zu aktualisieren, wenn sich zum Beispiel an Haltestellen etwas
 ändert.
 
