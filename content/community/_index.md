@@ -108,7 +108,7 @@ Europe**](https://stateofthemap.eu/).
 
 Im [OpenStreetMap-Wiki](https://wiki.openstreetmap.org/wiki/Hauptseite)
 dokumentieren wir alles, was so mit OSM zu tun hat. Vieles dort ist so ein
-bischen unaufgeräumt und teilweise auch veraltet, aber es gibt viele
+bisschen unaufgeräumt und teilweise auch veraltet, aber es gibt viele
 Informationen nur dort.
 
 [Deutsche Startseite](https://wiki.openstreetmap.org/wiki/Hauptseite) des Wikis
