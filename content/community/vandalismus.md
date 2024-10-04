@@ -17,7 +17,7 @@ Einschränkungen, was neue Mapper dürfen. Aber die große Mehrheit macht ihre
 Arbeit gut, denen wollen wir das Leben nicht schwer machen. Daher gibt es auch
 keine Vorabkontrolle.
 
-Was es gibti, sind viele Leute, die Probleme auf der Karte schnell erkennen und
+Was es gibt, sind viele Leute, die Probleme auf der Karte schnell erkennen und
 melden oder sogar korrigieren. Es gibt Mapper, die Änderungen an OSM in „ihrer
 Gegend“ verfolgen und drauf achten, dass da nichts kaputt geht. Und es gibt
 auch Tools, um „verdächtige“ Änderungen aufzuspüren und Leute, die sowas wieder
