@@ -18,7 +18,11 @@ jede Spende kann von der Steuer abgesetzt werden.
 
 <div class="grid-box">
 
-<img src="/spenden/bank-qr.png" width="64" height="64" style="float: right;"/>
+<div class="float-right" style="text-align: center;">
+<img src="/spenden/bank-qr.png" width="64" height="64"/><br/>
+Mit der<br/>Banking App
+</div>
+
 
 ## Spenden per Überweisung
 
