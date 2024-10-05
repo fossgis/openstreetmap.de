@@ -31,9 +31,12 @@ jede Spende kann von der Steuer abgesetzt werden.
 </div>
 <div class="grid-box">
 
+<img src="/spenden/paypal-qr.png" width="64" height="64" style="float: right;"/>
+
 ## Spenden über PayPal
 
-Mittels elektronischem Transfer über PayPal:
+Mittels elektronischem Transfer über PayPal, Kredit- oder Debitkarte:
+
 {{< paypal >}}
 
 </div>
