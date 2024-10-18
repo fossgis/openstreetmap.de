@@ -66,7 +66,7 @@ Mehr zu diesen und weiteren [Editoren](/beitragen/editoren/)
 ## Mit dem Smartphone
 
 Auch mit dem Smartphone kann man unterwegs „mal eben schnell“ zu OSM beitragen.
-Zum Beispiel mit den Apps *StreetComplete* und *EveryDoor*.
+Zum Beispiel mit den Apps *StreetComplete* und *Every Door*.
 
 [Beitragen mit dem Smartphone](/beitragen/smartphone/)
 {.link-intern}

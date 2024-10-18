@@ -32,7 +32,7 @@ Editor unverzichtbar.
 ## Mobile Editoren
 
 Einige Editoren gibt es als Apps für das Smartphone. Kleinere Änderungen kann
-man besonders einfach mit *StreetComplete* und *EveryDoor* machen. *Vespucci*
+man besonders einfach mit *StreetComplete* und *Every Door* machen. *Vespucci*
 ist ein voll ausgewachsener Editor.
 
 [Beitragen mit dem Smartphone](/beitragen/smartphone/)

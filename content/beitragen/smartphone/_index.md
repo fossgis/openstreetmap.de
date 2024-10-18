@@ -28,13 +28,13 @@ Fußweg?". So kann man einfach mal nebenher etwas kleines zu OSM beitragen.
 [StreetComplete](https://streetcomplete.app/)
 {.link-extern}
 
-## EveryDoor
+## Every Door
 
 {{< rawhtml >}}
-<img src="everydoor-logo.png" width="60" class="float-left" alt="EveryDoor" />
+<img src="everydoor-logo.png" width="60" class="float-left" alt="Every Door" />
 {{< /rawhtml >}}
 
-*EveryDoor* ist eine Android App, die vorallem das Eintragen und Aktualisieren
+*Every Door* ist eine Android App, die vorallem das Eintragen und Aktualisieren
 von POIs (Points of Interest), wie Restaurants, Geschäfte, Parkbänke usw.
 vereinfacht. Sie ist für das schnelle Mappen zwischendurch prima geeignet.
 
