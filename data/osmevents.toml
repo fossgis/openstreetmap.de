@@ -1,18 +1,18 @@
 [[event]]
-href = "https://www.fossgis.de/wiki/FOSSGIS_OSM_Communitytreffen_2024_Nummer_22"
-title = "FOSSGIS OSM Communitytreffen 2024 Nummer 22"
-dateFrom = "2024-10-03"
-dateTo = "2024-10-06"
-dateText = "3. bis 6. Oktober 2024"
-location = "Essen"
+href = "https://wiki.openstreetmap.org/wiki/OSM-Deutschland_Vernetzungstreffen_30.10.2024"
+title = "OSM-Deutschland Vernetzungstreffen 30.10.2024"
+dateFrom = "2024-10-30"
+dateTo = "2024-10-30"
+dateText = "30. Oktober 2024"
+location = "Online"
 
 [[event]]
-href = "https://wiki.openstreetmap.org/wiki/Karlsruhe_Hack_Weekend_October_2024"
-title = "Karlsruhe Hack Weekend October 2024"
-dateFrom = "2024-10-18"
-dateTo = "2024-10-20"
-dateText = "18. bis 20. Oktober 2024"
-location = "Karlsruhe"
+href = "https://wiki.openstreetmap.org/wiki/Berlin_Hack_Weekend_November_2024"
+title = "Berlin Hack Weekend November 2024"
+dateFrom = "2024-11-02"
+dateTo = "2024-11-03"
+dateText = "2. bis 3. November 2024"
+location = "Berlin"
 
 [[event]]
 href = "https://fossgis-konferenz.de/2025/"
