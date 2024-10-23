@@ -102,6 +102,19 @@ unverzichtbar.
 
 </div>
 
+<div class="grid-box">
+
+## Rechtliche Fragen
+
+Daten, die man selbst erhoben hat, kann man einfach so bei OSM beitragen.
+Aber Daten aus fremden Quellen unterliegen möglicherweise einer Lizenz, die
+das nicht erlaubt.
+
+[Rechtliche Fragen beim Beitragen zu OSM](/beitragen/recht/)
+{.link-intern}
+
+</div>
+
 </div> <!-- grid-container -->
 
 {{% /rawhtml %}}
