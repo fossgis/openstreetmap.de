@@ -454,6 +454,25 @@ h2 {
     text-align: center;
 }
 
+.waiver-template {
+    border-left: 20px solid #e0e0e0;
+    padding: 10px 12px;
+    background-color: var(--grey);
+    font-size: 1.4rem;
+    margin: 10px 0;
+    max-width: 40em;
+    hyphens: none;
+}
+
+.waiver-template var {
+    font-weight: bold;
+}
+
+.waiver-template a[href^="https:"] {
+    background-image: none;
+    padding-left: 0;
+}
+
 h3 {
     font-size: 1.4rem;
     margin-bottom: 0;
@@ -731,6 +750,8 @@ div.boxes > div > p {
     max-height: 100px;
 }
 
+/** Themen-Menu **/
+
 .topics-menu {
     display: flex;
     gap: 10px;
@@ -809,6 +830,66 @@ div.boxes > div > p {
         border-bottom: 2px solid #808080;
     }
 }
+
+/** Menu: Recht **/
+
+.menu-recht {
+    float: right;
+    width: 30em;
+    background-color: var(--grey);
+    border: 1px solid #f0f0f0;
+    border-radius: 8px;
+    margin: 20px 0 20px 20px;
+    font-size: 0.9rem;
+}
+
+.menu-recht-header {
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: #f0f0f0;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 1px 0 4px 0;
+}
+
+.menu-recht-section-header {
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.menu-recht-section {
+    padding: 0 4px;
+    margin-top: 0.5rem;
+}
+
+.menu-recht-item {
+    list-style: none;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 512 512"><path d="M464,256c0-114.87-93.13-208-208-208S48,141.13,48,256s93.13,208,208,208S464,370.87,464,256ZM251.35,347.36a16,16,0,0,1-.09-22.63L303.58,272H170a16,16,0,0,1,0-32H303.58l-52.32-52.73A16,16,0,1,1,274,164.73l79.39,80a16,16,0,0,1,0,22.54l-79.39,80A16,16,0,0,1,251.35,347.36Z"/></svg>');
+    background-repeat: no-repeat;
+    background-position: 4px 5px;
+    padding: 2px 2px 2px 28px;
+    border-radius: 3px;
+}
+
+.menu-recht-item::marker {
+    top: 10px;
+}
+
+.menu-recht-item a {
+    text-decoration: none;
+}
+
+.menu-recht-item.active {
+    background-color: var(--primary);
+}
+.menu-recht-item:hover {
+    background-color: #ddd;
+}
+
+/** Grid **/
 
 .grid-container {
     display: grid;

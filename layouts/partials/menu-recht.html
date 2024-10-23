@@ -1,0 +1,15 @@
+<div class="menu-recht">
+<div class="menu-recht-header">Rechtsthemen</div>
+<div class="menu-recht-section-header">Beim Nutzen von OSM</div>
+<ul class="menu-recht-section">
+{{ range sort (where site.Menus.recht ".Page.Section" "nutzen") ".Weight" -}}
+    <li class="menu-recht-item{{- if or ($.IsMenuCurrent .Menu .) }} active{{- end -}}"{{- if $.IsMenuCurrent .Menu . }} aria-current="page"{{ end }}{{- if $.HasMenuCurrent .Menu . }} aria-current="true"{{ end }}><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+{{ end -}}
+</ul>
+<div class="menu-recht-section-header">Beim Beitragen zu OSM</div>
+<ul class="menu-recht-section">
+{{ range sort (where site.Menus.recht ".Page.Section" "beitragen") ".Weight" -}}
+    <li class="menu-recht-item{{- if or ($.IsMenuCurrent .Menu .) }} active{{- end -}}"{{- if $.IsMenuCurrent .Menu . }} aria-current="page"{{ end }}{{- if $.HasMenuCurrent .Menu . }} aria-current="true"{{ end }}><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+{{ end -}}
+</ul>
+</div>

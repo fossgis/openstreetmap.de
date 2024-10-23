@@ -1,5 +1,9 @@
 ---
 title: Leitlinien für die Namensnennung bei der Nutzung von OpenStreetMap
+layout: recht
+menu:
+    recht:
+        weight: 100
 ---
 
 # Leitlinien für die Namensnennung
