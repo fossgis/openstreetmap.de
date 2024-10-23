@@ -1,0 +1,8 @@
+<div class="menu-recht">
+<div class="menu-recht-header">Rechtsthemen</div>
+<ul>
+{{ range sort (site.Menus.recht) ".Weight" -}}
+    <li class="menu-recht-item"><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+{{ end -}}
+</ul>
+</div>
