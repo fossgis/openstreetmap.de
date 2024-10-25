@@ -15,10 +15,10 @@ zusammengestellt.
         <td><a target="_blank" href="https://www.floss-shop.de/de/floss-merchandise/openstreetmap/5/osm-pin?c=7"><img width="80px" src="img/osm-pin.jpg" alt="OSM-Pin" title="Pin mit OSM-Logo"/></a></td>
         <td class="span9">Pin mit OpenStreetMap-Logo. Der Pin ist ca. 1,5cm hoch und 2cm breit und in der Form des Logos ausgeschnitten.</td>
     </tr>
-    <tr>
+<!--    <tr>
         <td><a target="_blank" href="https://www.floss-shop.de/de/floss-merchandise/openstreetmap/6/osm-tasse?c=7"><img width="80px" src="img/tasse-big.png" alt="OSM-Tasse" title="OSM Cheat Mug"/></a></td>
         <td class="span9">Diese Tasse enthält 179 der wichtigsten OSM-Tags als Gedankenstütze für den täglichen Gebrauch. Die Tasse ist spülmaschinenfest. (Gerade vergriffen.)</td>
-    </tr>
+    </tr>-->
 </table>
 
 {{< /rawhtml >}}
