@@ -41,7 +41,7 @@ Euren gesunden Menschenverstand. Bei wichtigen Dingen, die viele Kartennutzer
 betreffen werden, ist man halt etwas sorgfältiger oder diskutiert die Änderung
 zuerst mit den „Kollegen“.
 
-## Organized Editing Guidelines
+## Organised Editing Guidelines
 
 OSM ist als Hobbyprojekt enstanden, aber inzwischen wird ein nicht
 unerheblicher Teil der Daten von Firmen und anderen Organisationen beigetragen.
@@ -49,15 +49,16 @@ Und das ist gut so. Nicht überall gibt es Hobbymapper, und wenn so viele Firmen
 unsere Daten benutzen, dann ist es auch richtig, dass sie selbst dazu
 beitragen.
 
-Beim sogenannten „Organisierten Editieren“ („organized editing“) sind
+Beim sogenannten „Organisierten Editieren“ („organised editing“) sind
 allerdings einige Grundregeln zu beachten. Als „organisiert“ gilt das Mappen
 immer dann, wenn man nicht nur als Einzelperson selbstmotiviert aktiv wird,
 sondern im Auftrag eines Anderen. Das kann als Mitarbeiter einer Firma sein,
 es kann aber auch im Rahmen von Schulungen oder im Studium passieren. Dann
 ist es der Lehrer oder die Professorin, die vorgeben, was zu tun ist.
 
-[Organised Editing
-Guidelines](https://osmfoundation.org/wiki/Organised_Editing_Guidelines)
+Organized Editing Guidelines:
+[Richtlinien zur Organisierten Bearbeitung](https://wiki.openstreetmap.org/wiki/DE:Organised_Editing_Guidelines) (inoffizelle Übersetzung),
+[Offizielle Version (engl.)](https://osmfoundation.org/wiki/Organised_Editing_Guidelines)
 {.link-extern}
 
 {{% infobox %}}
