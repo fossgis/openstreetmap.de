@@ -28,6 +28,9 @@ Als erstes brauchst Du einen OpenStreetMap-Zugang (*account*).
 [OSM-Zugang einrichten](/beitragen/osm-zugang/)
 {.link-intern}
 
+[Bei OpenStreetMap als Organisation beitragen](/beitragen/als-organisation/)
+{.link-intern}
+
 </div>
 
 <div class="grid-box">

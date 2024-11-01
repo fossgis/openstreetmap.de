@@ -73,14 +73,10 @@ auf *Delete Account...*.
 
 Grundsätzlich sollten Zugänge immer einer bestimmten Person zugeordnet werden,
 nicht einer Organisation. Jede und jeder in der Organisation sollte einen
-eigenen Zugang haben.
+eigenen Zugang haben. Damit wird klarer, dass jeder Mitarbeitende selbst
+verantwortlich ist für das, was sie bei OSM machen. Und wir bei OSM wollen
+alle lieber mit einem Menschen reden als mit einer anonymen Firma.
 
-Bei Zugängen, die nicht privat mappen, sondern für eine Organisation, sollte im
-Profil vermerkt werden, für wen man aktiv ist. Weitere Details zu den
-Anforderungen gibt es in den Richtlinien für organisiertes Editieren (Organised
-Editing Guidelines).
-
-[Organised Editing
-Guidelines](https://osmfoundation.org/wiki/Organised_Editing_Guidelines) (engl.)
-{.link-extern}
+[Als Organisation beitragen](/beitragen/als-organisation)
+{.link-intern}
 
