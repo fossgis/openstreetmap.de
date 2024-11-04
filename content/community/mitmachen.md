@@ -8,10 +8,11 @@ OpenStreetMap kann nur funktionieren, wenn ganz viele Leute mitmachen. Bei
 uns heißen alle Beitragenden „Mapper“. Ob als Hobbyist oder im Auftrag einer
 Firma, bei uns sind alle willkommen.
 
-Bei uns gibt es niemanden, der „zuständig“ ist. Man darf ich ruhig „zuständig“
-fühlen, für einen geographischen oder thematischen Bereich. Aber das heißt
-nicht, dass man andere ausschließen kann oder mehr zu sagen hat als andere.
-Jede und jeder kann und darf gleichberechtigt mitarbeiten.
+Wir setzen auf Eigenverantwortung statt Hierarchien: Jeder kann sich für einen
+geografischen oder thematischen Bereich „zuständig“ fühlen. Das bedeutet jedoch
+nicht, dass andere ausgeschlossen werden oder dass eine Stimme mehr Gewicht hat
+als eine andere. Jede und jeder kann sich gleichberechtigt einbringen und
+mitgestalten.
 
 ## Änderungen sind live!
 
