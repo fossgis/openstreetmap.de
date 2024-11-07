@@ -1,0 +1,29 @@
+{{ range $.Site.Data.faq }}
+{{ $icon := printf "icons/%s.svg" .icon }}
+<section class="faq-section">
+    <h2 class="faq-section-title">{{ with resources.Get $icon }}{{ .Content | safeHTML }}{{ end }} {{ .section }}</h2>
+    {{ range .questions }}
+    <details class="faq-item" id="{{ urls.Anchorize .question }}">
+        <summary class="faq-question">{{ .question }}</summary>
+        {{ $num_answers := len .answer -}}
+        {{- $question := .question -}}
+        {{- range $index, $element := .answer -}}
+        <p>{{ . | markdownify -}}
+        {{- if eq (add $index 1) $num_answers }}
+        <a class="faq-permalink" href="#{{ urls.Anchorize $question }}" title="Link zu dieser Frage">&#x1f517;</a>
+        {{- end -}}
+        </p>
+        {{- end }}
+        {{ range .links -}}
+        <p class="faq-link link-{{ if hasPrefix .href "http" }}extern{{ else }}intern{{ end }}"><a href="{{ .href }}" target="_blank">{{ .text }}</a></p>
+        {{- end }}
+    </details>
+    {{ end }}
+</section>
+{{ end }}
+<script>
+const hashid = window.location.hash.substr(1);
+if (hashid) {
+    document.getElementById(hashid).setAttribute('open', 'open');
+}
+</script>
