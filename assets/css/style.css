@@ -23,11 +23,12 @@
 }
 
 :root {
-    --primary: #9ed284;
+    --primary: #c2edac;
     --primary-darker: #619645;
     --grey: #f8f8f8;
     --border-color: #ccc;
     --contrast-color: #ff6b8c;
+    --link-color: #606060;
 }
 
 body {
@@ -39,7 +40,7 @@ body {
     body {
         min-height: 100vh;
         display: grid;
-        grid-template-rows: min-content 1fr 50px;
+        grid-template-rows: min-content 1fr min-content;
     }
 }
 
@@ -88,7 +89,6 @@ nav a:hover {
 
 nav a.nav-link-active {
     background-color: var(--primary);
-    color: white;
 }
 
 nav a span {
@@ -270,11 +270,11 @@ img.with-border {
     background-repeat: no-repeat;
     background-position: 0 5px;
     margin: 2px 0;
-    color: #808080;
+    color: var(--link-color);
 }
 
 .link-intern a {
-    color: #808080;
+    color: var(--link-color);
 }
 
 .link-extern {
@@ -284,13 +284,13 @@ img.with-border {
     background-repeat: no-repeat;
     background-position: 0 5px;
     margin: 2px 0;
-    color: #808080;
+    color: var(--link-color);
 }
 
 .link-extern a {
     padding: 0 !important;
     background-image: none !important;
-    color: #808080;
+    color: var(--link-color);
     margin: 0;
 }
 
@@ -352,7 +352,7 @@ figcaption {
 
 .spbutton {
     color: white;
-    background-color: var(--primary);
+    background-color: var(--primary-darker);
     border: 1px solid #f0f0f0;
     border-radius: 8px;
     padding: 2px 14px 4px 14px;
@@ -382,7 +382,7 @@ figcaption {
     background-size: 90px;
     background-repeat: no-repeat;
     background-position: top 4px center;
-    background-color: var(--primary);
+    background-color: #9ed284;
     color: white;
     text-decoration: none;
     font-size: 16px;
@@ -549,12 +549,8 @@ footer {
     clear: both;
     background-color: var(--primary);
     text-align: center;
-    padding-top: 8px;
-    color: white;
-}
-
-footer a {
-    color: white;
+    padding: 8px 0;
+    font-size: 1.2rem;
 }
 
 .footer-linklist {
@@ -847,7 +843,7 @@ div.boxes > div > p {
 }
 
 .grid-box {
-    border: 2px solid var(--primary);
+    border: 2px solid var(--primary-darker);
     border-radius: 8px;
     padding: 10px;
 }
