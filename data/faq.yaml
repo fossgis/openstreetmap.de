@@ -123,12 +123,13 @@
     - Alle Dienste haben Nutzungsbedingungen, an die sich jeder halten muss.
       Verbraucht man zu viele Resourcen oder handelt sonst gegen die
       Nutzungsbedingungen, kann man gesperrt werden. Meist passiert das
-      vollautomatisch, und die Sperre wird nach einer Weile wieder aufgehoben.
-      Lies die Nutzungsbedingungen und passe Deine Software entsprechend an.
+      vollautomatisch, und die Sperre wird nach einer Weile auch automatisch
+      wieder aufgehoben. Lies die Nutzungsbedingungen und passe Deine Software
+      entsprechend an.
     - In aller Regel hat es keinen Sinn, Mails zu schreiben oder sich anderweitig
       zu melden. Die Freiwilligen, die diese Dienste betreiben, haben
       besseres zu tun, als Support zu leisten für Leute, die kostenlose Dienste
-      missbrauchen.
+      überbeanspruchen.
     links:
     - href: https://operations.osmfoundation.org/policies/
       text: Nutzungsbedingungen für einige von der OpenStreetMap Foundation betriebene Dienste
