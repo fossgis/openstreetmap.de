@@ -16,11 +16,11 @@
     answer:
     - Die Vollständigkeit und Qualität der OSM-Daten schwankt sehr stark. Je
       nachdem, wo man auf der Welt ist, kann das ganz anders aussehen. In
-      Deutschland sind wir da häufig weiter als in anderen Ländern, aber auch
-      bei uns gibt es durchaus noch Lücken. Das interessante an OSM ist nicht,
+      Deutschland sind wir bereits recht weit, aber auch
+      bei uns gibt es durchaus noch Lücken. Das Interessante an OSM ist nicht,
       dass es perfekt ist, sondern dass alle einfach mithelfen können, es
       besser zu machen und die Daten zu ergänzen, die ihnen wichtig sind.
-    - Man muss sich aber auch immer fragen, was „vollständig“ eigentlich
+    - Man muss aber auch immer fragen, was „vollständig“ und „Qualität“ eigentlich
       heissen soll. Alle Autobahnen und Landstraßen erfasst? Oder auch alle Feld-
       und Radwege? Jede einzelne Hausnummer und jede Parkbank? Qualität läßt sich
       immer nur mit Blick auf eine bestimmte Anwendung beurteilen.
@@ -41,14 +41,13 @@
       ist zwar manchmal kostenlos, aber meist nur für Privatkunden oder bei
       geringer Nutzung. Und so ganz frei ist man dabei nicht, Google knüpft
       Bedingungen an die Benutzung seiner Karten. In der Regel sind die Karten,
-      die man im Internet findet, an die Benutzung der Webseiten oder der API des
-      Anbieters gebunden. Schon eine solche Karte auszudrucken und weiterzugeben
-      ist vielfach nicht erlaubt.
+      die man im Internet findet, an strenge und komplizierte Bedingungen gebunden. 
+      Schon eine solche Karte auszudrucken und weiterzugeben ist vielfach nicht erlaubt.
     - Außerdem stellt Google zwar Karten zur Verfügung, aber nicht die
       zugrundeliegenden Geodaten. Man kann die Karten also nur so nutzen, wie sie
       angeboten werden. Will man die Karten in einem anderen Stil oder will man
       einen eigenen Routing-Algorithmus ausprobieren, so kommt man nicht weiter.
-      OpenStreetMap bietet auch die „rohen“ Geodaten an, damit sie flexibel
+      OpenStreetMap bietet auch die „rohen“ Geodaten an, die flexibel
       und innovativ genutzt werden können.
   - question: Wie finanziert sich das Projekt?
     answer:
@@ -56,7 +55,7 @@
       sammelt OSM Spenden und wird auch von einigen Firmen und Organisationen
       unterstützt.
     links:
-    - href: /spende/
+    - href: /spenden/
       text: Spendenseite von OpenStreetMap Deutschland
     - href: https://supporting.openstreetmap.org/
       text: Spendenseite der internationalen OSM Foundation
@@ -208,7 +207,7 @@
       kennenzulernen. Für Anfänger bieten sie die Möglichkeit, die ersten Hürden
       gemeinsam mit erfahrenen Mappern zu überwinden. Und Spaß macht das ganze
       auch noch.
-    - Es keine zentrale Organisation dieser Mapping-Parties. Wenn Du eine
+    - Es gibt keine zentrale Organisation dieser Mapping-Parties. Wenn Du eine
       starten willst, dann tue es einfach. Die Koordination kann über das Wiki
       und das Forum erfolgen. Welchen geographischen oder thematischen
       Bereich die Mapping Party umfassen soll, bleibt auch ganz Dir überlassen.
@@ -225,7 +224,16 @@
 - section: Kontakt aufnehmen
   icon: "kontakt"
   questions:
-  - question: Ich habe eine Fehler gefunden. Wie kann ich den melden?
+  - question: Mir ist vom Anbieter meiner App gesagt worden, ich soll mich bei Problemen mit falschen Daten bei OSM melden. Wie mache ich das?
+    answer:
+    - Es gibt leider einige Anbieter von Apps oder anderen Produkten, die die kostenfreien
+      OSM-Daten gewerblich benutzen, sich dann aber bei Problemen nicht um ihre Kunden kümmern.
+      Oft sind es auch eher Probleme mit den Apps, gar nicht mit den OSM-Daten.
+      Wir können Dir als Freiwilligenprojekt leider nicht bei Problemen mit fremden Apps oder Produkten helfen.
+      Bitte wende Dich an den Anbieter Deiner App oder des Produkts, denn mit denen hast Du einen Vertrag und 
+      ihnen vielleicht sogar etwas bezahlt. Sie sollten Dir daher helfen eine Lösung zu finden.
+    - Wenn einmal doch wirklich etwas an den OSM-Daten falsch ist, dann schaue den nächsten Punkt der FAQ an.
+  - question: Ich habe einen Fehler gefunden. Wie kann ich den melden?
     answer:
     - Du kannst eine Notiz auf der Karte eintragen, der dann von fleissigen OSM
       Mappern bearbeitet wird. Bedenke, dass die meisten das als Hobby machen.
