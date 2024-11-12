@@ -10,8 +10,6 @@ enthalten. Hier stellen wir ein paar Beispiele vor. Manche dieser Karte sind
 von Profis gemacht, viele wurden aber auch einfach von Enthusiasten
 zusammengestellt.
 
-{{< rawhtml >}}
-
 <div class="grid-container">
     <a class="grid-box with-link" target="_blank" href="https://www.openstreetmap.org/">
         <img src="/img/maps/osmorg.png" alt="" width="120">
@@ -86,6 +84,4 @@ zusammengestellt.
         und mehr an)</div>
     </a>
 </div>
-
-{{< /rawhtml >}}
 

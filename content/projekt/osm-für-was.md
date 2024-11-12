@@ -14,12 +14,10 @@ Branchen, wie man OSM verwenden kann.
 
 ## Karten
 
-{{< rawhtml >}}
 <figure class="float-right">
 <a href="osm-karte-hvv.jpg"><img src="osm-karte-hvv-small.jpg" width="400"/></a>
 <figcaption>OSM-Karte in einem Bus des Hamburger Verkehrsverbundes</figcaption>
 </figure>
-{{< /rawhtml >}}
 
 Natürlich kann man aus den Geodaten Karten machen: Landkarten, Straßenkarten,
 Wanderkarten, Orts- und Weltkarten. Die können ganz unterschiedliche Dinge
@@ -37,12 +35,10 @@ Beispiele für [OSM-basierte Karten](/projekt/karten/)
 
 ## Navigation
 
-{{< rawhtml >}}
 <figure class="float-left">
 <a href="isochrone.png"><img src="isochrone-small.jpg" width="300"/></a>
 <figcaption>Isochronenkarten zeigen Gebiete mit gleichen Reisezeiten an. (Hier mit Valhalla berechnet.)</figcaption>
 </figure>
-{{< /rawhtml >}}
 
 Karten haben sicher nicht ausgedient, aber in der Praxis wird man sich heute
 häufg einfach vom Smartphone navigieren lassen: „An der nächsten Kreuzung bitte
@@ -98,12 +94,10 @@ kann, zu denen ein Abstand eingehalten werden muss.
 
 ## Spielerisches
 
-{{< rawhtml >}}
 <figure class="float-right">
 <a href="https://maps.stamen.com/watercolor/"><img src="watercolor.jpg" width="300"/></a>
 <figcaption>Die Watercolor Map von Stamen Design</figcaption>
 </figure>
-{{< /rawhtml >}}
 
 Mit so vielen Daten kann man nicht nur nützliche Dinge tun, sondern auch
 schöne, spielerische und spaßige.

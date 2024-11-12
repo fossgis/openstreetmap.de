@@ -20,9 +20,7 @@ Hindernisse (wie Poller, Gitter und Schranken).
 
 {{% infobox %}}
 
-{{< rawhtml >}}
 <a class="float-right" href="höhenprofil-brouter-web.png"><img class="with-border" src="höhenprofil-brouter-web.png" alt="Beispiel Höhenprofil in BRouter Web" title="Beispiel Höhenprofil in BRouter Web" width="200"/></a>
-{{< /rawhtml >}}
 
 Nicht erfasst werden bei OSM Höheninformation. Aber es gibt anderen Quellen
 dafür, die man gut zusammen mit OSM verwenden kann. Viele Bundesländer in

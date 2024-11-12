@@ -10,8 +10,6 @@ für ein Objekt ist.
 
 Bei OSM gibt es drei Arten von Objekten:
 
-{{% rawhtml %}}
-
 <div class="grid-container">
 
 <div class="grid-box">
@@ -59,8 +57,6 @@ Ländern, Gemeinden und dergleichen.
 </div>
 
 </div> <!-- grid-container -->
-
-{{% /rawhtml %}}
 
 Je nach benutztem Editor wird mehr oder weniger davon vor Dir versteckt sein,
 beziehungsweise anders dargestellt werden. Aber es hilft, mit den Grundlagen und

@@ -13,7 +13,6 @@ Der [FOSSGIS e.V.](https://www.fossgis.de/) ist die offizielle Vertretung des
 OpenStreetMap-Projektes in Deutschland. Er ist als gemeinnützig anerkannt,
 jede Spende kann von der Steuer abgesetzt werden.
 
-{{% rawhtml %}}
 <div class="grid-container">
 
 <div class="grid-box">
@@ -47,7 +46,6 @@ Mittels elektronischem Transfer über PayPal, Kredit- oder Debitkarte:
 
 </div>
 </div>
-{{% /rawhtml %}}
 
 ## Spendenbescheinigung
 

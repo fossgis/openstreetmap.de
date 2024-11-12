@@ -8,9 +8,7 @@ aliases: [/impressum.html]
 Möglichkeiten zur [Kontaktaufnahme](/kontakt/).
 {.link-intern}
 
-{{< rawhtml >}}
 <p style="border-top: 2px solid var(--primary)"></p>
-{{< /rawhtml >}}
 
 Der [FOSSGIS e.V.](https://www.fossgis.de/) betreibt diese Webseiten für die
 OSM-Community. Er ist Eigentümer der Domain openstreetmap.de.

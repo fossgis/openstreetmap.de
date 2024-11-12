@@ -16,8 +16,6 @@ auf die B31 abbiegen...“). Manche Programme können auch Isochrone berechnen,
 das sind die Bereiche um einen Ort die innerhalb einer vorgegebenen Zeit
 erreicht werden können. Und es gibt häufig noch eine Menge anderer Features.
 
-{{% rawhtml %}}
-
 <div class="grid-container">
 <div class="grid-box">
 
@@ -119,6 +117,4 @@ Lösungen.
 
 </div>
 </div><!-- grid-container -->
-
-{{% /rawhtml %}}
 

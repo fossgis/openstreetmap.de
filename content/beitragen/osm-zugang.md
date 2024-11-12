@@ -4,9 +4,7 @@ title: OSM-Zugang einrichten
 
 # OSM-Zugang einrichten
 
-{{< rawhtml >}}
 <a class="float-right" href="https://www.openstreetmap.org/user/new"><img class="with-border" src="anmeldedialog.png" alt="OSM-Account anlegen" title="OSM-Account anlegen" width="360"/></a>
-{{< /rawhtml >}}
 
 Wenn Du bei OSM mitmachen oder im OSM-Forum eine Frage stellen willst,
 dann brauchst Du einen OSM-Zugang. Das geht ganz einfach:

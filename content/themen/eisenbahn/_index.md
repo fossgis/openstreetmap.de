@@ -28,9 +28,7 @@ OSM-Daten.
 
 {{% infobox %}}
 
-{{< rawhtml >}}
 <img class="float-right with-border" src="ausschnitt-openrailwaymap.png" title="Ausschnitt OpenRailwayMap" width="250"/>
-{{< /rawhtml >}}
 
 ## Die OpenRailwayMap
 

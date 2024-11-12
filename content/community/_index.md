@@ -59,15 +59,11 @@ verschiedene Meinungen, wie etwas in die Daten einzutragen ist.
 
 {{% infobox %}}
 
-{{< rawhtml >}}
 <a class="spbutton float-right" href="/veranstaltungen/"><svg fill="currentColor" width="20" viewBox="0 0 512 512"><path d="M32,456a24,24,0,0,0,24,24H456a24,24,0,0,0,24-24V176H32ZM352,212a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H356a4,4,0,0,1-4-4Zm0,80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H356a4,4,0,0,1-4-4Zm-80-80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H276a4,4,0,0,1-4-4Zm0,80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H276a4,4,0,0,1-4-4Zm0,80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H276a4,4,0,0,1-4-4Zm-80-80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H196a4,4,0,0,1-4-4Zm0,80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H196a4,4,0,0,1-4-4Zm-80-80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H116a4,4,0,0,1-4-4Zm0,80a4,4,0,0,1,4-4h40a4,4,0,0,1,4,4v40a4,4,0,0,1-4,4H116a4,4,0,0,1-4-4Z"/><path d="M456,64H400.08V32h-48V64H159.92V32h-48V64H56A23.8,23.8,0,0,0,32,87.77V144H480V87.77A23.8,23.8,0,0,0,456,64Z"/></svg> Zum Veranstaltungskalender</a>
-{{< /rawhtml >}}
 
 ## Veranstaltungen
 
-{{< rawhtml >}}
-<img style="width: 50%; float: left; margin-right: 20px; border: 1px solid #ccc;" src="/img/SOTM_2019_Group_Photo.jpg" alt="SotM 2019 Gruppenfoto" title="SotM 2019 Gruppenfoto"/>
-{{< /rawhtml >}}
+<img class="with-border float-left" style="width: 50%;" src="/img/SOTM_2019_Group_Photo.jpg" alt="SotM 2019 Gruppenfoto" title="SotM 2019 Gruppenfoto"/>
 
 Die OSM-Community organisiert diverse Veranstaltungen oder beteiligt sich an
 welchen. Aktuelles dazu gibts im [Kalender](/veranstaltungen/). In manchen
@@ -102,9 +98,7 @@ Europe**](https://stateofthemap.eu/).
 
 ## Das OpenStreetMap-Wiki
 
-{{< rawhtml >}}
 <img src="/img/osm_logo_wiki.png" alt="" aria-ignore="true" style="float: right; margin-left: 20px;"/>
-{{< /rawhtml >}}
 
 Im [OpenStreetMap-Wiki](https://wiki.openstreetmap.org/wiki/Hauptseite)
 dokumentieren wir alles, was so mit OSM zu tun hat. Vieles dort ist so ein
@@ -143,9 +137,7 @@ Weiter gibt es einen aktiven Telegram-Kanal:
 
 ## Der FOSSGIS e.V.
 
-{{< rawhtml >}}
 <img src="/img/logos/fossgis.png" title="FOSSGIS e.V." style="float: right; margin-left: 10px; width: 200px;"/>
-{{< /rawhtml >}}
 
 Um bei OpenStreetMap mitzumachen, braucht man nicht Mitglied in einem Verein zu
 sein. Für manche Aufgaben ist es aber sinnvoll, eine Organisation in der

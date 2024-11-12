@@ -15,9 +15,7 @@ gebraucht.
 
 ## StreetComplete
 
-{{< rawhtml >}}
 <img src="streetcomplete-logo.svg" width="60" class="float-left" alt="StreetComplete" />
-{{< /rawhtml >}}
 
 Mit der App *StreetComplete* für Android kann man auf einfachste Art und Weise
 unterwegs zu OSM beitragen. Sie zeigt eine Karte der Umgebung mit markierten
@@ -30,9 +28,7 @@ Fußweg?". So kann man einfach mal nebenher etwas kleines zu OSM beitragen.
 
 ## Every Door
 
-{{< rawhtml >}}
 <img src="everydoor-logo.png" width="60" class="float-left" alt="Every Door" />
-{{< /rawhtml >}}
 
 *Every Door* ist eine Android App, die vorallem das Eintragen und Aktualisieren
 von POIs (Points of Interest), wie Restaurants, Geschäfte, Parkbänke usw.
@@ -43,9 +39,7 @@ vereinfacht. Sie ist für das schnelle Mappen zwischendurch prima geeignet.
 
 ## Vespucci
 
-{{< rawhtml >}}
 <img src="vespucci-logo.svg" width="60" class="float-left" alt="Vespucci" />
-{{< /rawhtml >}}
 
 Vespucci ist ein OSM-Editor für Android. Anders als andere hier vorgestellte
 Apps hat er das Ziel, ein Editor für alle Anwendungen zu sein. Im Vergleich

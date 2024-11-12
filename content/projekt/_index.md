@@ -4,9 +4,7 @@ title: Das OpenStreetMap-Projekt
 
 # Das OpenStreetMap-Projekt
 
-{{< rawhtml >}}
 <a class="float-right" href="/karte/" alt="Karte anzeigen" title="Karte anzeigen"><img class="with-border" src="karte-de.png" width="300"/></a>
-{{< /rawhtml >}}
 
 Im internationalen OpenStreetMap-Projekt erschaffen wir gemeinsam eine Karte
 der Welt. Jede und jeder kann mitmachen. Über 2 Millionen Menschen weltweit
@@ -79,12 +77,10 @@ Erfahrungen, Interessen und Perspektiven einbringen.
 
 ## Was wir alles eintragen
 
-{{< rawhtml >}}
 <figure class="float-right">
 <a href="https://www.openstreetmap.org/#map=17/52.507755/13.337359"><img src="berlin-zoo.jpg" width="400"/></a>
 <figcaption>Der Berliner Zoo bei OpenStreetMap</figcaption>
 </figure>
-{{< /rawhtml >}}
 
 Du kannst selbst entscheiden, welche Dinge Du bei OSM beitragen willst.
 Natürlich gibt es ein paar Regeln zu beachten, aber wir sind recht offen für

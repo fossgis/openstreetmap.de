@@ -15,8 +15,6 @@ Das ist auch ein wertvoller Beitrag. [**Hier erklären wir, wie das
 geht**](/beitragen/fehler-melden/).
 {{% /infobox %}}
 
-{{% rawhtml %}}
-
 <div class="grid-container">
 
 <div class="grid-box">
@@ -106,8 +104,6 @@ unverzichtbar.
 </div>
 
 </div> <!-- grid-container -->
-
-{{% /rawhtml %}}
 
 ## Kontakt zur Community
 

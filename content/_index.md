@@ -15,8 +15,6 @@ OpenStreetMap und seine Community vorstellen und Hilfestellung bei der Nutzung
 und beim Mitmachen geben.
 {.intro}
 
-{{% rawhtml %}}
-
 <div class="overview-grid">
 <img class="overview" src="/img/Watercolour_on_Mapzen_Sevilla_map.jpg" title="Sevilla: Handgemalte Wasserfarben auf OSM. © CC-BY-SA Andrew McGuire. https://wiki.openstreetmap.org/wiki/File:Watercolour_on_Mapzen_Sevilla_map.jpg"/>
 <div class="overview" id="ov-projekt">
@@ -74,5 +72,3 @@ Die [OpenStreetMap-Community](/community/)
 
 </div>
 </div>
-
-{{% /rawhtml %}}

@@ -8,8 +8,6 @@ aliases: [/fan-artikel, /fan-artikel.html]
 Du willst Deine Begeisterung für OSM zeigen? Wir haben eine Auswahl an Goodies
 zusammengestellt.
 
-{{< rawhtml >}}
-
 <table>
     <tr>
         <td><a target="_blank" href="https://www.floss-shop.de/de/floss-merchandise/openstreetmap/5/osm-pin?c=7"><img width="80px" src="img/osm-pin.jpg" alt="OSM-Pin" title="Pin mit OSM-Logo"/></a></td>
@@ -20,8 +18,6 @@ zusammengestellt.
         <td class="span9">Diese Tasse enthält 179 der wichtigsten OSM-Tags als Gedankenstütze für den täglichen Gebrauch. Die Tasse ist spülmaschinenfest. (Gerade vergriffen.)</td>
     </tr>-->
 </table>
-
-{{< /rawhtml >}}
 
 ## Bestellen
 
@@ -41,9 +37,7 @@ und anderen Veranstaltungen. Wenn Ihr sowas organisieren wollt, meldet euch bei
 
 ## Flyer
 
-{{< rawhtml >}}
 <img src="img/flyer-stapel.webp" width="320px" alt="Flyer-Stapel" title="Stapel von OSM-Flyern" style="float: right; margin-left: 20px;"/>
-{{< /rawhtml >}}
 
 Der OpenStreetMap-Flyer im DIN A6-Format eignet sich zum Verteilen bei
 Veranstaltungen. Man kann sich auch ein paar in die Tasche stecken, wenn man

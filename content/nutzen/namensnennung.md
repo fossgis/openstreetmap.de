@@ -41,12 +41,10 @@ Empfehlungen, wie die Namensnennung umzusetzen ist.
 
 ## Namensnennung auf einer Webkarte
 
-{{< rawhtml >}}
 <figure class="float-right">
 <a href="HVV-Karte-Buxtehude.jpg"><img src="HVV-Karte-Buxtehude-Namensnennung.jpg" width="300"/></a>
 <figcaption>Namensnennung auf einer PDF-Karte des Hamburger Verkehrsverbundes</figcaption>
 </figure>
-{{< /rawhtml >}}
 
 Viele Organisationen benutzen Karten im Web. Es hat sich dabei eingebürgert,
 dass man Copyright-Informationen rechts unten auf der Karte anzeigt. Das muss

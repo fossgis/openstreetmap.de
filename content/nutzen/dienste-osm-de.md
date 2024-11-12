@@ -31,17 +31,13 @@ installieren kannst. Es gibt auch Dienstleister, die Dir bei der Installation
 Wenn das für Dich interessant sein könnte, dann schau dich auf unserer
 [Dienstleisterliste](https://www.fossgis.de/dienstleister/) um.
 
-{{% rawhtml %}}
-
 <div class="grid-container">
 
 <div class="grid-box">
 
 ## Karten-Server (*„tile server“*)
 
-{{< rawhtml >}}
 <img class="float-right" src="vector_tiles_pyramid_structure.png" title="Pyramidenstruktur von Tiles. Quelle: QGIS-Dokumentation" width="160"/>
-{{< /rawhtml >}}
 
 Wir betreiben einen Karten-Server, der Karten-Kacheln für die ganze Welt zur
 Verfügung stellt. Der Stil basiert auf dem Standard-OSM-Stil, mit kleinen
@@ -85,9 +81,7 @@ Unser uMap-Server auf [umap.openstreetmap.de](https://umap.openstreetmap.de/de/)
 
 ## Overpass API
 
-{{< rawhtml >}}
 <img class="float-right" src="/img/logos/overpass.png" width="175" height="70"/>
-{{< /rawhtml >}}
 
 Wir betreiben mehrere „Overpass API Server“. Diese Server haben alle aktuellen
 OSM-Daten gespeichert (und auch die historischen!) und stellen sie über die
@@ -107,9 +101,7 @@ zur Nutzung der Overpass API
 
 ## Routing-Server: OSRM
 
-{{< rawhtml >}}
 <img class="float-right" src="/img/logos/osrm.svg" alt="" width="160"/>
-{{< /rawhtml >}}
 
 Open Source Routing Machine (OSRM) ist ein Open-Source-Routing-Server.
 OpenStreetMap Deutschland betreibt mehrere Test-/Demo-Server. Dort kann man
@@ -133,9 +125,7 @@ Github](https://github.com/Project-OSRM)
 
 ## Routing-Server: Valhalla
 
-{{< rawhtml >}}
 <img class="float-right" src="/img/logos/valhalla.png" alt="" width="100" height="100"/>
-{{< /rawhtml >}}
 
 Valhalla ist ein Open-Source-Routing-Server. OpenStreetMap Deutschland betreibt
 mehrere Test/Demo-Server. Dort kann man die Navigation für sechs verschiedene
@@ -168,8 +158,6 @@ Zum [Download-Server](https://osmdata.openstreetmap.de/)
 
 </div>
 </div> <!-- grid-container -->
-
-{{% /rawhtml %}}
 
 {{% infobox %}}
 

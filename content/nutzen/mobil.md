@@ -10,7 +10,6 @@ Es gibt viele Apps für alle populären Smartphone-Betriebssysteme. Viele richte
 sich an spezielle Zielgruppen, wie Wanderer oder Radfahrer. Meistens kann man
 die Karten herunterladen, sodass man unterwegs auch ohne Netz navigieren kann.
 
-{{% rawhtml %}}
 <div class="grid-container grid-container-500">
 <div class="grid-box">
 <img class="grid-box-app-left" src="organicmaps.jpg" width="200"/>
@@ -65,8 +64,6 @@ Zur Homepage von [OSMAnd](https://osmand.net/)
 </div>
 </div>
 </div>
-
-{{% /rawhtml %}}
 
 Es gibt außerdem noch viele andere Apps, die OSM benutzen, schau Dich in den
 App Stores um.
