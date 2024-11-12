@@ -309,8 +309,8 @@ figure a {
 
 figure img {
     display: block;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
     margin: 0;
 }
 
