@@ -7,9 +7,9 @@
       Dazu läuft man draußen rum, schaut sich die Welt an und trägt das ein, was
       man sieht. Luftbilder sind auch sehr nützlich, auf denen kann man gut
       erkennen, wo zum Beispiel Wege und Häuser sind. Aber die Arbeit vor Ort ist
-      immernoch sehr wichtig. Das Straßenschild oder eine Hausnummer kann man
+      immer noch sehr wichtig. Das Straßenschild oder eine Hausnummer kann man
       auf einem Luftbild nicht lesen.
-    - Manche Daten wurde importiert. Manchmal stellen Behörden und andere
+    - Manche Daten wurden importiert. Manchmal stellen Behörden und andere
       Organisation entsprechende Daten zur Verfügung. Ohne Genehmigung des
       Dateninhabers geht das aber nicht.
   - question: Wie vollständig und wie korrekt sind die OSM-Daten?
@@ -18,10 +18,10 @@
       nachdem, wo man auf der Welt ist, kann das ganz anders aussehen. In
       Deutschland sind wir da häufig weiter als in anderen Ländern, aber auch
       bei uns gibt es durchaus noch Lücken. Das interessante an OSM ist nicht,
-      dass es perfekt ist, sondern dass jede und jeder einfach mithelfen kann es
-      besser zu machen und die Daten zu ergänzen, die einem wichtig sind.
+      dass es perfekt ist, sondern dass alle einfach mithelfen können, es
+      besser zu machen und die Daten zu ergänzen, die ihnen wichtig sind.
     - Man muss sich aber auch immer fragen, was „vollständig“ eigentlich
-      heissen soll. Alle Autobahnen und Landstraßen erfaßt? Oder auch alle Feld-
+      heissen soll. Alle Autobahnen und Landstraßen erfasst? Oder auch alle Feld-
       und Radwege? Jede einzelne Hausnummer und jede Parkbank? Qualität läßt sich
       immer nur mit Blick auf eine bestimmte Anwendung beurteilen.
   - question: Wie viele Leute machen bei OSM mit?
@@ -29,7 +29,7 @@
     - Es gibt ungefähr 10 Millionen OpenStreetMap-Accounts. Von
       denen haben etwa 2 Millionen mindestens eine kleine Sache beigetragen.
       Weltweit sind jeden Tag circa 6.000 Mapper aktiv, davon ca. 1.000
-      in Deutschland. (Zahlen Stand Ende 2024).
+      in Deutschland. (Die Zahlen sind auf dem Stand von Ende 2024.)
     links:
     - href: https://wiki.openstreetmap.org/wiki/Stats
       text: Statistiken im Wiki
@@ -37,7 +37,7 @@
       text: Statistiken auf OSMStats
   - question: Was macht OSM anders als Google? Haben die nicht auch kostenlose Karten?
     answer:
-    - Die Benutzung von Google-Karten (wie auch der vieler anderen Anbieter)
+    - Die Benutzung von Google-Karten (wie auch der vieler anderer Anbieter)
       ist zwar manchmal kostenlos, aber meist nur für Privatkunden oder bei
       geringer Nutzung. Und so ganz frei ist man dabei nicht, Google knüpft
       Bedingungen an die Benutzung seiner Karten. In der Regel sind die Karten,
@@ -67,7 +67,7 @@
       wie gesperrte Wege in einem Naturschutzgebiet.
     - Hintergrund ist, dass die meisten Dienste die OSM-Daten nur in mehr oder
       weniger regelmäßigen Abständen aktualisieren und nicht sofort. Und
-      Benutzende laden auch nicht immer gleich die neusten Updates der Karten
+      nicht alle Menschen laden sich ständig die neusten Updates der Karten
       auf ihre Smartphones. Ein Änderung für einen kurzen Zeitraum würde
       daher nicht unbedingt gesehen werden, schlimmer, es könnte sein, dass
       die Änderung dann nachträglich noch lange irgendwo zu sehen ist, obwohl
@@ -108,17 +108,20 @@
       Routing-Dienste übermäßig beansprucht hat.
     - Alle Dienste haben Nutzungsbedingungen, an die sich jeder halten muss.
       Verbraucht man zu viele Resourcen oder handelt sonst gegen die
-      Nutzungsbedingungen kann man gesperrt werden. Meist passiert das
-      vollautomatisch und die Sperre wird nach einer Weile wieder aufgehoben.
+      Nutzungsbedingungen, kann man gesperrt werden. Meist passiert das
+      vollautomatisch, und die Sperre wird nach einer Weile wieder aufgehoben.
       Lies die Nutzungsbedingungen und passe Deine Software entsprechend an.
     - In aller Regel hat es keinen Sinn, Mails zu schreiben oder sich anderweitig
       zu melden. Die Freiwilligen, die diese Dienste betreiben haben
-      besseres zu tun als Support zu leisten für Leute, die kostenlose Dienste
+      besseres zu tun, als Support zu leisten für Leute, die kostenlose Dienste
       missbrauchen.
+    links:
+    - href: https://operations.osmfoundation.org/policies/
+      text: Nutzungsbedingungen für einige von der OpenStreetMap Foundation betriebene Dienste
   - question: An wen kann ich mich wenden, um einen AV-Vertrag von OSM zu bekommen?
     answer:
     - Einen AV-Vertrag (Auftragsverarbeitungs-Vertrag) braucht man, wenn man
-      jemanden beauftragt, personenbezogene Daten für einen zu verarbeiten.
+      jemanden beauftragt, personenbezogene Daten zu verarbeiten.
       Selbst wenn sie einen Dienst der OSM-Community benutzen, ist das nicht
       der Fall. Sie beauftragen OSM ja nicht.
     - Unsere Kartenserver (auf openstreetmap.de) und andere Dienste sind ein
@@ -140,11 +143,11 @@
     answer:
     - Wenn Du die Daten bei OSM hochgeladen hast, sind sie innerhalb einer
       Minute allgemein verfügbar. Manche OpenStreetMap-basierte Karten setzen
-      die Änderungen dann zeitnah um, es dauert dann nur ein paar Minuten bis
+      die Änderungen zeitnah um, es dauert dann nur ein paar Minuten, bis
       die Karte aktualisiert wird. Andere verarbeiten die Daten seltener, zum
       Beispiel nur einmal am Tag oder einmal im Monat. Bei vielen Karten werden
-      die hohen Zoom-Leveln häufiger aktualisiert als die niedrigen Zoom-Level.
-      Letztlich musst Du den Ersteller der jeweiligen Karte Fragen.
+      die hohen ZoomstufenLeveln häufiger aktualisiert als die niedrigen.
+      Letztlich musst Du den Ersteller der jeweiligen Karte fragen.
     - Für die Hauptkarten auf openstreetmap.org und openstreetmap.de gilt,
       dass die Karten normalerweise innerhalb von ein paar Minuten bis wenigen
       Stunden aktualisiert werden, aber wenn die Server überlastet sind, kann
@@ -157,7 +160,7 @@
     - Das kann man so allgemein nicht beantworten. Erstmal müssen rechtliche
       und technische Fragen geklärt werden und die Community muss einbezogen
       werden. Innerhalb eines solchen Verfahrens wird dann auch geklärt, wie
-      man den Import dann durchführt.
+      man den Import durchführt.
     links:
     - href: https://wiki.openstreetmap.org/wiki/Import/Guidelines
       text: Import Guidelines im OSM-Wiki
