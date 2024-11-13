@@ -1,9 +1,9 @@
 <footer>
     <div class="footer-linklist">
-        <a href="/impressum/">Impressum</a> &middot;
-        <a href="/kontakt/">Kontakt</a> &middot;
-        <a href="/impressum/datenschutz/">Datenschutzerklärung</a> &middot;
-        <a href="/faq/">FAQ</a>
+        {{ range $index, $menu := site.Menus.footer }}
+            {{- if ge $index 1 }} &middot; {{ end -}}
+            <a href="{{ $menu.URL | relURL }}">{{ $menu.Name }}</a>
+        {{- end -}}
         {{ with .File }}
         &middot; <a href="{{ $.Site.Params.GithubLink }}/content/{{ .Path }}">Quelle dieser Seite auf Github</a>
         {{ end }}

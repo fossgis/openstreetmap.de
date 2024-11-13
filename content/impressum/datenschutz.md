@@ -1,5 +1,8 @@
 ---
 title: Datenschutzerklärung
+menus:
+    footer:
+        weight: 3
 ---
 
 # Datenschutzerklärung
