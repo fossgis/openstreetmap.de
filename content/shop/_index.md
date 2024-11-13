@@ -1,6 +1,10 @@
 ---
 title: OpenStreetMap Shop
 aliases: [/fan-artikel, /fan-artikel.html]
+menus:
+    main:
+        weight: 12
+        name: Shop
 ---
 
 # OpenStreetMap Shop

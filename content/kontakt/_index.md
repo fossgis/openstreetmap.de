@@ -1,5 +1,9 @@
 ---
 title: Kontakt
+menus:
+    main:
+        weight: 6
+        name: Kontakt
 ---
 
 # Kontakt

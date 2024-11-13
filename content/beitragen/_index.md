@@ -1,5 +1,9 @@
 ---
 title: Zu OpenStreetMap beitragen
+menus:
+    main:
+        weight: 3
+        name: Beitragen
 ---
 
 # Beitragen

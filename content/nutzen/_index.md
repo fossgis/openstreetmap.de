@@ -1,5 +1,9 @@
 ---
 title: OpenStreetMap nutzen
+menus:
+    main:
+        weight: 2
+        name: OSM nutzen
 ---
 
 # OpenStreetMap nutzen

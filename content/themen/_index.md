@@ -1,6 +1,10 @@
 ---
 title: Themenportal
 layout: single
+menus:
+    main:
+        weight: 5
+        name: Themenportal
 ---
 
 # Themenportal

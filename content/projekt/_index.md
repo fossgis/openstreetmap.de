@@ -1,5 +1,9 @@
 ---
 title: Das OpenStreetMap-Projekt
+menus:
+    main:
+        weight: 1
+        name: Das Projekt
 ---
 
 # Das OpenStreetMap-Projekt

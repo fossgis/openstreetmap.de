@@ -1,6 +1,10 @@
 ---
 title: OSM-Community
 aliases: [/community.html]
+menus:
+    main:
+        weight: 4
+        name: Community
 ---
 
 # Die OSM-Community
