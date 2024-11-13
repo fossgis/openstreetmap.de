@@ -957,6 +957,47 @@ table.sitemap td.sitemap-source {
     font-family: fixed;
 }
 
+/** FAQ **/
+
+.faq-section {
+    margin-bottom: 40px;
+}
+
+.faq-section-title svg {
+    position: relative;
+    top: 0.1em;
+    width: 1em;
+    height: 1em;
+}
+
+.faq-item {
+    position: relative;
+    margin-bottom: 10px;
+    padding-left: 3em;
+}
+
+.faq-question {
+    position: relative;
+    left: -0.9em;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--link-color);
+}
+
+.faq-question:hover {
+    cursor: pointer;
+}
+
+.faq-permalink {
+    text-decoration: none;
+    padding: 4px 2px;
+    filter: grayscale(1);
+}
+
+.faq-link {
+    margin: 2px 0;
+}
+
 /******************************************/
 
 @media print {
