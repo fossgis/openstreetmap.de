@@ -48,8 +48,3 @@ githubLink = "https://github.com/fossgis/openstreetmap.de/blob/main"
 enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
-# cookies
-[params.cookies]
-enable = false
-expire_days = 2
-
