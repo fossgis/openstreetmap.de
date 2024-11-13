@@ -1,6 +1,7 @@
 ---
 title: Wintersport
 layout: themen
+menus: themen
 ---
 
 Bei OpenStreetMap werden auch Loipen, Skipisten, und -Lifte erfaßt. Damit

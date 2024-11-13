@@ -1,6 +1,7 @@
 ---
 title: Eisenbahn
 layout: themen
+menus: themen
 ---
 
 Eisenbahnen werden in OpenStreetMap oftmals mit viel Liebe zum Detail erfaßt.

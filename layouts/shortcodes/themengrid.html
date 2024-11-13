@@ -1,6 +1,6 @@
 <div class="themen-grid">
-{{ $c := $.Site.Data.themes }}
-{{ range sort $c.theme "title" -}}
-    <a style="background-image: url(/themen/{{ .name }}/thumb.jpg);" href="/themen/{{ .name }}/"><span>{{ .title }}</span></a>
+{{ $menu := site.Menus.themen }}
+{{ range sort $menu ".Name" -}}
+    <a style="background-image: url({{ .URL | relURL }}thumb.jpg);" href="{{ .URL | relURL }}"><span>{{ .Name }}</span></a>
 {{ end -}}
 </div>

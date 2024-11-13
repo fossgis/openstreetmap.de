@@ -1,6 +1,7 @@
 ---
 title: Radfahren
 layout: themen
+menus: themen
 ---
 
 Radfahrende haben schon sehr früh den Weg zu OSM gefunden, weil klassische

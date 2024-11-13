@@ -1,6 +1,8 @@
 ---
 title: Öffentlicher Verkehr
+linkTitle: ÖPNV
 layout: themen
+menus: themen
 ---
 
 In OpenStreetMap werden sowohl die Infrastruktur für den öffentlichen Verkehr

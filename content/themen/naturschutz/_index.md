@@ -1,6 +1,7 @@
 ---
 title: Naturschutz
 layout: themen
+menus: themen
 ---
 
 Bei OpenStreetMap können Schutzgebiete und die für den Naturschutz besonders
