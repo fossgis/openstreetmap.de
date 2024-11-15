@@ -978,7 +978,7 @@ table.sitemap td.sitemap-source {
 
 .faq-question {
     position: relative;
-    left: -0.9em;
+    text-indent: -0.9em;
     font-size: 1.5rem;
     font-weight: bold;
     color: var(--link-color);
@@ -989,9 +989,14 @@ table.sitemap td.sitemap-source {
 }
 
 .faq-permalink {
+    display: none;
     text-decoration: none;
     padding: 4px 2px;
     filter: grayscale(1);
+}
+
+.faq-question:hover .faq-permalink {
+    display: inline;
 }
 
 .faq-link {
