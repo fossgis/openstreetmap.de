@@ -3,6 +3,9 @@ languageCode = "de-de"
 title = "OpenStreetMap Deutschland"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
+# Info über letzte Änderung einer Seite kommt aus dem git
+enableGitInfo = true
+
 ############################# Modules ##############################
 [module.hugoVersion]
 extended = true

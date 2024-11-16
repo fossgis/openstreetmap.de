@@ -4,12 +4,17 @@
             {{- if ge $index 1 }} &middot; {{ end -}}
             <a href="{{ $menu.URL | relURL }}">{{ $menu.Name }}</a>
         {{- end -}}
+    </div>
+    <div class="footer-page">
+        Seite © <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC-BY-SA 4.0</a>
+        {{ with .Lastmod }}
+        &middot; Letzte Änderung: {{ .Format "2006-01-02" }}
+        {{ end }}
         {{ with .File }}
         &middot; <a href="{{ $.Site.Params.GithubLink }}/content/{{ .Path }}">Quelle dieser Seite auf Github</a>
         {{ end }}
     </div>
     <div class="footer-licence">
-        Diese Webseiten: © <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC-BY-SA 4.0</a> &middot;
         Karten auf diesen Seiten: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap Beitragende (ODbL)</a>
     </div>
 </footer>
