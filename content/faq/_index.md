@@ -5,10 +5,10 @@ aliases: [/faq.html]
 menus:
     footer:
         weight: 4
-build:
+_build:
     render: always
 cascade:
-    build:
+    _build:
         list: local
         publishResources: false
         render: never
