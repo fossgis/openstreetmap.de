@@ -44,8 +44,3 @@ search = false
 copyright = "FOSSGIS e.V"
 githubLink = "https://github.com/fossgis/openstreetmap.de/blob/main"
 
-# Preloader
-[params.preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
-
