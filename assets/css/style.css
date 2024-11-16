@@ -727,13 +727,13 @@ div.boxes > div > p {
     margin-top: 10px;
 }
 
-.themen-grid {
+.topics-menu {
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
 }
 
-.themen-grid a {
+.topics-menu-item {
     position: relative;
     display: block;
     width: 150px;
@@ -746,7 +746,7 @@ div.boxes > div > p {
     box-shadow: 3px 5px 10px #a0a0a0;
 }
 
-.themen-grid a span {
+.topics-menu-item-name {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -759,18 +759,27 @@ div.boxes > div > p {
     font-size: 1.4rem;
 }
 
-@media screen and (max-width: 1400px) {
-    .themen-title {
-        margin-top: 20px;
-        height: 150px;
-        max-width: 670px;
-        border-radius: 8px;
-        background-position-x: right;
-        background-size: auto 150px;
-        background-repeat: no-repeat;
-    }
+.topic-top {
+    position: relative;
+}
 
-    .themen-title h1 {
+.topic-title {
+    margin-top: 20px;
+    height: 150px;
+    max-width: 670px;
+    border-radius: 8px;
+    background-position-x: right;
+    background-size: auto 150px;
+    background-repeat: no-repeat;
+}
+
+.topic-title h1 span {
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 1400px) {
+    .topic-title h1 {
         margin: 0;
         padding: 46px 10px 0 10px;
         text-align: left;
@@ -778,30 +787,14 @@ div.boxes > div > p {
         color: white;
         line-height: 2.5rem;
     }
-
-    .themen-title h1 span {
-        font-size: 1.6rem;
-        text-transform: uppercase;
-    }
 }
 
 @media screen and (min-width: 1401px) {
-    .themen-top {
-        position: relative;
-    }
-
-    .themen-title {
-        margin-top: 20px;
+    .topic-title {
         margin-left: auto;
-        height: 150px;
-        max-width: 670px;
-        border-radius: 8px;
-        background-position-x: right;
-        background-size: auto 150px;
-        background-repeat: no-repeat;
     }
 
-    .themen-title h1 {
+    .topic-title h1 {
         position: absolute;
         left: 0;
         bottom: 0;
@@ -810,11 +803,6 @@ div.boxes > div > p {
         text-align: left;
         line-height: 3.5rem;
         border-bottom: 2px solid #808080;
-    }
-
-    .themen-title h1 span {
-        font-size: 1.6rem;
-        text-transform: uppercase;
     }
 }
 
@@ -1032,7 +1020,7 @@ table.sitemap td.sitemap-source {
         border-bottom-right-radius: 8px;
     }
 
-    div.top, .link-intern, .link-extern, .themen-grid a {
+    div.top, .link-intern, .link-extern, .topics-menu-item {
         -webkit-print-color-adjust: exact;
         color-adjust: exact;
         print-color-adjust: exact;

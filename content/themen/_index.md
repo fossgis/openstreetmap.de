@@ -14,5 +14,5 @@ Geodaten, die man für viele verschiedene thematische Karten und spezielle
 Anwendungen nutzen kann. Diese Seite zeigt eine Auswahl. Die Darstellung
 weiterer Themen ist in Arbeit ...
 
-{{< themengrid >}}
+{{< themen >}}
 

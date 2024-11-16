@@ -1,6 +1,0 @@
-<div class="themen-grid">
-{{ $menu := site.Menus.themen }}
-{{ range sort $menu ".Name" -}}
-    <a style="background-image: url({{ .URL | relURL }}thumb.jpg);" href="{{ .URL | relURL }}"><span>{{ .Name }}</span></a>
-{{ end -}}
-</div>
