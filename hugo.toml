@@ -14,7 +14,8 @@ quality = 95
 
 ############################# Outputs ##############################
 [outputs]
-home = ["HTML", "JSON"]
+home = ["html", "json"] # JSON der Homepage wird für die Suche benötigt
+section = ['html'] # Andere Seiten nur als HTML, kein RSS
 
 [markup.goldmark.renderer]
 unsafe= true
