@@ -8,7 +8,8 @@ Aus diesem Repository wird die Webseite
 Diese Webseite benutzt [Hugo](https://gohugo.io/), um aus den Dateien in diesem
 Repository eine Webseite zu bauen.
 
-Derzeit verwendet wir Hugo Version 0.111.3, wie es bei Debian installiert wird.
+Derzeit verwenden wir Hugo Version 0.111.3, wie es bei Debian Bookworm
+installiert wird.
 
 Du kannst Hugo selbst installieren und lokal laufen lassen, um die Webseite zu
 generieren: [Hugo
@@ -39,9 +40,9 @@ Verzeichnissen existieren, erzeugt. Webseiten gehören in das Verzeichnis
 automatisch nach HTML konvertiert.
 
 Statische Inhalte wie Bilder gehören nach `static`. Für Inhalte, die nur von
-einer Webseite gebraucht werden wird dabei eine zum `content`-Verzeichnis
-parallele Dateihierarchie benutzt. Mehrfach genutzte Bilder gehören nach
-`static/img/'.
+einer einzelnen Seite gebraucht werden, wird dabei eine zum
+`content`-Verzeichnis parallele Dateihierarchie benutzt. Mehrfach genutzte
+Bilder gehören nach `static/img/'.
 
 Achtung: Die Quelle für die Index-Seite hat bei Hugo einen führenden
 Unterstrich:
