@@ -1,7 +1,6 @@
 <div class="cal-events">
     {{ $c := index $.Site.Data (.Get "calendar") }}
     {{ $cf := where $c.event "dateTo" "gt" (now.Format "2006-01-02") }}
-    {{ if ( gt ( len $cf ) 0 ) -}}
     {{ range sort $cf "dateFrom" -}}
     <div>
         <a href="{{ .href }}">
@@ -13,7 +12,6 @@
         </a>
         <div>{{ .location }}<br/>{{ .dateText }}</div>
     </div>
-    {{ end -}}
     {{ else -}}
     <i>(Derzeit keine Events geplant.)</i>
     {{ end -}}
