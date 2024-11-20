@@ -1,5 +1,0 @@
-<div class="topics-menu">
-{{ range sort (site.Menus.themen) ".Name" -}}
-    <a class="topics-menu-item" style="background-image: url({{ .URL | relURL }}thumb.jpg);" href="{{ .URL | relURL }}"><span class="topics-menu-item-name">{{ .Name }}</span></a>
-{{ end -}}
-</div>

@@ -6,6 +6,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 # Info über letzte Änderung einer Seite kommt aus dem git
 enableGitInfo = true
 
+[security]
+enableInlineShortcodes = true
+
 ############################# Modules ##############################
 [module.hugoVersion]
 extended = true

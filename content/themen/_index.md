@@ -14,5 +14,11 @@ Geodaten, die man für viele verschiedene thematische Karten und spezielle
 Anwendungen nutzen kann. Diese Seite zeigt eine Auswahl. Die Darstellung
 weiterer Themen ist in Arbeit ...
 
-{{< themen >}}
+{{< themen.inline >}}
+<div class="topics-menu">
+{{ range sort (site.Menus.themen) ".Name" -}}
+    <a class="topics-menu-item" style="background-image: url({{ .URL | relURL }}thumb.jpg);" href="{{ .URL | relURL }}"><span class="topics-menu-item-name">{{ .Name }}</span></a>
+{{ end -}}
+</div>
+{{< /themen.inline >}}
 
