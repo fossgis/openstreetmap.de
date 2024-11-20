@@ -5,7 +5,6 @@
         {{ partial "header.html" . -}}
         <main>
         {{- block "main" . }}{{- end }}
-        {{/* partial "backlinks.html" (dict "page" .) */}}
         </main>
         {{ partial "footer.html" . -}}
         {{- $script := resources.Get "js/script.js" }}
