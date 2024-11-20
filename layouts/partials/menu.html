@@ -3,7 +3,7 @@
         {{- if eq .Weight 10 }}
         <div class="nav-link-spacer"></div>
         {{- end -}}
-        <a class="nav-link{{- if eq $.Section .Page.Section }} nav-link-active{{- end -}}{{- if ge .Weight 10 }} nav-link-short" title="{{ .Name }}{{- end -}}" href="{{ .URL | relURL }}">{{ with resources.Get (printf "icons/%s.svg" .Page.Section) }}{{ .Content | safeHTML }}{{ end }} <span>{{.Name}}</span></a>
+        <a class="nav-link{{- if or ($.IsMenuCurrent .Menu .) ($.HasMenuCurrent .Menu .) }} nav-link-active{{- end -}}{{- if ge .Weight 10 }} nav-link-short" title="{{ .Name }}{{- end -}}" href="{{ .URL | relURL }}"{{- if $.IsMenuCurrent .Menu . }} aria-current="page"{{ end }}{{- if $.HasMenuCurrent .Menu . }} aria-current="true"{{ end }}>{{ with resources.Get (printf "icons/%s.svg" .Page.Section) }}{{ .Content | safeHTML }}{{ end }} <span>{{ .Name }}</span></a>
         {{ end -}}
         <a href="#" id="menu-toggle" class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 512 512"><path d="M64,384H448V341.33H64Zm0-106.67H448V234.67H64ZM64,128v42.67H448V128Z"/></svg></a>
     </nav>
