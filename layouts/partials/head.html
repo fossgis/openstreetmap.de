@@ -5,6 +5,5 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="language" content="de" />
     <link rel="icon" href="/img/favicon.png" type="image/png">
-    {{- $style := resources.Get "css/style.css" | resources.Minify -}}
-    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" media="all">
+    <link rel="stylesheet" type="text/css" href="{{ (resources.Get "css/style.css" | resources.Minify).RelPermalink }}" media="all">
 </head>

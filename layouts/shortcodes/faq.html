@@ -4,9 +4,8 @@
 <section class="faq-section">
     <h2 class="faq-section-title">{{ if eq hugo.Environment "development" }}{{ .Weight }}. {{ end -}}{{ with resources.Get $icon }}{{ .Content | safeHTML }}{{ end }} {{ .Title }}</h2>
         {{ range .Pages.ByWeight }}
-            {{- $question := .Title -}}
     <details class="faq-item" id="{{ urls.Anchorize .Title }}">
-        <summary class="faq-question">{{ if eq hugo.Environment "development" }}{{ .Weight }}. {{ end -}}{{ .Title }} <a class="faq-permalink" href="#{{ urls.Anchorize $question }}" title="Link zu dieser Frage">&#x1f517;</a></summary>
+        <summary class="faq-question">{{ if eq hugo.Environment "development" }}{{ .Weight }}. {{ end -}}{{ .Title }} <a class="faq-permalink" href="#{{ urls.Anchorize .Title }}" title="Link zu dieser Frage">&#x1f517;</a></summary>
         {{ .Content }}
     </details>
         {{ end }}
