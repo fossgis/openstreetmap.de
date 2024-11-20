@@ -1,7 +1,6 @@
 ---
 title: Öffentlicher Verkehr
 linkTitle: ÖPNV
-layout: themen
 menus: themen
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Radfahren
-layout: themen
 menus: themen
 ---
 

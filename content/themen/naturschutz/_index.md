@@ -1,6 +1,5 @@
 ---
 title: Naturschutz
-layout: themen
 menus: themen
 ---
 

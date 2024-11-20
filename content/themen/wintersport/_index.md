@@ -1,6 +1,5 @@
 ---
 title: Wintersport
-layout: themen
 menus: themen
 ---
 

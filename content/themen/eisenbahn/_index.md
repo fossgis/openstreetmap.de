@@ -1,6 +1,5 @@
 ---
 title: Eisenbahn
-layout: themen
 menus: themen
 ---
 
