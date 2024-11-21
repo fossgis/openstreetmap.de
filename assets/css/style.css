@@ -705,7 +705,7 @@ div.boxes > div > p {
     gap: 10px;
 }
 
-.cal-events > div {
+.cal-events-event {
     display: grid;
     grid-template-rows: 1fr repeat(2, max-content);
     align-items: center;
@@ -718,13 +718,9 @@ div.boxes > div > p {
     height: 160px;
 }
 
-.cal-events img {
+.cal-events-logo {
     max-width: 100px;
     max-height: 100px;
-}
-
-.cal-events > div > div {
-    margin-top: 10px;
 }
 
 .topics-menu {

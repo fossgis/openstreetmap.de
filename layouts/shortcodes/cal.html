@@ -2,14 +2,12 @@
     {{ $c := index $.Site.Data (.Get "calendar") }}
     {{ $cf := where $c.event "dateTo" "gt" (now.Format "2006-01-02") }}
     {{ range $event := sort $cf "dateFrom" -}}
-    <div>
-        <a href="{{ .href }}">
+    <div class="cal-events-event">
         {{- with .image -}}
-        <img alt="{{ $event.title }}" src="/img/cal/{{ . }}"/>
+        <div><a href="{{ $event.href }}"><img class="cal-events-logo" alt="{{ $event.title }}" title="{{ $event.title }}" src="/img/cal/{{ . }}"/></a></div>
         {{- else -}}
-        {{ $event.title }}
+        <div><a href="{{ .href }}">{{ $event.title }}</a></div>
         {{- end -}}
-        </a>
         <div>{{ .location }}<br/>{{ .dateText }}</div>
     </div>
     {{ else -}}
