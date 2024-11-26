@@ -65,17 +65,19 @@ bewerben kann.
 ## Prototype Fund
 
 Der [Prototype Fund](https://prototypefund.de/) fördert Open-Source-Projekte
-von Einzelpersonen oder Gruppen aus Deutschland. Wie der Name schon sagt, geht
-es dabei vorallem um neue Projekte oder um neue Entwicklungen in bestehenden
-Projekten. Gezahlt werden bis zu 47.500 EUR pro Projekt.
+von Einzelpersonen oder Gruppen. Wie der Name schon sagt, geht es dabei
+vorallem um neue Projekte oder um neue Entwicklungen in bestehenden Projekten.
+Förderschwerpunkt sind Datensicherheit und Softwarebausteine, OpenStreetMap
+wird explizit als Thema genannt.
 
-Der Förderzeitraum beträgt immer ein halbes Jahr (September bis Februar bzw.
-März bis August). Zweimal im Jahr gibt es eine Antragsfrist für den kommenden
-Förderzeitraum. Der Antrag ist nicht schwierig, aber man muss schon sein
-konkretes Projekt klar beschreiben können.
+Die Bedingungen haben sich 2024 leicht geändert. Gezahlt werden bis
+zu 95.000 EUR pro Projekt. Zum Ende jeden Jahres gibt es eine Antragsphase, der
+Förderzeitraum ist dann Juni bis November und kann unter gewissen Umständen
+verlängert werden.
 
-Die Förderung kommt letztlich vom Bundesministerium für Bildung und Forschung.
-Der Prototype Fund hilft bei der Bürokratie.
+Der Antrag ist nicht schwierig, aber man muss schon sein konkretes Projekt klar
+beschreiben können. Die Förderung kommt letztlich vom Bundesministerium für
+Bildung und Forschung. Der Prototype Fund hilft bei der Bürokratie.
 
 Bereits geförderte Projekte sind unter anderem [Generalisierung von
 OpenStreetMap-Daten mit
@@ -84,6 +86,14 @@ osm2pgsql](https://prototypefund.de/project/generalisierung-von-openstreetmap-da
 Visualisierung](https://prototypefund.de/project/parkraumdaten-aus-openstreetmap-prozessierung-und-visualisierung/),
 [StreetComplete](https://prototypefund.de/project/streetcomplete/), und
 [Grandine](https://prototypefund.de/project/grandine/).
+
+## Sovereign Tech Agency
+
+Die [Sovereign Tech Agency](https://www.sovereign.tech/) unterstützt die
+Entwicklung, Verbesserung und Erhaltung offener digitaler Infrastrukturen.
+
+Es gibt mehrere [Förderprogramme](https://www.sovereign.tech/de/programme),
+die teilweise noch recht neu sind.
 
 ## NGI Zero
 
