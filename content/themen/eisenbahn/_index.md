@@ -26,7 +26,7 @@ aktuellen Position des Zuges basieren auf OSM-Daten. Und auch die an sehr
 vielen Bahnhöfen und Haltpunkten aushängenden Umgebungskarten benutzen
 OSM-Daten.
 
-{{% infobox %}}
+<div class="infobox">
 
 <img class="float-right with-border" src="ausschnitt-openrailwaymap.png" title="Ausschnitt OpenRailwayMap" width="250"/>
 
@@ -41,7 +41,7 @@ die einzelnen Signale entlang der Gleise sehen.
 [OpenRailwayMap](https://openrailwaymap.org/)
 {.link-extern}
 
-{{% /infobox %}}
+</div>
 
 Es ist auch möglich, auf den Gleisen automatisiert zu navigieren. Natürlich
 reicht das nicht aus, um festzustellen, ob eine Verbindung wirklich möglich

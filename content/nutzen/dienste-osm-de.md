@@ -19,11 +19,13 @@ Wir können nicht garantieren, dass die Dienste jederzeit zur Verfügung stehen,
 korrekt funktionieren oder morgen noch da sind. Die Erfahrung der letzten
 Jahre zeigt allerdings, dass sie sehr zuverlässig laufen.
 
-{{% infobox %}}
+<div class="infobox">
+
 Alle Dienste sind ohne eine Registrierung benutzbar. Aber bitte haltet Euch an
 die
 [Nutzungsbedingungen](https://www.fossgis.de/arbeitsgruppen/osm-server/nutzungsbedingungen/)!
-{{% /infobox %}}
+
+</div>
 
 Alle diese Dienste basieren auf Open-Source-Software, die Du auch selbst
 installieren kannst. Es gibt auch Dienstleister, die Dir bei der Installation
@@ -159,7 +161,7 @@ Zum [Download-Server](https://osmdata.openstreetmap.de/)
 </div>
 </div> <!-- grid-container -->
 
-{{% infobox %}}
+<div class="infobox">
 
 Alle von uns betriebene Software ist freie und Open-Source-Software. Du kannst
 sie selbst bei Dir installieren und bei der Weiterentwicklung helfen. Unser
@@ -167,5 +169,5 @@ sie selbst bei Dir installieren und bei der Weiterentwicklung helfen. Unser
 sich um dem Betrieb. Wenn Du etwas Sysadmin-Erfahrung hast und noch mehr lernen
 willst, dann hilf uns doch dabei!
 
-{{% /infobox %}}
+</div>
 

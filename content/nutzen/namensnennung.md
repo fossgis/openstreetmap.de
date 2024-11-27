@@ -18,14 +18,14 @@ haben, OSM zu nennen, steht das auch in der Lizenz so drin. Wir verwenden die
 Open Database License (ODbL), die ausdrücklich die Namensnennung
 (*attribution*) vorsieht.
 
-{{% infobox %}}
+<div class="infobox">
 
 Achtung: Wenn Du nicht nur die *Daten* von uns verwendest, sondern unsere
 Karten- oder andere Dienste, dann gibt es noch andere Bedingungen, die zum
 Beispiel sicherstellen sollen, dass die Server nicht überlastet werden. Bitte
 beachte dazu die Nutzungsbedingungen der jeweiligen Dienste.
 
-{{% /infobox %}}
+</div>
 
 ## Namensnennung
 
@@ -116,7 +116,7 @@ Wir behalten uns aber natürlich vor, entsprechend auf Lizenzverletzungen zu
 reagieren. Es ist auch schon vorgekommen, dass wir da einen Anwalt
 eingeschaltet haben.
 
-{{% infobox %}}
+<div class="infobox">
 
 **Ich habe entdeckt, dass jemand die Nutzungsbedingungen nicht einhält. Was
 soll ich tun?**
@@ -142,7 +142,7 @@ Hinweise auf die Vorschrift zur Namensnennung mit (juristischen) Drohungen
 beantwortet wurden. In so einem Fall wende Dich an
 [info@openstreetmap.de](mailto:info@openstreetmap.de).
 
-{{% /infobox %}}
+</div>
 
 ## Ich habe Nutzung X mit OSM-Daten vor. Wer sagt mir, ob das okay ist?
 

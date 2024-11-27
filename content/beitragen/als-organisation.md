@@ -32,12 +32,15 @@ ein Mitarbeitender das Unternehmen, macht man einen neuen Account für den
 Nachfolger und trägt gegebenenfalls im alten Account ein, dass er nicht mehr
 benutzt wird und wohin Fragen und Anmerkungen in Zukunft zu richten sind.
 
+<div class="infobox">
+
 Es ist auch eventuell sinnvoll den Namen der Organisation mit in den
 Account-Namen aufzunehmen. Wenn man private und „dienstliche“ Bearbeitungen
 auseinanderhalten will, kann man sich auch zwei OSM-Zugänge anlegen. Eine
-Anmeldung unter Pseudonym ist auch okay, wenn man seinen eigenen Namen nicht
-verwenden will.
-{.infobox}
+Anmeldung unter Pseudonym ist auch okay, wenn man seinen Namen nicht verwenden
+will.
+
+</div>
 
 [OSM-Zugang einrichten](/beitragen/osm-zugang/)
 {.link-intern}

@@ -44,7 +44,7 @@ Teilnehmervereinbarung](https://osmfoundation.org/wiki/Licence/Contributor_Terms
 [Wiki-Seite „OpenStreetMap Account“](https://wiki.openstreetmap.org/wiki/OpenStreetMap_account) mit weiteren Anleitungen
 {.link-extern}
 
-{{% infobox %}}
+<div class="infobox">
 
 Der OSM-Zugang wird auch für das
 [Community-Forum](https://community.openstreetmap.org/) verwendet. Für das
@@ -52,7 +52,7 @@ Der OSM-Zugang wird auch für das
 Zugang, den Du dort anlegen kannst. (Es empfiehlt sich aber, wenn möglich
 den gleichen Benutzernamen zu verwenden.)
 
-{{% /infobox %}}
+</div>
 
 ## Kann ich auch mehrere Zugänge einrichten?
 

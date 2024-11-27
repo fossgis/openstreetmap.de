@@ -414,19 +414,6 @@ figcaption {
     }
 }
 
-.infobox {
-    display: block;
-    border: 1px solid #ffde89;
-    border-radius: 8px;
-    padding: 10px 20px;
-    background-color: #fdeeca;
-    font-size: 1.4rem;
-    margin: 10px 0;
-    /* CSS trick: make floated images inside this infobox stay inside */
-    float: left;
-    width: calc(100% - 40px);
-}
-
 h1 {
     font-size: 3rem;
     text-align: center;
@@ -435,6 +422,31 @@ h1 {
 h2 {
     font-size: 2rem;
     margin: 2rem 0 1rem 0;
+}
+
+.infobox {
+    display: block;
+    border: 1px solid #ffde89;
+    border-radius: 8px;
+    padding: 10px 12px;
+    background-color: #fdeeca;
+    font-size: 1.4rem;
+    margin: 10px 0;
+    /* CSS trick: make floated images inside this infobox stay inside */
+    float: left;
+    width: calc(100% - 40px);
+}
+
+.infobox :first-child {
+    margin-top: 0;
+}
+
+.infobox :last-child {
+    margin-bottom: 0;
+}
+
+.infobox p {
+    text-align: justify;
 }
 
 .infobox h2 {
@@ -469,10 +481,6 @@ p, ul, ol {
 
 p {
     hyphens: auto;
-}
-
-.infobox p {
-    text-align: justify;
 }
 
 @media screen and (min-width: 800px) {

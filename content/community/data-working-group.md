@@ -31,12 +31,12 @@ Mehr über die Arbeit der DWG auf der Seite der OSM Foundation zur
 [Data Working Group (DWG)](https://osmfoundation.org/wiki/Data_Working_Group)
 {.link-extern}
 
-{{% infobox %}}
+<div class="infobox">
 
 Übrigens: Die Data Working Group kann immer Hilfe gebrauchen. Ein bisschen
 Erfahrung mit OSM gehört schon dazu, man sollte die Kultur bei OSM kennen
 und ein bisschen Fingerspitzengefühl im Umgang mit einer Community von
 Freiwilligen haben.
 
-{{% /infobox %}}
+</div>
 

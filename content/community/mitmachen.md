@@ -62,7 +62,7 @@ Organized Editing Guidelines:
 [Offizielle Version (engl.)](https://osmfoundation.org/wiki/Organised_Editing_Guidelines)
 {.link-extern}
 
-{{% infobox %}}
+<div class="infobox">
 
 ### Warum ist das wichtig?
 
@@ -79,4 +79,4 @@ Situation, dass „Neulinge“ mit OSM interagieren, die noch nicht so richtig
 wissen, wie alles funktioniert. Dann ist es wichtig, dass man einen erfahrenen
 Ansprechpartner findet, den Lehrer oder die Chefin des Mappers zum Beispiel.
 
-{{% /infobox %}}
+</div>

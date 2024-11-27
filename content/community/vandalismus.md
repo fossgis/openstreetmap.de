@@ -61,9 +61,6 @@ Die Data Working Group (DWG) der OpenStreetMap Foundation kümmert sich bei uns
 im Projekt darum, Vandalismus zu beseitigen. Sie vermittelt auch bei Konflikten
 zwischen Mappern und versucht eine Einigung herbeizuführen.
 
-[EMail-Kontakt zur DWG: data@openstreetmap.org](mailto:data@openstreetmap.org)
-{.link-extern}
-
-Zur [Data Working Group (DWG)](/community/data-working-group/)
-{.link-extern}
+Infos zur [Data Working Group (DWG)](/community/data-working-group/)
+{.link-intern}
 

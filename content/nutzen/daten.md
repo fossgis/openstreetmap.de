@@ -7,7 +7,7 @@ title: OpenStreetMap-Daten herunterladen
 Alle OpenStreetMap-Daten können kostenlos und ohne Anmeldung heruntergeladen
 werden.
 
-{{% infobox %}}
+<div class="infobox">
 
 Denk daran, dass diese Daten einer Lizenz unterliegen. Du musst bestimmte Dinge
 bei der Nutzung beachten. Das wichtigste ist die Pflicht zur
@@ -16,7 +16,7 @@ bei der Nutzung beachten. Das wichtigste ist die Pflicht zur
 [Weitere Informationen zum Copyright](https://www.openstreetmap.org/copyright)
 {.link-extern}
 
-{{% /infobox %}}
+</div>
 
 ## Datenformate
 
@@ -32,12 +32,12 @@ Fast alle Software, die mit OSM-Daten arbeitet, unterstützt dieses Format
 und kann damit besonders effizient arbeiten. Wenn möglich, solltest Du mit
 diesem Format arbeiten.
 
-{{% infobox %}}
+<div class="infobox">
 
 Auch für Vektor-Kacheln wird manchmal die Dateiendung `.pbf` verwendet. Das
 ist aber ein ganz anderes Format, sie haben nichts miteinander zu tun.
 
-{{% /infobox %}}
+</div>
 
 Manchmal noch verwendet wird das Original-Format von OSM, das auf XML
 basiert. Selbst gepackt (zum Beispiel mit bzip2) sind die Daten aber fast

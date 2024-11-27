@@ -18,7 +18,7 @@ nicht (Wohnstraßen vs. Hauptverkehrsadern). Und wir erfassen auch die
 Beschaffenheit der Wege (Asphalt, Schotterweg, Kopfsteinpflaster, ...) und
 Hindernisse (wie Poller, Gitter und Schranken).
 
-{{% infobox %}}
+<div class="infobox">
 
 <a class="float-right" href="höhenprofil-brouter-web.png"><img class="with-border" src="höhenprofil-brouter-web.png" alt="Beispiel Höhenprofil in BRouter Web" title="Beispiel Höhenprofil in BRouter Web" width="200"/></a>
 
@@ -31,7 +31,7 @@ Viele Navigationslösungen können daher Steigungen in die Routenplanung
 mit einbeziehen. Sie zeigen dann auch ein Profil der Strecke mit an.
 (*Das Beispiel rechts zeigt ein Profil der Software BRouter an.*)
 
-{{% /infobox %}}
+</div>
 
 Spezielle Routing-Software kennt manchmal ein Dutzend Profile und mehr vom
 Rennrad, über Trekkingrad, Gravel, MTB, Liegerad, ... in vielen Variationen, um

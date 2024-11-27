@@ -13,11 +13,13 @@ ob Du das als Hobby machst oder von einer Organisation beauftragt bist. Die
 verschiedenen besonderen Interessen und Sichten auf die Welt führen dazu, dass
 wir gemeinsam die beste Karte der Welt erschaffen.
 
-{{% infobox %}}
+<div class="infobox">
+
 Du willst eigentlich nicht groß beitragen, sondern nur einen **Fehler melden**?
 Das ist auch ein wertvoller Beitrag. [**Hier erklären wir, wie das
 geht**](/beitragen/fehler-melden/).
-{{% /infobox %}}
+
+</div>
 
 <div class="grid-container">
 
