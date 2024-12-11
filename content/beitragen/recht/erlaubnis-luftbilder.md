@@ -25,7 +25,7 @@ Stelle geht aber auch.
 
 Es gibt [verschiedene Software zum Bearbeiten](/beitragen/editoren/) von
 OpenStreetMap-Daten. Diese haben bereits eine Liste von Luftbildern eingebaut,
-die verwendet werden dürfen. Hat man die Genehmigung für die Nutzungs von
+die verwendet werden dürfen. Hat man die Genehmigung für die Nutzung von
 Luftbildern bekommen, sollten diese Listen entsprechend ergänzt oder
 aktualisiert werden.
 
