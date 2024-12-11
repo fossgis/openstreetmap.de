@@ -13,7 +13,7 @@ um Rechteinhaber anzuschreiben, die Daten unter der DL-DE-BY-Lizenz zur
 Verfügung stellen und die wir darum bitten wollen, dass wir die Daten auch bei
 OSM nutzen dürfen.
 
-Unabhängig vom Anschreiben, kann der untere Teil „Erlaubnis DL-DE-BY-Daten für
+Unabhängig vom Anschreiben, kann der untere Teil „Erlaubnis, DL-DE-BY-Daten für
 OpenStreetMap zu nutzen“ von Rechteinhabern natürlich auch direkt genutzt
 werden.
 
@@ -38,7 +38,7 @@ https://openstreetmap.de/beitragen/recht/nutzung-von-open-data/ .
 Falls Sie oder Ihr Rechtsbeistand eine Frage noch unbeantwortet sehen, melden
 Sie sich gerne.
 
-Falls Sie einverstanden sind, genügt es, uns das folgende Formular – ausgefüllt
+Wenn Sie einverstanden sind, genügt es, uns das folgende Formular – ausgefüllt
 durch einen Vertretungsberechtigten – digital zu übersenden. Wir werden es dann
 (nach Schwärzen persönlicher Informationen) unter
 https://wiki.openstreetmap.org/wiki/Contributors bzw.
@@ -51,7 +51,7 @@ Mit freundlichem Gruß
 
 <var>[NAME ABSENDER]</var>
 
-## Erlaubnis DL-DE-BY-Daten für OpenStreetMap zu nutzen
+## Erlaubnis, DL-DE-BY-Daten für OpenStreetMap zu nutzen
 
 Der Unterzeichnende erklärt sich hinsichtlich des Datensatzes <var>[GENAUE
 KENNZEICHNUNG]</var>, dass bei der Nutzung dieser Daten in OpenStreetMap die

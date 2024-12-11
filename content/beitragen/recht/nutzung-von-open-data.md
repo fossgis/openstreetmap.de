@@ -81,18 +81,18 @@ die einmal öffentlich sind, auch öffentlich bleiben.
 Die von OSM verwendete ODbL hat das gleiche Ziel, geht aber etwas anders vor:
 Sie erlaubt zusätzliche Einschränkungen in gewissen Situationen, aber nur dann,
 wenn die zugrundeliegenden Daten auf andere Weise frei zugänglich gemacht
-werden. Dies erlaubt letztlich mehr verschiedenartige Nutzungen aber sorgt
+werden. Dies erlaubt letztlich mehr verschiedenartige Nutzungen, sorgt aber
 ebenfalls dafür, dass die Daten immer auch für andere nutzbar bleiben.
 Manchmal kommt es vor, dass Datennutzer selbst nicht absehen können, ob ihr
 Material später einer DRM-Beschränkung unterworfen wird – zum Beispiel bei
 Ausstrahlung im Digitalfernsehen.
 
-Durch die beiden verschiedenen Ansätze entsteht jetzt aber bei der Nutzung von
+Durch die beiden verschiedenen Ansätze entsteht jetzt bei der Nutzung von
 Daten, deren Lizenz weitere Einschränkungen verbietet, ein Problem. Die
 Lizenzen widersprechen sich nach dem Wortlaut, auch wenn sie letztlich das
 gleiche erreichen wollen. Da der Lizenzgeber die Daten ja sowieso nicht nur
 OpenStreetMap zur Verfügung stellt, sondern alle anderen sie auch von ihm
-bekommen können, ist die Nutzbarkeit der Daten aber in jedem Fall immer
+bekommen können, ist die Nutzbarkeit der Daten trotzdem in jedem Fall 
 gewährleistet.
 
 Praktisch gelöst wird das dadurch, dass der Lizenzgeber eine Erklärung
@@ -127,13 +127,13 @@ vorgehen:
 * **ODbL - Open Database License:** Auch wenn OpenStreetMap selbst die ODbL
   verwendet heißt das nicht, dass alle Daten unter der ODbL automatisch
   kompatibel sind! Hierbei ist einerseits zu beachten, dass die ODbL eine
-  Namensnennung verlangt, aber wer genannt werden soll ist bei verschiedenen
+  Namensnennung verlangt, aber wer genannt werden soll, ist bei verschiedenen
   Datenquellen natürlich verschieden. Zudem werden Daten zwar von OpenStreetMap
   unter ODbL verteilt, aber die Ergänzung der OpenStreetMap-Daten erfolgt nicht
-  unter der ODbL sondern wird durch die ["OpenStreetMap Contributor
+  unter der ODbL, sondern wird durch die ["OpenStreetMap Contributor
   Terms"](https://osmfoundation.org/wiki/Licence/Contributor_Terms) geregelt.
   OpenStreetMap ermöglicht sich dadurch, seine Lizenz (in Grenzen) zu ändern,
-  falls das in Zukunft mal nötig sein sollte. Würde man Daten unter der ODbL
+  falls das in Zukunft einmal nötig sein sollte. Würde man Daten unter der ODbL
   übernehmen, ginge das aber nicht mehr. **&rarr; Zur Zeit ist unklar, wie
   unter der ODbL stehende Daten übernommen werden können.**
 
@@ -164,7 +164,7 @@ OpenStreetMap ein.
 
 Die Freigabe Ihrer Daten als *public domain* mit Hilfe der CC0 oder DL-DE Zero
 macht die Nutzung Ihrer Daten besonders einfach. Nicht nur durch OpenStreetMap,
-sondern auch durch viele andere. Wenn möglich sollten Sie diesen Weg wählen.
+sondern auch durch viele andere. Wenn möglich, sollten Sie diesen Weg wählen.
 
 Veröffentlichen Sie die Daten unter CC-BY oder DL-DE-BY, dann veröffentlichen
 Sie mit den Daten und der Lizenzangabe auch das passende Addendum.
@@ -172,7 +172,7 @@ Sie mit den Daten und der Lizenzangabe auch das passende Addendum.
 Wenn Sie nicht der eigentliche Inhaber der Daten sind, dann müssen Sie
 natürlich den Inhaber der Daten um entsprechende Erlaubnis gefragt haben. Wenn
 Sie Daten unter CC-BY oder DL-DE-BY veröffentlichen und das passende Addendum
-unterschreiben, dann geht OpenStreetMap aber davon aus, dass Sie auch
+unterschreiben, dann geht OpenStreetMap davon aus, dass Sie auch
 berechtigt waren, das zu tun.
 
 ### Du bist Mapper und würdest gerne die Daten einer Organisation nutzen?
@@ -193,7 +193,7 @@ Eintrag anlegen, damit andere Mapper sehen, dass für diese Quelle schon eine
 Anfrage läuft.
 
 Wenn die Anfrage positiv beschieden wird, dann trägst Du die Informationen dazu
-auf der [DE:Permissions](https://wiki.openstreetmap.org/wiki/DE:Permissions)
+auf der Wiki-Seite [DE:Permissions](https://wiki.openstreetmap.org/wiki/DE:Permissions)
 ein. Wenn der Lizenzgeber das Addendum auf seiner Webseite zusammen mit den
 Daten veröffentlicht, dann ist nichts weiter zu machen. Wenn er das Addendum an
 Dich geschickt hast, dann trage es im Wiki ein und verlinke es von der
@@ -204,9 +204,19 @@ falls es mal Nachfragen gibt. Zusätzlich machst Du auf der [Contributors-Seite
 von OpenStreetMap](https://wiki.openstreetmap.org/wiki/Contributors) einen
 entsprechenden Eintrag.
 
-Wenn die Anfrage ignoriert wird oder negativ beschieden, dann trage das bitte
+Wenn die Anfrage ignoriert oder negativ beschieden wird, dann trage das bitte
 auf der Permissions-Seite entsprechend ein. Und nimm es dem Lizenzgeber nicht
 übel. Vielleicht ändert er ja später seine Meinung.
+
+<div class="infobox">
+
+## Import-Regeln
+
+Die rechtliche Seite ist nur ein Teil eines Daten-Imports; der Import muss auch
+mit der Community diskutiert und von ihr willkommen geheissen werden. Mehr darüber
+findest Du auf der Wiki-Seite [DE:Import](https://wiki.openstreetmap.org/wiki/DE:Import).
+
+</div>
 
 ## Weitere Informationen
 

@@ -13,7 +13,7 @@ um Rechteinhaber anzuschreiben, die Daten unter der CC-BY-Lizenz zur Verfügung
 stellen und die wir darum bitten wollen, dass wir die Daten auch bei OSM nutzen
 dürfen.
 
-Unabhängig vom Anschreiben, kann der untere Teil „Erlaubnis CC-BY-Daten für
+Unabhängig vom Anschreiben kann der untere Teil „Erlaubnis, CC-BY-Daten für
 OpenStreetMap zu nutzen“ von Rechteinhabern natürlich auch direkt genutzt
 werden.
 
@@ -38,7 +38,7 @@ https://openstreetmap.de/beitragen/recht/nutzung-von-open-data/ .
 Falls Sie oder Ihr Rechtsbeistand eine Frage noch unbeantwortet sehen, melden
 Sie sich gerne.
 
-Falls Sie einverstanden sind, genügt es, uns das folgende Formular – ausgefüllt
+Wenn Sie einverstanden sind, genügt es, uns das folgende Formular – ausgefüllt
 durch einen Vertretungsberechtigten – digital zu übersenden. Wir werden es dann
 (nach Schwärzen persönlicher Informationen) unter
 https://wiki.openstreetmap.org/wiki/Contributors bzw.
@@ -51,7 +51,7 @@ Mit freundlichem Gruß
 
 <var>[NAME ABSENDER]</var>
 
-## Erlaubnis CC-BY-Daten für OpenStreetMap zu nutzen
+## Erlaubnis, CC-BY-Daten für OpenStreetMap zu nutzen
 
 Der Unterzeichnende erklärt sich hinsichtlich des Datensatzes <var>[GENAUE
 KENNZEICHNUNG]</var> einverstanden:
@@ -59,7 +59,7 @@ KENNZEICHNUNG]</var> einverstanden:
 1. Die Namensnennung auf https://wiki.openstreetmap.org/wiki/Contributors
    entspricht der „angemessenen Form“ im Sinne von Section 3(a)(2) CC-BY 4.0.
 
-2. OpenStreetMap und ihre Datennutzer sind individuell berechtigt, auf den
+2. OpenStreetMap und seine Datennutzer sind individuell berechtigt, auf den
    Datensatz „Beschränkungen für nachfolgende Empfänger“ durch „wirksame
    technische Maßnahmen“ im Sinne von Section 2(a)(5)(B) CC-BY 4.0 anzuwenden, soweit
    und solange der Anwender dieser Maßnahmen den Anforderungen der „Parallel

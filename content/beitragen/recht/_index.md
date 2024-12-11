@@ -9,25 +9,25 @@ menus:
 # Rechtliche Fragen beim Beitragen zu OSM
 
 Alle selbst erhobenen Daten dürfen bei OSM beigetragen werden. Bei Daten aus
-fremden Quellen, muss man aber etwas aufpassen. Dabei sind wir bei OSM relativ
-strikt: Wir wollen, dass Alle unsere Rechte achten und wir achten auch die
+fremden Quellen muss man aber aufpassen. Hier sind wir bei OSM relativ
+strikt: Wir wollen, dass alle unsere Rechte achten, und wir achten auch die
 Rechte Anderer.
 
 Grundsätzlich gilt: Es gibt keine besonderen Rechte an einzelnen Fakten. *Hier
-ist ein See.* Oder: *Die Straße dort hat den Namen „Goethestraße“*. Sowas kann
+ist ein See.* Oder: *Die Straße dort hat den Namen „Goethestraße“*. So etwas kann
 man nicht rechtlich schützen. Aber eine Datensammlung von vielen solchen
-Informationen kann einen rechtlichen Schutz haben, man spricht hier vom
+Informationen kann einen rechtlichen Schutz haben. Man spricht hier vom
 Datenbankherstellerrecht, es beruht auf der sogenannten Datenbankrichtlinie der
 EU. Und die Darstellung auf einer Karte kann dem Urheberrechtsschutz
 unterliegen.
 
 ## Selbst beitragen
 
-Wenn man selbst draußen in der Welt rumläuft und Informationen sammelt, dann
+Wenn man selbst draußen in der Welt herumläuft und Informationen sammelt, dann
 kann einem niemand die Nutzung dieser Information verwehren. Auch was man auf
 einem Schild liest oder ein einzelnes Faktum, das man einer Broschüre entnimmt,
-daran kann niemand Rechte geltend machen. Sowas kann man also problemlos bei
-OSM beitragen. Man darf aber nicht systematisch größere Mengen an Daten von
+daran kann niemand Rechte geltend machen. So etwas kann man also problemlos bei
+OSM eintragen. Man darf aber nicht systematisch größere Mengen an Daten von
 einer Karte oder anderen Quelle übernehmen!
 
 Bei der Einrichtung des OSM-Zugangs hat man zugestimmt, dass gewisse Rechte vom
@@ -40,7 +40,7 @@ Ganz viele Daten entstehen bei OSM durch das Abzeichnen von Luftbildern. Ob das
 allgemein erlaubt ist oder nicht, ist rechtlich eine Grauzone und auch in
 verschiedenen Ländern verschieden geregelt. Um auf der sicheren Seite zu sein,
 erlauben wir bei OpenStreetMap das Abzeichnen von Luftbildern nur dann, wenn
-der Rechteinhaber uns das ausdrücklich erlaubt hat.
+der Rechteinhaber uns das ausdrücklich gestattet hat.
 
 Viele Firmen haben uns explizit eine Erlaubnis erteilt, ihrer Bilder als
 Grundlage für OSM zu nutzen, zum Beispiel Microsoft (Bing). Einige Bundesländer
@@ -48,7 +48,7 @@ und Gemeinden in Deutschland erlauben uns das ebenfalls. Die Editoren haben
 schon entsprechende Layer eingebaut, die man benutzen darf. Dort kann man in
 der Regel aus einem Menü der lokal vorhandenen Luftbilder auswählen.
 
-Das Abzeichnen von Google Maps, auch im Satelliten-Modus ist nicht erlaubt!
+Das Abzeichnen von Google Maps, auch im Satelliten-Modus, ist nicht erlaubt!
 
 ## Import von Daten
 
