@@ -15,7 +15,7 @@ bei der Registrierung den [OpenStreetMap Contributor
 Terms](https://osmfoundation.org/wiki/Licence/Contributor_Terms) zugestimmt,
 die es OSM erlauben, diese Daten zu nutzen.
 
-Anders ist die Situation, wenn man Daten in OSM integrieren möchte, die schon
+Anders ist die Situation, wenn man Daten in OSM integrieren möchte, die
 von jemand anderem gesammelt wurden. Dann braucht es die Erlaubnis des
 Rechteinhabers. Häufig sind solche Daten schon unter einer Open-Data-Lizenz
 veröffentlicht. Die muss aber nicht unbedingt kompatibel mit der [Open Database
@@ -31,24 +31,24 @@ Commons (CC)](https://creativecommons.org/)-Lizenzen und, in Deutschland, die
 verschiedenen Varianten der [Datenlizenz
 Deutschland (DL-DE)](https://www.govdata.de/lizenzen).
 
-Daneben gibt es auch noch die Einordnung als *public domain*, die eher aus dem
-angelsächsischen Rechtsraum kommt, die ein komplettes Fehlen von Rechten
+Daneben gibt es auch noch die Einordnung als *public domain*, die aus dem
+angelsächsischen Rechtsraum kommt, und die ein komplettes Fehlen von Rechten
 darstellt. Das ist zum Beispiel relevant für Daten der amerikanischen
 Bundesregierung, die per Gesetz *public domain* sind und keinerlei Rechten
 unterliegen. Von Creative Commons und der Datenlizenz Deutschland gibt es
-dazu entsprechende Varianten
-([CC0](https://creativecommons.org/public-domain/cc0/) und [Datenlizenz
+dazu entsprechende Varianten, die auch im deutschen Rechtsraum gültig sind,
+nämlich ([CC0](https://creativecommons.org/public-domain/cc0/) und [Datenlizenz
 Deutschland – Zero](https://www.govdata.de/dl-de/zero-2-0)).
 
 ## Namensnennung
 
-Viele Lizenzen setzen eine *Namensnennung* (*attribution*) voraus. Das heißt,
+Viele Lizenzen fordern eine *Namensnennung* (*attribution*). Das heißt,
 dass der Lizenzgeber der Nutzung der Daten zustimmt, wenn bei jeder Nutzung der
 Name des Lizenzgebers genannt wird. In welcher Form das passiert, hängt von der
 Art der Nutzung ab und kann in der Regel vom Nutzer entschieden werden. Üblich
 ist zum Beispiel bei Online-Karten, dass unten auf der Karte ein kleiner
 Hinweis erfolgt. In einem gedruckten Werk geschieht so etwas häufig im
-Impressum.
+Impressum oder Bildnachweis.
 
 OpenStreetMap benutzt Daten, die von tausenden Lizenzgebern beigetragen wurden.
 Es sollte klar sein, dass es nicht möglich ist, alle diese Lizenzgeber bei
@@ -73,23 +73,24 @@ aber trotzdem gewahrt.
 
 ## Verbot von Einschränkungen
 
-Manche Lizenzen sehen es vor, dass bei der weiteren Verwendung der Daten keine
+Manche Lizenzen sehen vor, dass bei der weiteren Verwendung der Daten keine
 zusätzlichen Einschränkungen erlaubt sind, zum Beispiel durch Einsatz von DRM
 (*digital rights management*). Damit soll sichergestellt werden, dass Daten,
 die einmal öffentlich sind, auch öffentlich bleiben.
 
 Die von OSM verwendete ODbL hat das gleiche Ziel, geht aber etwas anders vor:
-Sie erlaubt zusätzliche Einschränkungen in gewissen Situationen, aber nur dann,
-wenn die zugrundeliegenden Daten auf andere Weise frei zugänglich gemacht
-werden. Dies erlaubt letztlich mehr verschiedenartige Nutzungen, sorgt aber
-ebenfalls dafür, dass die Daten immer auch für andere nutzbar bleiben.
-Manchmal kommt es vor, dass Datennutzer selbst nicht absehen können, ob ihr
-Material später einer DRM-Beschränkung unterworfen wird – zum Beispiel bei
-Ausstrahlung im Digitalfernsehen.
+Sie erlaubt zusätzliche Einschränkungen, wie zum Beispiel DRM, in gewissen 
+Situationen, aber nur dann, wenn die zugrundeliegenden Daten auf andere Weise
+frei zugänglich gemacht werden. Dies erlaubt letztlich mehr verschiedenartige
+Nutzungen, sorgt aber ebenfalls dafür, dass die Daten immer auch für andere
+nutzbar bleiben. Manchmal kommt es vor, dass Datennutzer selbst nicht absehen
+können, ob ihr Material später einer DRM-Beschränkung unterworfen wird – zum
+Beispiel bei Ausstrahlung im Digitalfernsehen, das DRM benutzt.
 
-Durch die beiden verschiedenen Ansätze entsteht jetzt bei der Nutzung von
-Daten, deren Lizenz weitere Einschränkungen verbietet, ein Problem. Die
-Lizenzen widersprechen sich nach dem Wortlaut, auch wenn sie letztlich das
+Durch die beiden verschiedenen Umsetzungen derselben Idee von Einschränkungsfreiheit
+entsteht jetzt bei der Nutzung von
+Daten, deren Lizenz weitere Einschränkungen einfach pauschal verbietet, ein Problem.
+Die Lizenzen widersprechen sich nach dem Wortlaut, auch wenn sie letztlich das
 gleiche erreichen wollen. Da der Lizenzgeber die Daten ja sowieso nicht nur
 OpenStreetMap zur Verfügung stellt, sondern alle anderen sie auch von ihm
 bekommen können, ist die Nutzbarkeit der Daten trotzdem in jedem Fall 
@@ -99,16 +100,16 @@ Praktisch gelöst wird das dadurch, dass der Lizenzgeber eine Erklärung
 (Addendum, *waiver*) als Ergänzung zur Lizenz abgibt, in der er klarstellt,
 dass die Nutzung in OpenStreetMap in Ordnung ist.
 
-## Nutzung von Daten für OpenStreetMap
+## Nutzung von Daten unter fremden Open-Data-Lizenzen für OpenStreetMap
 
 Wenn man Daten für OSM nutzbar machen will, muss man je nach Lizenz anders
 vorgehen:
 
 * **Public Domain, CC0, DL-DE Zero:** Völlig problemlos ist die Nutzung von
   Daten, die *gemeinfrei* ("public domain") sind. Auch
-  [CC0](https://creativecommons.org/publicdomain/zero/1.0/) drückt das gleiche
+  [CC0](https://creativecommons.org/publicdomain/zero/1.0/) drückt das Gleiche
   aus und die [DL-DE Zero](https://www.govdata.de/dl-de/zero-2-0) hat einen
-  sehr ähnlichen Effekt. **&rarr; Diese Daten können ohne weiteres für
+  sehr ähnlichen Effekt. **&rarr; Diese Daten können ohne Weiteres für
   OpenStreetMap genutzt werden.**
 
 * **CC-BY - Creative Commons - Attribution:** Daten, die unter der Lizenz
@@ -139,7 +140,7 @@ vorgehen:
 
 <div class="infobox">
 
-## Zugriffsrechte für Luftbilder
+## Nutzungsrechte für Luftbilder
 
 OpenStreetMap-Mitwirkende benutzen häufig Luftbilder als Basis für die Erhebung
 von Daten für OSM. Rechtlich gesehen ist das eine andere Situation als bei der
@@ -173,7 +174,7 @@ Wenn Sie nicht der eigentliche Inhaber der Daten sind, dann müssen Sie
 natürlich den Inhaber der Daten um entsprechende Erlaubnis gefragt haben. Wenn
 Sie Daten unter CC-BY oder DL-DE-BY veröffentlichen und das passende Addendum
 unterschreiben, dann geht OpenStreetMap davon aus, dass Sie auch
-berechtigt waren, das zu tun.
+berechtigt sind, das zu tun.
 
 ### Du bist Mapper und würdest gerne die Daten einer Organisation nutzen?
 
@@ -186,7 +187,7 @@ Dann schreibst Du eine Anfrage an den Lizenzgeber, in der Du die Situation
 erklärst und freundlich um Freigabe der Daten bittest, am besten mit Verweis
 auf diese Seite. Du kannst unseren [Entwurf für ein
 Anschreiben](/beitragen/recht/addendum-cc-by/) verwenden, dort findet sich auch
-der Text für das Addendum, dass der Lizenzgeber unterschreiben muss. Du sollest
+der Text für das Addendum, das der Lizenzgeber unterschreiben muss. Du sollest
 auf der Wiki-Seite
 [DE:Permissions](https://wiki.openstreetmap.org/wiki/DE:Permissions) einen
 Eintrag anlegen, damit andere Mapper sehen, dass für diese Quelle schon eine

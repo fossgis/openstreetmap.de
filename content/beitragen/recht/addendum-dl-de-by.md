@@ -29,23 +29,23 @@ Diese Daten würden wir gern in die freie Weltkarte – OpenStreetMap – aufneh
 OpenStreetMap veröffentlicht Geodaten unter der Open Database Lizenz (ODbL) mit
 dem Ziel, eine Weltkarte zu erstellen, die jeder frei verwenden kann. Da beide
 Lizenzen dieselben Ziele verfolgen, sind sie grundsätzlich auch miteinander
-vereinbar. Konkret: wir könnten Daten, die unter DL-DE-BY lizensiert sind, auch
+vereinbar. Konkret: wir könnten Daten, die unter DL-DE-BY lizenziert sind, auch
 unter ODbL weitergeben. Um etwaige Unklarheiten bezüglich der Namensnennung
 auszuräumen, bitten wir Sie als Dateninhaber die untenstehende Erklärung
 abzugeben. Details dazu finden Sie unter
-https://openstreetmap.de/beitragen/recht/nutzung-von-open-data/ .
+https://openstreetmap.de/beitragen/recht/nutzung-von-open-data/
 
 Falls Sie oder Ihr Rechtsbeistand eine Frage noch unbeantwortet sehen, melden
 Sie sich gerne.
 
 Wenn Sie einverstanden sind, genügt es, uns das folgende Formular – ausgefüllt
-durch einen Vertretungsberechtigten – digital zu übersenden. Wir werden es dann
+durch eine dazu berechtigte Person – digital zu übersenden. Wir werden es dann
 (nach Schwärzen persönlicher Informationen) unter
 https://wiki.openstreetmap.org/wiki/Contributors bzw.
 https://wiki.openstreetmap.org/wiki/DE:Permissions veröffentlichen.
 
 Alternativ können Sie die Eklärung auch auf Ihrer Webseite in Zusammenhang mit
-denen von Ihnen veröffentlichten Daten unterbringen.
+den von Ihnen veröffentlichten Daten unterbringen.
 
 Mit freundlichem Gruß
 
@@ -53,7 +53,7 @@ Mit freundlichem Gruß
 
 ## Erlaubnis, DL-DE-BY-Daten für OpenStreetMap zu nutzen
 
-Der Unterzeichnende erklärt sich hinsichtlich des Datensatzes <var>[GENAUE
+Der Unterzeichnende erklärt hinsichtlich des Datensatzes <var>[GENAUE
 KENNZEICHNUNG]</var>, dass bei der Nutzung dieser Daten in OpenStreetMap die
 Namensnennung auf https://wiki.openstreetmap.org/wiki/Contributors für den
 Quellenvermerk im Sinne von Paragraph (2) DL-DE-BY 2.0 ausreichend ist.
