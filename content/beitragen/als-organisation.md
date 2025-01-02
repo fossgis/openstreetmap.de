@@ -4,7 +4,7 @@ title: Bei OpenStreetMap als Organisation beitragen
 
 # Bei OpenStreetMap als Organisation beitragen
 
-Ein nicht unerheblicher Teil der Daten in OSM werden im Auftrag von Firmen und
+Ein nicht unerheblicher Teil der Daten in OSM wird im Auftrag von Firmen und
 anderen Organisationen beigetragen. Und das ist durchaus erwünscht. Häufig
 liegt gerade bei diesen Organisationen das fachliche und lokale Wissen, das für
 OSM benötigt wird. Und gerade wenn auch die Datennutzer selbst Daten beitragen,
@@ -24,7 +24,7 @@ OSM-Community. Beitragender ist immer die einzelne Person, nicht die
 Organisation. So kann man auch viel besser in der Community von Mensch zu
 Mensch kommunizieren.
 
-Um bei OSM beitragen zu können braucht es einen OSM-Zugang. Bei der Anmeldung
+Um bei OSM beitragen zu können, braucht es einen OSM-Zugang. Bei der Anmeldung
 muss auch die OSM-Teilnehmervereinbarung bestätigt werden. Die angemeldete
 Person ist verantwortlich für alles, was sie bei OSM macht. Daher sollen
 OSM-Accounts auch nicht an andere Mitarbeitende weitergegeben werden. Verläßt
@@ -34,7 +34,7 @@ benutzt wird und wohin Fragen und Anmerkungen in Zukunft zu richten sind.
 
 <div class="infobox">
 
-Es ist auch eventuell sinnvoll den Namen der Organisation mit in den
+Es ist auch eventuell sinnvoll, den Namen der Organisation mit in den
 Account-Namen aufzunehmen. Wenn man private und „dienstliche“ Bearbeitungen
 auseinanderhalten will, kann man sich auch zwei OSM-Zugänge anlegen. Eine
 Anmeldung unter Pseudonym ist auch okay, wenn man seinen Namen nicht verwenden
@@ -47,7 +47,7 @@ will.
 
 ## Organised Editing Guidelines
 
-Die Richtlinien zur organisierte Bearbeitung („Organised Editing Guidlines“)
+Die Richtlinien zur organisierten Bearbeitung („Organised Editing Guidelines“)
 regeln noch ein paar mehr Dinge, die beachtet werden müssen.
 
 Insbesondere sollen alle Mitarbeitenden in ihrem Profil und/oder im Wiki
@@ -56,7 +56,7 @@ Seite im Wiki angelegt, die beschreibt, welche Aktivitäten stattfinden. Dort
 wird auch eine verantwortliche Person benannt.
 
 Organized Editing Guidelines:
-[Richtlinien zur organisierten Bearbeitung](https://wiki.openstreetmap.org/wiki/DE:Organised_Editing_Guidelines) (inoffizelle Übersetzung),
+[Richtlinien zur organisierten Bearbeitung](https://wiki.openstreetmap.org/wiki/DE:Organised_Editing_Guidelines) (inoffizielle Übersetzung),
 [Offizielle Version (engl.)](https://osmfoundation.org/wiki/Organised_Editing_Guidelines)
 {.link-extern}
 
@@ -68,7 +68,7 @@ die Idee, dass diese Daten irgendwie einen „offiziellen Charakter“ haben ode
 qualitativ hochwertiger sind und daher besonders geschützt werden müssen.
 
 Das OpenStreetMap-Projekt sieht das anders: Alle Daten sind bei uns gleich. Was
-zählt ist wie gut sie die Realität wiedergeben.
+zählt ist, wie gut sie die Realität wiedergeben.
 
 Die Erfahrung zeigt: Daten sind nicht automatisch deswegen besser, weil sie aus
 einer bestimmten Quelle stammen. Aber Daten werden besser, wenn mehr Leute
