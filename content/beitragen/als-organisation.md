@@ -45,7 +45,7 @@ will.
 [OSM-Zugang einrichten](/beitragen/osm-zugang/)
 {.link-intern}
 
-## Organized Editing Guidelines
+## Organised Editing Guidelines
 
 Die Richtlinien zur organisierten Bearbeitung („Organised Editing Guidelines“)
 regeln noch ein paar mehr Dinge, die beachtet werden müssen.
