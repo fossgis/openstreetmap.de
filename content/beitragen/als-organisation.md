@@ -47,7 +47,7 @@ will.
 
 ## Organized Editing Guidelines
 
-Die Richtlinien zur organisierten Bearbeitung („Organized Editing Guidelines“)
+Die Richtlinien zur organisierten Bearbeitung („Organised Editing Guidelines“)
 regeln noch ein paar mehr Dinge, die beachtet werden müssen.
 
 Insbesondere sollen alle Mitarbeitenden in ihrem Profil und/oder im Wiki
