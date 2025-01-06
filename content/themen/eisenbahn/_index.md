@@ -21,7 +21,7 @@ anbieten.
 
 Die Deutsche Bahn und viele andere Verkehrsunternehmen benutzen OSM auf
 vielfache Art und Weise. Mehr dazu auch unter dem Thema [öffentlicher
-Personenverkehr](/themen/öpnv/). Die in DB-Zügen angezeigten Karten mit der
+Personenverkehr](/themen/öpnv/). Die im ICE-Portal angezeigten Karten mit der
 aktuellen Position des Zuges basieren auf OSM-Daten. Und auch die an sehr
 vielen Bahnhöfen und Haltpunkten aushängenden Umgebungskarten benutzen
 OSM-Daten.
