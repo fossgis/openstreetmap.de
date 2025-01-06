@@ -95,6 +95,9 @@ Entwicklung, Verbesserung und Erhaltung offener digitaler Infrastrukturen.
 Es gibt mehrere [Förderprogramme](https://www.sovereign.tech/de/programme),
 die teilweise noch recht neu sind.
 
+Die OSM Foundation wird vom Sovereign Tech Fund
+[gefördert](https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/).
+
 ## NGI Zero
 
 Die europäische Initiative [Next Generation Internet (NGI)
