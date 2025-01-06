@@ -1,7 +1,7 @@
 <footer>
     <div class="footer-linklist">
         {{ range $index, $menu := site.Menus.footer }}
-            {{- if ge $index 1 }} &middot; {{ end -}}
+            {{- if $index }} &middot; {{ end -}}
             <a href="{{ $menu.URL | relURL }}">{{ $menu.Name }}</a>
         {{- end -}}
     </div>
