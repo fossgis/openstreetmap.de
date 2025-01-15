@@ -10,9 +10,9 @@ Abspeichern sofort weltweit aktiv! Auf manchen Karten werden sie innerhalb von
 Minuten sichtbar, bei manchen dauert es wenige Tage bis mehrere Monate.
 
 Wir haben hier absichtlich keine Prüfung eingebaut, damit Du sofort das
-Ergebnis sehen kannst. Das erfordert aber auch etwas Veranwortungsbewusstsein von Dir.
-Fange am besten mit kleineren Änderungen an und arbeite Dich langsam zu den
-komplexeren Dingen hoch.
+Ergebnis sehen kannst. Das erfordert aber auch etwas Verantwortungsbewusstsein
+von Dir. Fange am besten mit kleineren Änderungen an und arbeite Dich langsam
+zu den komplexeren Dingen hoch.
 
 ## Änderungssätze (*changesets*)
 
@@ -41,7 +41,7 @@ Bist Du Dir bei einer Änderung nicht so sicher, kannst Du im Editor beim
 Abspeichern eine Kontrolle anfordern ("review requested"). Dann wird Dein
 Changeset mit einem entsprechenden Hinweis versehen.
 
-Manche Mapper schauen sich solche Änderungen an und prüfen sie dann und melden
+Manche Mapper schauen sich solche Änderungen an, prüfen sie dann und melden
 sich ggf. bei Dir. Das passiert allerdings nicht systematisch, es kann also
 auch sein, dass sich niemand dieser Änderung annimmt. Die Änderung ist in jedem
 Fall sofort in der OSM-Datenbank und eventuell auf Karten sichtbar, wie alle
