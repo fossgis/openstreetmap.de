@@ -9,7 +9,7 @@ eine fehlende Straße, ein dauerhaft geschlossenes Geschäft, oder eine falsche
 Hausnummer? Dann hilf mit, die Daten zu verbessern!
 
 Wenn Du nicht [selber direkt am Projekt mitarbeiten](/beitragen/) willst, aber
-den Freiwilligen einen Hinweis geben möchtest, dann kannst Du ein sogenannte
+den Freiwilligen einen Hinweis geben möchtest, dann kannst Du eine sogenannte
 *Notiz* anlegen. Notizen sind öffentlich einsehbare Anmerkungen zur Karte.
 Diese Anmerkungen können dann von den Freiwilligen des OpenStreetMap-Projektes
 gelesen und berücksichtigt werden.
@@ -51,7 +51,7 @@ Nach dem Anlegen einer Notiz schau bitte regelmäßig nach, ob die Notiz
 bearbeitet werden konnte oder ob es vielleicht noch Rückfragen der Freiwilligen
 gab. (Das geht natürlich nur, wenn Du die Notiz nicht anonym abgegeben hast.)
 
-## Die Notiz wurde bearbeitet, aber die Karte zeigt immernoch den alten Stand an!
+## Die Notiz wurde bearbeitet, aber die Karte zeigt immer noch den alten Stand an!
 
 Es dauert eine Weile, bis die Online-Karte aus veränderten Daten neu gezeichnet
 wird. Meist erscheinen die Änderungen innerhalb weniger Minuten, manchmal nach ein
