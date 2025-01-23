@@ -13,13 +13,13 @@ gibt es diese Seite.
 
 Was der GISler „Feature” nennt, nennen wir „OSM-Objekt“. OSM-Objekte haben
 immer eine eindeutige numerische ID. Für die verschiedenen Objektarten (Nodes,
-Ways, Relations) gibt es getrennte ID-Räume, das heisst, es gibt sowohl einen
+Ways, Relations) gibt es getrennte ID-Räume, das heißt, es gibt sowohl einen
 Node mit der Nummer 17 als auch einen Way 17.
 
 ## Layer
 
-OSM kennt keine Layer. Oder, anders gesehen, es gibt nur einen. GIS
-unterscheidet typischweise zwischen dem Typ eines Features und den Attributen.
+OSM kennt keine Layer. Oder, anders gesehen, gibt es nur einen. GIS
+unterscheidet typischerweise zwischen dem Typ eines Features und den Attributen.
 Der Typ wird durch den Layer bestimmt, in dem das Feature ist.
 Bei OSM werden sowohl der Typ als auch die Attribute durch die Tags bestimmt.
 
