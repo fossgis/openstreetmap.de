@@ -21,7 +21,7 @@ Hier sind ein paar typische Tags:
 * Ein Restaurant ist ein `amenity=restaurant`. Der Name ist dann vielleicht
   `name=Hirschen`.
 * Eine Straße könnte diese Tags haben: `highway=primary` (die Klassifizierung
-  `primary` wird für eine wichtige Durchgangssstraße verwendet, vielleicht eine
+  `primary` wird für eine wichtige Durchgangsstraße verwendet, vielleicht eine
   Bundesstraße.), `name=Schillerstraße`, `ref=B 31` (die Bezeichnung der Straße,
   hier die Bundesstraße 31), `oneway=yes` (weil es eine Einbahnstraße ist),
   `maxspeed=30` (man darf nur 30km/h fahren).
