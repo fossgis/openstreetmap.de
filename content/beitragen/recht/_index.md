@@ -57,7 +57,7 @@ Oft gibt es schon fertige Datensammlungen zu bestimmten Themen, die man zum
 Beispiel online findet und dann bei OSM importieren möchte.
 Beim Import solcher Daten braucht es immer die Genehmigung des Rechteinhabers.
 Das kann zum Beispiel eine Behörde sein oder eine Firma. Vielfach hat der Rechteinhaber
-die Daten schon unter eine Open-Data-Lizenz veröffentlicht. Das heißt leider
+die Daten schon unter einer Open-Data-Lizenz veröffentlicht. Das heißt leider
 trotzdem nicht, dass wir diese Daten dann immer so einfach bei OpenStreetMap verwenden
 können.
 
@@ -65,7 +65,7 @@ können.
 {.link-intern}
 
 Bei allen anderen Daten musst Du beim Dateninhaber nachfragen, ob Du die Daten
-benutzten darfst, und eine entsprechende schriftliche Genehmigung einholen.
+benutzen darfst, und eine entsprechende schriftliche Genehmigung einholen.
 
 ## Datenschutz
 
