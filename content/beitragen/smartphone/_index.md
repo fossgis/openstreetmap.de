@@ -19,9 +19,9 @@ gebraucht.
 
 Mit der App *StreetComplete* für Android kann man auf einfachste Art und Weise
 unterwegs zu OSM beitragen. Sie zeigt eine Karte der Umgebung mit markierten
-Punkten hinter denen sich jeweils eine Frage verbirgt. Zum Beispiel: "Was sind
+Punkten, hinter denen sich jeweils eine Frage verbirgt. Zum Beispiel: "Was sind
 die Öffnungszeiten dieses Restaurants?" oder "Gibt es an dieser Straße einen
-Fußweg?". So kann man einfach mal nebenher etwas kleines zu OSM beitragen.
+Fußweg?". So kann man einfach mal nebenher etwas Kleines zu OSM beitragen.
 
 [StreetComplete](https://streetcomplete.app/)
 {.link-extern}
@@ -30,7 +30,7 @@ Fußweg?". So kann man einfach mal nebenher etwas kleines zu OSM beitragen.
 
 <img src="everydoor-logo.png" width="60" class="float-left" alt="Every Door" />
 
-*Every Door* ist eine Android App, die vorallem das Eintragen und Aktualisieren
+*Every Door* ist eine Android App, die vor allem das Eintragen und Aktualisieren
 von POIs (Points of Interest), wie Restaurants, Geschäfte, Parkbänke usw.
 vereinfacht. Sie ist für das schnelle Mappen zwischendurch prima geeignet.
 
