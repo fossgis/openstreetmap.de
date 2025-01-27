@@ -55,10 +55,10 @@ eine **persönliche Seite**, auf der man **direkte Nachrichten** mit anderen
 Mappern austauschen kann. Hier kannst Du ein **Tagebuch** („diary“) führen oder
 die Tagebuch-Einträge anderer kommentieren.
 
-Alle Änderungen an den OSM-Daten werden in **Anderungssätzen** (Changesets)
+Alle Änderungen an den OSM-Daten werden in **Änderungssätzen** (Changesets)
 zusammengefasst. Jeder Änderungssatz ist mit Eurem Benutzernamen versehen.
 Jede und jeder kann solche Änderungssätze kommentieren. Dadurch kommt ein
-wichtiger Ausstausch zustande, wenn es mal Unklarheiten geben sollte oder
+wichtiger Austausch zustande, wenn es mal Unklarheiten geben sollte oder
 verschiedene Meinungen, wie etwas in die Daten einzutragen ist.
 
 <div class="infobox">
@@ -70,14 +70,14 @@ verschiedene Meinungen, wie etwas in die Daten einzutragen ist.
 <img class="with-border float-left" style="width: 50%;" src="/img/SOTM_2019_Group_Photo.jpg" alt="SotM 2019 Gruppenfoto" title="SotM 2019 Gruppenfoto"/>
 
 Die OSM-Community organisiert diverse Veranstaltungen oder beteiligt sich an
-welchen. Aktuelles dazu gibts im [Kalender](/veranstaltungen/). In manchen
+welchen. Aktuelles dazu gibt es im [Kalender](/veranstaltungen/). In manchen
 Städten treffen sich [lokale Gruppen]() zu mehr oder weniger regelmäßigen
 **Stammtischen**. Auf der [Karte](/karte/) kann man sich die Stammtische
 anzeigen lassen.
 
 Mehrmals im Jahr gibt es **Hacking Weekends** in [Karlsruhe und
 Berlin](https://wiki.openstreetmap.org/wiki/Hackathon).
-Dort treffen sich vorallem Software-Entwickler aus dem OSM-Umfeld. Manchmal
+Dort treffen sich vor allem Software-Entwickler aus dem OSM-Umfeld. Manchmal
 werden auch **Mapping Parties** oder **Mapathons** veranstaltet, bei denen wir
 gemeinsam OSM-Daten beitragen. Im FOSSGIS-Verein Aktive treffen sich mehrmals
 im Jahr in Essen zum
@@ -89,7 +89,7 @@ Veranstaltungen vertreten.
 Einmal im Jahr findet die [**FOSSGIS-Konferenz**](https://fossgis-konferenz.de/)
 statt, immer an wechselnden Orten in Deutschland, Österreich oder der Schweiz.
 Hier ist OpenStreetMap immer ein großes Thema und es gibt Vorträge dazu.
-einige Jahren hat es sich der **OSM-Samstag** nach der Konferenz als Treffen
+Seit einigen Jahren hat sich der **OSM-Samstag** nach der Konferenz als Treffen
 der Community etabliert.
 
 Auch in anderen Ländern gibt es mehr oder weniger regelmäßig
@@ -125,7 +125,7 @@ die Übersetzungen zu aktualisieren.
 
 ## Lokale Treffen
 
-In mehrere Städten und Gegenden in Deutschland gibt es mehr oder weniger
+In mehreren Städten und Gegenden in Deutschland gibt es mehr oder weniger
 regelmäßige Treffen und Stammtische.
 
 Mehr zu [lokalen Treffen](/community/lokale-treffen/)
@@ -155,7 +155,7 @@ Der FOSSGIS betreibt auch diese Webseiten und stellt verschiedene Dienste
 für die OSM-Community zur Verfügung.
 
 Wenn Du unsere Arbeit unterstützen willst oder selbst aktiv werden willst,
-dann werden doch Mitglied im FOSSGIS!
+dann werde doch Mitglied im FOSSGIS!
 
 Zum [FOSSGIS e.V.](https://www.fossgis.de/)
 {.link-extern}
