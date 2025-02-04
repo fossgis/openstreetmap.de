@@ -7,7 +7,7 @@ title: Navigation (Routing)
 Es gibt eine erstaunliche Fülle an Software für die Navigation of OSM-Daten.
 Die bekanntesten Open-Source-Programme stellen wir hier vor. Üblicherweise
 unterstützen sie mehrere „Profile“, das sind passende Einstellungen für
-Autofahrer, Radfahrer oder Fußgänger. Die kann man dann häufig noch mehr oder
+das Auto- oder Fahrradfahren und das Zufußgehen. Die kann man dann häufig noch mehr oder
 weniger detailliert konfigurieren.
 
 Neben der Routenfindung von A nach B (häufig auch mit optionalen

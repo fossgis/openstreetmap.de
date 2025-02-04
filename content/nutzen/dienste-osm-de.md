@@ -107,7 +107,7 @@ zur Nutzung der Overpass API
 
 Open Source Routing Machine (OSRM) ist ein Open-Source-Routing-Server.
 OpenStreetMap Deutschland betreibt mehrere Test-/Demo-Server. Dort kann man
-sich Routen für Autos, Radfahrer und Fußgänger errechnen lassen.
+sich Routen für das Auto- und Fahrradfahren oder das Zufußgehen errechnen lassen.
 
 Der Dienst kann über die API auch in eigene Seiten eingebunden werden.
 
