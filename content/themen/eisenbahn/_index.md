@@ -23,7 +23,7 @@ Die Deutsche Bahn und viele andere Verkehrsunternehmen benutzen OSM auf
 vielfache Art und Weise. Mehr dazu auch unter dem Thema [öffentlicher
 Personenverkehr](/themen/öpnv/). Die im ICE-Portal angezeigten Karten mit der
 aktuellen Position des Zuges basieren auf OSM-Daten. Und auch die an sehr
-vielen Bahnhöfen und Haltpunkten aushängenden Umgebungskarten benutzen
+vielen Bahnhöfen und Haltepunkten aushängenden Umgebungskarten benutzen
 OSM-Daten.
 
 <div class="infobox">
@@ -33,9 +33,9 @@ OSM-Daten.
 ## Die OpenRailwayMap
 
 Die OpenRailwayMap wird von einigen Enthusiasten aus der OSM-Community
-betrieben. Sie zeigt die bei OSM erfassten Daten zur Eisenbahn-Infrastruktur
+betrieben. Sie zeigt die bei OSM erfassten Daten zur Eisenbahninfrastruktur
 auf vielfältige Weise. Man kann sich die Strecken nach verschiedenen Kriterien
-wie der Spurweite oder die Art der Elektrifizierung einfärben lassen. Oder auch
+wie der Spurweite oder der Art der Elektrifizierung einfärben lassen. Oder auch
 die einzelnen Signale entlang der Gleise sehen.
 
 [OpenRailwayMap](https://openrailwaymap.org/)
