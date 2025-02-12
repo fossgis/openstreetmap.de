@@ -44,7 +44,7 @@ zuerst mit den „Kollegen“.
 
 ## Organised Editing Guidelines
 
-OSM ist als Hobbyprojekt enstanden, aber inzwischen wird ein nicht
+OSM ist als Hobbyprojekt entstanden, aber inzwischen wird ein nicht
 unerheblicher Teil der Daten von Firmen und anderen Organisationen beigetragen.
 Und das ist gut so. Nicht überall gibt es Hobbymapper, und wenn so viele Firmen
 unsere Daten benutzen, dann ist es auch richtig, dass sie selbst dazu
@@ -58,7 +58,7 @@ es kann aber auch im Rahmen von Schulungen oder im Studium passieren. Dann
 ist es der Lehrer oder die Professorin, die vorgeben, was zu tun ist.
 
 Organized Editing Guidelines:
-[Richtlinien zur Organisierten Bearbeitung](https://wiki.openstreetmap.org/wiki/DE:Organised_Editing_Guidelines) (inoffizelle Übersetzung),
+[Richtlinien zur Organisierten Bearbeitung](https://wiki.openstreetmap.org/wiki/DE:Organised_Editing_Guidelines) (inoffizielle Übersetzung),
 [Offizielle Version (engl.)](https://osmfoundation.org/wiki/Organised_Editing_Guidelines)
 {.link-extern}
 
