@@ -3,15 +3,15 @@ title: Eisenbahn
 menus: themen
 ---
 
-Eisenbahnen werden in OpenStreetMap oftmals mit viel Liebe zum Detail erfaßt.
-Das gleiche gilt auch für Straßenbahnen, S- und U-Bahnen, Seilbahnen,
+Eisenbahnen werden in OpenStreetMap oftmals mit viel Liebe zum Detail erfasst.
+Das Gleiche gilt auch für Straßenbahnen, S- und U-Bahnen, Seilbahnen,
 Schmalspurbahnen, Miniatureisenbahnen und generell alles, was auf Schienen
 fährt.
 
 In der Regel ist jedes Gleis einzeln eingetragen. Dazu gibt es viele
-Zusatzinformationen über die Spurweite, die Elektrifizierung der Strecke, die
+Zusatzinformationen über die Spurweite, Elektrifizierung, die
 Nutzungsart (Hauptgleise, Rangiergleise, Industriegleise ...) und vieles mehr.
-Manchmal werden auch weitere Details wie Weichen und Signale erfaßt.
+Oft werden auch weitere Details wie Weichen und Signale erfasst.
 
 Bahnhöfe und Haltepunkte mit ihren Namen und vielfach mit genauer Lage der
 Bahnsteige, Treppen, Aufzüge werden auch mit eingetragen. Das ermöglicht eine
@@ -46,8 +46,7 @@ die einzelnen Signale entlang der Gleise sehen.
 Es ist auch möglich, auf den Gleisen automatisiert zu navigieren. Natürlich
 reicht das nicht aus, um festzustellen, ob eine Verbindung wirklich möglich
 ist, aber um zum Beispiel für den Güterverkehr eine erste Abschätzung zu
-treffen, ob ein Transport per Bahn vielleicht möglich oder wie groß der
-CO&#x2082;-Ausstoß wäre, dafür reicht es allemal.
+treffen, ob ein Transport per Bahn vielleicht möglich wäre.
 
 ## Weiterführende Informationen
 
