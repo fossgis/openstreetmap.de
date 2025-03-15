@@ -4,7 +4,7 @@ linkTitle: FAQ
 aliases: [/faq.html]
 menus:
     footer:
-        weight: 4
+        weight: 5
 _build:
     render: always
 cascade:

@@ -437,19 +437,48 @@ h2 {
     width: calc(100% - 40px);
 }
 
-.infobox :first-child {
+.infobox-small {
+    display: block;
+    border: 1px solid #ffde89;
+    border-radius: 8px;
+    padding: 10px 12px;
+    background-color: #fdeeca;
+    font-size: 1.4rem;
+    margin: 10px 0;
+    /* CSS trick: make floated images inside this infobox stay inside */
+    float: left;
+    width: calc(100% - 40px);
+}
+
+@media screen and (min-width: 1200px) {
+
+    .infobox-small {
+        display: block;
+        border: 1px solid #ffde89;
+        border-radius: 8px;
+        padding: 10px 12px;
+        background-color: #fdeeca;
+        font-size: 1.4rem;
+        margin: 0 0 12px 12px;
+        float: right;
+        width: calc(40% - 40px);
+    }
+
+}
+
+.infobox :first-child, .infobox-small :first-child {
     margin-top: 0;
 }
 
-.infobox :last-child {
+.infobox :first-child, .infobox-small :last-child {
     margin-bottom: 0;
 }
 
-.infobox p {
+.infobox p, .infobox-small p {
     text-align: justify;
 }
 
-.infobox h2 {
+.infobox h2, .infobox-small h2 {
     margin-top: 0;
     text-align: center;
 }
@@ -972,6 +1001,12 @@ div.boxes > div > p {
     font-size: 1.6rem;
 }
 
+.important {
+    border-left: 10px solid var(--primary-darker);
+    padding: 4px 0 4px 10px;
+    background-color: var(--primary);
+}
+
 .overview-grid {
     display: grid;
     gap: 1vw;
@@ -1065,6 +1100,27 @@ table.sitemap td.sitemap-source {
 
 .faq-link {
     margin: 2px 0;
+}
+
+/******************************************/
+
+.sponsor-table {
+    font-size: 1.4rem;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.sponsor-table th {
+    background-color: var(--primary);
+}
+
+.sponsor-table td {
+    background-color: var(--grey);
+}
+
+.sponsor-table th, .sponsor-table td {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--primary-darker);
 }
 
 /******************************************/
