@@ -75,6 +75,6 @@ brauchst eine spezielle Software? Rund um OSM gibt es ein ganzes Ökosystem an
 Firmen, die so etwas für Dich bauen können. Der FOSSGIS e.V. hat eine
 Datenbank von Anbietern für eine erste Orientierung zusammengestellt.
 
-[Dienstleisterliste](https://www.fossgis.de/dienstleister/) des FOSSGIS e.V.
+[Dienstleisterliste](https://dienstleister.fossgis.de/) des FOSSGIS e.V.
 {.link-extern}
 

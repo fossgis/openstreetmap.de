@@ -21,7 +21,7 @@ Es gibt viele Firmen, die Dienstleistungen rund um OSM anbieten. Der FOSSGIS
 e.V. hat eine entsprechende Liste von Anbietern in Deutschland
 zusammengestellt.
 
-[Dienstleisterliste des FOSSGIS e.V.](https://fossgis.de/dienstleister/)
+[Dienstleisterliste des FOSSGIS e.V.](https://dienstleister.fossgis.de/)
 {.link-extern}
 
 [Internationale Liste im OSM-Wiki](https://wiki.openstreetmap.org/wiki/Commercial_OSM_Software_and_Services)

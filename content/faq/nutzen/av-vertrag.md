@@ -18,5 +18,5 @@ Wenn Sie einen Vertrag benötigen, dann müssen Sie die Karten bei einem
 gewerblichen Dienstleister einkaufen. Der FOSSGIS e.V. hat eine Liste von
 Dienstleistern in Deutschland zusammengestellt.
 
-[Dienstleisterliste des FOSSGIS e.V.](https://fossgis.de/dienstleister/)
+[Dienstleisterliste des FOSSGIS e.V.](https://dienstleister.fossgis.de/)
 {.link-extern}
