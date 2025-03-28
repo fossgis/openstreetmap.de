@@ -71,7 +71,7 @@ eigenen Arbeit.
 <div class="grid-container">
 <div class="grid-box">
 
-<img src="/förderer/logos/geofabrik.svg" width="120" height="120"/>
+<a href="https://www.geofabrik.de/"><img src="/förderer/logos/geofabrik.svg" width="120" height="120"/></a>
 
 </div>
 </div>
