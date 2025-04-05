@@ -29,17 +29,17 @@
     <Placemark id="1">
       <name>Hamburg</name>
       <Point>
-        <coordinates>10.03954,53.53350</coordinates>
+        <coordinates>9.975182,53.55916</coordinates>
       </Point>
       <styleUrl>#usergroup</styleUrl>
-      <where>Kneipen (s. Terminankündigung) oder online (BigBlueButton)</where>
+      <where>Variable, Karolinenstr. 23 (U2 Messehallen)</where>
       <when>jeden 2. Dienstag im Monat, 19 Uhr</when>
-      <url>[https://bbb.informatik.uni-hamburg.de/b/hau-9ud-pfx-rbp</url>
+      <url/>
       <wiki>https://wiki.openstreetmap.org/wiki/Hamburger Mappertreffen</wiki>
       <mail>http://lists.openstreetmap.de/mailman/listinfo/hamburg</mail>
       <photo>https://wiki.openstreetmap.org/w/images/1/1c/Screenbbb.png</photo>
       <country>DE</country>
-      <lastedit>2024-05-14T18:53:58Z</lastedit>
+      <lastedit>2025-04-03T16:10:08Z</lastedit>
     </Placemark>
     <Placemark id="2">
       <name>Dresden</name>
