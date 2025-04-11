@@ -1,9 +1,18 @@
 [[event]]
-href = "https://fossgis-konferenz.de/2025/"
-title = "FOSSGIS-Konferenz 2025"
-image = "fossgis-2025.png"
-dateFrom = "2025-03-26"
-dateTo = "2025-03-29"
-dateText = "26. bis 29. März 2025"
-location = "Münster"
+href = "https://2025.stateofthemap.org/"
+title = "State of the Map 2025"
+image = "sotm.png"
+dateFrom = "2025-10-03"
+dateTo = "2025-10-05"
+dateText = "3. bis 5. Oktober 2025"
+location = "Manila"
+
+#[[event]]
+#href = "https://fossgis-konferenz.de/2026/"
+#title = "FOSSGIS-Konferenz 2026"
+#image = "fossgis-2026.png"
+#dateFrom = "2026-03-25"
+#dateTo = "2026-03-28"
+#dateText = "25. bis 28. März 2025"
+#location = "Göttingen"
 
