@@ -20,7 +20,9 @@ Und es gibt natürlich auch die Möglichkeit, Eissporthallen, Bahnen zum
 Eisstockschießen, Bobbahnen, Rodelbahnen und vieles mehr einzutragen.
 
 <figure class="float-right">
-<a href="skigebiet.jpg"><img src="skigebiet-small.jpg" width="250"/></a>
+<a href="skigebiet.jpg" aria-label="Große Version der OpenSnowMap-Karte mit Skigebiet in den Alpen anzeigen">
+<img src="skigebiet-small.jpg" width="250" alt="OpenSnowMap-Karte die ein Skigebiet inklusive Pisten in den Alpen anzeigt" />
+</a>
 <figcaption>Skigebiet in den Alpen auf der OpenSnowMap</figcaption>
 </figure>
 
