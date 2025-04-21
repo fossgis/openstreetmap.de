@@ -1,5 +1,6 @@
 ---
 title: Wie wir mit Konflikten umgehen
+description: "Lerne, wie Konflikte in der OSM-Community konstruktiv gelöst werden können, mit Tipps für den Umgang mit Meinungsverschiedenheiten und der Rolle der DWG."
 ---
 
 # Wie wir mit Konflikten umgehen

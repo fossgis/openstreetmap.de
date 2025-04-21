@@ -1,5 +1,6 @@
 ---
 title: Navigation (Routing)
+description: "Entdecke die besten Open-Source-Programme zur Navigation mit OpenStreetMap-Daten. Wir stellen Lösungen für Autofahrer, Radfahrer und Fußgänger vor."
 ---
 
 # Navigation (Routing)

@@ -1,5 +1,6 @@
 ---
 title: Lizenzaddendum für CC-BY-Lizenz
+description: "Musteranschreiben zur Anfrage der Nutzung von CC-BY-lizenzierten Daten bei OpenStreetMap und wichtige rechtliche Details zur Lizenzvereinbarkeit."
 layout: recht
 menu:
     recht:

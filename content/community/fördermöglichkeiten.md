@@ -1,5 +1,6 @@
 ---
 title: Fördermöglichkeiten für OSM-Projekte
+description: "Entdecke Fördermöglichkeiten für OpenStreetMap-Projekte, von Community-Initiativen bis hin zu staatlichen und privaten Zuschüssen."
 ---
 
 # Fördermöglichkeiten für OSM-Projekte

@@ -1,5 +1,6 @@
 ---
 title: Wie die OSM-Daten aussehen
+description: "Das OSM-Datenmodell besteht aus drei Objekttypen: Nodes, Ways und Relations. Sie bilden die Grundlage für alle Kartendaten – von Bäumen bis zu Ländergrenzen."
 ---
 
 # Wie die OSM-Daten aussehen (Datenmodell)

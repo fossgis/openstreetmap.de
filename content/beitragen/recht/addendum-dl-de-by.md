@@ -1,5 +1,6 @@
 ---
 title: Lizenzaddendum für DL-DE-BY-Lizenz
+description: "Musteranschreiben zur Anfrage der Nutzung von DL-DE-BY-lizenzierten Daten bei OpenStreetMap und wichtige rechtliche Details zur Lizenzvereinbarkeit."
 layout: recht
 menu:
     recht:

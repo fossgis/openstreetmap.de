@@ -1,5 +1,6 @@
 ---
 title: OSM-Community
+description: "Die OSM-Community ist ein Netzwerk von Mitwirkenden. Lerne, wie du dich beteiligen und über Foren, Veranstaltungen und lokale Treffen aktiv werden kannst."
 aliases: [/community.html]
 menus:
     main:

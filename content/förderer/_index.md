@@ -1,5 +1,6 @@
 ---
 title: Förderer
+description: "Wie man OpenStreetMap Deutschland als Förderer unterstützt und das freie Kartenprojekt durch Spenden, Mitgliedschaft oder Mitarbeit voranbringt."
 menus:
     footer:
         weight: 4

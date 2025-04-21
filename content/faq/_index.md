@@ -1,5 +1,6 @@
 ---
 title: "FAQ: Antworten auf häufig gestellte Fragen"
+description: "Antworten auf häufig gestellte Fragen rund um OpenStreetMap. Finde Lösungen für gängige Probleme und entdecke nützliche Informationen für Mapper."
 linkTitle: FAQ
 aliases: [/faq.html]
 menus:
