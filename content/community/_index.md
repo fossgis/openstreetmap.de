@@ -102,7 +102,7 @@ Europe**](https://stateofthemap.eu/).
 
 ## Das OpenStreetMap-Wiki
 
-<img src="/img/osm_logo_wiki.png" alt="" aria-ignore="true" style="float: right; margin-left: 20px;"/>
+<img src="/img/osm_logo_wiki.png" alt="" aria-hidden="true" style="float: right; margin-left: 20px;"/>
 
 Im [OpenStreetMap-Wiki](https://wiki.openstreetmap.org/wiki/Hauptseite)
 dokumentieren wir alles, was so mit OSM zu tun hat. Vieles dort ist so ein
