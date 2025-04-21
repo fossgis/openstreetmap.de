@@ -12,8 +12,10 @@ unter anderem gehört, die OSM-Daten in ihrem Gebiet aktuell zu halten.
 ## Schutzgebiete
 
 <figure class="float-right">
-<a href="sächsische-schweiz.jpg"><img src="sächsische-schweiz-small.jpg" width="400"/></a>
-<figcaption>OSM-Karte mit Grenze des Nationalparks Sächsische Schweiz</figcaption>
+  <a href="sächsische-schweiz.jpg" aria-label="Große Version der OSM-Karte mit Grenze des Nationalparks Sächsische Schweiz anzeigen">
+    <img src="sächsische-schweiz-small.jpg" width="400" alt="OpenStreetMap-Karte des Nationalparks Sächsische Schweiz mit eingezeichneter Grenze">
+  </a>
+  <figcaption>OSM-Karte mit Grenze des Nationalparks Sächsische Schweiz</figcaption>
 </figure>
 
 Die Namen, Schutzgebietsklassen und Grenzen von Schutzgebieten wie
