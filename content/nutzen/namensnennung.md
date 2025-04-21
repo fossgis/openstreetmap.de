@@ -134,7 +134,7 @@ es sich um eine OSM-basierte Karte handelt, kannst Du dem Betreiber der
 Webseite oder Autor der Karte aber selbst eine höfliche Mail schreiben und ihn
 auf den Lizenzverstoß hinweisen. Aus der Mail sollte dabei klar hervorgehen,
 dass Du die Mail als Mitglied der OSM-Community schreibst, nicht in offiziellem
-Auftrag der OSM Foundation. Am besten du schickst einen kleinen Text mit Link
+Auftrag der OSM Foundation. Am besten Du schickst einen kleinen Text mit Link
 auf diese Seite.
 
 Bei größeren Verstößen oder wenn Du Dir unsicher bist, kannst Du den Fall
