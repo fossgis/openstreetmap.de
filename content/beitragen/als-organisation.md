@@ -55,7 +55,7 @@ angeben, für wen sie arbeiten und an was. Für die Organisation wird eine eigen
 Seite im Wiki angelegt, die beschreibt, welche Aktivitäten stattfinden. Dort
 wird auch eine verantwortliche Person benannt.
 
-Organized Editing Guidelines:
+Organised Editing Guidelines:
 [Richtlinien zur organisierten Bearbeitung](https://wiki.openstreetmap.org/wiki/DE:Organised_Editing_Guidelines) (inoffizielle Übersetzung),
 [Offizielle Version (engl.)](https://osmfoundation.org/wiki/Organised_Editing_Guidelines)
 {.link-extern}

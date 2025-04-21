@@ -13,7 +13,7 @@ unter anderem gehört, die OSM-Daten in ihrem Gebiet aktuell zu halten.
 
 <figure class="float-right">
 <a href="sächsische-schweiz.jpg"><img src="sächsische-schweiz-small.jpg" width="400"/></a>
-<figcaption>OSM-Karte mit Grenze des Naturschutzgebietes Sächsische Schweiz</figcaption>
+<figcaption>OSM-Karte mit Grenze des Nationalparks Sächsische Schweiz</figcaption>
 </figure>
 
 Die Namen, Schutzgebietsklassen und Grenzen von Schutzgebieten wie
@@ -50,7 +50,7 @@ entscheiden, wie man einen Schwerverletzten möglichst einfach und schonend zu
 Tal bringt. Das ist dann vielleicht wichtiger als eine Wegesperrung zum
 Landschaftsschutz.
 
-Ist ein gesperrter Weg dann über die Jahre wieder zugewachsen, dann wird er
+Ist ein gesperrter Weg über die Jahre wieder zugewachsen, dann wird er
 natürlich auch bei OSM irgendwann herausgenommen.
 
 ## Was wir nicht eintragen
@@ -62,8 +62,7 @@ gefragt, ob wir zum Beispiel Verbreitungsgebiete von Tierarten eintragen, das
 passt aber von der Art der Daten nicht nach OSM.
 
 Nistplätze von (seltenen) Tierarten gehören nicht in eine öffentliche
-Datenbank, also auch nicht nach OSM. Die Gefahr für den Mißbrauch ist einfach
-zu groß.
+Datenbank, also auch nicht nach OSM. Die Gefahr für den Mißbrauch ist zu groß.
 
 ## Weiterführende Informationen
 

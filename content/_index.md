@@ -62,7 +62,7 @@ Zum OpenStreetMap-Projekt [beitragen](/beitragen/)
 {.link-intern}
 
 </div>
-<img class="overview" src="/img/SOTM-2009-Amsterdam.jpg" title="Teilnehmer der SotM 2009 in Amsterdam. © CC-BY Miguel Gil. https://www.flickr.com/photos/mgilbir/3716465898"/>
+<img class="overview" src="/img/SOTM-2009-Amsterdam.jpg" title="Teilnehmende der SotM 2009 in Amsterdam. © CC-BY Miguel Gil. https://www.flickr.com/photos/mgilbir/3716465898"/>
 <div class="overview" id="ov-community">
 
 ## Die OSM-Community

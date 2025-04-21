@@ -57,7 +57,7 @@ sondern im Auftrag eines Anderen. Das kann als Mitarbeiter einer Firma sein,
 es kann aber auch im Rahmen von Schulungen oder im Studium passieren. Dann
 ist es der Lehrer oder die Professorin, die vorgeben, was zu tun ist.
 
-Organized Editing Guidelines:
+Organised Editing Guidelines:
 [Richtlinien zur Organisierten Bearbeitung](https://wiki.openstreetmap.org/wiki/DE:Organised_Editing_Guidelines) (inoffizielle Übersetzung),
 [Offizielle Version (engl.)](https://osmfoundation.org/wiki/Organised_Editing_Guidelines)
 {.link-extern}
