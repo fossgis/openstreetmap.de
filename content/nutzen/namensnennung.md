@@ -1,5 +1,6 @@
 ---
 title: Leitlinien für die Namensnennung bei der Nutzung von OpenStreetMap
+description: "Tipps und Beispiele zur korrekten Nutzung von OSM-Daten und zur erforderlichen Namensnennung gemäß ODbL."
 layout: recht
 menu:
     recht:

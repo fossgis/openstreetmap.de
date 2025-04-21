@@ -1,5 +1,6 @@
 ---
 title: Nutzung von Geodaten unter Open-Data-Lizenzen in OpenStreetMap
+description: "Welche Open-Data-Lizenzen sind mit OpenStreetMap kompatibel? Tipps zur Namensnennung und rechtssicheren Integration fremder Geodaten."
 layout: recht
 menu:
     recht:

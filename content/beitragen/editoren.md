@@ -1,5 +1,6 @@
 ---
 title: OSM-Editoren
+description: "Lerne die wichtigsten OpenStreetMap-Editoren kennen – von iD und JOSM bis zu mobilen Apps wie StreetComplete, Every Door und Vespucci."
 ---
 
 # Editoren

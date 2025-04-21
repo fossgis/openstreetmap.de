@@ -1,5 +1,6 @@
 ---
 title: Förderer von OpenStreetMap Deutschland werden
+description: "Wie wird man Förderer von OpenStreetMap Deutschland und sichert den Erhalt freier Kartendaten – nachhaltig, sichtbar und wirkungsvoll."
 ---
 
 # Förderer von OpenStreetMap Deutschland werden

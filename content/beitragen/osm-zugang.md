@@ -1,5 +1,6 @@
 ---
 title: OSM-Zugang einrichten
+description: "Erfahre, wie man einen OpenStreetMap-Zugang einrichten, um aktiv am Projekt teilzunehmen."
 ---
 
 # OSM-Zugang einrichten

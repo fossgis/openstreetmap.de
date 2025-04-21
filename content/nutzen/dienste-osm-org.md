@@ -1,5 +1,6 @@
 ---
 title: Dienste der OSM Foundation
+description: "Übersicht zu OSM-Diensten der OpenStreetMap Foundation wie Tile-Server und Nominatim – mit Infos zur Nutzung und den Bedingungen."
 ---
 
 # OSM-basierte Dienste der OpenStreetMap Foundation

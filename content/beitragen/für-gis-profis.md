@@ -1,5 +1,6 @@
 ---
 title: Für GIS-Profis
+description: "Unterschiede zwischen OpenStreetMap (OSM) und traditionellen GIS-Systemen: OSM-Objekte, Tags, Geometrien und das Knoten-Kanten-Modell im Detail."
 ---
 
 # Hinweise für GIS-Profis

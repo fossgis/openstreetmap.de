@@ -1,5 +1,6 @@
 ---
 title: Die OpenStreetMap-Daten bearbeiten (editieren)
+description: "Bearbeiten von OSM-Daten: So funktionieren Änderungssätze, Kommentare, Versionshistorie und Reviews – mit Tipps für einen verantwortungsvollen Einstieg."
 ---
 
 # Bearbeiten (Editieren)

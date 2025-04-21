@@ -1,5 +1,6 @@
 ---
 title: Tags in OpenStreetMap
+description: "Finde heraus, wie Tags in OSM genutzt werden, um Objekte wie Straßen oder Restaurants zu kennzeichnen."
 ---
 
 # Tags in OSM

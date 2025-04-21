@@ -1,5 +1,6 @@
 ---
 title: Mustererlaubnis für Luftbilder
+description: "Vorlage zur Anfrage der Nutzung von Luftbildern bei OpenStreetMap."
 layout: recht
 menu:
     recht:

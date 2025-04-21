@@ -1,5 +1,6 @@
 ---
 title: Rechtliche Fragen beim Beitragen zu OSM
+description: "Rechtliche Grundlagen für OSM-Beiträge: Was ist erlaubt, was gilt beim Urheberrecht und Datenschutz?"
 layout: recht
 menus:
     recht:

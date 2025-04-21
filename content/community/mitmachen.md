@@ -1,5 +1,6 @@
 ---
 title: Bei OpenStreetMap mitmachen
+description: "Mitmachen bei OpenStreetMap: Jeder ist willkommen – ob privat oder beruflich. Erfahre mehr über Eigenverantwortung, Mitgestaltung und unsere Richtlinien."
 ---
 
 # Bei OpenStreetMap mitmachen

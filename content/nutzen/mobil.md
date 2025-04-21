@@ -1,5 +1,6 @@
 ---
 title: OpenStreetMap Mobil
+description: "Entdecke OSM-Apps wie Organic Maps und OsmAnd für Smartphone und GPS – mit Offline-Karten und Funktionen für Outdoor-Fans."
 ---
 
 # OpenStreetMap Mobil

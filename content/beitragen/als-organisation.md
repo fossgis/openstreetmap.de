@@ -1,5 +1,6 @@
 ---
 title: Bei OpenStreetMap als Organisation beitragen
+description: "Organisationen sind bei OpenStreetMap willkommen. Wie können sie fachliches Wissen einbringen und welche Aspekte sind beim organisierten Beitragen zu beachten?"
 ---
 
 # Bei OpenStreetMap als Organisation beitragen

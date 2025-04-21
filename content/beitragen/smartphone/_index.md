@@ -1,5 +1,6 @@
 ---
 title: Beitragen mit dem Smartphone
+description: "Beitragen zu OpenStreetMap mit Smartphone-Apps wie StreetComplete, Every Door und Vespucci – unkompliziert unterwegs Daten erfassen."
 ---
 
 # Beitragen mit dem Smartphone

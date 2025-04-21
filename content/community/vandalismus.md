@@ -1,5 +1,6 @@
 ---
 title: Umgang mit Vandalismus
+description: "Erfahren Sie, wie OpenStreetMap Vandalismus handhabt, mit technischen Maßnahmen und der Unterstützung der Data Working Group (DWG)."
 ---
 
 # Umgang mit Vandalismus

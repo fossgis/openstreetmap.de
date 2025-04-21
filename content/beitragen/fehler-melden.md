@@ -1,5 +1,6 @@
 ---
 title: Fehler in OSM melden
+description: "Fehler in OpenStreetMap gefunden? Erfahre, wie man fehlende Straßen oder falsche Daten direkt über Notizen meldet und so zur Aktualität der Karte beiträgt."
 ---
 
 # Fehler oder fehlende Einträge melden

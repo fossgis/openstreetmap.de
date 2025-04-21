@@ -1,5 +1,6 @@
 ---
 title: Community in anderen Ländern
+description: "Erfahre mehr über lokale OSM-Vertretungen in anderen Ländern. Entdecke, wie OpenStreetMap global vernetzt ist."
 ---
 
 # Community in anderen Ländern

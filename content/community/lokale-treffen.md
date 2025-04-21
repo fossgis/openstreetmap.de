@@ -1,5 +1,6 @@
 ---
 title: Lokale Treffen
+description: "Finde lokale OpenStreetMap-Gruppen und Treffen, tausche dich aus und starte gemeinsame Mapping-Aktionen. Lerne, wie du eine Gruppe gründen kannst."
 ---
 
 # Lokale Treffen
