@@ -22,5 +22,7 @@ Nachhaltigkeitsberichterstattung (CSRD) Ihres Unternehmens sein.
 {.sponsor-table}
 
 Sie wollen Förderer werden? Melden Sie sich bei [Jochen
-Topf](mailto:jochen.topf@fossgis.de).
+Topf](mailto:jochen.topf@fossgis.de). Sie können gerne [dieses
+Formular](/förderer/Formular-OpenStreetMap-Förderer.pdf) für Ihre Anfrage
+verwenden. Wir setzen uns dann mit Ihnen in Verbindung.
 
