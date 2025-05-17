@@ -49,3 +49,16 @@ mit Desktop-Editoren gibt es aber natürlich schon einige Einschränkungen.
 [Vespucci-Webseite](https://vespucci.io/)
 {.link-extern}
 
+# Routing-apps mit Bearbeitungs-Funktion
+Diese Navi-apps sind für Android auch ohne Google über [F-Droid](https://f-droid.org/){.link-extern} erhältlich. Beide gibt es auch für iOS.
+
+## OsmAnd
+Die Bearbeitung muss erst aktiviert werden unter [OpenStreetMap editing](https://osmand.net/docs/user/plugins/osm-editing/#plugin-settings){.link-extern}
+* iOS https://apps.apple.com/de/app/osmand-karten-gps-offline/id934850257
+* F-Droid https://f-droid.org/de/packages/net.osmand.plus/index.html
+
+## OrganicMaps
+Hier können POIs [direkt bearbeitet](https://organicmaps.app/faq/map-editing/) werden, vorausgesetzt man hat unter OpenStreetMap-Profile sein [Benutzerkonto](https://www.openstreetmap.org/user/new){.link-extern} hinterlegt
+* iOS https://apps.apple.com/de/app/organic-maps-navi-karten/id1567437057
+* F-Droid https://f-droid.org/de/packages/app.organicmaps
+
