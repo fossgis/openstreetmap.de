@@ -7,6 +7,15 @@ dateTo = "2025-10-05"
 dateText = "3. bis 5. Oktober 2025"
 location = "Manila"
 
+[[event]]
+href = "https://2025.stateofthemap.eu/"
+title = "State of the Map Europe 2025"
+image = "sotm-eu2025.png"
+dateFrom = "2025-11-14"
+dateTo = "2025-11-15"
+dateText = "14. bis 15. November 2025"
+location = "Dundee"
+
 #[[event]]
 #href = "https://fossgis-konferenz.de/2026/"
 #title = "FOSSGIS-Konferenz 2026"
