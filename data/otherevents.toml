@@ -7,3 +7,21 @@ dateTo = "2025-08-24"
 dateText = "23. bis 24. August 2025"
 location = "Hannover"
 
+[[event]]
+href = "https://froscon.org/"
+title = "FrOSCon 2025"
+image = "froscon.svg"
+dateFrom = "2025-08-16"
+dateTo = "2025-08-17"
+dateText = "16. und 17. August 2025"
+location = "St. Augustin"
+
+[[event]]
+href = "https://www.jkg2025.de/"
+title = "Junger Kongress Geographie 2025"
+image = "jkg2025.png"
+dateFrom = "2025-09-17"
+dateTo = "2025-09-20"
+dateText = "17. bis 20. September 2025"
+location = "Leipzig"
+
