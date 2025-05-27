@@ -1104,23 +1104,38 @@ table.sitemap td.sitemap-source {
 
 /******************************************/
 
-.sponsor-table {
-    font-size: 1.4rem;
-    border-spacing: 0;
-    border-collapse: collapse;
+/** Sponsors **/
+
+.sponsors-container {
+    display: flex;
+    gap: 20px;
+    clear: both;
 }
 
-.sponsor-table th {
-    background-color: var(--primary);
-}
-
-.sponsor-table td {
-    background-color: var(--grey);
-}
-
-.sponsor-table th, .sponsor-table td {
-    padding: 0.5rem 1rem;
+.sponsors-box {
+    display: grid;
     border: 1px solid var(--primary-darker);
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.sponsors-box-silver {
+    width: 140px;
+    height: 140px;
+}
+
+.sponsors-box-bronze {
+    width: 120px;
+    height: 120px;
+}
+
+.sponsors-box a {
+    display: block;
+    align-self: center;
+}
+
+.sponsors-box a img {
+    width: 100%;
 }
 
 /******************************************/

@@ -49,41 +49,24 @@ eigenen Arbeit.
 
 ### Gold
 
-<div class="grid-container">
-<div class="grid-box">
-
 [Werden Sie der erste Gold-Förderer!](/förderer/werden/)
-
-</div>
-</div>
 
 ### Silber
 
-<div class="grid-container">
-<div class="grid-box">
-
 [Werden Sie der erste Silber-Förderer!](/förderer/werden/)
-
-</div>
-</div>
 
 ### Bronze
 
-<div class="grid-container">
-<div class="grid-box">
-
-<a href="https://www.geofabrik.de/"><img src="/förderer/logos/geofabrik.svg" width="120" height="120"/></a>
-
+<div class="sponsors-container">
+<div class="sponsors-box sponsors-box-bronze">
+<a target="_new" href="https://www.geofabrik.de/"><img src="/förderer/logos/geofabrik.svg"/></a>
+</div>
+<div class="sponsors-box sponsors-box-bronze">
+<a target="_new" href="https://www.omniscale.de/"><img src="/förderer/logos/omniscale.png"/></a>
 </div>
 </div>
 
 ### Unterstützer
 
-<div class="grid-container">
-<div class="grid-box">
-
 [Werden Sie der erste Unterstützer!](/förderer/werden/)
-
-</div>
-</div>
 
