@@ -30,7 +30,7 @@ und das Projekt so unterstützen.
 
 </div>
 
-**Helfen Sie OpenStreetMap als öffentliches Gut auf Dauer zu erhalten und zu
+**Helfen Sie, OpenStreetMap als öffentliches Gut auf Dauer zu erhalten und zu
 verbessern. Werden Sie Förderer von OpenStreetMap Deutschland!**
 Als Förderer von OpenStreetMap Deutschland unterstützen Sie das Projekt hier
 bei uns und in der ganzen Welt. Wir stellen Dienste für die weltweite
