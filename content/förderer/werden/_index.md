@@ -20,3 +20,8 @@ Topf](mailto:jochen.topf@fossgis.de). Sie können gerne [dieses
 Formular](/förderer/Formular-OpenStreetMap-Förderer.pdf) für Ihre Anfrage
 verwenden. Wir setzen uns dann mit Ihnen in Verbindung.
 
+<a href="/förderer/openstreetmap-deutschland-foerderer.svg"><img src="/förderer/openstreetmap-deutschland-foerderer.svg" style="float: left; width: 220px; border: 1px dotted #a0a0a0; border-radius: 4px; margin-right: 10px;"/></a>
+
+Nachdem Sie als Förderer einen Vertrag mit uns unterschrieben haben, dürfen Sie
+dieses Logo auf ihrer Webseite und in anderer Kommunikation verwenden.
+
