@@ -1104,37 +1104,37 @@ table.sitemap td.sitemap-source {
 
 /******************************************/
 
-/** Sponsors **/
+/** Förderer **/
 
-.sponsors-container {
+.foerd-container {
     display: flex;
     gap: 20px;
     clear: both;
 }
 
-.sponsors-box {
+.foerd-box {
     display: grid;
     border: 1px solid var(--primary-darker);
     border-radius: 8px;
     padding: 10px;
 }
 
-.sponsors-box-silver {
+.foerd-box-silver {
     width: 140px;
     height: 140px;
 }
 
-.sponsors-box-bronze {
+.foerd-box-bronze {
     width: 120px;
     height: 120px;
 }
 
-.sponsors-box a {
+.foerd-box a {
     display: block;
     align-self: center;
 }
 
-.sponsors-box a img {
+.foerd-box a img {
     width: 100%;
 }
 

@@ -57,11 +57,11 @@ eigenen Arbeit.
 
 ### Bronze
 
-<div class="sponsors-container">
-<div class="sponsors-box sponsors-box-bronze">
+<div class="foerd-container">
+<div class="foerd-box foerd-box-bronze">
 <a target="_new" href="https://www.geofabrik.de/"><img src="/förderer/logos/geofabrik.svg"/></a>
 </div>
-<div class="sponsors-box sponsors-box-bronze">
+<div class="foerd-box foerd-box-bronze">
 <a target="_new" href="https://www.omniscale.de/"><img src="/förderer/logos/omniscale.png"/></a>
 </div>
 </div>
