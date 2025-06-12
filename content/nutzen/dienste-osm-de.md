@@ -30,7 +30,7 @@ die
 Alle diese Dienste basieren auf Open-Source-Software, die Du auch selbst
 installieren kannst. Es gibt auch Dienstleister, die Dir bei der Installation
 (und eventuellen Anpassung) helfen oder die die Dienste im Auftrag betreiben.
-Wenn das für Dich interessant sein könnte, dann schau dich auf unserer
+Wenn das für Dich interessant sein könnte, dann schau Dich auf unserer
 [Dienstleisterliste](https://dienstleister.fossgis.de/) um.
 
 <div class="grid-container">

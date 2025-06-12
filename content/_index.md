@@ -15,8 +15,8 @@ OpenStreetMap und seine Community vorstellen und Hilfestellung bei der Nutzung
 und beim Mitmachen geben.
 {.intro}
 
-Helfen Sie OpenStreetMap als öffentliches Gut auf Dauer zu erhalten und zu
-verbessern.<br/>[Werden Sie Förderer von OpenStreetMap!](/förderer/)
+Helfe OpenStreetMap als öffentliches Gut auf Dauer zu erhalten und zu
+verbessern.<br/>[Werde Förderer von OpenStreetMap!](/förderer/)
 {.important}
 
 <div class="overview-grid">
@@ -56,7 +56,7 @@ OpenStreetMap [nutzen](/nutzen/)
 Bei OpenStreetMap tragen tausende Menschen jeden Tag dazu bei, das Gebiet in
 dem sie leben, arbeiten oder Urlaub machen, noch besser zu erfassen und aktuell
 zu halten. Jede und jeder trägt bei, was sie können und was sie interessiert.
-Auch Ihre Beiträge sind willkommen!
+Auch Deine Beiträge sind willkommen!
 
 Zum OpenStreetMap-Projekt [beitragen](/beitragen/)
 {.link-intern}

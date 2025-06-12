@@ -19,7 +19,7 @@ gebraucht.
 <img src="streetcomplete-logo.svg" width="60" class="float-left" alt="StreetComplete" />
 
 Mit der App *StreetComplete* für Android kann man auf einfachste Art und Weise
-unterwegs zu OSM beitragen. Sie zeigt eine Karte der Umgebung mit markierten
+von unterwegs zu OSM beitragen. Sie zeigt eine Karte der Umgebung mit markierten
 Punkten, hinter denen sich jeweils eine Frage verbirgt. Zum Beispiel: "Was sind
 die Öffnungszeiten dieses Restaurants?" oder "Gibt es an dieser Straße einen
 Fußweg?". So kann man einfach mal nebenher etwas Kleines zu OSM beitragen.

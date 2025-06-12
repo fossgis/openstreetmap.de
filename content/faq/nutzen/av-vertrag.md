@@ -5,16 +5,16 @@ weight: 4
 
 Einen AV-Vertrag (Auftragsverarbeitungs-Vertrag) braucht man, wenn man jemanden
 beauftragt, personenbezogene Daten zu verarbeiten. Selbst wenn sie einen Dienst
-der OSM-Community benutzen, ist das nicht der Fall. Sie beauftragen OSM ja
+der OSM-Community benutzen, ist das nicht der Fall. Du beauftragst OSM ja
 nicht.
 
 Unsere Kartenserver (auf openstreetmap.de) und andere Dienste sind ein
 kostenloses, durch Spenden und Mitgliedsbeiträge finanziertes Angebot an die
-Öffentlichkeit. Sie bekommen etwas geschenkt, wenn Sie diesen Dienst nutzen.
-Wir können mit Ihnen keinen Vertrag darüber machen, dass Sie etwas geschenkt
-bekommen.
+Öffentlichkeit. Du bekommst etwas geschenkt, wenn Du diesen Dienst nutzt.
+Das Geschenk erfolgt ohne rechtliche Verpflichtung. Deshalb können wir mit dir
+keinen Vertrag darüber schließen.
 
-Wenn Sie einen Vertrag benötigen, dann müssen Sie die Karten bei einem
+Wenn Du einen Vertrag benötigst, dann musst Du die Karten bei einem
 gewerblichen Dienstleister einkaufen. Der FOSSGIS e.V. hat eine Liste von
 Dienstleistern in Deutschland zusammengestellt.
 

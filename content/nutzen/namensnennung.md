@@ -16,7 +16,7 @@ kostengünstig wie möglich machen. Aber wir haben eine Bedingung: **Du musst
 sagen, dass die Daten von OpenStreetMap kommen.** Wir finden, dass das sehr
 fair ist. Dadurch, dass OpenStreetMap genannt wird, werden mehr Leute auf OSM
 aufmerksam und mehr Leute helfen mit, OSM noch besser zu machen. Das ist auch
-in Ihrem Interesse!
+in Deinem Interesse!
 
 Weil man sich leider nicht darauf verlassen kann, dass alle Leute den Anstand
 haben, OSM zu nennen, steht das auch in der Lizenz so drin. Wir verwenden die

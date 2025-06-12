@@ -53,6 +53,6 @@ andere das dann schon international weiter tragen.
 
 ## Die Data Working Group (DWG)
 
-Wenn das alles nichts mehr hilft, dann könnt ihr die [Data Working Group
+Wenn das alles nichts mehr hilft, dann könnt Ihr die [Data Working Group
 (DWG)](/community/data-working-group/) ansprechen.
 

@@ -155,27 +155,27 @@ Rechteinhabers](/beitragen/recht/erlaubnis-luftbilder/) vorliegt.**
 
 ## Praktisches Vorgehen
 
-### Sie haben Daten, die Sie OSM zur Verfügung stellen wollen?
+### Du möchtest OSM mit Deinen Daten unterstützen?
 
-Wenn Sie sich noch nicht für eine Lizenz entschieden haben, dann überlegen Sie
-sich, welche Lizenz Sie verwenden wollen. Sie können die Daten auch unter
+Wenn Du Dich noch nicht für eine Lizenz entschieden hast, dann überlege,
+welche Lizenz Du verwenden möchtest. Du kannst die Daten auch unter
 mehreren Lizenzen parallel veröffentlichen. In die Entscheidung für die eine
 oder andere Lizenz fließen verschiedene Kriterien ein, auf die wir hier nicht
 alle eingehen können. In diesem Dokument gehen wir nur auf die Beziehung zu
 OpenStreetMap ein.
 
-Die Freigabe Ihrer Daten als *public domain* mit Hilfe der CC0 oder DL-DE Zero
-macht die Nutzung Ihrer Daten besonders einfach. Nicht nur durch OpenStreetMap,
-sondern auch durch viele andere. Wenn möglich, sollten Sie diesen Weg wählen.
+Die Freigabe Deiner Daten als *public domain* mit Hilfe der CC0 oder DL-DE Zero
+macht die Nutzung Deiner Daten besonders einfach. Nicht nur durch OpenStreetMap,
+sondern auch durch viele andere. Wenn möglich, solltest Du diesen Weg wählen.
 
-Veröffentlichen Sie die Daten unter CC-BY oder DL-DE-BY, dann veröffentlichen
-Sie mit den Daten und der Lizenzangabe auch das passende Addendum.
+Veröffentliche die Daten unter CC-BY oder DL-DE-BY, dann veröffentlichen 
+mit den Daten und der Lizenzangabe auch das passende Addendum.
 
-Wenn Sie nicht der eigentliche Inhaber der Daten sind, dann müssen Sie
+Wenn Du nicht der eigentliche Inhaber der Daten bist, dann musst Du
 natürlich den Inhaber der Daten um entsprechende Erlaubnis gefragt haben. Wenn
-Sie Daten unter CC-BY oder DL-DE-BY veröffentlichen und das passende Addendum
-unterschreiben, dann geht OpenStreetMap davon aus, dass Sie auch
-berechtigt sind, das zu tun.
+Du Daten unter CC-BY oder DL-DE-BY veröffentlichst und das passende Addendum
+unterschreibst, dann geht OpenStreetMap davon aus, dass Du
+berechtigt bist, das zu tun.
 
 ### Du bist Mapper und würdest gerne die Daten einer Organisation nutzen?
 

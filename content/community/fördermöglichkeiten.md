@@ -14,12 +14,12 @@ Förderschwerpunkten und der Höhe der Förderungen ist mit mehr oder weniger
 Aufwand bei der Beantragung von Geldern zu rechnen.
 
 Bei Fragen zu Förderungen oder auch Anregungen zu den Informationen auf dieser
-Seite könnt ihr Euch gerne per E-Mail unter info@openstreetmap.de an uns
+Seite könnt Ihr Euch gerne per E-Mail unter info@openstreetmap.de an uns
 wenden. Wir können Euch ggf. auch mit Leuten zusammenbringen, die schon
 gefördert wurden und Euch vielleicht ein paar Fragen „aus der Praxis“
 beantworten können.
 
-Scheut Euch nicht, bei uns oder den Förderorganisationen anzufragen, wenn ihr
+Scheut Euch nicht, bei uns oder den Förderorganisationen anzufragen, wenn Ihr
 über eine Förderung nachdenkt. Förderbedingungen werden häufig weiter ausgelegt
 als man denkt. Die Organisationen *wollen* das Geld unter die Leute bringen,
 dafür sind sie da.
