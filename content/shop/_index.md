@@ -35,8 +35,8 @@ Kirchner (petra@floss-shop.de).
 
 ## Material für Messen
 
-Manche dieser Dinge eignen sich auch zum Verkauf oder zum Verteilen auf Messen
-und anderen Veranstaltungen. Wenn Ihr sowas organisieren wollt, meldet euch bei
+Manche dieser Dinge eignen sich auch zum Verkauf oder zur Verteilung auf Messen
+und anderen Veranstaltungen. Wenn Ihr so etwas organisieren möchtet, meldet Euch gerne bei
 [info@openstreetmap.de](mailto:info@openstreetmap.de).
 
 ## Flyer

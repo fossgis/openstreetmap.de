@@ -61,7 +61,7 @@ Zuwendungsbestätigung („Spendenbescheinigung“) von uns. Zur Anerkennung de
 Zahlung als steuerlich abzugsfähige Zuwendung genügt es, wenn Du in der
 Steuererklärung diesen [Vereinfachten
 Zuwendungsnachweis](https://www.fossgis.de/verein/spenden/Vereinfachter-Zuwendungsnachweis-FOSSGIS.pdf)
-nach § 50 Abs. 4 EStDV und den Zahlungsbeleg (Buchungsbestätigung Ihres
+nach § 50 Abs. 4 EStDV und den Zahlungsbeleg (Buchungsbestätigung Deines
 Kreditinstituts, etwa in Form eines Kontoauszugs) Deinem Finanzamt vorlegen. Der
 Verwendungszweck muss dazu mindestens die Angabe „Spende“ enthalten.
 

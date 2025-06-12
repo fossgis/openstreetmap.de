@@ -1,6 +1,6 @@
 ---
 title: Zu OpenStreetMap beitragen
-description: "OpenStreetMap lebt von Beiträgen aller Art – Fehler melden, mappen, organisieren. Lerne, wie du selbst mitmachen kannst."
+description: "OpenStreetMap lebt von Beiträgen aller Art – Fehler melden, mappen, organisieren. Lerne, wie Du selbst mitmachen kannst."
 menus:
     main:
         weight: 3

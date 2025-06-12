@@ -32,7 +32,7 @@ if (inputBox !== null) {
         inputBox.value = searchQuery || '';
         executeSearch(searchQuery);
     } else {
-        document.getElementById('search-results').innerHTML = '<p class="search-results-empty">Bitte geben Sie ein oder mehrere Worte im Suchfeld oben ein.</p>';
+        document.getElementById('search-results').innerHTML = '<p class="search-results-empty">Bitte gib oben im Suchfeld ein oder mehrere Wörter ein.</p>';
     }
 }
 

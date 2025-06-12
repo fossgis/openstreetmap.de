@@ -32,21 +32,20 @@ dem Ziel, eine Weltkarte zu erstellen, die jeder frei verwenden kann. Da beide
 Lizenzen dieselben Ziele verfolgen, sind sie grundsätzlich auch miteinander
 vereinbar. Konkret: wir könnten Daten, die unter DL-DE-BY lizenziert sind, auch
 unter ODbL weitergeben. Um etwaige Unklarheiten bezüglich der Namensnennung
-auszuräumen, bitten wir Sie als Dateninhaber die untenstehende Erklärung
-abzugeben. Details dazu finden Sie unter
+auszuräumen, bitten wir Dich als Dateninhaber die untenstehende Erklärung
+abzugeben. Detaillierte Angaben sind verfügbar unter
 https://openstreetmap.de/beitragen/recht/nutzung-von-open-data/
 
-Falls Sie oder Ihr Rechtsbeistand eine Frage noch unbeantwortet sehen, melden
-Sie sich gerne.
+Falls Du oder Dein Rechtsbeistand eine Frage noch unbeantwortet sehen, melde Dich gerne.
 
-Wenn Sie einverstanden sind, genügt es, uns das folgende Formular – ausgefüllt
+Wenn Du einverstanden bist, genügt es, uns das folgende Formular – ausgefüllt
 durch eine dazu berechtigte Person – digital zu übersenden. Wir werden es dann
 (nach Schwärzen persönlicher Informationen) unter
 https://wiki.openstreetmap.org/wiki/Contributors bzw.
 https://wiki.openstreetmap.org/wiki/DE:Permissions veröffentlichen.
 
-Alternativ können Sie die Eklärung auch auf Ihrer Webseite in Zusammenhang mit
-den von Ihnen veröffentlichten Daten unterbringen.
+Alternativ kannst Du die Eklärung auch auf Deiner Webseite in Zusammenhang mit
+den von Dir veröffentlichten Daten unterbringen.
 
 Mit freundlichem Gruß
 

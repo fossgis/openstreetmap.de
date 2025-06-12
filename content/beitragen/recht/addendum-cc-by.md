@@ -33,20 +33,20 @@ Lizenzen dieselben Ziele verfolgen, sind sie grundsätzlich auch miteinander
 vereinbar. Konkret: wir könnten Daten, die unter CC-BY lizenziert sind, auch
 unter ODbL weitergeben. An zwei Punkten könnte eine juristische Auslegung
 der Lizenzen jedoch zu unterschiedlichen Ergebnissen kommen. Deshalb möchten wir für diese
-zwei Punkte gesondert um Erlaubnis bitten. Details dazu finden Sie unter
+zwei Punkte gesondert um Erlaubnis bitten. Detaillierte Angaben sind verfügbar unter
 https://openstreetmap.de/beitragen/recht/nutzung-von-open-data/ .
 
-Falls Sie oder Ihr Rechtsbeistand eine Frage noch unbeantwortet sehen, melden
-Sie sich gerne.
+Falls Du oder Dein Rechtsbeistand eine Frage noch unbeantwortet sehen, melde
+Dich gerne.
 
-Wenn Sie einverstanden sind, genügt es, uns das folgende Formular – ausgefüllt
+Wenn Du einverstanden bist, genügt es, uns das folgende Formular – ausgefüllt
 durch eine dazu berechtigte Person – digital zu übersenden. Wir werden es dann
 (nach Schwärzen persönlicher Informationen) unter
 https://wiki.openstreetmap.org/wiki/Contributors bzw.
 https://wiki.openstreetmap.org/wiki/DE:Permissions veröffentlichen.
 
-Alternativ können Sie die Erklärung auch auf Ihrer Webseite in Zusammenhang mit
-den von Ihnen veröffentlichten Daten unterbringen.
+Alternativ kannst Du die Erklärung auch auf Deiner Webseite in Zusammenhang mit
+den von Dir veröffentlichten Daten unterbringen.
 
 Mit freundlichem Gruß
 

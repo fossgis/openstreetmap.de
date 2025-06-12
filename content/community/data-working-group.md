@@ -1,6 +1,6 @@
 ---
 title: Die Data Working Group (DWG)
-description: "Lerne, wie die Data Working Group (DWG) bei Konflikten, Vandalismus und Copyright-Verletzungen hilft und wie du sie kontaktieren kannst."
+description: "Lerne, wie die Data Working Group (DWG) bei Konflikten, Vandalismus und Copyright-Verletzungen hilft und wie Du sie kontaktieren kannst."
 ---
 
 ## Die Data Working Group (DWG)
