@@ -432,9 +432,7 @@ h2 {
     background-color: #fdeeca;
     font-size: 1.4rem;
     margin: 10px 0;
-    /* CSS trick: make floated images inside this infobox stay inside */
-    float: left;
-    width: calc(100% - 40px);
+    clear: both;
 }
 
 .infobox-small {
