@@ -70,3 +70,8 @@ KENNZEICHNUNG]</var>:
 
 </div>
 
+## Siehe auch
+
+[Englische Original-Vorlage](https://osmfoundation.org/wiki/Licence/Waiver_and_Permission_Templates/Cover_letter_and_waiver_template_for_CC_BY_4.0) der OSMF
+{.link-extern}
+
