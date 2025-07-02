@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1082"
+   height="1082"
+   viewBox="0 0 1082 1082"
+   sodipodi:docname="banner-umap.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="banner-umap.png"
+   inkscape:export-xdpi="56.783733"
+   inkscape:export-ydpi="56.783733"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <rect
+       x="79.511253"
+       y="588.05859"
+       width="907.85815"
+       height="359.47668"
+       id="rect558" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.6675088"
+     inkscape:cx="435.94931"
+     inkscape:cy="500.36793"
+     inkscape:window-width="3840"
+     inkscape:window-height="2074"
+     inkscape:window-x="0"
+     inkscape:window-y="49"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="1082"
+       height="1082"
+       preserveAspectRatio="none"
+       xlink:href="banner-umap-bg.png"
+       id="image10" />
+    <path
+       d="m 217.46102,61.170454 a 232.41843,232.41843 0 0 0 99.8673,442.321306 C 137.56719,335.71471 96.16766,128.71705 217.46102,61.170454 Z m 99.8673,442.321306 A 232.41843,232.41843 0 0 0 417.19561,61.170454 C 538.48897,128.71705 497.08944,335.71471 317.32832,503.49176 Z"
+       fill="#263b58"
+       id="path279"
+       style="stroke-width:3.63153" />
+    <path
+       d="m 403.39577,167.4009 a 86.067454,86.067454 0 1 1 -172.1349,0 86.067454,86.067454 0 0 1 172.1349,0 z"
+       fill="#263b58"
+       id="path281"
+       style="stroke-width:3.63153" />
+    <text
+       xml:space="preserve"
+       id="text556"
+       style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect558);display:inline;fill:#263b58;fill-opacity:1;stroke:none"
+       transform="translate(-27.061031,-30.530852)"><tspan
+         x="79.511719"
+         y="762.75463"
+         id="tspan656"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan654">uMap</tspan></tspan></text>
+  </g>
+</svg>

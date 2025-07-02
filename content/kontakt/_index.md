@@ -2,7 +2,7 @@
 title: Kontakt
 menus:
     main:
-        weight: 6
+        weight: 7
         name: Kontakt
     footer:
         weight: 2

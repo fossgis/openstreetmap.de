@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="600"
+   height="600"
+   viewBox="0 0 600 600"
+   sodipodi:docname="banne-kartendruck.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="banner-kartendruck.png"
+   inkscape:export-xdpi="102.4"
+   inkscape:export-ydpi="102.4"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <rect
+       x="38.953361"
+       y="55.774624"
+       width="519.26011"
+       height="342.07771"
+       id="rect293" />
+    <rect
+       x="38.953362"
+       y="55.774624"
+       width="519.26013"
+       height="342.0777"
+       id="rect293-3" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5733333"
+     inkscape:cx="253.6017"
+     inkscape:cy="300"
+     inkscape:window-width="3840"
+     inkscape:window-height="2074"
+     inkscape:window-x="0"
+     inkscape:window-y="49"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="600"
+       height="600"
+       preserveAspectRatio="none"
+       xlink:href="banner-kartendruck-bg.png"
+       id="image10" />
+    <text
+       xml:space="preserve"
+       id="text291"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect293);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-15.806347,-12.70364)"><tspan
+         x="38.953125"
+         y="143.12341"
+         id="tspan545"><tspan
+           style="font-weight:bold;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan543">Kartendruck</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text291-6"
+       style="font-style:normal;font-weight:normal;font-size:74.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect293-3);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(8.4961118,332.00187)"
+       x="337.56815"
+       y="0"><tspan
+         x="459.95151"
+         y="123.71277"
+         id="tspan551"><tspan
+           style="font-style:italic;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic';text-align:end;text-anchor:end"
+           id="tspan547">mit</tspan><tspan
+           style="font-style:italic;font-weight:bold;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold Italic'"
+           id="tspan549">
+</tspan></tspan><tspan
+         x="217.95679"
+         y="221.44217"
+         id="tspan555"><tspan
+           style="font-style:italic;font-weight:bold;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold Italic'"
+           id="tspan553">myOSMatic</tspan></tspan></text>
+  </g>
+</svg>

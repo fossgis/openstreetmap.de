@@ -3,7 +3,7 @@ title: Themenportal
 layout: single
 menus:
     main:
-        weight: 5
+        weight: 6
         name: Themenportal
 ---
 
