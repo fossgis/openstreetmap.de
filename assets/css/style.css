@@ -64,8 +64,6 @@ nav {
     nav {
         display: flex !important;
         gap: 4px;
-        justify-content: center;
-        text-align: center;
         padding: 8px 15% 6px 15%;
         border-bottom: 1px solid #f0f0f0;
     }
@@ -602,12 +600,76 @@ p a[href^="https:"]:not(:has(img)), li a[href^="https:"]:not(:has(img)) {
 footer {
     clear: both;
     background-color: var(--primary);
-    text-align: center;
     padding: 8px 0;
     font-size: 1.2rem;
 }
 
+@media screen and (min-width: 981px) {
+    .footer-container {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .footer-container {
+        width: 90%;
+    }
+}
+
+.footer-container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .footer-linklist {
+    display: grid;
+    gap: 10px 20px;
+    justify-content: space-between;
+    margin-bottom: 14px;
+}
+
+@media screen and (min-width: 981px) {
+    .footer-linklist {
+        grid-template-columns: repeat(2, 1fr 1.2fr);
+    }
+}
+
+@media screen and (min-width: 512px) and (max-width: 980px) {
+    .footer-linklist {
+        grid-template-columns: 1fr 1.2fr;
+    }
+}
+
+@media screen and (max-width: 511px) {
+    .footer-linklist {
+        grid-template-columns: 1fr;
+    }
+}
+
+.footer-linklist div b {
+    display: block;
+    color: var(--primary-darker);
+    font-size: 1.4rem;
+    margin-bottom: 2px;
+    font-variant: small-caps;
+}
+
+.footer-linklist div ul {
+    margin: 0;
+    padding: 0 0 10px 0;
+    list-style-type: none;
+}
+
+.footer-linklist div ul a {
+    color: #404040;
+    text-decoration: none;
+}
+
+.footer-linklist div ul a:hover {
+    text-decoration: underline;
+}
+
+.footer-page, .footer-licence {
     text-align: center;
 }
 

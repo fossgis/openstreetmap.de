@@ -1,10 +1,6 @@
 ---
 title: Spenden an OpenStreetMap
 aliases: [/spenden.html]
-menus:
-    main:
-        weight: 11
-        name: Spenden
 ---
 
 # Spenden für OpenStreetMap

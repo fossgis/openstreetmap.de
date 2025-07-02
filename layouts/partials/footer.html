@@ -1,9 +1,44 @@
-<footer>
+<footer><div class="footer-container">
     <div class="footer-linklist">
-        {{ range $index, $menu := site.Menus.footer }}
-            {{- if $index }} &middot; {{ end -}}
-            <a href="{{ $menu.URL | relURL }}">{{ $menu.Name }}</a>
-        {{- end -}}
+        <div>
+            <b>Über uns</b>
+            <ul>
+                <li><a href="/osm/">Über OpenStreetMap</a></li>
+                <li><a href="/community/">Die Community</a></li>
+                <li><a href="/community/#der-fossgis-ev">Der Verein</a></li>
+                <li><a href="/veranstaltungen/">Veranstaltungen</a></li>
+            </ul>
+            <a href="https://www.digitalpublicgoods.net/r/openstreetmap"><img src="/img/dpg.png" width="50" title="OpenStreetMap ist von der UN als „Digital Public Good“ anerkannt" alt="Digital Public Good"/></a>
+        </div>
+        <div>
+            <b>OpenStreetMap nutzen</b>
+            <ul>
+                <li><a href="/karte/">Unsere Karte</a></li>
+                <li><a href="/nutzen/mobil/">Auf dem Smartphone</a></li>
+                <li><a href="/nutzen/">Weitere Möglichkeiten</a></li>
+            </ul>
+        </div>
+        <div>
+            <b>Unterstützen</b>
+            <ul>
+                <li><a href="/beitragen/">Mitmachen</a></li>
+                <li><a href="/förderer/">Förderer</a></li>
+                <li><a href="/spenden/">Spenden</a></li>
+                <li><a href="/shop/">Shop</a></li>
+            </ul>
+        </div>
+        <div>
+            <b>Hilfe</b>
+            <ul>
+                <li><a href="/faq/">Häufige Fragen (FAQ)</a></li>
+                <li><a href="/kontakt/">Kontakt</a></li>
+            </ul>
+            <b>Das Kleingedruckte</b>
+            <ul>
+                <li><a href="/impressum/">Impressum</a></li>
+                <li><a href="/impressum/datenschutz/">Datenschutzerklärung</a></li>
+            </ul>
+        </div>
     </div>
     <div class="footer-page">
         Seite © <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC-BY-SA 4.0</a>
@@ -17,4 +52,4 @@
     <div class="footer-licence">
         Karten auf diesen Seiten: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap Beitragende (ODbL)</a>
     </div>
-</footer>
+</div></footer>

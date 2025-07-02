@@ -1,9 +1,5 @@
 ---
 title: OpenStreetMap-Veranstaltungen
-menus:
-    main:
-        weight: 10
-        name: Veranstaltungen
 ---
 
 # Veranstaltungen
