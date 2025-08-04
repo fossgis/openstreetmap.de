@@ -78,10 +78,16 @@ benutzt werden:
 
 ## OsmAnd
 
-Zur Homepage von [OsmAnd](https://osmand.net/).
+<img src="/img/logos/osmand.png" width="60" class="float-left" alt="OsmAnd" />
+
+Mit OsmAnd kann man Notes (Anmerkungen) zu OSM hochladen und auch POIs
+editieren. Das geht auch offline, wenn man gerade keine Netzverbindung hat.
+Dazu muss man sein OsmAnd einmalig mit dem OpenStreetMap-Zugang verbinden.
+
+[Anleitung (auf Englisch)](https://osmand.net/docs/user/plugins/osm-editing/).
 {.link-extern}
 
-Die Bearbeitung muss erst aktiviert werden, siehe [OpenStreetMap editing](https://osmand.net/docs/user/plugins/osm-editing/#plugin-settings).
+Zur Homepage von [OsmAnd](https://osmand.net/).
 {.link-extern}
 
 <div class="appstore">
@@ -94,14 +100,16 @@ Die Bearbeitung muss erst aktiviert werden, siehe [OpenStreetMap editing](https:
 
 ## OrganicMaps
 
-Hier können POIs direkt bearbeitet werden, vorausgesetzt man hat unter
-"OpenStreetMap-Profile" sein OSM-Benutzerkonto hinterlegt.
+<img src="/img/logos/organic-maps.png" width="60" class="float-left" alt="OrganicMaps" />
 
-Zur Homepage von [Organic Maps](https://organicmaps.app/)
+Bei Organic Maps können POIs direkt bearbeitet werden, vorausgesetzt man hat
+unter "OpenStreetMap-Profile" sein OSM-Benutzerkonto hinterlegt.
+
+[Anleitung (auf Englisch)](https://organicmaps.app/faq/map-editing/) zur
+Aktivierung der Bearbeitungsfunktion.
 {.link-extern}
 
-[Anleitung](https://organicmaps.app/faq/map-editing/) zur Aktivierung der
-Bearbeitungsfunktion.
+Zur Homepage von [Organic Maps](https://organicmaps.app/)
 {.link-extern}
 
 <div class="appstore">
