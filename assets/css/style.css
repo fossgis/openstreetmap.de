@@ -1102,6 +1102,14 @@ table.sitemap td.sitemap-source {
 
 /******************************************/
 
+/** App store buttons */
+
+.appstore img {
+    width: 100px;
+}
+
+/******************************************/
+
 /** Förderer **/
 
 .foerd-container {

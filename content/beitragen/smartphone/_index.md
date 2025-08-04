@@ -49,16 +49,43 @@ mit Desktop-Editoren gibt es aber natürlich schon einige Einschränkungen.
 [Vespucci-Webseite](https://vespucci.io/)
 {.link-extern}
 
-# Routing-apps mit Bearbeitungs-Funktion
-Diese Navi-apps sind für Android auch ohne Google über [F-Droid](https://f-droid.org/){.link-extern} erhältlich. Beide gibt es auch für iOS.
+# Routing-Apps mit Bearbeitungs-Funktion
+
+Diese Navi-Apps können auch zum (eingeschränkten) Bearbeiten von OSM-Daten
+benutzt werden:
 
 ## OsmAnd
-Die Bearbeitung muss erst aktiviert werden unter [OpenStreetMap editing](https://osmand.net/docs/user/plugins/osm-editing/#plugin-settings){.link-extern}
-* iOS https://apps.apple.com/de/app/osmand-karten-gps-offline/id934850257
-* F-Droid https://f-droid.org/de/packages/net.osmand.plus/index.html
+
+Zur Homepage von [OsmAnd](https://osmand.net/).
+{.link-extern}
+
+Die Bearbeitung muss erst aktiviert werden, siehe [OpenStreetMap editing](https://osmand.net/docs/user/plugins/osm-editing/#plugin-settings).
+{.link-extern}
+
+<div class="appstore">
+
+[![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/us/app/osmand-maps-travel-navigate/id934850257)
+[![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=net.osmand&hl=de)
+[![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/net.osmand.plus/)
+
+</div>
 
 ## OrganicMaps
-Hier können POIs [direkt bearbeitet](https://organicmaps.app/faq/map-editing/) werden, vorausgesetzt man hat unter OpenStreetMap-Profile sein [Benutzerkonto](https://www.openstreetmap.org/user/new){.link-extern} hinterlegt
-* iOS https://apps.apple.com/de/app/organic-maps-navi-karten/id1567437057
-* F-Droid https://f-droid.org/de/packages/app.organicmaps
 
+Hier können POIs direkt bearbeitet werden, vorausgesetzt man hat unter
+"OpenStreetMap-Profile" sein OSM-Benutzerkonto hinterlegt.
+
+Zur Homepage von [Organic Maps](https://organicmaps.app/)
+{.link-extern}
+
+[Anleitung](https://organicmaps.app/faq/map-editing/) zur Aktivierung der
+Bearbeitungsfunktion.
+{.link-extern}
+
+<div class="appstore">
+
+[![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/de/app/organic-maps-navi-karten/id1567437057)
+[![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=app.organicmaps&hl=de)
+[![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/app.organicmaps/)
+
+</div>
