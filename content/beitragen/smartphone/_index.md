@@ -24,15 +24,15 @@ Punkten, hinter denen sich jeweils eine Frage verbirgt. Zum Beispiel: "Was sind
 die Öffnungszeiten dieses Restaurants?" oder "Gibt es an dieser Straße einen
 Fußweg?". So kann man einfach mal nebenher etwas Kleines zu OSM beitragen.
 
-[StreetComplete](https://streetcomplete.app/)
-{.link-extern}
-
 <div class="appstore">
 
 [![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete)
 [![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/de.westnordost.streetcomplete/)
 
 </div>
+
+[StreetComplete](https://streetcomplete.app/)
+{.link-extern}
 
 ## Every Door
 
@@ -42,9 +42,6 @@ Fußweg?". So kann man einfach mal nebenher etwas Kleines zu OSM beitragen.
 von POIs (Points of Interest), wie Restaurants, Geschäfte, Parkbänke usw.
 vereinfacht. Sie ist für das schnelle Mappen zwischendurch prima geeignet.
 
-[Every Door im OSM-Wiki](https://wiki.openstreetmap.org/wiki/Every_Door)
-{.link-extern}
-
 <div class="appstore">
 
 [![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/app/every-door/id1621945342)
@@ -52,6 +49,9 @@ vereinfacht. Sie ist für das schnelle Mappen zwischendurch prima geeignet.
 [![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/info.zverev.ilya.every_door/)
 
 </div>
+
+[Every Door im OSM-Wiki](https://wiki.openstreetmap.org/wiki/Every_Door)
+{.link-extern}
 
 ## Vespucci
 
@@ -61,9 +61,6 @@ Vespucci ist ein OSM-Editor für Android. Anders als andere hier vorgestellte
 Apps hat er das Ziel, ein Editor für alle Anwendungen zu sein. Im Vergleich
 mit Desktop-Editoren gibt es aber natürlich schon einige Einschränkungen.
 
-[Vespucci-Webseite](https://vespucci.io/)
-{.link-extern}
-
 <div class="appstore">
 
 [![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=de.blau.android)
@@ -71,24 +68,17 @@ mit Desktop-Editoren gibt es aber natürlich schon einige Einschränkungen.
 
 </div>
 
-# Routing-Apps mit Bearbeitungs-Funktion
-
-Diese Navi-Apps können auch zum (eingeschränkten) Bearbeiten von OSM-Daten
-benutzt werden:
+[Vespucci-Webseite](https://vespucci.io/)
+{.link-extern}
 
 ## OsmAnd
 
 <img src="/img/logos/osmand.png" width="60" class="float-left" alt="OsmAnd" />
 
-Mit OsmAnd kann man Notes (Anmerkungen) zu OSM hochladen und auch POIs
+OsmAnd ist eigentlich eine Karten- und Navi-App zur Benutzung der Karte. Aber
+mit OsmAnd kann man auch Notes (Anmerkungen) zu OSM hochladen und POIs
 editieren. Das geht auch offline, wenn man gerade keine Netzverbindung hat.
 Dazu muss man sein OsmAnd einmalig mit dem OpenStreetMap-Zugang verbinden.
-
-[Anleitung (auf Englisch)](https://osmand.net/docs/user/plugins/osm-editing/).
-{.link-extern}
-
-Zur Homepage von [OsmAnd](https://osmand.net/).
-{.link-extern}
 
 <div class="appstore">
 
@@ -98,19 +88,19 @@ Zur Homepage von [OsmAnd](https://osmand.net/).
 
 </div>
 
+[Anleitung (auf Englisch)](https://osmand.net/docs/user/plugins/osm-editing/).
+{.link-extern}
+
+Zur Homepage von [OsmAnd](https://osmand.net/).
+{.link-extern}
+
 ## OrganicMaps
 
 <img src="/img/logos/organic-maps.png" width="60" class="float-left" alt="OrganicMaps" />
 
-Bei Organic Maps können POIs direkt bearbeitet werden, vorausgesetzt man hat
-unter "OpenStreetMap-Profile" sein OSM-Benutzerkonto hinterlegt.
-
-[Anleitung (auf Englisch)](https://organicmaps.app/faq/map-editing/) zur
-Aktivierung der Bearbeitungsfunktion.
-{.link-extern}
-
-Zur Homepage von [Organic Maps](https://organicmaps.app/)
-{.link-extern}
+Organic Maps ist eigentlich eine einfach zu benutzende Karten-App. Aber damit
+können auch POIs direkt bearbeitet werden, vorausgesetzt man hat unter
+"OpenStreetMap-Profile" sein OSM-Benutzerkonto hinterlegt.
 
 <div class="appstore">
 
@@ -119,3 +109,11 @@ Zur Homepage von [Organic Maps](https://organicmaps.app/)
 [![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/app.organicmaps/)
 
 </div>
+
+[Anleitung (auf Englisch)](https://organicmaps.app/faq/map-editing/) zur
+Aktivierung der Bearbeitungsfunktion.
+{.link-extern}
+
+Zur Homepage von [Organic Maps](https://organicmaps.app/)
+{.link-extern}
+

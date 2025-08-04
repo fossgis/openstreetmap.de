@@ -421,7 +421,7 @@ h1 {
 
 h2 {
     font-size: 2rem;
-    margin: 2rem 0 1rem 0;
+    margin: 3rem 0 1rem 0;
 }
 
 .infobox {
@@ -1103,6 +1103,15 @@ table.sitemap td.sitemap-source {
 /******************************************/
 
 /** App store buttons */
+
+.appstore {
+    float: right;
+    margin-left: 10px;
+}
+
+.appstore p {
+    margin: 0;
+}
 
 .appstore img {
     width: 100px;
