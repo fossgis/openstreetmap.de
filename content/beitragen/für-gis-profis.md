@@ -5,8 +5,8 @@ description: "Unterschiede zwischen OpenStreetMap (OSM) und traditionellen GIS-S
 
 # Hinweise für GIS-Profis
 
-Wenn Du mit den „üblichen“ GIS (Geographic Information System) vertraut bist,
-dann wird Dir bei OSM einiges bekannt vorkommen, aber vieles ist auch mehr
+Wenn du mit den „üblichen“ GIS (Geographic Information System) vertraut bist,
+dann wird dir bei OSM einiges bekannt vorkommen, aber vieles ist auch mehr
 oder weniger subtil anders. Das kann anfangs etwas verwirrend sein, aber dafür
 gibt es diese Seite.
 

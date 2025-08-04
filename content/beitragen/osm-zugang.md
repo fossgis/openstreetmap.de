@@ -7,29 +7,29 @@ description: "Erfahre, wie man einen OpenStreetMap-Zugang einrichten, um aktiv a
 
 <a class="float-right" href="https://www.openstreetmap.org/user/new"><img class="with-border" src="anmeldedialog.png" alt="OSM-Account anlegen" title="OSM-Account anlegen" width="360"/></a>
 
-Wenn Du bei OSM mitmachen oder im OSM-Forum eine Frage stellen willst,
-dann brauchst Du einen OSM-Zugang. Das geht ganz einfach:
+Wenn du bei OSM mitmachen oder im OSM-Forum eine Frage stellen willst,
+dann brauchst du einen OSM-Zugang. Das geht ganz einfach:
 
 Rufe die Webseite
 [`https://www.openstreetmap.org/user/new`](https://www.openstreetmap.org/user/new)
-auf und gib Deine Mailadresse und einen frei gewählten Benutzernamen an. Der
-Benutzername ist öffentlich und alle Deine Bearbeitungen der OSM-Daten werden
+auf und gib deine Mailadresse und einen frei gewählten Benutzernamen an. Der
+Benutzername ist öffentlich und alle deine Bearbeitungen der OSM-Daten werden
 damit verbunden. Deine E-Mail-Adresse wird nicht weitergegeben, aber andere
-Benutzer können Dir später an den Benutzernamen Nachrichten senden, die per
-E-Mail an Dich weitergegeben werden.
+Benutzer können dir später an den Benutzernamen Nachrichten senden, die per
+E-Mail an dich weitergegeben werden.
 
 Du musst außerdem ein Passwort wählen, es muss mindestens 8 Zeichen lang sein.
 Bitte benutze ein anderes Passwort als für andere Dienste.
 
 Du musst außerdem der OpenStreetMap-Teil&shy;nehmer&shy;verein&shy;barung
-(„Contributor Terms“) zustimmen. Dabei erklärst Du, dass Du auch die Rechte an
-allen Deinen Beiträgen hast bzw. das Recht hast, diese bei OSM einzutragen.
+(„Contributor Terms“) zustimmen. Dabei erklärst du, dass du auch die Rechte an
+allen deinen Beiträgen hast bzw. das Recht hast, diese bei OSM einzutragen.
 
-Wenn Du das Formular abgeschickt hast, bekommst Du eine Bestätigungsmail mit
+Wenn du das Formular abgeschickt hast, bekommst du eine Bestätigungsmail mit
 einem Link &mdash; rufe diesen Link auf. Dein Zugang ist nun eingerichtet.
 Du bist nun ein „Mapper“.
 
-Wenn Du willst, kannst Du Deinen Heimatort in der Karte anklicken, damit andere
+Wenn du willst, kannst du deinen Heimatort in der Karte anklicken, damit andere
 sehen können, wer in der Nähe aktiv ist.
 
 [Neuen OSM-Zugang einrichten](https://www.openstreetmap.org/user/new)
@@ -49,20 +49,20 @@ Teilnehmervereinbarung](https://osmfoundation.org/wiki/Licence/Contributor_Terms
 
 Der OSM-Zugang wird auch für das
 [Community-Forum](https://community.openstreetmap.org/) verwendet. Für das
-[Wiki](https://wiki.openstreetmap.org/) brauchst Du einen getrennten
-Zugang, den Du dort anlegen kannst. (Es empfiehlt sich aber, wenn möglich
+[Wiki](https://wiki.openstreetmap.org/) brauchst du einen getrennten
+Zugang, den du dort anlegen kannst. (Es empfiehlt sich aber, wenn möglich
 den gleichen Benutzernamen zu verwenden.)
 
 </div>
 
 ## Kann ich auch mehrere Zugänge einrichten?
 
-Ja, Du kannst Dir mehrere Zugänge unter verschiedenen Benutzernamen einrichten.
-Das ist zum Beispiel sinnvoll, wenn Du die Änderungen, die Du privat machst,
-von denen trennen willst, die Du für die Arbeit machst.
+Ja, du kannst dir mehrere Zugänge unter verschiedenen Benutzernamen einrichten.
+Das ist zum Beispiel sinnvoll, wenn du die Änderungen, die du privat machst,
+von denen trennen willst, die du für die Arbeit machst.
 
-Alle Änderungen sind öffentlich mit Deinem Zugang verknüpft. Das erlaubt dann
-schon gewisse Einblicke in Dein Leben. Auch daher haben manche getrennte
+Alle Änderungen sind öffentlich mit deinem Zugang verknüpft. Das erlaubt dann
+schon gewisse Einblicke in dein Leben. Auch daher haben manche getrennte
 Zugänge.
 
 Das ist aber kein Freibrief, sich viele Zugänge einzurichten, um andere zu
@@ -70,11 +70,11 @@ täuschen oder Sperren zu umgehen.
 
 ## Was ist, wenn ich meinen Zugang wieder löschen will?
 
-Du kannst Dich einloggen und den Zugang selbst löschen. Bestimmte Daten
-bleiben dabei aber notwendigerweise erhalten, insbesondere bleiben Deine
+Du kannst dich einloggen und den Zugang selbst löschen. Bestimmte Daten
+bleiben dabei aber notwendigerweise erhalten, insbesondere bleiben deine
 Änderungen an den OSM-Daten natürlich in der Datenbank.
 
-Dazu gehst Du auf die [Einstellungsseite für Deinen
+Dazu gehst du auf die [Einstellungsseite für deinen
 Zugang](https://www.openstreetmap.org/account/edit) und klickst rechts unten
 auf *Delete Account...*.
 

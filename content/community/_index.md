@@ -37,12 +37,12 @@ Forum](https://community.openstreetmap.org/c/communities/de/56) sind sehr
 viele aktive Mapper unterwegs und Fragen werden dort in aller Regel schnell
 beantwortet.
 
-Um im Community-Forum zu schreiben, brauchst Du einen
+Um im Community-Forum zu schreiben, brauchst du einen
 [OSM-Zugang](/beitragen/osm-zugang/).
 
 [Diese Anleitung für neue User
 ](https://community.openstreetmap.org/t/osm-forum-auf-discourse-tipps-und-tricks-fur-neue-user/3264)
-hilft Dir, Dich im Forum zurechtzufinden.
+hilft dir, dich im Forum zurechtzufinden.
 {.link-extern}
 
 ## Die OSM-Plattform
@@ -53,11 +53,11 @@ mit anderen Beitragenden in Kontakt zu kommen.
 
 Jeder Beitragende hat unter ```https://www.openstreetmap.org/user/```*USERNAME*
 eine **persönliche Seite**, auf der man **direkte Nachrichten** mit anderen
-Mappern austauschen kann. Hier kannst Du ein **Tagebuch** („diary“) führen oder
+Mappern austauschen kann. Hier kannst du ein **Tagebuch** („diary“) führen oder
 die Tagebuch-Einträge anderer kommentieren.
 
 Alle Änderungen an den OSM-Daten werden in **Änderungssätzen** (Changesets)
-zusammengefasst. Jeder Änderungssatz ist mit Eurem Benutzernamen versehen.
+zusammengefasst. Jeder Änderungssatz ist mit eurem Benutzernamen versehen.
 Jede und jeder kann solche Änderungssätze kommentieren. Dadurch kommt ein
 wichtiger Austausch zustande, wenn es mal Unklarheiten geben sollte oder
 verschiedene Meinungen, wie etwas in die Daten einzutragen ist.
@@ -116,11 +116,11 @@ Informationen nur dort.
 [Englische Startseite](https://wiki.openstreetmap.org/) des Wikis
 {.link-extern}
 
-Das Wiki kann von jedem geändert werden, Du musst Dir dazu allerdings einen
+Das Wiki kann von jedem geändert werden, du musst dir dazu allerdings einen
 speziellen
 [Wiki-Login](https://wiki.openstreetmap.org/w/index.php?title=Special:UserLogin&returnto=Hauptseite)
-zulegen. (Der normale OSM-Zugang funktioniert dort nicht.) Wenn Du Lust hast,
-etwas beizutragen, aber nicht weißt, wo Du anfangen sollst: Wir brauchen immer
+zulegen. (Der normale OSM-Zugang funktioniert dort nicht.) Wenn du Lust hast,
+etwas beizutragen, aber nicht weißt, wo du anfangen sollst: Wir brauchen immer
 Leute, die helfen, englischsprachige Wiki-Seiten ins Deutsche zu übersetzen bzw.
 die Übersetzungen zu aktualisieren.
 
@@ -155,7 +155,7 @@ und für freie Geodaten einsetzt. Der FOSSGIS ist auch der nationale Vertreter
 Der FOSSGIS betreibt auch diese Webseiten und stellt verschiedene Dienste
 für die OSM-Community zur Verfügung.
 
-Wenn Du unsere Arbeit unterstützen willst oder selbst aktiv werden willst,
+Wenn du unsere Arbeit unterstützen willst oder selbst aktiv werden willst,
 dann werde doch Mitglied im FOSSGIS!
 
 Zum [FOSSGIS e.V.](https://www.fossgis.de/)

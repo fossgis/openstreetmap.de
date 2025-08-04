@@ -4,7 +4,7 @@ title: Warum OpenStreetMap?
 
 # Warum OpenStreetMap?
 
-Du überlegst OSM einzusetzen, bist Dir aber noch nicht sicher? Hier sind ein
+Du überlegst OSM einzusetzen, bist dir aber noch nicht sicher? Hier sind ein
 paar Argumente für und wider OSM.
 
 ## Was für OSM spricht
@@ -77,7 +77,7 @@ Natürlich ist nicht alles perfekt bei OSM, es gibt durchaus auch Nachteile und
 Bereiche für die man OSM nicht verwenden sollte:
 
 **Nicht amtlich:** Die Daten in OSM sind keine amtlichen Daten und werden es
-nie sein. Wenn Du ein Grundstück verkaufen willst, dann solltest Du im
+nie sein. Wenn du ein Grundstück verkaufen willst, dann solltest du im
 amtlichen Kataster schauen, nicht in OSM.
 
 **Nicht perfekt:** OSM enthält Fehler, wie alles, was von Menschen gemacht

@@ -11,7 +11,7 @@ menus:
 
 OpenStreetMap ist ein freies Projekt und niemand muss für die Nutzung der
 Daten, Karten und Dienste zahlen. Aber so ein Projekt am Laufen zu halten
-kostet auch eine Menge Geld. Unterstütze uns durch Deine Spende!
+kostet auch eine Menge Geld. Unterstütze uns durch deine Spende!
 
 Der [FOSSGIS e.V.](https://www.fossgis.de/) ist die offizielle Vertretung des
 OpenStreetMap-Projektes in Deutschland. Er ist als gemeinnützig anerkannt,
@@ -56,19 +56,19 @@ Mittels elektronischem Transfer über PayPal, Kredit- oder Debitkarte:
 
 ## Spendenbescheinigung
 
-Bei Spenden bis zu 300 EUR im Jahr benötigst Du keine gesonderte
+Bei Spenden bis zu 300 EUR im Jahr benötigst du keine gesonderte
 Zuwendungsbestätigung („Spendenbescheinigung“) von uns. Zur Anerkennung der
-Zahlung als steuerlich abzugsfähige Zuwendung genügt es, wenn Du in der
+Zahlung als steuerlich abzugsfähige Zuwendung genügt es, wenn du in der
 Steuererklärung diesen [Vereinfachten
 Zuwendungsnachweis](https://www.fossgis.de/verein/spenden/Vereinfachter-Zuwendungsnachweis-FOSSGIS.pdf)
-nach § 50 Abs. 4 EStDV und den Zahlungsbeleg (Buchungsbestätigung Ihres
-Kreditinstituts, etwa in Form eines Kontoauszugs) Deinem Finanzamt vorlegen. Der
+nach § 50 Abs. 4 EStDV und den Zahlungsbeleg (Buchungsbestätigung deines
+Kreditinstituts, etwa in Form eines Kontoauszugs) deinem Finanzamt vorlegen. Der
 Verwendungszweck muss dazu mindestens die Angabe „Spende“ enthalten.
 
-Wenn Du eine Spendenbescheinigung wünschst, kannst Du Deinen Namen und Adresse
+Wenn du eine Spendenbescheinigung wünschst, kannst du deinen Namen und Adresse
 im Verwendungszweck angeben oder eine E-Mail an finanzen@fossgis.de schreiben.
 Wir brauchen den Namen und die Postadresse, weil die auf die Bescheinigung
-müssen. Bitte gib in der E-Mail den Betrag und das Datum an, wann Du die
+müssen. Bitte gib in der E-Mail den Betrag und das Datum an, wann du die
 Überweisung vorgenommen hast, damit wir die Zahlung schnell zuordnen können.
 
 ## Spenden an die OSM Foundation

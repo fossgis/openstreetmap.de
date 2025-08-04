@@ -10,7 +10,7 @@ menus:
 # Beitragen
 
 OpenStreetMap lebt davon, dass viele Leute etwas beitragen. Dabei ist es egal,
-ob Du das als Hobby machst oder von einer Organisation beauftragt bist. Die
+ob du das als Hobby machst oder von einer Organisation beauftragt bist. Die
 verschiedenen besonderen Interessen und Sichten auf die Welt führen dazu, dass
 wir gemeinsam die beste Karte der Welt erschaffen.
 
@@ -28,7 +28,7 @@ geht**](/beitragen/fehler-melden/).
 
 ## Zugang einrichten
 
-Als erstes brauchst Du einen OpenStreetMap-Zugang (*account*).
+Als erstes brauchst du einen OpenStreetMap-Zugang (*account*).
 
 [OSM-Zugang einrichten](/beitragen/osm-zugang/)
 {.link-intern}
@@ -42,7 +42,7 @@ Als erstes brauchst Du einen OpenStreetMap-Zugang (*account*).
 
 ## Grundlagen
 
-Dann solltest Du Dir ein paar OSM-Grundlagen anschauen:
+Dann solltest du dir ein paar OSM-Grundlagen anschauen:
 
 [OSM bearbeiten](/beitragen/bearbeiten/)
 {.link-intern}
@@ -129,7 +129,7 @@ das nicht erlaubt.
 
 Früher oder später werden Fragen auftauchen, die auf diesen Webseiten nicht
 beantwortet werden. Aber dafür haben wir die Community. Auch kann es sein, dass
-Du mal was falsch machst oder irgendwo aneckst. Das passiert jedem mal, egal
+du mal was falsch machst oder irgendwo aneckst. Das passiert jedem mal, egal
 ob Neuling oder erfahrenem Hasen. Da hilft es, mit anderen drüber zu reden
 und Probleme gemeinsam zu lösen.
 

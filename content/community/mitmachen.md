@@ -17,11 +17,11 @@ mitgestalten.
 
 ## Änderungen sind live!
 
-Alle Änderungen, die Ihr bei OSM macht, sind sofort für alle anderen Mapper und
+Alle Änderungen, die ihr bei OSM macht, sind sofort für alle anderen Mapper und
 für die ganze Welt sichtbar! Wir haben absichtlich keine Kontrolle
 dazwischengeschaltet. Es ist ein tolles Gefühl, etwas in den OSM-Daten
 einzutragen, zu korrigieren oder zu ergänzen und das dann wenige Minuten später
-auf der Karte zu sehen. Wir vertrauen Euch, dass ihr das Richtige tut.
+auf der Karte zu sehen. Wir vertrauen euch, dass ihr das Richtige tut.
 
 Auf den ersten Blick scheint das riskant zu sein, und, ja, ab und zu geht
 das auch mal schief. Aber in 20 Jahren OSM haben wir die Erfahrung gemacht,
@@ -30,16 +30,16 @@ dass es funktioniert.
 ## Erwartungen an Mapper
 
 Bitte seit sorgfältig bei der Arbeit. OSM wird weltweit von Millionen Menschen
-jeden Tag benutzt. Sie alle verlassen sich auf die Daten. Wenn Ihr Euch mal mit
+jeden Tag benutzt. Sie alle verlassen sich auf die Daten. Wenn ihr euch mal mit
 einer Änderung nicht sicher seid, dann lasst sie einfach weg. Früher oder
 später wird jemand anderes das machen. (Ihr könnt aber eine [Notiz
 anlegen](/beitragen/fehler-melden/) als Hinweis.)
 
-Gleichzeitig solltet ihr Euch aber auch nicht zu sehr bremsen lassen. Die Welt
+Gleichzeitig solltet ihr euch aber auch nicht zu sehr bremsen lassen. Die Welt
 geht nicht gleich unter, wenn mal etwas Kleines falsch auf der Karte ist.
 Entweder ihr seht es selbst oder früher oder später auch jemand anderes und es
 wird repariert. Es soll ja auch Spaß machen, an der Karte zu arbeiten. Benutzt
-Euren gesunden Menschenverstand. Bei wichtigen Dingen, die viele Kartennutzer
+euren gesunden Menschenverstand. Bei wichtigen Dingen, die viele Kartennutzer
 betreffen werden, ist man halt etwas sorgfältiger oder diskutiert die Änderung
 zuerst mit den „Kollegen“.
 

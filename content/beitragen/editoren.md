@@ -12,7 +12,7 @@ Um diese Anwendungen benutzen zu können, wird ein
 
 Der Editor *iD* ist einsteigerfreundlich und direkt ohne Installation nutzbar.
 Gehe einfach auf [www.openstreetmap.org](https://www.openstreetmap.org/),
-finde den Ort, den Du bearbeiten möchtest, und klicke links oben auf "Edit".
+finde den Ort, den du bearbeiten möchtest, und klicke links oben auf "Edit".
 
 [Einführung zum iD-Editor](https://learnosm.org/de/beginner/id-editor/)
 {.link-extern}

@@ -9,7 +9,7 @@ menus:
 
 # OpenStreetMap Shop
 
-Du willst Deine Begeisterung für OSM zeigen? Wir haben eine Auswahl an Goodies
+Du willst deine Begeisterung für OSM zeigen? Wir haben eine Auswahl an Goodies
 zusammengestellt.
 
 <table>
@@ -30,14 +30,14 @@ Wir arbeiten seit Jahren mit dem FLOSS-Shop zusammen.
 Bestellen beim [FLOSS Shop](https://www.floss-shop.de/de/floss-merchandise/openstreetmap/)
 {.link-extern}
 
-Größere Mengen als Sammelbestellung geht auch. Bei Fragen wendet Euch an Petra
+Größere Mengen als Sammelbestellung geht auch. Bei Fragen wendet euch an Petra
 Kirchner (petra@floss-shop.de).
 
 ## Material für Messen
 
-Manche dieser Dinge eignen sich auch zum Verkauf oder zum Verteilen auf Messen
-und anderen Veranstaltungen. Wenn Ihr sowas organisieren wollt, meldet euch bei
-[info@openstreetmap.de](mailto:info@openstreetmap.de).
+Manche dieser Dinge eignen sich auch zum Verkauf oder zur Verteilung auf Messen
+und anderen Veranstaltungen. Wenn ihr so etwas organisieren möchtet, meldet
+euch gerne bei [info@openstreetmap.de](mailto:info@openstreetmap.de).
 
 ## Flyer
 
@@ -51,4 +51,4 @@ beantwortet! Hier ist [der Flyer als PDF](https://wiki.openstreetmap.org/wiki/Fi
 Die [Geofabrik GmbH](https://www.geofabrik.de/) sponsort Druck und Versand der
 Flyer. Solange der Vorrat reicht, können die Flyer kostenlos von der 
 Geofabrik angefordert werden (ca. 15 Stück passen in einen 50g-Brief, ca. 150
-Stück in einen 500g-Brief). Wende Dich an Frederik Ramm (frederik.ramm@geofabrik.de).
+Stück in einen 500g-Brief). Wende dich an Frederik Ramm (frederik.ramm@geofabrik.de).

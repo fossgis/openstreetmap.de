@@ -21,16 +21,16 @@ Jahre zeigt allerdings, dass sie sehr zuverlässig laufen.
 
 <div class="infobox">
 
-Alle Dienste sind ohne eine Registrierung benutzbar. Aber bitte haltet Euch an
+Alle Dienste sind ohne eine Registrierung benutzbar. Aber bitte haltet euch an
 die
 [Nutzungsbedingungen](https://www.fossgis.de/arbeitsgruppen/osm-server/nutzungsbedingungen/)!
 
 </div>
 
-Alle diese Dienste basieren auf Open-Source-Software, die Du auch selbst
-installieren kannst. Es gibt auch Dienstleister, die Dir bei der Installation
+Alle diese Dienste basieren auf Open-Source-Software, die du auch selbst
+installieren kannst. Es gibt auch Dienstleister, die dir bei der Installation
 (und eventuellen Anpassung) helfen oder die die Dienste im Auftrag betreiben.
-Wenn das für Dich interessant sein könnte, dann schau dich auf unserer
+Wenn das für dich interessant sein könnte, dann schau dich auf unserer
 [Dienstleisterliste](https://dienstleister.fossgis.de/) um.
 
 <div class="grid-container">
@@ -62,15 +62,15 @@ Infos zum Kartenstil: [Projekt](https://github.com/giggls/openstreetmap-carto-de
   <path d="M87.7 33.8a23.7 23.7 0 1 1-47.4 0 23.7 23.7 0 0 1 47.4 0z" fill="#323e56"/>
 </svg>
 
-Mit uMap kannst Du ganz einfach und schnell eine individuelle Karte
-zusammenstellen. Die OpenStreetMap-Karte im Hintergrund kannst Du durch
+Mit uMap kannst du ganz einfach und schnell eine individuelle Karte
+zusammenstellen. Die OpenStreetMap-Karte im Hintergrund kannst du durch
 darübergelegte Punkte, Linien und Flächen ergänzen oder auch externe Daten
 importieren.
 
 Im OpenStreetMap-Projekt benutzen wir diese Karten gerne, um uns lokal
 abzusprechen, woran man vielleicht arbeiten will. Aber uMap eignet sich auch
-prima dazu, den Anfahrtplan zu Deiner Grillparty aufzumalen oder
-Schlaglöcher in Deiner Gemeinde zu erfassen.
+prima dazu, den Anfahrtplan zu deiner Grillparty aufzumalen oder
+Schlaglöcher in deiner Gemeinde zu erfassen.
 
 Unser uMap-Server auf [umap.openstreetmap.de](https://umap.openstreetmap.de/de/)
 {.link-extern}
@@ -164,9 +164,9 @@ Zum [Download-Server](https://osmdata.openstreetmap.de/)
 <div class="infobox">
 
 Alle von uns betriebene Software ist freie und Open-Source-Software. Du kannst
-sie selbst bei Dir installieren und bei der Weiterentwicklung helfen. Unser
+sie selbst bei dir installieren und bei der Weiterentwicklung helfen. Unser
 [Sysadmin-Team](https://www.fossgis.de/arbeitsgruppen/osm-server/) kümmert
-sich um dem Betrieb. Wenn Du etwas Sysadmin-Erfahrung hast und noch mehr lernen
+sich um dem Betrieb. Wenn du etwas Sysadmin-Erfahrung hast und noch mehr lernen
 willst, dann hilf uns doch dabei!
 
 </div>

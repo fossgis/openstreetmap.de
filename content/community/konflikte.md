@@ -33,14 +33,14 @@ Geht es um Änderungen an den OSM-Daten, so schreibt man am besten einen
 Kommentar an den Änderungssatz. Der Kommentar ist öffentlich. Andere Mapper
 können sehen, dass es eine Diskussion gibt und sich beteiligen.
 
-Schreibt jemand einen Kommentar an eine Deiner Änderungen, dann solltest Du
+Schreibt jemand einen Kommentar an eine deiner Änderungen, dann solltest du
 auf jeden Fall auch dort antworten.
 
 ## Diskussion im Forum
 
 Bei Themen von allgemeinerem Interesse, zum Beispiel wenn es um viele
 Änderungen geht oder um grundsätzlichere Fragen, ob und wie etwas zu mappen
-ist, dann kannst Du eine Diskussion im [Community
+ist, dann kannst du eine Diskussion im [Community
 Forum](https://community.openstreetmap.org/) starten.
 
 Du kannst das im [deutschsprachigen

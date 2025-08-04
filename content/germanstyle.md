@@ -60,7 +60,7 @@ bemühen sich inzwischen Forks wie diesen möglich zu machen.
 
 Im Jahre 2019 wurde deutlich, dass der Ansatz, die Kartenlokalisierung auf
 Basis von PostgreSQL stored procedures zu implementieren, an seine Grenzen
-gelangt war.  Durch die Arbeiten von Jochen Topf an osm2pgsql (flex output)
+gelangt war. Durch die Arbeiten von Jochen Topf an osm2pgsql (flex output)
 und der Reinmplemetierung der Lokalisierungsfunktionen in LUA durch Sven
 Geggus wurde es 2022 möglich, die Lokalisierung stattdessen direkt beim
 Import der Daten durchzuführen.  Dadurch konnte nun auch die kantonesische

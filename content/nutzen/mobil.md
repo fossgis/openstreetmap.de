@@ -23,7 +23,7 @@ die Karten herunterladen, sodass man unterwegs auch ohne Netz navigieren kann.
 Eine einfach zu benutzende Open-Source-App für OSM. Sie steht für Android und
 Apple Smartphones zur Verfügung. Für Einsteiger genau das richtige. Die App
 gibts in den App Stores der Hersteller und auch im F-Droid Store. OSM-Daten
-können kostenlos heruntergeladen werden und brauchen nur wenig Platz auf Deinem
+können kostenlos heruntergeladen werden und brauchen nur wenig Platz auf deinem
 Telefon.
 
 Zur Homepage von [Organic Maps](https://organicmaps.app/)
@@ -66,7 +66,7 @@ Zur Homepage von [OSMAnd](https://osmand.net/)
 </div>
 </div>
 
-Es gibt außerdem noch viele andere Apps, die OSM benutzen, schau Dich in den
+Es gibt außerdem noch viele andere Apps, die OSM benutzen, schau dich in den
 App Stores um.
 
 ## OSM auf GPS-Geräten

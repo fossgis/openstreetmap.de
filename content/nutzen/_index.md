@@ -72,7 +72,7 @@ Software für [Navigation (Routing)](/nutzen/navigation/)
 
 Du brauchst einen OSM-basierten Dienst, aber es gibt keinen passenden? Du
 brauchst eine spezielle Software? Rund um OSM gibt es ein ganzes Ökosystem an
-Firmen, die so etwas für Dich bauen können. Der FOSSGIS e.V. hat eine
+Firmen, die so etwas für dich bauen können. Der FOSSGIS e.V. hat eine
 Datenbank von Anbietern für eine erste Orientierung zusammengestellt.
 
 [Dienstleisterliste](https://dienstleister.fossgis.de/) des FOSSGIS e.V.

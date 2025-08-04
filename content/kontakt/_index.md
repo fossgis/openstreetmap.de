@@ -32,16 +32,16 @@ so sein. Im Unterschied zu anderen Datensammlungen und Karten kann aber jede
 und jeder dazu beitragen, die Daten zu verbessern. Das ist einfacher als man
 denkt.
 
-Wenn Du einen Fehler irgendwo anders auf einer OSM-Karte gefunden hast,
-solltest Du erstmal auf [unserer Karte](/karte/) verifizieren, ob der Fehler
+Wenn du einen Fehler irgendwo anders auf einer OSM-Karte gefunden hast,
+solltest du erstmal auf [unserer Karte](/karte/) verifizieren, ob der Fehler
 dort auch zu sehen ist. Wenn nicht, dann wurde er vielleicht bei uns schon
 korrigiert, aber die Korrektur ist noch nicht bei allen Karten angekommen.
 Unsere Karte wird in der Regeln innerhalb von Minuten nach einer Änderung
 aktualisiert. Wenn der Server gerade viel zu tun hat, kann es aber auch mal ein
 paar Stunden oder einen Tag dauern. Bei anderen Karten geht das manchmal
-viel länger, da musst Du den Betreiber der jeweiligen Karte fragen.
+viel länger, da musst du den Betreiber der jeweiligen Karte fragen.
 
-Wenn die Daten wohl wirklich noch falsch sind, dann kannst Du
+Wenn die Daten wohl wirklich noch falsch sind, dann kannst du
 
 [Eine Fehlermeldung abgeben](/beitragen/fehler-melden/)
 {.link-intern}

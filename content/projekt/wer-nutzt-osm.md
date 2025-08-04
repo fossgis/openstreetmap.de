@@ -97,7 +97,7 @@ lassen.
 ## Und viele mehr...
 
 Das war nur ein winziger Ausschnitt. Eigentlich ist heute die Frage eher: Wer
-benutzt OSM nicht. Wenn Ihr das nächste Mal eine Karte seht, dann schaut mal
+benutzt OSM nicht. Wenn ihr das nächste Mal eine Karte seht, dann schaut mal
 drauf, wer als Datenquelle genannt wurde.
 
 [Sammlung von OSM-Nutzern auf welcome.openstreetmap.org](https://welcome.openstreetmap.org/about-osm-community/consumers/)

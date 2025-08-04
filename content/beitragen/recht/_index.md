@@ -65,12 +65,12 @@ können.
 [Nutzung von Geodaten unter Open-Data-Lizenzen in OpenStreetMap](/beitragen/recht/nutzung-von-open-data/)
 {.link-intern}
 
-Bei allen anderen Daten musst Du beim Dateninhaber nachfragen, ob Du die Daten
+Bei allen anderen Daten musst du beim Dateninhaber nachfragen, ob du die Daten
 benutzen darfst, und eine entsprechende schriftliche Genehmigung einholen.
 
 ## Datenschutz
 
-Etwas aufpassen mußt Du beim Datenschutz. Wir tragen grundsätzlich
+Etwas aufpassen mußt du beim Datenschutz. Wir tragen grundsätzlich
 keine personenbezogenen Daten in die OSM-Datenbank ein!
 
 Siehe auch [Was gehört nicht nach OSM?](/projekt/was-gehört-nach-osm/#was-gehört-nicht-nach-osm)

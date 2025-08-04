@@ -29,7 +29,7 @@ besondere Weise, damit sie besonders klein werden. (Trotzdem brauchen alle
 Daten für den Planeten ca. 80 GByte!)
 
 Fast alle Software, die mit OSM-Daten arbeitet, unterstützt dieses Format
-und kann damit besonders effizient arbeiten. Wenn möglich, solltest Du mit
+und kann damit besonders effizient arbeiten. Wenn möglich, solltest du mit
 diesem Format arbeiten.
 
 <div class="infobox">
@@ -74,7 +74,7 @@ OSM Foundation. Einmal pro Woche wird ein kompletter Datenbank-Dump zur
 Verfügung gestellt.
 
 Die Verarbeitung von OSM-Daten für den ganzen Planet stellt hohe Anforderungen
-an Hardware und Software. Bevor Du mit den Daten für die ganze Welt arbeitest,
+an Hardware und Software. Bevor du mit den Daten für die ganze Welt arbeitest,
 sammle erstmal etwas Erfahrung mit Ausschnitten der Daten.
 
 Download auf [planet.openstreetmap.org](https://planet.openstreetmap.org/)
@@ -99,7 +99,7 @@ Objekte und auch gelöschte Objekte sind in der Datenbank vorhanden. Für
 bestimmte Auswertungen können diese Daten nützlich sein.
 
 Achtung! Die meiste OSM-Software kommt mit diesen Daten nicht zurecht. Schau
-Dir erst die Anleitung der Software an, ob sie damit arbeiten kann. Ein
+dir erst die Anleitung der Software an, ob sie damit arbeiten kann. Ein
 Komplettauszug der OSM-Daten mit Historie braucht selbst im PBF-Format 130
 GByte!
 

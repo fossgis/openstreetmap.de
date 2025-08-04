@@ -59,9 +59,9 @@ Ländern, Gemeinden und dergleichen.
 
 </div> <!-- grid-container -->
 
-Je nach benutztem Editor wird mehr oder weniger davon vor Dir versteckt sein,
+Je nach benutztem Editor wird mehr oder weniger davon vor dir versteckt sein,
 beziehungsweise anders dargestellt werden. Aber es hilft, mit den Grundlagen und
-Begriffen vertraut zu sein. Am Anfang solltest Du Dich eher an Nodes und Ways
+Begriffen vertraut zu sein. Am Anfang solltest du dich eher an Nodes und Ways
 halten, Relations sind schon etwas für Fortgeschrittene.
 
 ## Weitere Informationen

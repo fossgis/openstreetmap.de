@@ -1,6 +1,6 @@
 ---
 title: Umgang mit Vandalismus
-description: "Erfahren Sie, wie OpenStreetMap Vandalismus handhabt, mit technischen Maßnahmen und der Unterstützung der Data Working Group (DWG)."
+description: "Wie OpenStreetMap Vandalismus handhabt, mit technischen Maßnahmen und der Unterstützung der Data Working Group (DWG)."
 ---
 
 # Umgang mit Vandalismus
@@ -35,8 +35,8 @@ Karte noch nicht aktualisiert wurde. Gehe auf die Standard-Karte auf
 [www.openstreetmap.org](https://www.openstreetmap.org/). Ist der Vandalismus
 dort nicht zu sehen, wurde er wahrscheinlich korrigiert. Ist er dort zu sehen,
 klicke mit der rechten Maustaste auf den Vandalismus, es erscheint ein Menu
-in dem Du „Objektabfrage“ ("Query Features") auswählst. Wenn Du das nicht
-auswählen kannst, musst Du weiter hineinzoomen. Findet sich kein Objekt, das
+in dem du „Objektabfrage“ ("Query Features") auswählst. Wenn du das nicht
+auswählen kannst, musst du weiter hineinzoomen. Findet sich kein Objekt, das
 dem Vandalismus entspricht, wurde er bereits korrigiert.
 
 Wenn der Vandalismus immernoch in den Daten ist, dann melde dies bitte per
@@ -51,8 +51,8 @@ beschreibt noch mehr Möglichkeiten und Details.
 ## Soll ich Vandalismus selber korrigieren?
 
 Wenn es nicht ganz offensichtlich nur ein kleiner Einzelfall ist, dann solltest
-Du die Korrektur von Vandalismus den Profis überlassen. Die haben mehr
-Erfahrung und können auch spezielle Tools nutzen. Wenn Du den Vandalismus
+du die Korrektur von Vandalismus den Profis überlassen. Die haben mehr
+Erfahrung und können auch spezielle Tools nutzen. Wenn du den Vandalismus
 unvollständig entfernst, macht es nachher manchmal mehr Arbeit, die Korrektur
 zu korrigieren.
 

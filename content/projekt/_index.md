@@ -43,7 +43,7 @@ ist nicht alles.
 
 Die Daten eignen sich auch zur **Navigation** von A nach B. Auch hier gibt es
 viele Varianten, je nach Verkehrsmitteln. Und es muss auch nicht immer nur die
-Navigation auf der Straße sein. Vielleicht willst Du Dich ja über Bahngleise
+Navigation auf der Straße sein. Vielleicht willst du dich ja über Bahngleise
 navigieren lassen? Oder über Skipisten und Skilifte?
 
 Beim sogenannten **Geocoding** geht es darum, von einem Ortsnamen oder einer
@@ -63,7 +63,7 @@ Wie weit ist es zum nächsten Krankenhaus?
 ## Alle können mitmachen
 
 OpenStreetMap steht allen zum Mitmachen offen. Wir freuen uns über jede
-Helferin und jeden Helfer. Du musst Dir einmal [einen Zugang
+Helferin und jeden Helfer. Du musst dir einmal [einen Zugang
 anlegen](/beitragen/osm-zugang/), die Teilnahmebedingungen bestätigen und schon
 kann es losgehen.
 
@@ -86,7 +86,7 @@ Erfahrungen, Interessen und Perspektiven einbringen.
 <figcaption>Der Berliner Zoo bei OpenStreetMap</figcaption>
 </figure>
 
-Du kannst selbst entscheiden, welche Dinge Du bei OSM beitragen willst.
+Du kannst selbst entscheiden, welche Dinge du bei OSM beitragen willst.
 Natürlich gibt es ein paar Regeln zu beachten, aber wir sind recht offen für
 Neues. Über die Zeit sind mehr und mehr Dinge dazu gekommen, die Karte füllt
 sich mit mehr Details und mit mehr Spezialinformationen.
@@ -107,7 +107,7 @@ besonders schön ist oder welches Hotel besonders gemütlich, das hat bei uns
 keinen Platz.
 
 Und es soll immer eine gemeinsame Karte daraus werden. Alle dürfen an allem
-mitarbeiten, es gibt keine Daten _nur von Dir_ oder _nur für Dich_.
+mitarbeiten, es gibt keine Daten _nur von dir_ oder _nur für dich_.
 
 [Was gehört nach OSM und was nicht?](/projekt/was-gehört-nach-osm/)
 {.link-intern}

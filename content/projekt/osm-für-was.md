@@ -44,7 +44,7 @@ Karten haben sicher nicht ausgedient, aber in der Praxis wird man sich heute
 häufg einfach vom Smartphone navigieren lassen: „An der nächsten Kreuzung bitte
 rechts abbiegen.“ OSM-Daten sind für die Navigation geeignet. Software kann
 heute in Millisekunden den besten Weg von Gibraltar nach Wladiwostok finden.
-Oder von Deinem Standort zum nächsten Bäcker.
+Oder von deinem Standort zum nächsten Bäcker.
 
 Navigation muss nicht nur auf Straßen stattfinden. Mit OSM-Daten kann man sich
 zum Beispiel auch auf Skipisten leiten lassen, inklusive nötiger Liftstrecken.

@@ -16,10 +16,10 @@ Mapping Parties sind ideal, um andere Mapper in der Community kennenzulernen.
 Für Anfänger bieten sie die Möglichkeit, die ersten Hürden gemeinsam mit
 erfahrenen Mappern zu überwinden. Und Spaß macht das ganze auch noch.
 
-Es gibt keine zentrale Organisation dieser Mapping-Parties. Wenn Du eine
+Es gibt keine zentrale Organisation dieser Mapping-Parties. Wenn du eine
 starten willst, dann tue es einfach. Die Koordination kann über das Wiki und
 das Forum erfolgen. Welchen geographischen oder thematischen Bereich die
-Mapping Party umfassen soll, bleibt auch ganz Dir überlassen.
+Mapping Party umfassen soll, bleibt auch ganz dir überlassen.
 
 [Veranstaltungskalender](/veranstaltungen/)
 {.link-intern}

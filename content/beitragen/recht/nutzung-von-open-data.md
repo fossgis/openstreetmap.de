@@ -155,54 +155,55 @@ Rechteinhabers](/beitragen/recht/erlaubnis-luftbilder/) vorliegt.**
 
 ## Praktisches Vorgehen
 
-### Sie haben Daten, die Sie OSM zur Verfügung stellen wollen?
+### Du hast Daten, die du OSM zur Verfügung stellen willst?
 
-Wenn Sie sich noch nicht für eine Lizenz entschieden haben, dann überlegen Sie
-sich, welche Lizenz Sie verwenden wollen. Sie können die Daten auch unter
-mehreren Lizenzen parallel veröffentlichen. In die Entscheidung für die eine
-oder andere Lizenz fließen verschiedene Kriterien ein, auf die wir hier nicht
-alle eingehen können. In diesem Dokument gehen wir nur auf die Beziehung zu
-OpenStreetMap ein.
+Wenn Du dich noch nicht für eine Lizenz entschieden hast, dann überlege, welche
+Lizenz du verwenden willst. Du kannst die Daten auch unter mehreren Lizenzen
+parallel veröffentlichen. In die Entscheidung für die eine oder andere Lizenz
+fließen verschiedene Kriterien ein, auf die wir hier nicht alle eingehen
+können. In diesem Dokument gehen wir nur auf die Beziehung zu OpenStreetMap
+ein.
 
-Die Freigabe Ihrer Daten als *public domain* mit Hilfe der CC0 oder DL-DE Zero
-macht die Nutzung Ihrer Daten besonders einfach. Nicht nur durch OpenStreetMap,
-sondern auch durch viele andere. Wenn möglich, sollten Sie diesen Weg wählen.
+Die Freigabe deiner Daten als *public domain* mit Hilfe der CC0 oder DL-DE Zero
+macht die Nutzung deiner Daten besonders einfach. Nicht nur durch
+OpenStreetMap, sondern auch durch viele andere. Wenn möglich, solltest du
+diesen Weg wählen.
 
-Veröffentlichen Sie die Daten unter CC-BY oder DL-DE-BY, dann veröffentlichen
-Sie mit den Daten und der Lizenzangabe auch das passende Addendum.
+Veröffentlichst Du die Daten unter CC-BY oder DL-DE-BY, dann veröffentliche
+bitte mit den Daten und der Lizenzangabe auch das passende Addendum.
 
-Wenn Sie nicht der eigentliche Inhaber der Daten sind, dann müssen Sie
-natürlich den Inhaber der Daten um entsprechende Erlaubnis gefragt haben. Wenn
-Sie Daten unter CC-BY oder DL-DE-BY veröffentlichen und das passende Addendum
-unterschreiben, dann geht OpenStreetMap davon aus, dass Sie auch
-berechtigt sind, das zu tun.
+Wenn du nicht der eigentliche Inhaber der Daten bist, dann musst Du natürlich
+den Inhaber der Daten um entsprechende Erlaubnis gefragt haben. Wenn du Daten
+unter CC-BY oder DL-DE-BY veröffentlichst und das passende Addendum
+unterschreibst, dann geht OpenStreetMap davon aus, dass du auch berechtigt
+bist, das zu tun.
 
 ### Du bist Mapper und würdest gerne die Daten einer Organisation nutzen?
 
-Als erstes mache Dich mit den Fragen zu den Lizenzen soweit vertraut, dass Du
-Dir das Folgende zutraust. Wenn Dir das alles etwas kompliziert erscheint,
+Als erstes mache dich mit den Fragen zu den Lizenzen soweit vertraut, dass du
+dir das Folgende zutraust. Wenn dir das alles etwas kompliziert erscheint,
 dann frag doch im [Community Forum](https://community.openstreetmap.org/), ob
-Dir jemand hilft, oder ob das jemand übernehmen will.
+dir jemand hilft, oder ob das jemand übernehmen will.
 
-Dann schreibst Du eine Anfrage an den Lizenzgeber, in der Du die Situation
+Dann schreibst du eine Anfrage an den Lizenzgeber, in der du die Situation
 erklärst und freundlich um Freigabe der Daten bittest, am besten mit Verweis
-auf diese Seite. Du kannst unseren [Entwurf für ein
+auf diese Seite. du kannst unseren [Entwurf für ein
 Anschreiben](/beitragen/recht/addendum-cc-by/) verwenden, dort findet sich auch
-der Text für das Addendum, das der Lizenzgeber unterschreiben muss. Du sollest
+der Text für das Addendum, das der Lizenzgeber unterschreiben muss. du sollest
 auf der Wiki-Seite
 [DE:Permissions](https://wiki.openstreetmap.org/wiki/DE:Permissions) einen
 Eintrag anlegen, damit andere Mapper sehen, dass für diese Quelle schon eine
 Anfrage läuft.
 
-Wenn die Anfrage positiv beschieden wird, dann trägst Du die Informationen dazu
+Wenn die Anfrage positiv beschieden wird, dann trägst du die Informationen dazu
 auf der Wiki-Seite [DE:Permissions](https://wiki.openstreetmap.org/wiki/DE:Permissions)
 ein. Wenn der Lizenzgeber das Addendum auf seiner Webseite zusammen mit den
 Daten veröffentlicht, dann ist nichts weiter zu machen. Wenn er das Addendum an
-Dich geschickt hast, dann trage es im Wiki ein und verlinke es von der
+dich geschickt hast, dann trage es im Wiki ein und verlinke es von der
 Permissions-Seite. Bitte mache dabei persönliche Daten in ausgetauschen E-Mails
-und dergleichen unkenntlich. Die „ungeschwärzten“ Originale kannst Du an den
+und dergleichen unkenntlich. Die „ungeschwärzten“ Originale kannst du an den
 FOSSGIS e.V. senden (an info@openstreetmap.de), wir bewahren sie dann auf,
-falls es mal Nachfragen gibt. Zusätzlich machst Du auf der [Contributors-Seite
+falls es mal Nachfragen gibt. Zusätzlich machst du auf der [Contributors-Seite
 von OpenStreetMap](https://wiki.openstreetmap.org/wiki/Contributors) einen
 entsprechenden Eintrag.
 
@@ -216,13 +217,13 @@ auf der Permissions-Seite entsprechend ein. Und nimm es dem Lizenzgeber nicht
 
 Die rechtliche Seite ist nur ein Teil eines Daten-Imports; der Import muss auch
 mit der Community diskutiert und von ihr willkommen geheissen werden. Mehr darüber
-findest Du auf der Wiki-Seite [DE:Import](https://wiki.openstreetmap.org/wiki/DE:Import).
+findest du auf der Wiki-Seite [DE:Import](https://wiki.openstreetmap.org/wiki/DE:Import).
 
 </div>
 
 ## Weitere Informationen
 
-Wenn Du mehr zu dem ganzen Thema wissen willst, dann gibt es hier weitere
+Wenn du mehr zu dem ganzen Thema wissen willst, dann gibt es hier weitere
 Informationsquellen.
 
 [OSM Foundation: Licence Compatibility](https://osmfoundation.org/wiki/Licence/Licence_Compatibility) (engl.)
