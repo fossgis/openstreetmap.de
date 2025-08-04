@@ -27,6 +27,13 @@ Fußweg?". So kann man einfach mal nebenher etwas Kleines zu OSM beitragen.
 [StreetComplete](https://streetcomplete.app/)
 {.link-extern}
 
+<div class="appstore">
+
+[![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete)
+[![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/de.westnordost.streetcomplete/)
+
+</div>
+
 ## Every Door
 
 <img src="everydoor-logo.png" width="60" class="float-left" alt="Every Door" />
@@ -38,6 +45,14 @@ vereinfacht. Sie ist für das schnelle Mappen zwischendurch prima geeignet.
 [Every Door im OSM-Wiki](https://wiki.openstreetmap.org/wiki/Every_Door)
 {.link-extern}
 
+<div class="appstore">
+
+[![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/app/every-door/id1621945342)
+[![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door&hl=de)
+[![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/info.zverev.ilya.every_door/)
+
+</div>
+
 ## Vespucci
 
 <img src="vespucci-logo.svg" width="60" class="float-left" alt="Vespucci" />
@@ -48,6 +63,13 @@ mit Desktop-Editoren gibt es aber natürlich schon einige Einschränkungen.
 
 [Vespucci-Webseite](https://vespucci.io/)
 {.link-extern}
+
+<div class="appstore">
+
+[![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=de.blau.android)
+[![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/de.blau.android)
+
+</div>
 
 # Routing-Apps mit Bearbeitungs-Funktion
 
