@@ -38,7 +38,7 @@ Fußweg?". So kann man einfach mal nebenher etwas Kleines zu OSM beitragen.
 
 <img src="everydoor-logo.png" width="60" class="float-left" alt="Every Door" />
 
-*Every Door* ist eine Android App, die vor allem das Eintragen und Aktualisieren
+*Every Door* ist eine Android- und iOS-App, die vor allem das Eintragen und Aktualisieren
 von POIs (Points of Interest), wie Restaurants, Geschäfte, Parkbänke usw.
 vereinfacht. Sie ist für das schnelle Mappen zwischendurch prima geeignet.
 
