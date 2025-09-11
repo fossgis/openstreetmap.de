@@ -17,10 +17,10 @@ zusammengestellt.
         <td><a target="_blank" href="https://www.floss-shop.de/de/floss-merchandise/openstreetmap/5/osm-pin?c=7"><img width="80px" src="img/osm-pin.jpg" alt="OSM-Pin" title="Pin mit OSM-Logo"/></a></td>
         <td class="span9">Pin mit OpenStreetMap-Logo. Der Pin ist ca. 1,5cm hoch und 2cm breit und in der Form des Logos ausgeschnitten.</td>
     </tr>
-<!--    <tr>
+    <tr>
         <td><a target="_blank" href="https://www.floss-shop.de/de/floss-merchandise/openstreetmap/6/osm-tasse?c=7"><img width="80px" src="img/tasse-big.png" alt="OSM-Tasse" title="OSM Cheat Mug"/></a></td>
-        <td class="span9">Diese Tasse enthält 179 der wichtigsten OSM-Tags als Gedankenstütze für den täglichen Gebrauch. Die Tasse ist spülmaschinenfest. (Gerade vergriffen.)</td>
-    </tr>-->
+        <td class="span9">Diese Tasse enthält 179 der wichtigsten OSM-Tags als Gedankenstütze für den täglichen Gebrauch. Die Tasse ist spülmaschinenfest.</td>
+    </tr>
 </table>
 
 ## Bestellen
@@ -49,6 +49,6 @@ zum Mappen unterwegs ist - so ist die Frage, was man denn da tut, schnell
 beantwortet! Hier ist [der Flyer als PDF](https://wiki.openstreetmap.org/wiki/File:Faltprospekt-OpenStreetMap-Impression.pdf).
 
 Die [Geofabrik GmbH](https://www.geofabrik.de/) sponsort Druck und Versand der
-Flyer. Solange der Vorrat reicht, können die Flyer kostenlos von der 
+Flyer. Solange der Vorrat reicht, können die Flyer kostenlos von der
 Geofabrik angefordert werden (ca. 15 Stück passen in einen 50g-Brief, ca. 150
 Stück in einen 500g-Brief). Wende dich an Frederik Ramm (frederik.ramm@geofabrik.de).
