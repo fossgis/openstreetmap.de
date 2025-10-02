@@ -1,18 +1,9 @@
-[[event]]
-href = "https://www.jkg2025.de/"
-title = "Junger Kongress Geographie 2025"
-image = "jkg2025.png"
-dateFrom = "2025-09-17"
-dateTo = "2025-09-20"
-dateText = "17. bis 20. September 2025"
-location = "Leipzig"
-
-[[event]]
-href = "https://datenspuren.de/2025/"
-title = "Datenspuren 2025"
-image = "datenspuren.png"
-dateFrom = "2025-09-19"
-dateTo = "2025-09-21"
-dateText = "19. bis 21. September 2025"
-location = "Dresden"
+#[[event]]
+#href = "https://datenspuren.de/2025/"
+#title = "Datenspuren 2025"
+#image = "datenspuren.png"
+#dateFrom = "2025-09-19"
+#dateTo = "2025-09-21"
+#dateText = "19. bis 21. September 2025"
+#location = "Dresden"
 
