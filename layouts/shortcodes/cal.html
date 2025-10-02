@@ -1,15 +1,19 @@
 <div class="cal-events">
     {{ $c := index $.Site.Data (.Get "calendar") }}
-    {{ $cf := where $c.event "dateTo" "gt" (now.Format "2006-01-02") }}
-    {{ range $event := sort $cf "dateFrom" -}}
+    {{ if ( gt ( len $c ) 0 ) -}}
+        {{ $cf := where $c.event "dateTo" "gt" (now.Format "2006-01-02") }}
+        {{ range $event := sort $cf "dateFrom" -}}
     <div class="cal-events-event">
-        {{- with .image -}}
+          {{- with .image -}}
         <div><a href="{{ $event.href }}"><img class="cal-events-logo" alt="{{ $event.title }}" title="{{ $event.title }}" src="/img/cal/{{ . }}"/></a></div>
-        {{- else -}}
+          {{- else -}}
         <div><a href="{{ .href }}">{{ $event.title }}</a></div>
-        {{- end -}}
+          {{- end -}}
         <div>{{ .location }}<br/>{{ .dateText }}</div>
     </div>
+        {{ else -}}
+        <i>(Derzeit keine Events geplant.)</i>
+        {{ end -}}
     {{ else -}}
     <i>(Derzeit keine Events geplant.)</i>
     {{ end -}}
