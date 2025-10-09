@@ -75,8 +75,8 @@ bleiben dabei aber notwendigerweise erhalten, insbesondere bleiben deine
 Änderungen an den OSM-Daten natürlich in der Datenbank.
 
 Dazu gehst du auf die [Einstellungsseite für deinen
-Zugang](https://www.openstreetmap.org/account/edit) und klickst rechts unten
-auf *Delete Account...*.
+Zugang](https://www.openstreetmap.org/account) und klickst rechts unten
+auf *Konto löschen...* (*Delete Account...*).
 
 ## Was müssen Organisationen beachten?
 
