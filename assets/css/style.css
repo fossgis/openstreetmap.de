@@ -1047,7 +1047,11 @@ div.boxes > div > p {
 
 .important {
     border-left: 10px solid var(--primary-darker);
-    padding: 4px 0 4px 10px;
+    border-right: 10px solid var(--primary-darker);
+    text-align: center;
+    padding: 8px;
+    line-height: 2.2rem;
+    text-shadow: #fff 0 0 10px;
     background-color: var(--primary);
 }
 
