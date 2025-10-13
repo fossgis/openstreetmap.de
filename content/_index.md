@@ -23,14 +23,14 @@ verbessern.<br/>[Werden Sie Förderer von OpenStreetMap!](/förderer/)
 <img class="overview" src="/img/Watercolour_on_Mapzen_Sevilla_map.jpg" title="Sevilla: Handgemalte Wasserfarben auf OSM. © CC-BY-SA Andrew McGuire. https://wiki.openstreetmap.org/wiki/File:Watercolour_on_Mapzen_Sevilla_map.jpg"/>
 <div class="overview" id="ov-projekt">
 
-## Das Projekt
+## Über OpenStreetMap
 
 OpenStreetMap (OSM) ist ein internationales Projekt mit dem Ziel, eine freie
 Weltkarte zu erschaffen. Dafür sammeln wir weltweit Daten über Straßen, Flüsse,
 Wälder, Häuser, Restaurants und vieles mehr. Und stellen alles kostenlos und
 frei zur Verfügung.
 
-Mehr über das [Projekt](/projekt/) erfahren
+Mehr über [OpenStreetMap](/osm/) erfahren
 {.link-intern}
 
 </div>

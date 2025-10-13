@@ -73,5 +73,5 @@ benutzen darfst, und eine entsprechende schriftliche Genehmigung einholen.
 Etwas aufpassen mußt du beim Datenschutz. Wir tragen grundsätzlich
 keine personenbezogenen Daten in die OSM-Datenbank ein!
 
-Siehe auch [Was gehört nicht nach OSM?](/projekt/was-gehört-nach-osm/#was-gehört-nicht-nach-osm)
+Siehe auch [Was gehört nicht nach OSM?](/osm/was-gehört-nach-osm/#was-gehört-nicht-nach-osm)
 {.link-intern}
