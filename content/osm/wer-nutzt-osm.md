@@ -1,5 +1,7 @@
 ---
 title: Wer nutzt OpenStreetMap?
+aliases:
+    - /projekt/wer-nutzt-osm/
 ---
 
 # Wer nutzt OpenStreetMap?

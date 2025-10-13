@@ -1,5 +1,7 @@
 ---
 title: Für was kann man OpenStreetMap nutzen?
+aliases:
+    - /projekt/osm-für-was/
 ---
 
 # Für was kann man OpenStreetMap nutzen?
@@ -30,7 +32,7 @@ Karten können für das Web gemacht werden, für das Smartphone, oder &mdash; ga
 klassisch &mdash; auf Papier oder als großer Plan, der am Wanderweg aufgestellt
 wird.
 
-Beispiele für [OSM-basierte Karten](/projekt/karten/)
+Beispiele für [OSM-basierte Karten](/osm/karten/)
 {.link-intern}
 
 ## Navigation

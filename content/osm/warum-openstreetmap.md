@@ -1,5 +1,7 @@
 ---
 title: Warum OpenStreetMap?
+aliases:
+    - /projekt/warum-openstreetmap/
 ---
 
 # Warum OpenStreetMap?

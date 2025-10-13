@@ -1,5 +1,7 @@
 ---
 title: Welche Daten gehören nach OSM und welche nicht?
+aliases:
+    - /projekt/was-gehört-nach-osm/
 ---
 
 # Welche Daten gehören nach OSM und welche nicht?

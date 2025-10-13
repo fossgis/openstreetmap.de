@@ -1,12 +1,14 @@
 ---
-title: Das OpenStreetMap-Projekt
+title: Über das OpenStreetMap-Projekt
+aliases:
+    - /projekt/
 menus:
     main:
         weight: 1
-        name: Das Projekt
+        name: Über OpenStreetMap
 ---
 
-# Das OpenStreetMap-Projekt
+# Über das OpenStreetMap-Projekt
 
 <a class="float-right" href="/karte/" alt="Karte anzeigen" title="Karte anzeigen"><img class="with-border" src="karte-de.webp" width="300"/></a>
 
@@ -22,13 +24,13 @@ aus denen *ganz verschiedene* Karten erzeugt werden können. Zum Beispiel
 spezielle Karten für Wanderer oder Radfahrer. Oder Karten mit ÖPNV-Linien oder
 Windkraftanlagen.
 
-Unsere [Sammlung von Karten](/projekt/karten/) zeigt was möglich ist
+Unsere [Sammlung von Karten](/osm/karten/) zeigt was möglich ist
 {.link-intern}
 
 Unser [Themenportal](/themen/) zeigt Nutzungsmöglichkeiten von OSM
 {.link-intern}
 
-[Wer nutzt alles OpenStreetMap?](/projekt/wer-nutzt-osm/)
+[Wer nutzt alles OpenStreetMap?](/osm/wer-nutzt-osm/)
 {.link-intern}
 
 ## Nicht nur eine *Karte*
@@ -54,7 +56,7 @@ Und auch die **Analyse** der Daten wird vielfach benutzt, um unsere Welt
 besser zu verstehen. Welche Gegenden sind besonders gut vom ÖPNV abgedeckt?
 Wie weit ist es zum nächsten Krankenhaus?
 
-[Für was kann man OpenStreetMap alles nutzen?](/projekt/osm-für-was/)
+[Für was kann man OpenStreetMap alles nutzen?](/osm/osm-für-was/)
 {.link-intern}
 
 [Wie kann ich OSM selber nutzen?](/nutzen/)
@@ -109,7 +111,7 @@ keinen Platz.
 Und es soll immer eine gemeinsame Karte daraus werden. Alle dürfen an allem
 mitarbeiten, es gibt keine Daten _nur von dir_ oder _nur für dich_.
 
-[Was gehört nach OSM und was nicht?](/projekt/was-gehört-nach-osm/)
+[Was gehört nach OSM und was nicht?](/osm/was-gehört-nach-osm/)
 {.link-intern}
 
 ## Die Community
@@ -128,11 +130,11 @@ lernen und gemeinsam die Datenbasis verbessern.
 
 ## Weitere Informationen über das Projekt
 
-[Warum OpenStreetMap?](/projekt/warum-openstreetmap/) &mdash; Argumente für und
+[Warum OpenStreetMap?](/osm/warum-openstreetmap/) &mdash; Argumente für und
 gegen OSM
 {.link-intern}
 
-[Wie das Projekt organisiert ist](/projekt/organisation/)
+[Wie OpenStreetMap organisiert ist](/osm/organisation/)
 {.link-intern}
 
 [Noch mehr Fragen? Antworten gibts in unserer FAQ!](/faq/)

@@ -1,5 +1,7 @@
 ---
 title: Beispiele für OpenStreetMap-Karten
+aliases:
+    - /projekt/karten/
 ---
 
 # Beispiele für OSM-Karten

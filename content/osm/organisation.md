@@ -1,5 +1,7 @@
 ---
 title: Wie das Projekt organisiert ist
+aliases:
+    - /projekt/organisation/
 ---
 
 # Wie das Projekt organisiert ist
