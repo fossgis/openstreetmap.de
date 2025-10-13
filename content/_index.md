@@ -3,8 +3,6 @@ title: Die freie Weltkarte
 aliases: [/index.html]
 ---
 
-{{< weekly-osm >}}
-
 # OpenStreetMap
 
 Die freie Weltkarte
