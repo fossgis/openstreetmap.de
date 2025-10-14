@@ -94,26 +94,26 @@ Dazu muss man sein OsmAnd einmalig mit dem OpenStreetMap-Zugang verbinden.
 Zur Homepage von [OsmAnd](https://osmand.net/).
 {.link-extern}
 
-## OrganicMaps
+## CoMaps
 
-<img src="/img/logos/organic-maps.png" width="60" class="float-left" alt="OrganicMaps" />
+<img src="/img/logos/comaps.png" width="60" class="float-left" alt="OrganicMaps" />
 
-Organic Maps ist eigentlich eine einfach zu benutzende Karten-App. Aber damit
+CoMaps ist eigentlich eine einfach zu benutzende Karten-App. Aber damit
 können auch POIs direkt bearbeitet werden, vorausgesetzt man hat unter
 "OpenStreetMap-Profile" sein OSM-Benutzerkonto hinterlegt.
 
 <div class="appstore">
 
-[![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/de/app/organic-maps-navi-karten/id1567437057)
-[![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=app.organicmaps&hl=de)
-[![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/app.organicmaps/)
+[![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/us/app/comaps/id6747180809)
+[![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=app.comaps.google&hl=de)
+[![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/packages/app.comaps.fdroid/)
 
 </div>
 
-[Anleitung (auf Englisch)](https://organicmaps.app/faq/map-editing/) zur
+[Anleitung (auf Englisch)](https://www.comaps.app/support/#map-editing) zur
 Aktivierung der Bearbeitungsfunktion.
 {.link-extern}
 
-Zur Homepage von [Organic Maps](https://organicmaps.app/)
+Zur Homepage von [CoMaps](https://comaps.app/)
 {.link-extern}
 
