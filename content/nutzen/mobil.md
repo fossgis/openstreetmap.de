@@ -12,8 +12,8 @@ sich an spezielle Zielgruppen, wie Wanderer oder Radfahrer. Meistens kann man
 die Karten herunterladen, sodass man unterwegs auch ohne Netz navigieren kann.
 
 <div class="grid-container grid-container-500">
-<div class="grid-box">
-<img class="grid-box-app-left" src="comaps.webp" width="250"/>
+<div class="grid-box grid-box-app">
+<img class="grid-box-app-left" src="comaps.webp"/>
 <div class="grid-box-app-right">
 
 <img class="logo" src="/img/logos/comaps.png" alt=""/>
@@ -38,8 +38,8 @@ Zur Homepage von [CoMaps](https://comaps.app/)
 
 </div>
 </div>
-<div class="grid-box">
-<img class="grid-box-app-left" src="osmand.jpg" width="200"/>
+<div class="grid-box grid-box-app">
+<img class="grid-box-app-left" src="osmand.jpg"/>
 <div class="grid-box-app-right">
 
 <img class="logo" src="/img/logos/osmand.png" alt=""/>

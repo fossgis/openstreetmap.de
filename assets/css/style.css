@@ -939,13 +939,19 @@ div.boxes > div > p {
     padding: 10px;
 }
 
+.grid-box-app {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 20px;
+}
+
 .grid-box-app-left {
-    float: left;
     border-radius: 8px;
+    width: 100%;
+    box-shadow: #808080 0 0 10px;
 }
 
 .grid-box-app-right {
-    margin-left: 220px;
 }
 
 .grid-box-app-right a[href^="https:"] {
