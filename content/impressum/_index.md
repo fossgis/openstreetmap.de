@@ -1,9 +1,6 @@
 ---
 title: Impressum
 aliases: [/impressum.html]
-menus:
-    footer:
-        weight: 1
 ---
 
 # Impressum

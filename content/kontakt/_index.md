@@ -1,8 +1,5 @@
 ---
 title: Kontakt
-menus:
-    footer:
-        weight: 2
 ---
 
 # Kontakt
