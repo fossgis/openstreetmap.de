@@ -1194,6 +1194,20 @@ table.sitemap td.sitemap-source {
     height: 120px;
 }
 
+.foerd-box-unterstuetzer {
+    width: 120px;
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+.foerd-box-unterstuetzer a {
+    text-decoration: none;
+}
+
+.foerd-box-unterstuetzer a:hover {
+    text-decoration: underline;
+}
+
 .foerd-box a {
     display: block;
     align-self: center;

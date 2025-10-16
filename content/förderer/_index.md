@@ -65,5 +65,9 @@ eigenen Arbeit.
 
 ### Unterstützer
 
-[Werden Sie der erste Unterstützer!](/förderer/werden/)
+<div class="foerd-container">
+<div class="foerd-box foerd-box-unterstuetzer">
+<a target="_new" href="https://fixmycity.de/">FixMyCity</a>
+</div>
+</div>
 
