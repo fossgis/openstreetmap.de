@@ -72,9 +72,9 @@ verschiedene Meinungen, wie etwas in die Daten einzutragen ist.
 
 Die OSM-Community organisiert diverse Veranstaltungen oder beteiligt sich an
 welchen. Aktuelles dazu gibt es im [Kalender](/veranstaltungen/). In manchen
-Städten treffen sich [lokale Gruppen]() zu mehr oder weniger regelmäßigen
-**Stammtischen**. Auf der [Karte](/karte/) kann man sich die Stammtische
-anzeigen lassen.
+Städten treffen sich [lokale Gruppen](/community/lokale-treffen/) zu mehr oder
+weniger regelmäßigen **Stammtischen**. Auf der [Karte](/karte/) kann man sich
+die Stammtische anzeigen lassen.
 
 Mehrmals im Jahr gibt es **Hacking Weekends** in [Karlsruhe und
 Berlin](https://wiki.openstreetmap.org/wiki/Hackathon).
