@@ -69,5 +69,8 @@ eigenen Arbeit.
 <div class="foerd-box foerd-box-unterstuetzer">
 <a target="_new" href="https://fixmycity.de/">FixMyCity</a>
 </div>
+<div class="foerd-box foerd-box-unterstuetzer">
+<a target="_new" href="https://stadtnavi.de/">stadtnavi</a>
+</div>
 </div>
 
