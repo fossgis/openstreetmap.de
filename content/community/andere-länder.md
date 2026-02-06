@@ -12,7 +12,7 @@ unserer Nachbarländer:
 * [Frankreich](https://www.openstreetmap.fr/)
 * [Niederlande](https://openstreetmap.nl/)
 * [Polen](https://openstreetmap.org.pl/)
-* [Schweiz](https://openstreetmap.ch/)
+* [Schweiz](https://osm.ch/)
 * [Tschechien](https://openstreetmap.cz/)
 * [Österreich](https://www.openstreetmap.at/)
 
