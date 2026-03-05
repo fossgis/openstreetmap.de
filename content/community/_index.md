@@ -140,6 +140,14 @@ Matrix-Kanal [#osm-de:matrix.org](https://matrix.to/#/#osm-de:matrix.org).
 Weiter gibt es einen aktiven Telegram-Kanal:
 [https://t.me/OSM_de](https://t.me/OSM_de)
 
+## Schulungen
+
+Die deutsche OpenStreetMap-Community ist gerade dabei ein Schulungsangebot
+aufzubauen. Du kannst Dich schonmal melden, wenn Du daran Interesse hast.
+
+[OSM-Schulungen](/schulungen/)
+{.link-intern}
+
 ## Der FOSSGIS e.V.
 
 <img src="/img/logos/fossgis.png" title="FOSSGIS e.V." style="float: right; margin-left: 10px; width: 200px;"/>

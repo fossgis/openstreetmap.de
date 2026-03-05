@@ -112,6 +112,18 @@ unverzichtbar.
 
 <div class="grid-box">
 
+## Schulungen
+
+Die deutsche OpenStreetMap-Community ist gerade dabei ein Schulungsangebot
+aufzubauen. Du kannst Dich schonmal melden, wenn Du daran Interesse hast.
+
+[OSM-Schulungen](/schulungen/)
+{.link-intern}
+
+</div>
+
+<div class="grid-box">
+
 ## Rechtliche Fragen
 
 Daten, die man selbst erhoben hat, kann man einfach so bei OSM beitragen.
