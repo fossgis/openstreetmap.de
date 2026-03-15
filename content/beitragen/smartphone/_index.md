@@ -44,7 +44,7 @@ vereinfacht. Sie ist für das schnelle Mappen zwischendurch prima geeignet.
 
 <div class="appstore">
 
-[![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/app/every-door/id1621945342)
+[![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/de/app/every-door/id1621945342)
 [![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door&hl=de)
 [![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/info.zverev.ilya.every_door/)
 
@@ -64,7 +64,7 @@ mit Desktop-Editoren gibt es aber natürlich schon einige Einschränkungen.
 <div class="appstore">
 
 [![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=de.blau.android)
-[![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/de.blau.android)
+[![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/de.blau.android/)
 
 </div>
 
@@ -114,6 +114,6 @@ können auch POIs direkt bearbeitet werden, vorausgesetzt man hat unter
 Aktivierung der Bearbeitungsfunktion.
 {.link-extern}
 
-Zur Homepage von [CoMaps](https://comaps.app/)
+Zur Homepage von [CoMaps](https://www.comaps.app/)
 {.link-extern}
 

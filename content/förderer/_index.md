@@ -59,7 +59,7 @@ eigenen Arbeit.
 <a target="_new" href="https://www.geofabrik.de/"><img src="/förderer/logos/geofabrik.svg"/></a>
 </div>
 <div class="foerd-box foerd-box-bronze">
-<a target="_new" href="https://www.omniscale.de/"><img src="/förderer/logos/omniscale.png"/></a>
+<a target="_new" href="https://omniscale.de/"><img src="/förderer/logos/omniscale.png"/></a>
 </div>
 </div>
 

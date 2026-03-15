@@ -26,7 +26,7 @@ gibts in den App Stores der Hersteller und auch im F-Droid Store. OSM-Daten
 können kostenlos heruntergeladen werden und brauchen nur wenig Platz auf deinem
 Telefon.
 
-Zur Homepage von [CoMaps](https://comaps.app/)
+Zur Homepage von [CoMaps](https://www.comaps.app/)
 {.link-extern}
 
 [Quellcode auf Codeberg](https://codeberg.org/comaps)

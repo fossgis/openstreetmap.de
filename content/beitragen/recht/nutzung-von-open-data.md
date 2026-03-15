@@ -30,7 +30,7 @@ Definition](https://opendefinition.org/) für Open Data in Frage kommen. Am
 weitesten verbreitet sind die verschiedenen Varianten der [Creative
 Commons (CC)](https://creativecommons.org/)-Lizenzen und, in Deutschland, die
 verschiedenen Varianten der [Datenlizenz
-Deutschland (DL-DE)](https://www.govdata.de/lizenzen).
+Deutschland (DL-DE)](https://www.govdata.de/informationen/lizenzen).
 
 Daneben gibt es auch noch die Einordnung als *public domain*, die aus dem
 angelsächsischen Rechtsraum kommt, und die ein komplettes Fehlen von Rechten
