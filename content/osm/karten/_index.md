@@ -18,7 +18,7 @@ zusammengestellt.
         <div class="description"><h2>OpenStreetMap Standardkarte</h2>
         die OSM-Standardkarte auf www.openstreetmap.org</div>
     </a>
-    <a class="grid-box with-link" target="_blank" href="/karte/">
+    <a class="grid-box with-link" target="_blank" href="https://karte.openstreetmap.de">
         <img src="/img/maps/germanstyle.png" alt="" width="120">
         <div class="description"><h2>OpenStreetMap deutscher Stil</h2>
         mit deutschsprachigen Beschriftungen und einigen kleinen Änderungen
