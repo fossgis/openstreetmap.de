@@ -27,7 +27,7 @@ und jeder dazu beitragen, die Daten zu verbessern. Das ist einfacher als man
 denkt.
 
 Wenn du einen Fehler irgendwo anders auf einer OSM-Karte gefunden hast,
-solltest du erstmal auf [unserer Karte](/karte/) verifizieren, ob der Fehler
+solltest du erstmal auf [unserer Karte](https://karte.openstreetmap.de) verifizieren, ob der Fehler
 dort auch zu sehen ist. Wenn nicht, dann wurde er vielleicht bei uns schon
 korrigiert, aber die Korrektur ist noch nicht bei allen Karten angekommen.
 Unsere Karte wird in der Regeln innerhalb von Minuten nach einer Änderung

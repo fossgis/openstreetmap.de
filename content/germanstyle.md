@@ -50,7 +50,7 @@ Hinblick auf die Transliteration im Rahmen eines Forschungsprojektes am
 Fraunhofer IOSB entscheidend verbessern.
 
 Anfang 2016 entstand der seit September 2016 auf
-[https://openstreetmap.de](https://openstreetmap.de/karte.html)
+[https://openstreetmap.de](https://karte.openstreetmap.de)
 verwendete Kartenstil als neuer Fork von OSM CartoCSS, nachdem ein
 erster Versuch im Rahmen einer weiteren Bachelorarbeit an der Geofabrik
 leider erfolglos war. Dieser Fork ist näher am internationalen Stil als

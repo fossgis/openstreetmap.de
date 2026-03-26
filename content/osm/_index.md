@@ -10,7 +10,7 @@ menus:
 
 # Über das OpenStreetMap-Projekt
 
-<a class="float-right" href="/karte/" alt="Karte anzeigen" title="Karte anzeigen"><img class="with-border" src="karte-de.webp" width="300"/></a>
+<a class="float-right" href="https://karte.openstreetmap.de" alt="Karte anzeigen" title="Karte anzeigen"><img class="with-border" src="karte-de.webp" width="300"/></a>
 
 Im internationalen OpenStreetMap-Projekt erschaffen wir gemeinsam eine Karte
 der Welt. Jede und jeder kann mitmachen. Über 2 Millionen Menschen weltweit

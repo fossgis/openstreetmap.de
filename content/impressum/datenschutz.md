@@ -48,7 +48,7 @@ personenbezogene Daten, kannst du dich jederzeit unter der im
 
 ## Externe Karten
 
-Auf der Seite https://openstreetmap.de/karte/ binden wir Kartenkacheln
+Auf den Seiten https://openstreetmap.de/karte/ und https://karte.openstreetmap.de binden wir Kartenkacheln
 verschiedener externer Kartendienste ein und benutzen für die Suche externe
 Dienste. Es gelten die Datenschutzbestimmungen dieser Dienste:
 
