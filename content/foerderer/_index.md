@@ -1,6 +1,8 @@
 ---
 title: Förderer
 description: "Wie man OpenStreetMap Deutschland als Förderer unterstützt und das freie Kartenprojekt durch Spenden, Mitgliedschaft oder Mitarbeit voranbringt."
+aliases:
+    - /förderer
 ---
 
 # Fördern Sie OpenStreetMap!
@@ -39,27 +41,27 @@ Geld verdienen, sollte eine Unterstützung des Projektes in der einen oder
 anderen Form selbstverständlich sein. Sie sichern damit die Grundlagen Ihrer
 eigenen Arbeit.
 
-[Wie kann ich Förderer werden?](/förderer/werden/)
+[Wie kann ich Förderer werden?](/foerderer/werden/)
 {.link-intern}
 
 ## Unsere Förderer
 
 ### Gold
 
-[Werden Sie der erste Gold-Förderer!](/förderer/werden/)
+[Werden Sie der erste Gold-Förderer!](/foerderer/werden/)
 
 ### Silber
 
-[Werden Sie der erste Silber-Förderer!](/förderer/werden/)
+[Werden Sie der erste Silber-Förderer!](/foerderer/werden/)
 
 ### Bronze
 
 <div class="foerd-container">
 <div class="foerd-box foerd-box-bronze">
-<a target="_new" href="https://www.geofabrik.de/"><img src="/förderer/logos/geofabrik.svg"/></a>
+<a target="_new" href="https://www.geofabrik.de/"><img src="/foerderer/logos/geofabrik.svg"/></a>
 </div>
 <div class="foerd-box foerd-box-bronze">
-<a target="_new" href="https://omniscale.de/"><img src="/förderer/logos/omniscale.png"/></a>
+<a target="_new" href="https://omniscale.de/"><img src="/foerderer/logos/omniscale.png"/></a>
 </div>
 </div>
 

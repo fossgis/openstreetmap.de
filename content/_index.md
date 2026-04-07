@@ -15,7 +15,7 @@ und beim Mitmachen geben.
 
 Ihre Firma oder Organisation nutzt OSM?<br/>
 Helfen Sie OpenStreetMap als öffentliches Gut auf Dauer zu erhalten und zu
-verbessern.<br/>[Werden Sie Förderer von OpenStreetMap!](/förderer/)
+verbessern.<br/>[Werden Sie Förderer von OpenStreetMap!](/foerderer/)
 {.important}
 
 <div class="overview-grid">
