@@ -21,9 +21,9 @@ D-10717 Berlin
 
 Vertreten durch den Vorstand:
 
-* Jörg Thomsen
 * Pirmin Kalberer
-* David Arndt
+* Jannik Schilling
+* Florian Thiery
 * Falk Zscheile
 
 Der Verein wurde unter der Registernummer 90 VR 3594 am 18. Januar 2001 beim
