@@ -67,7 +67,7 @@ findet man somit viele weitere OSM-Nutzer.
 OSM eignet sich auch sehr gut als „Spiele-Karte“. Der [Microsoft Flight
 Simulator](https://de.wikipedia.org/wiki/Microsoft_Flight_Simulator) zum
 Beispiel benutzt OSM. Bei Ravensburger kann man sich ein [personalisiertes
-Stadtplan-Puzzle](https://www.ravensburger.de/de-DE/produkte/fotoprodukte/my-ravensburger-stadtplan-puzzle/my-ravensburger-personalisiertes-mapuzzle-1000-teile-81283)
+Stadtplan-Puzzle](https://www.ravensburger.de/de-DE/produkte/fotoprodukte/my-ravensburger-stadtplan-puzzle/my-ravensburger-1000-teile-personalisiertes-mapuzzle-81283)
 generieren lassen, dass auf OpenStreetMap-Daten beruht. Und die Berliner Firma
 [kinderkiez](https://kinderkiez.net/) verkauft Spielteppiche für Kinder. Als
 Grundlage dienen OSM-Daten jeder gewünschten Gegend.
