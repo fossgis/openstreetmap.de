@@ -55,11 +55,6 @@ Für Presse-Anfragen steht Roland Ramthun unter
 [osm@roland-ramthun.de](mailto:osm@roland-ramthun.de) und 0651-20 65 06 9 zur
 Verfügung.
 
-## Ansprechpartner für Behörden und Organisationen
-
-Behörden und Organisationen mit Fragen zu OSM können sich an Jochen Topf
-([jochen.topf@fossgis.de](mailto:jochen.topf@fossgis.de)) wenden.
-
 ## Die OSM Foundation
 
 Die [OpenStreetMap Foundation](https://osmfoundation.org/wiki/Contact) in
