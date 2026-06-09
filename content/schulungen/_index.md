@@ -5,6 +5,14 @@ description: OSM-Schulungsangebot des Vereins
 
 # OpenStreetMap-Schulungen
 
+<div style="background-color: #fff0f0; border: 1px solid #ffe0e0; border-radius: 4px; text-align: center; margin-top: 10px;">
+
+Der FOSSGIS e.V. sucht ein Organisationstalent für OpenStreetMap-Schulungen +
+Communityarbeit!
+<a href="https://fossgis.de/aktivit%C3%A4ten/openstreetmap/#stellenausschreibung">Zur Stellenausschreibung</a>
+
+</div>
+
 Wir werden immer wieder gefragt, ob wir Schulungen zu OpenStreetMap für andere
 Vereine und Organisationen anbieten können. Bisher fehlten uns dafür leider die
 Kapazitäten, aber mit Hilfe einer Förderung der Deutschen Stiftung für
