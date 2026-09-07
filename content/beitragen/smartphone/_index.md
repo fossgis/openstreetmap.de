@@ -44,7 +44,7 @@ vereinfacht. Sie ist für das schnelle Mappen zwischendurch prima geeignet.
 
 <div class="appstore">
 
-[![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/de/app/every-door/id1621945342)
+[![Über Apple App Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/de/app/every-door/id1621945342)
 [![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door&hl=de)
 [![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/info.zverev.ilya.every_door/)
 
@@ -71,6 +71,19 @@ mit Desktop-Editoren gibt es aber natürlich schon einige Einschränkungen.
 [Vespucci-Webseite](https://vespucci.io/)
 {.link-extern}
 
+## Go Map!!
+
+Mit der App *Go Map!!* für iOS kann man auf einfache Art und Weise
+unterwegs zu OSM beitragen. Sie zeigt eine Karte der Umgebung mit allen OSM-Daten, 
+verschiedenen Hintergrundkarten und offenen Quests vergleich bar mit der App StreetComplete. 
+Zum Beispiel zum Hinzufügen eines Gebäudetyps oder Öffnungszeiten eines POI.
+
+<div class="appstore">
+
+[![Über Apple App Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/de/app/go-map/id592990211)
+
+</div>
+
 ## OsmAnd
 
 <img src="/img/logos/osmand.png" width="60" class="float-left" alt="OsmAnd" />
@@ -82,7 +95,7 @@ Dazu muss man sein OsmAnd einmalig mit dem OpenStreetMap-Zugang verbinden.
 
 <div class="appstore">
 
-[![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/us/app/osmand-maps-travel-navigate/id934850257)
+[![Über Apple App Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/us/app/osmand-maps-travel-navigate/id934850257)
 [![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=net.osmand&hl=de)
 [![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/de/packages/net.osmand.plus/)
 
@@ -104,7 +117,7 @@ können auch POIs direkt bearbeitet werden, vorausgesetzt man hat unter
 
 <div class="appstore">
 
-[![Über Apple Map Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/us/app/comaps/id6747180809)
+[![Über Apple App Store installieren](/img/appstores/apple-appstore.svg)](https://apps.apple.com/us/app/comaps/id6747180809)
 [![Über Google Play installieren](/img/appstores/googleplay.svg)](https://play.google.com/store/apps/details?id=app.comaps.google&hl=de)
 [![Über F-Droid installieren](/img/appstores/f-droid.svg)](https://f-droid.org/packages/app.comaps.fdroid/)
 
