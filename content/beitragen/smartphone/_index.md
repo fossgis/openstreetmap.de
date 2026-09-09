@@ -75,8 +75,9 @@ mit Desktop-Editoren gibt es aber natürlich schon einige Einschränkungen.
 
 Mit der App *Go Map!!* für iOS kann man auf einfache Art und Weise
 unterwegs zu OSM beitragen. Sie zeigt eine Karte der Umgebung mit allen OSM-Daten, 
-verschiedenen Hintergrundkarten und offenen Quests vergleich bar mit der App StreetComplete. 
-Zum Beispiel zum Hinzufügen eines Gebäudetyps oder Öffnungszeiten eines POI.
+verschiedenen Hintergrundkarten und offenen Quests vergleichbar mit der App StreetComplete. 
+Damit ist zum Beispiel das Hinzufügen eines Gebäudetyps oder die Aktualisierung von 
+Öffnungszeiten eines POI einfach und schnell möglich.
 
 <div class="appstore">
 
