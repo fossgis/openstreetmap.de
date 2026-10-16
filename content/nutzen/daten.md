@@ -56,12 +56,16 @@ Häufig braucht man nicht alle OSM-Daten auf einmal, sondern nur die für ein
 Land oder eine Region. Verschiedene Anbieter stellen Datenausschnitte zur
 Verfügung. Bei der Geofabrik gibt es Ausschnitte für Länder und Kontinente und
 teilweise auch für kleinere Regionen, die täglich aktualisiert werden. Bei
-BBBike kann man den Ausschnitt selbst wählen.
+BBBike kann man den Ausschnitt selbst wählen. Movisda bietet täglich
+aktualisierte Ausschnitte für Verwaltungsgebiete und Gradnetz-Kacheln.
 
 [Download bei der Geofabrik](https://download.geofabrik.de/)
 {.link-extern}
 
 [Download bei BBBike](https://download.bbbike.org/osm/)
+{.link-extern}
+
+[Download bei movisda](https://osm.download.movisda.io/)
 {.link-extern}
 
 [Weitere Download-Optionen im Wiki](https://wiki.openstreetmap.org/wiki/Planet.osm)
