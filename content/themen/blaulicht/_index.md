@@ -21,9 +21,6 @@ Rettungspunkten im Wald.
 [OsmHydrant](https://www.osmhydrant.org/) - Feuerwehrhäuser und Hydranten
 {.link-extern}
 
-[OpenFireMap](http://www.openfiremap.de/)
-{.link-extern}
-
 [Brandschutz mit OSM](https://wiki.openstreetmap.org/wiki/DE:Brandschutz_mit_OSM) im OSM Wiki
 {.link-extern}
 

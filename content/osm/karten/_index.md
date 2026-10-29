@@ -59,11 +59,6 @@ zusammengestellt.
         <div class="description"><h2>OpenSnowMap</h2>
         für Wintersportler</div>
     </a>
-    <a class="grid-box with-link" target="_blank" href="https://openfiremap.de/">
-        <img src="/img/maps/openfiremap.png" alt="" width="120" />
-        <div class="description"><h2>OpenFireMap</h2>
-        mit Feuerwehrwachen und Hydranten</div>
-    </a>
     <a class="grid-box with-link" target="_blank" href="https://opencampingmap.org/de/">
         <img src="/img/maps/opencampingmap.png" alt="" width="120" />
         <div class="description"><h2>OpenCampingMap</h2>
