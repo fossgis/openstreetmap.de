@@ -15,9 +15,6 @@ Rettungspunkten im Wald.
 
 ## Weiterführende Informationen
 
-[Wambacher Emergency Map](https://emergency.wambachers-osm.website/)
-{.link-extern}
-
 [OsmHydrant](https://www.osmhydrant.org/) - Feuerwehrhäuser und Hydranten
 {.link-extern}
 
