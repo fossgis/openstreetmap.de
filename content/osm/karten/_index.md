@@ -59,7 +59,7 @@ zusammengestellt.
         <div class="description"><h2>OpenSnowMap</h2>
         für Wintersportler</div>
     </a>
-    <a class="grid-box with-link" target="_blank" href="https://openfiremap.de/">
+    <a class="grid-box with-link" target="_blank" href="https://openfiremap.org/">
         <img src="/img/maps/openfiremap.png" alt="" width="120" />
         <div class="description"><h2>OpenFireMap</h2>
         mit Feuerwehrwachen und Hydranten</div>
